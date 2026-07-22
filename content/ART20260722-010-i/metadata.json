@@ -1,0 +1,52 @@
+{
+  "slug": "kalshi-launches-election-hub-for-midterm-prediction-markets",
+  "title": "Kalshi Launches Election Hub for Midterm Prediction Markets",
+  "excerpt": "Kalshi's new Election Hub aggregates regulated prediction markets for the 2026 midterms. We explore the platform's API, mechanics, and the potential for quantitative technologists and traders to leverage political forecasting data.",
+  "keywords": [
+    "Kalshi",
+    "Election Hub",
+    "prediction markets",
+    "political forecasting",
+    "midterms 2026",
+    "event contracts",
+    "regulated markets",
+    "API trading",
+    "CFTC"
+  ],
+  "readingTime": 6,
+  "wordCount": 1142,
+  "category": "finance",
+  "researchId": "3d812dac-9d3f-4605-8d7f-5d6630b76ff2",
+  "topicId": "86877d07-d91b-4bdc-b42c-b44ad59635cb",
+  "generatedAt": "2026-07-22T11:44:34.678Z",
+  "description": "Kalshi's new Election Hub aggregates regulated prediction markets for the 2026 midterms. We explore the platform's API, mechanics, and potential for quants.",
+  "og": {
+    "title": "Kalshi Launches Election Hub for Midterm Prediction Markets",
+    "description": "Kalshi's new Election Hub aggregates regulated prediction markets for the 2026 midterms. We explore the platform's API, mechanics, and potential for quants.",
+    "type": "article",
+    "image": "A screenshot of the Kalshi Election Hub dashboard featuring a presidential prediction market, with various binary contracts and a real-time probability chart."
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Kalshi Launches Election Hub for Midterm Prediction Markets",
+    "description": "Kalshi's new Election Hub aggregates regulated prediction markets for the 2026 midterms. We explore the platform's API, mechanics, and potential for quants."
+  },
+  "schemaOrg": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Kalshi Launches Election Hub for Midterm Prediction Markets",
+    "description": "Kalshi's new Election Hub aggregates regulated prediction markets for the 2026 midterms. We explore the platform's API, mechanics, and potential for quants.",
+    "author": {
+      "@type": "Person",
+      "name": "TechPulse Team"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "TechPulse"
+    },
+    "datePublished": "2026-07-22T11:44:34.678Z",
+    "dateModified": "2026-07-22T11:44:34.678Z"
+  },
+  "status": "approved",
+  "approvedAt": "2026-07-22T12:52:45.507Z"
+}

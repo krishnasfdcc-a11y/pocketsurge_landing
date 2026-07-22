@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What is Glow and what does it do?",
+      "answer": "Glow is a cybersecurity startup that emerged from stealth with a $1.2 billion valuation, focused on protecting AI agents and developer tools. It addresses security gaps created by autonomous AI agents that execute code, modify databases, and interact with SaaS tools without direct human supervision, redefining endpoint protection for the AI-native enterprise."
+    },
+    {
+      "question": "How does Glow differ from traditional endpoint security solutions?",
+      "answer": "Traditional endpoint security protects laptops, servers, and managed devices, while Glow targets the new attack surface introduced by AI agents and MLOps pipelines. It secures agent-to-agent and agent-to-data interactions that are not covered by conventional security stacks, which were not designed for autonomous AI behavior."
+    },
+    {
+      "question": "Why is Glow valued at $1.2 billion despite being in stealth and without significant revenue?",
+      "answer": "The valuation reflects the urgent market demand for specialized AI security, as enterprises rush to deploy AI agents but lack adequate protection. Investors like Redpoint, Sequoia, and Meta recognize that the current endpoint security status quo is insufficient, and Glow is strategically positioned to fill a critical and rapidly expanding gap in the market."
+    },
+    {
+      "question": "What steps can enterprises take to prepare for AI agent security threats?",
+      "answer": "Enterprises should audit their current AI agent deployments, map out autonomous tasks, and assess whether existing security tools cover agent actions. They should establish strict permissions and monitoring for agent interactions, and consider adopting dedicated solutions like Glow that provide visibility and protection tailored to AI workloads."
+    },
+    {
+      "question": "What does Meta's strategic investment in Glow signal about the future of AI security?",
+      "answer": "Meta's investment indicates that even companies building advanced AI systems see critical gaps in current security approaches and are betting on specialized solutions over general-purpose tools. This suggests the industry will move toward AI-specific security layers, making dedicated AI endpoint protection a standard requirement for enterprise deployments."
+    }
+  ]
+}

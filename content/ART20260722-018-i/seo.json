@@ -1,0 +1,77 @@
+{
+  "title": "Neural-Signals: Fast C# Neural Signal Processing with DTW",
+  "metaDescription": "Boost your C# neural signal processing with Neural-Signals library, featuring 3x faster Dynamic Time Warping for EEG/EMG analysis.",
+  "keywords": {
+    "primary": "C# neural signal processing",
+    "secondary": [
+      "Neural-Signals",
+      "Dynamic Time Warping C#",
+      "EEG preprocessing C#",
+      "BCI development .NET"
+    ],
+    "related": [
+      "DTW algorithm .NET",
+      "signal processing library C#",
+      "brain-computer interface",
+      "biomedical signal processing",
+      "EMG analysis C#",
+      "neural time series",
+      "feature extraction EEG"
+    ]
+  },
+  "headings": {
+    "h1": "Neural-Signals: Fast C# Neural Signal Processing with DTW",
+    "h2": [
+      "Boost Your Neural Signal Analysis with Neural-Signals",
+      "What Is Neural-Signals?",
+      "The Power of Dynamic Time Warping in Neural Signal Analysis"
+    ],
+    "h3": ["Why DTW Matters for BCI and Research"]
+  },
+  "internalLinks": [
+    {
+      "anchor": "Introduction to Brain-Computer Interfaces",
+      "suggestedUrl": "/data-science/introduction-to-bci"
+    },
+    {
+      "anchor": "Signal Processing in .NET with C#",
+      "suggestedUrl": "/data-science/signal-processing-dotnet"
+    },
+    {
+      "anchor": "Dynamic Time Warping Explained",
+      "suggestedUrl": "/data-science/dynamic-time-warping-explained"
+    },
+    {
+      "anchor": "EEG Preprocessing Techniques",
+      "suggestedUrl": "/data-science/eeg-preprocessing-techniques"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "Neural-Signals GitHub Repository",
+      "suggestedUrl": "https://github.com/ginbesse/Neural-Signals"
+    },
+    {
+      "anchor": "IEEE Xplore - Biomedical Signal Processing",
+      "suggestedUrl": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221030"
+    },
+    {
+      "anchor": "Introduction to Dynamic Time Warping",
+      "suggestedUrl": "https://www.datasciencecentral.com/dynamic-time-warping/"
+    }
+  ],
+  "structuredData": {
+    "@type": "Article",
+    "headline": "Neural-Signals: Fast C# Neural Signal Processing with DTW",
+    "description": "Boost your C# neural signal processing with Neural-Signals library, featuring 3x faster Dynamic Time Warping for EEG/EMG analysis.",
+    "datePublished": "2026-07-22T11:52:57.318Z",
+    "author": {
+      "@type": "Person",
+      "name": "Contributor"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Your Publication"
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "title": "SpaceX Earnings Date: Stock Snaps 7-Day Losing Streak",
+  "metaDescription": "SpaceX announced its first earnings date on August 4, 2026, breaking a seven-day losing streak. Learn about the share unlock and what to expect from the earnings report.",
+  "keywords": {
+    "primary": "SpaceX earnings date",
+    "secondary": [
+      "SpaceX stock",
+      "SpaceX share unlock",
+      "SpaceX losing streak"
+    ],
+    "related": [
+      "SpaceX earnings report",
+      "SpaceX financial results",
+      "SpaceX Q2 2026 earnings",
+      "SpaceX IPO",
+      "SpaceX Starlink revenue",
+      "SpaceX stock price",
+      "SpaceX public offering",
+      "SpaceX earnings call",
+      "SpaceX investor relations",
+      "SpaceX transparency"
+    ]
+  },
+  "headings": {
+    "h1": "SpaceX Snaps 7-Day Losing Streak, Sets First Earnings Date",
+    "h2": [
+      "How SpaceX Snapped the Losing Streak",
+      "First Earnings Report: A Milestone for SpaceX"
+    ],
+    "h3": ["What to Expect from the Earnings Call"]
+  },
+  "internalLinks": [
+    {
+      "anchor": "SpaceX stock performance history",
+      "suggestedUrl": "/spacex-stock-trend-analysis"
+    },
+    {
+      "anchor": "Understanding SpaceX share unlock mechanics",
+      "suggestedUrl": "/spacex-share-unlock-explained"
+    },
+    {
+      "anchor": "Starlink revenue impact on SpaceX valuation",
+      "suggestedUrl": "/starlink-revenue-spacex-valuation"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "CNBC article on SpaceX losing streak",
+      "suggestedUrl": "https://www.cnbc.com/2026/07/21/spacex-stock-losing-streak-earnings-date.html"
+    },
+    {
+      "anchor": "Official SpaceX investor relations",
+      "suggestedUrl": "https://www.spacex.com/investors"
+    }
+  ],
+  "structuredData": {
+    "@type": "Article",
+    "headline": "SpaceX Snaps 7-Day Losing Streak, Sets First Earnings Date",
+    "description": "SpaceX's stock broke a seven-day losing streak on July 21, 2026, and announced its maiden earnings report for August 4, 2026, triggering the first major share unlock.",
+    "datePublished": "2026-07-22T11:45:23.178Z",
+    "author": {
+      "@type": "Organization",
+      "name": "Tech Publication"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Tech Publication"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://example.com/spacex-earnings-date-losing-streak"
+    }
+  }
+}

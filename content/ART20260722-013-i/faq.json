@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What is PWA Sense Bridge and how does it solve sensor access problems in Progressive Web Apps?",
+      "answer": "PWA Sense Bridge is a lightweight JavaScript library that provides a unified, privacy-first API for accessing mobile motion sensors like accelerometers and gyroscopes in PWAs. It handles platform-specific permission workflows and data normalization, enabling developers to reliably use sensor data across Android and iOS without building native wrappers."
+    },
+    {
+      "question": "How do I request user permission for sensor access using PWA Sense Bridge?",
+      "answer": "PWA Sense Bridge simplifies permission handling by providing a single `requestPermission()` method that automatically detects the user's platform (iOS or Android) and applies the correct logic. On iOS, it triggers the necessary device orientation request, while on Android it ensures the call is made from a secure context with a user gesture. You can also customize the consent prompt to match your app's design."
+    },
+    {
+      "question": "What makes PWA Sense Bridge privacy-first compared to other sensor libraries?",
+      "answer": "PWA Sense Bridge is designed with privacy as a core principle. It does not store or transmit sensor data unless explicitly configured to do so, and it encourages data minimization by letting developers request only the specific sensor types they need. Additionally, it provides configurable sampling rates and data filters to reduce unnecessary information collection, giving users more control over their data."
+    },
+    {
+      "question": "How can I integrate PWA Sense Bridge with an LLM-powered application?",
+      "answer": "PWA Sense Bridge outputs sensor data as structured JSON with timestamps, which is ideal for feeding into large language models. You can use the library to collect motion data in real time, then pipe that data into your LLM application for tasks like contextual awareness, gesture recognition, or environmental understanding. The clean, normalized format reduces preprocessing overhead."
+    },
+    {
+      "question": "Why is my sensor permission prompt not appearing on iOS?",
+      "answer": "On iOS, the DeviceOrientationEvent requires explicit user permission, and the prompt may not appear if the app is not running from a secure HTTPS context or if permission was previously denied. PWA Sense Bridge's `requestPermission()` method handles these states and provides error recovery. Make sure your PWA is served over HTTPS and that you call the method in response to a user action, such as a button click, to trigger the prompt consistently."
+    }
+  ]
+}

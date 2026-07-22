@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What is the Ydata ChatGPT Configurator?",
+      "answer": "The Ydata ChatGPT Configurator is an open-source tool built in Rust that simplifies the configuration of ChatGPT and Codex APIs. It provides a unified interface for managing API keys, model selection, language settings, and error recovery, making integration easier for both individual developers and large organizations."
+    },
+    {
+      "question": "How does the one-click Chinese internationalization feature work?",
+      "answer": "The tool includes a dedicated button that automatically applies Chinese language settings to your configuration with a single click. This is especially useful for developers building applications for Chinese-speaking markets or working with localized datasets, and it comes with a safe recovery option to revert if needed."
+    },
+    {
+      "question": "Is the ChatGPT Configurator free and truly open-source?",
+      "answer": "Yes, it is an open-source project sponsored by Ydata and available at no cost. Developers can freely access, modify, and distribute the source code, and contribute to its development on platforms like GitHub."
+    },
+    {
+      "question": "Can I customize the tool with my own branding for my business?",
+      "answer": "Yes, the configurator offers an Agent white-label rebranding feature that allows consultancies, resellers, and enterprises to replace the default branding with their own. This makes it suitable for customized deployment to clients or internal teams."
+    },
+    {
+      "question": "Which platforms does the ChatGPT Configurator support?",
+      "answer": "The tool currently supports Windows and macOS, ensuring cross-platform compatibility for a wide range of developers. This allows you to use the same configuration assistant regardless of your operating system."
+    }
+  ]
+}

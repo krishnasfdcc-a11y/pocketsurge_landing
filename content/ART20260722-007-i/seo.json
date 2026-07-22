@@ -1,0 +1,98 @@
+{
+  "title": "Liquid Components: Glassmorphism React Library for shadcn/ui",
+  "metaDescription": "Add stunning glassmorphism to your React apps with Liquid Components — an open-source library built on shadcn/ui. Get accessible, ready-to-use components.",
+  "keywords": {
+    "primary": "glassmorphism react library",
+    "secondary": [
+      "liquid components",
+      "shadcn/ui",
+      "glassmorphism components",
+      "open source react component library"
+    ],
+    "related": [
+      "glassmorphism ui design",
+      "frosted glass effect react",
+      "backdrop blur react components",
+      "accessible react ui library",
+      "modern web design trends 2025",
+      "react component library shadcn",
+      "liquid glass design",
+      "glassmorphism dashboard"
+    ]
+  },
+  "headings": {
+    "h1": "Liquid Components: A Modern Glassmorphism React Library Built on shadcn/ui",
+    "h2": [
+      "The Rise of Glassmorphism in Web Design",
+      "Features of Liquid Components",
+      "Getting Started with Liquid Components",
+      "Building Accessible Glassmorphism Interfaces"
+    ],
+    "h3": [
+      "Customizable and Themeable Components",
+      "Performance and Optimization",
+      "Component Examples (Card, Modal, Button)",
+      "Installation and Setup with npm/pnpm",
+      "Utilizing the Card Component for Dashboards"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "get started with shadcn/ui",
+      "suggestedUrl": "/articles/understanding-shadcn-ui"
+    },
+    {
+      "anchor": "glassmorphism CSS techniques",
+      "suggestedUrl": "/articles/glassmorphism-css-techniques"
+    },
+    {
+      "anchor": "accessible React components guide",
+      "suggestedUrl": "/articles/building-accessible-react-components"
+    },
+    {
+      "anchor": "modern web design trends",
+      "suggestedUrl": "/articles/modern-web-design-trends-2024"
+    },
+    {
+      "anchor": "top React component libraries comparison",
+      "suggestedUrl": "/articles/top-react-component-libraries"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "Liquid Components GitHub repository",
+      "suggestedUrl": "https://github.com/liquid-components/liquid-components"
+    },
+    {
+      "anchor": "shadcn/ui official documentation",
+      "suggestedUrl": "https://ui.shadcn.com"
+    },
+    {
+      "anchor": "Design Trends Report 2024 by UX Collective",
+      "suggestedUrl": "https://uxdesign.cc/design-trends-2024"
+    },
+    {
+      "anchor": "MDN web docs: backdrop-filter",
+      "suggestedUrl": "https://developer.mozilla.org/en-US/docs/Web/CSS/backdrop-filter"
+    },
+    {
+      "anchor": "WebAIM accessibility guidelines",
+      "suggestedUrl": "https://webaim.org"
+    }
+  ],
+  "structuredData": {
+    "@type": "Article",
+    "headline": "Liquid Components: A Modern Glassmorphism React Library Built on shadcn/ui",
+    "description": "Add stunning glassmorphism to your React apps with Liquid Components — an open-source library built on shadcn/ui. Get accessible, ready-to-use components.",
+    "datePublished": "2026-07-22T11:40:10.288Z",
+    "dateModified": "2026-07-22T11:40:10.288Z",
+    "author": {
+      "@type": "Person",
+      "name": "Content Writer"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Tech Publication"
+    }
+  }
+}

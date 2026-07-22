@@ -1,0 +1,84 @@
+{
+  "title": "Telematics Control Unit Flaw Allows Remote Car Hacking",
+  "metaDescription": "A telematics control unit vulnerability in millions of US cars lets remote hackers unlock doors, start engines, and more. IOActive research. Check your car now.",
+  "keywords": {
+    "primary": "telematics control unit vulnerability",
+    "secondary": [
+      "car hacking device",
+      "automotive cybersecurity",
+      "dealer-installed telematics",
+      "IOActive research"
+    ],
+    "related": [
+      "vehicle security vulnerability",
+      "car hacking device",
+      "dealer installed tracking system",
+      "telematics security flaws",
+      "CAN bus injection",
+      "remote vehicle control",
+      "car hack warning",
+      "automotive security risk",
+      "firmware vulnerability",
+      "CAN bus attack"
+    ]
+  },
+  "headings": {
+    "h1": "Hidden Car Device Exposes Millions to Remote Hacking",
+    "h2": [
+      "The Hidden Threat in Your Car",
+      "Telematics Control Unit Vulnerability Explained",
+      "How the Car Hacking Device Works",
+      "IOActive Research Findings",
+      "Protecting Your Vehicle from Remote Attacks"
+    ],
+    "h3": [
+      "Weak Authentication and Hardcoded Credentials",
+      "Insecure Communication Protocols",
+      "Impact on Vehicle Safety",
+      "Patch Rollout Challenges"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "Learn about automotive cybersecurity threats",
+      "suggestedUrl": "/automotive-cybersecurity-guide"
+    },
+    {
+      "anchor": "Check your car's security vulnerabilities",
+      "suggestedUrl": "/car-security-checklist"
+    },
+    {
+      "anchor": "Recent vehicle hacking incidents",
+      "suggestedUrl": "/vehicle-hacking-incidents"
+    },
+    {
+      "anchor": "Understanding CAN bus attacks",
+      "suggestedUrl": "/can-bus-attack-explained"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "IOActive research on telematics control unit vulnerability",
+      "suggestedUrl": "https://ioactive.com/telematics-control-unit-vulnerability"
+    },
+    {
+      "anchor": "Wired article on car hacking device",
+      "suggestedUrl": "https://www.wired.com/story/telematics-control-unit-vulnerability"
+    }
+  ],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Hidden Car Device Exposes Millions to Remote Hacking",
+    "description": "A telematics control unit installed by dealerships in over 2 million US cars has critical vulnerabilities that allow remote attackers to control vehicle functions.",
+    "datePublished": "2026-07-22T11:41:45.232Z",
+    "author": {
+      "@type": "Organization",
+      "name": "IOActive"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Cybersecurity Publication"
+    }
+  }
+}

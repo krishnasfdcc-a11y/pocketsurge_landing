@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What is Antigravity Arcade?",
+      "answer": "Antigravity Arcade is a platform that uses generative AI to turn a short text description into a fully playable arcade game prototype in minutes, greatly accelerating the game design process."
+    },
+    {
+      "question": "How does the prompt-to-game conversion process work?",
+      "answer": "The platform takes a natural language description of a game concept and feeds it into an advanced AI model, which then generates the necessary code, physics, user interface, and visual assets automatically, bypassing manual programming and art creation."
+    },
+    {
+      "question": "What evidence supports the growing use of AI in game development?",
+      "answer": "Industry surveys show strong adoption: the GDC State of the Game Industry 2024 report found that 55% of game studios actively use AI tools, and the Unity 2024 Gaming Report indicates that 71% of developers believe AI will significantly improve their workflow efficiency."
+    },
+    {
+      "question": "How does Antigravity Arcade differ from traditional game prototyping?",
+      "answer": "Traditional prototyping requires specialized teams for coding, art, and testing over months. Antigravity Arcade lets designers and producers create a working prototype directly from a prompt, drastically reducing time, cost, and the need for technical resources."
+    },
+    {
+      "question": "Who can benefit from using Antigravity Arcade?",
+      "answer": "It is especially valuable for game designers, producers, and other non-programmers because it removes the coding barrier, enabling them to iterate on game ideas quickly without waiting for engineering support."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A futuristic workspace where a glowing holographic text prompt floats above a sleek laptop, transforming into a vibrant arcade game with a spaceship and asteroids. Neon blue and purple lighting, particles and light rays swirling. Cinematic composition, high detail, photorealistic, mood of innovation and rapid creation.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Generative AI turning text prompt into playable arcade game in a neon-lit room",
+      "caption": ""
+    },
+    {
+      "id": "image-2",
+      "prompt": "A modern game development studio with holographic AI interfaces floating around desks. Developers collaborate with transparent screens showing code and game assets. Stylized 3D render with bright, clean lighting, cool blue and white tones, futuristic but realistic, emphasizing efficiency and AI assistance.",
+      "style": "3d-render",
+      "placement": "section-1",
+      "altText": "Game developers using AI tools in a futuristic studio environment",
+      "caption": ""
+    },
+    {
+      "id": "image-3",
+      "prompt": "An infographic-style illustration showing the process from text prompt to playable game. On the left, a user typing a prompt into a glowing interface. In the center, a neural network diagram with data flowing. On the right, a colorful arcade game scene. Clean lines, flat design with gradients, dark background, neon accents. Informative and engaging.",
+      "style": "illustration",
+      "placement": "section-2",
+      "altText": "Infographic of prompt-to-game workflow with AI processing stages",
+      "caption": ""
+    },
+    {
+      "id": "image-4",
+      "prompt": "A 2D arcade game scene with a static spaceship at the bottom, asteroids falling from top, and a glowing blue antigravity burst causing asteroids to reverse direction and float upward. Pixel art style with modern lighting effects, vibrant colors, stars in background. Dynamic action shot with particles and trails, high energy.",
+      "style": "illustration",
+      "placement": "section-3",
+      "altText": "Antigravity arcade game with spaceship and asteroids reversing direction during power-up",
+      "caption": ""
+    }
+  ]
+}

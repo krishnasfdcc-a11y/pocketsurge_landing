@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A cinematic scene of a lone RPG character standing at a crossroads in a desolate wasteland, facing two path choices represented by glowing holographic projections. One path shows a burning city, the other a dying forest. The character's face is illuminated by both projections, showing a conflicted expression. Dark moody atmosphere with orange and blue lighting, volumetric fog, post-apocalyptic aesthetic. Cinematic composition, photorealistic style, emotional storytelling mood.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "RPG character at moral crossroads in wasteland facing two agonizing choices",
+      "caption": "True role-playing is about agony, not power - Josh Sawyer."
+    },
+    {
+      "id": "image-2",
+      "prompt": "A split-screen illustration comparing two RPG philosophies. Left: a triumphant player character bathed in golden light with a crown and overflowing treasure, representing power fantasy. Right: a thoughtful character in shadow, sitting by a campfire, holding a torn photograph, representing emotional depth and sacrifice. The two sides are divided by a subtle vertical line. Rich storytelling illustration style, warm and cool color contrast, emotional narrative quality.",
+      "style": "illustration",
+      "placement": "section-1",
+      "altText": "Split illustration comparing RPG power fantasy vs emotional agony in game design",
+      "caption": "Power fantasy vs. emotional depth: which creates lasting memories?"
+    },
+    {
+      "id": "image-3",
+      "prompt": "A 3D isometric render of a post-apocalyptic wasteland settlement with a giant holographic moral choice interface floating above it. The interface shows two faction symbols - one a medical cross, one a military helmet - both highlighted in red indicating neither choice is ideal. Wasteland environment with ruined buildings, scrub brush, and orange sky. Detailed 3D render, game-like aesthetic, dramatic lighting, sense of impossible decision.",
+      "style": "3d-render",
+      "placement": "section-2",
+      "altText": "Post-apocalyptic settlement with holographic moral dilemma interface showing difficult choice",
+      "caption": "The best RPG choices aren't 'good vs evil' but 'bad vs worse.'"
+    },
+    {
+      "id": "image-4",
+      "prompt": "A photorealistic close-up of a player's hands on a keyboard and mouse, paused mid-game. The monitor screen (visible in reflection) shows a dialogue wheel with morally ambiguous options. The player's posture suggests hesitation, with soft blue screen light illuminating their thoughtful expression in the monitor's reflection. Dark room with ambient monitor glow. Cinematic photography style, shallow depth of field, intimate emotional moment.",
+      "style": "photorealistic",
+      "placement": "section-3",
+      "altText": "Player hesitating before a difficult moral choice in an RPG dialogue wheel",
+      "caption": "Moments of player hesitation are worth more than mindless victory."
+    }
+  ]
+}

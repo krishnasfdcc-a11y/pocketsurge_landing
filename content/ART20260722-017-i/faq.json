@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What is the neural-maze/production-ocr-course and who is it for?",
+      "answer": "The neural-maze/production-ocr-course is a hands-on blueprint for building production-grade OCR pipelines using Rust, vLLM, Redis, KEDA, and Kubernetes. It is designed for DevOps engineers and ML practitioners who need to deploy scalable, event-driven AI solutions without the overhead of boilerplate infrastructure."
+    },
+    {
+      "question": "How can I get started with building a production OCR pipeline using this course?",
+      "answer": "To get started, clone the neural-maze/production-ocr-course repository from GitHub and follow the structured tutorials. The course guides you through setting up Rust for high-performance image processing, integrating vLLM for efficient LLM-based inference, configuring Redis for message brokering, enabling KEDA for event-driven autoscaling, and orchestrating everything on Kubernetes."
+    },
+    {
+      "question": "Why does the course use Rust instead of Python for OCR processing?",
+      "answer": "Rust provides superior performance, memory safety, and low-level control, making it ideal for high-throughput OCR pipelines where latency and resource utilization are critical. While Python is common in ML, it can introduce performance bottlenecks; Rust ensures the pipeline can handle large volumes of images efficiently without sacrificing speed or reliability."
+    },
+    {
+      "question": "What role does KEDA play in the OCR pipeline described in the course?",
+      "answer": "KEDA (Kubernetes Event-Driven Autoscaling) dynamically scales the OCR workers based on the length of the Redis queue, ensuring resources are allocated exactly when demand rises and scaled down when idle. This event-driven approach reduces cost and operational overhead by avoiding over-provisioning while keeping latency low during spikes."
+    },
+    {
+      "question": "What is the future of LLM-assisted OCR and how does this course prepare engineers for it?",
+      "answer": "LLM-assisted OCR is rapidly evolving from simple text extraction to contextual image understanding, requiring robust infrastructure that can adapt to new models and growing data volumes. The course equips engineers with scalable patterns using modern DevOps tools, readying them to deploy next-generation OCR systems that are both accurate and cost-effective."
+    }
+  ]
+}

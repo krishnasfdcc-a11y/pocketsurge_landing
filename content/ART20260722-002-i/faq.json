@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What are the state laws requiring ICE agents to show their faces?",
+      "answer": "At least 12 states have proposed or enacted legislation that would mandate Immigration and Customs Enforcement (ICE) agents to visibly display their faces or identifying badges during enforcement actions, according to a 2024 ACLU analysis. These laws aim to increase transparency and accountability, addressing concerns about potential abuses when agents operate in plain clothes or cover their faces."
+    },
+    {
+      "question": "How would state identification laws for ICE agents be enforced?",
+      "answer": "Enforcement varies by bill but typically involves requiring ICE agents to comply with identification rules during state-level interactions. Violations could lead to legal challenges, such as evidence being suppressed or state penalties, though implementation is complicated because ICE is a federal agency, creating a clash over state versus federal authority."
+    },
+    {
+      "question": "Why is the Trump administration opposing state laws that require ICE agents to show their faces?",
+      "answer": "The administration argues that unmasking agents endangers their safety and could lead to retaliation. Critics note that the administration’s legal defense cited a defunct facial recognition art project as evidence of risk, which they say undermines the credibility of the safety argument and suggests a disconnect between policy claims and reality."
+    },
+    {
+      "question": "How do state anti-mask laws for ICE agents differ from general public anti-mask laws?",
+      "answer": "General anti-mask laws usually prohibit individuals from concealing their identity in public settings, often targeting protesters or criminals. In contrast, these state laws specifically target federal immigration agents, requiring them to display identification during official enforcement, raising unique questions about federal oversight and state-level accountability."
+    },
+    {
+      "question": "What are the implications of these laws for civil liberties and accountability?",
+      "answer": "Proponents argue that requiring visible identification is a basic tenet of democratic accountability, allowing communities to know who is enforcing the law. Opponents worry about agent safety. The conflict highlights a broader tension between transparency and security, and how federal agents are held accountable in local jurisdictions, with the ACLU and other groups emphasizing the need for oversight."
+    }
+  ]
+}

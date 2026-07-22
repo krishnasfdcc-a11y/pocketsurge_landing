@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What is Capital One's proposed acquisition of Discover Financial Services?",
+      "answer": "It is a planned merger of two large card issuers that would create a new network competitor. The deal aims to combine their customer bases, infrastructure, and technology, while giving Capital One access to Discover's payment network to reduce reliance on Visa and Mastercard."
+    },
+    {
+      "question": "Why is Capital One's stock under pressure if its earnings met expectations?",
+      "answer": "The earnings report met analyst forecasts but lacked specific details on the Discover acquisition and Brex partnership. Investors are waiting for concrete evidence of revenue and cost synergies, and the absence of clear guidance on integration milestones has created uncertainty."
+    },
+    {
+      "question": "What revenue and cost synergies is Capital One expecting from the Discover deal?",
+      "answer": "Revenue synergies include cross-selling credit cards and banking products across the combined customer base. Cost savings would come from consolidating infrastructure, operations, and technology platforms, along with network economics from owning Discover's payment network."
+    },
+    {
+      "question": "How does the Brex partnership fit into Capital One's strategy?",
+      "answer": "The partnership is part of Capital One's broader push into fintech and business spending solutions. While specific details remain sparse, it is expected to complement the Discover acquisition by expanding Capital One's reach into the tech-forward business segment."
+    },
+    {
+      "question": "What are the main technology integration challenges for the Discover acquisition?",
+      "answer": "Integrating legacy systems from two large card processors is notoriously difficult and carries significant technology debt. Any delays in merging platforms could postpone the expected cost savings and revenue synergies, making integration milestones critical for investors."
+    }
+  ]
+}

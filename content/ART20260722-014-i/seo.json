@@ -1,0 +1,90 @@
+{
+  "title": "Day-Ahead Wind Power Forecasting with Open-Source NWP Pipeline",
+  "metaDescription": "Discover an open-source pipeline for day-ahead wind power forecasting using NWP and machine learning. From preprocessing to evaluation, supports multiple farms for accurate predictions.",
+  "keywords": {
+    "primary": "day-ahead wind power forecasting",
+    "secondary": [
+      "NWP pipeline",
+      "open-source forecasting",
+      "machine learning renewable energy",
+      "wind power prediction"
+    ],
+    "related": [
+      "numerical weather prediction",
+      "renewable energy forecasting",
+      "feature engineering",
+      "model evaluation",
+      "wind farm forecasting",
+      "gradient boosting",
+      "random forest",
+      "time series forecasting"
+    ]
+  },
+  "headings": {
+    "h1": "Day-Ahead Wind Power Forecasting with Open-Source NWP Pipeline",
+    "h2": [
+      "The Importance of Day-Ahead Wind Power Forecasting",
+      "Project Overview: NWP-Driven Wind Power Forecasting",
+      "Pipeline Architecture and Key Features",
+      "How to Get Started with the Pipeline",
+      "Conclusion"
+    ],
+    "h3": [
+      "Preprocessing and Feature Engineering",
+      "Model Training and Hyperparameter Tuning",
+      "Evaluation Metrics for Wind Power Forecasts",
+      "Visualization and Interpretation"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "machine learning in renewable energy",
+      "suggestedUrl": "/machine-learning-renewable-energy"
+    },
+    {
+      "anchor": "open-source energy forecasting tools",
+      "suggestedUrl": "/open-source-energy-forecasting"
+    },
+    {
+      "anchor": "how NWP data improves wind power forecasts",
+      "suggestedUrl": "/nwp-data-wind-forecasting"
+    },
+    {
+      "anchor": "evaluating day-ahead forecasts",
+      "suggestedUrl": "/day-ahead-forecast-evaluation"
+    },
+    {
+      "anchor": "building a forecasting pipeline",
+      "suggestedUrl": "/forecasting-pipeline-guide"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "NWP-Driven-Wind-Power-Forecasting project on GitHub",
+      "suggestedUrl": "https://github.com/Mr-yiyi/NWP-Driven-Wind-Power-Forecasting"
+    },
+    {
+      "anchor": "NREL wind power forecasting research",
+      "suggestedUrl": "https://www.nrel.gov/wind/forecasting.html"
+    },
+    {
+      "anchor": "IEA Wind Task 36 on forecasting",
+      "suggestedUrl": "https://iea-wind.org/task36/"
+    },
+    {
+      "anchor": "Numerical Weather Prediction models overview",
+      "suggestedUrl": "https://www.ecmwf.int/en/forecasts/documentation-and-support"
+    }
+  ],
+  "structuredData": {
+    "@type": "Article",
+    "headline": "Day-Ahead Wind Power Forecasting with Open-Source NWP Pipeline",
+    "description": "Discover an open-source pipeline for day-ahead wind power forecasting using NWP and machine learning. From preprocessing to evaluation, supports multiple farms for accurate predictions.",
+    "datePublished": "2026-07-22T11:49:30.887Z",
+    "author": "TechPublication",
+    "publisher": {
+      "@type": "Organization",
+      "name": "TechPublication"
+    }
+  }
+}

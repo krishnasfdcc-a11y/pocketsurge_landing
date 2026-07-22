@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A photorealistic wide-angle view of a large wind farm at golden hour, with wind turbines spinning against a dramatic sky. Digital data streams and forecasting graphs overlay the scene, glowing softly to represent day-ahead power prediction technology. The mood is hopeful and futuristic, combining nature with advanced analytics. Style: photorealistic, cinematic lighting.",
+      "style": "photorealistic",
+      "placement": "hero",
+      "altText": "Wind farm at sunset with digital forecast overlay representing day-ahead power prediction technology",
+      "caption": ""
+    },
+    {
+      "id": "image-2",
+      "prompt": "An infographic illustration depicting a split scene: on one side, a chaotic grid with fossil fuel backup due to inaccurate wind forecasts; on the other side, a stable, green-powered grid with solar and wind icons showing efficient day-ahead planning. The color palette transitions from warm reds to cool greens, highlighting the contrast. Style: illustration/infographic.",
+      "style": "illustration",
+      "placement": "section-1",
+      "altText": "Infographic contrasting accurate and inaccurate wind forecasting impact on grid operations and carbon emissions",
+      "caption": ""
+    },
+    {
+      "id": "image-3",
+      "prompt": "A clean, professional diagram showing the end-to-end NWP forecasting pipeline. Rectangular boxes for Data Ingestion, Preprocessing, Feature Engineering, Model Training, Evaluation, and Prediction connected by arrows, with icons for wind turbines and data servers. The background is a subtle grid pattern, and the overall mood is technical and organized. Style: diagram.",
+      "style": "diagram",
+      "placement": "section-2",
+      "altText": "Flowchart of NWP-driven wind power forecasting pipeline from data ingestion to prediction",
+      "caption": ""
+    },
+    {
+      "id": "image-4",
+      "prompt": "A minimal, clean visualization of wind data points being transformed. A time series plot of raw wind speed data on the left convolves into processed features like rolling averages and hub-height wind on the right, with chart elements and mathematical symbols subtly floating. The color scheme is blue-gray, conveying data precision. Style: minimal/illustration.",
+      "style": "minimal",
+      "placement": "section-3",
+      "altText": "Visualization of wind data transformation from raw time series to engineered features for machine learning",
+      "caption": ""
+    },
+    {
+      "id": "image-5",
+      "prompt": "A cinematic tech scene of a neural network model training on wind data. A glowing brain-like network structure with nodes lighting up, connected to a background of evaluation metrics like RMSE and MAE charts, with wind turbines visible through a glass interface. The lighting is cool blue with neon accents, giving a high-tech analytical mood. Style: 3d-render/cinematic.",
+      "style": "3d-render",
+      "placement": "section-4",
+      "altText": "Digital render of neural network training with wind power forecast evaluation metrics charts",
+      "caption": ""
+    }
+  ]
+}

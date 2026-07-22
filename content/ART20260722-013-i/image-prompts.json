@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A photorealistic image of a modern smartphone held in a person's hand, displaying an active progressive web app with a clean interface. The screen shows subtle visualizations of sensor data like accelerometer and gyroscope readings, with soft blue and green glowing lines. The background is a blurred modern workspace with natural lighting. The phone is slightly tilted to suggest motion. The overall mood is innovative and trustworthy.",
+      "style": "photorealistic",
+      "placement": "hero",
+      "altText": "Smartphone showing PWA with motion sensor data visualizations in a modern workspace",
+      "caption": "PWA Sense Bridge enables privacy-first sensor access for progressive web apps."
+    },
+    {
+      "id": "image-2",
+      "prompt": "An infographic-style illustration depicting the challenge of sensor access in PWAs. On one side, a smartphone shows a red 'Permission Denied' dialog over a sensor icon. On the other, a developer faces a wall of fragmented logos for Android, iOS, and browsers. The style uses flat design with muted colors except for the red warning. The overall mood is frustrating but solvable.",
+      "style": "infographic",
+      "placement": "section-1",
+      "altText": "Infographic showing fragmented sensor access across mobile platforms with permission denial",
+      "caption": "Developers face inconsistent sensor APIs across Android and iOS."
+    },
+    {
+      "id": "image-3",
+      "prompt": "A 3D render of a subtle bridge connecting two sides: a smartphone with a glowing motion sensor icon and a web browser window with a JavaScript logo. The bridge is made of digital particles with a soft blue glow. The background is dark with bokeh lights. The bridge symbolizes unified sensor access. The style is modern and futuristic, conveying reliability and innovation.",
+      "style": "3d-render",
+      "placement": "section-2",
+      "altText": "3D rendering of a digital bridge connecting smartphone sensor to web browser",
+      "caption": "PWA Sense Bridge provides a unified API for sensor access."
+    },
+    {
+      "id": "image-4",
+      "prompt": "A minimalistic illustration of a shield icon overlaid on a phone with sensor symbols (accelerometer, gyroscope) inside a secure lock boundary. The color palette is clean whites and blues with a hint of green for approval. The background is a gradient from light to dark blue, suggesting security. The style is flat vector with subtle gradients.",
+      "style": "minimal",
+      "placement": "section-3",
+      "altText": "Minimalist illustration of shield and lock protecting phone sensor icons",
+      "caption": "Privacy-first design with data minimization and user consent."
+    },
+    {
+      "id": "image-5",
+      "prompt": "A cinematic illustration showing a human silhouette connected to a smartphone via glowing neural network lines. The phone screen displays sensor data streams and a small interface for an LLM prompt. In the background, faint shapes of a fitness coach and a car navigation suggest use cases. The lighting is dramatic with warm tones, conveying intelligence and adaptability.",
+      "style": "cinematic",
+      "placement": "section-4",
+      "altText": "Cinematic concept of LLM integration with smartphone sensor data for adaptive apps",
+      "caption": "Real-time sensor data enriches LLM-powered PWA experiences."
+    }
+  ]
+}

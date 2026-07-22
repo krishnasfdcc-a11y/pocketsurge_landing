@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A dramatic cinematic scene of a SpaceX rocket launch at dawn, with a glowing stock chart overlay showing a rising green arrow breaking a red downward trend line. The rocket pierces through clouds, sunlight reflecting off the fuselage. The mood is hopeful and triumphant, with warm golden lighting. In the background, subtle digital stock ticker symbols float. High detail, photorealistic, 8k, epic composition.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "SpaceX rocket launching with stock chart overlay showing breaking losing streak",
+      "caption": "SpaceX stock snaps seven-day losing streak as earnings date announced. (AI-generated)"
+    },
+    {
+      "id": "image-2",
+      "prompt": "A clean infographic illustration showing a line chart of SpaceX stock price over seven days, with red candles for the losing streak and a green candle on the seventh day breaking the trend. The chart is set against a sleek dark background with glowing grid lines. A small rocket icon appears at the breakout point. Digital style, professional, financial data visualization.",
+      "style": "infographic",
+      "placement": "section-1",
+      "altText": "Infographic of SpaceX stock chart ending losing streak with green candle",
+      "caption": "Visual representation of SpaceX's seven-day losing streak and recovery."
+    },
+    {
+      "id": "image-3",
+      "prompt": "A photorealistic render of a shiny metallic SpaceX earnings report document with the date 'August 4, 2026' embossed, floating above a polished wooden desk with a pen and a smartphone displaying a financial app. Soft blue ambient lighting from a monitor in the background showing financial graphs. The composition is still life, professional, high detail, depth of field.",
+      "style": "photorealistic",
+      "placement": "section-2",
+      "altText": "SpaceX earnings report document dated August 4 2026 on a desk",
+      "caption": "SpaceX's first earnings report marks a new era of transparency. (AI-generated image)"
+    },
+    {
+      "id": "image-4",
+      "prompt": "A 3D-render illustration of a large golden padlock being unlocked with a key, with SpaceX stock certificates and coins spilling out. The background shows a stock market ticker with positive and negative numbers. The scene conveys the unlocking of shares for early investors. Dramatic lighting, dark background with glowing highlights, metallic textures.",
+      "style": "3d-render",
+      "placement": "section-3",
+      "altText": "Golden padlock unlocking with SpaceX share certificates spilling out",
+      "caption": "The share unlock event allows early investors to sell shares. (AI-generated)"
+    },
+    {
+      "id": "image-5",
+      "prompt": "A futuristic cityscape with a giant SpaceX rocket in the center, surrounded by holographic stock tickers and financial data streams. The sky is twilight with stars and neon lights. The mood is optimistic yet uncertain, with cool blues and warm orange accents. Cinematic wide shot, concept art style, detailed, futuristic.",
+      "style": "cinematic",
+      "placement": "section-4",
+      "altText": "Futuristic city with SpaceX rocket and stock tickers showing market outlook",
+      "caption": "Market reaction and future outlook for SpaceX amid new financial transparency. (AI-generated)"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A cinematic night scene of a modern car parked on a wet city street, rain reflecting streetlights. Inside the car, a small black device hidden under the dashboard glows with red LEDs. A digital holographic overlay shows lines of malicious code and a map tracking the car's location. The mood is ominous and suspenseful, suggesting remote hacking. Photorealistic style with dramatic lighting and shadows.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Car with hidden telematics control unit glowing red under dashboard, digital hacking overlay",
+      "caption": ""
+    },
+    {
+      "id": "image-2",
+      "prompt": "A cutaway illustration of a car showing the internal Controller Area Network (CAN) bus system. A vulnerable telematics control unit is highlighted in red, connecting to the car's critical systems like brakes and engine. Lines of communication show unencrypted data flowing to a cloud server with a broken padlock icon. The style is clean and technical, with a dark background and neon accents.",
+      "style": "illustration",
+      "placement": "section-1",
+      "altText": "Illustration of car CAN bus with vulnerable TCU highlighted in red, unencrypted data flow",
+      "caption": ""
+    },
+    {
+      "id": "image-3",
+      "prompt": "An infographic diagram showing the anatomy of a remote car hack. On the left, a silhouette of a hacker at a laptop sending a signal through a cellular tower. In the center, a car with a glowing TCU device. From the TCU, arrows point to the car's brake, engine, and door lock icons. The style is clean and futuristic with a dark blue background, neon cyan and red accents. Icons for GPS, CAN bus, and cloud server are included.",
+      "style": "infographic",
+      "placement": "section-2",
+      "altText": "Infographic of remote car hack anatomy showing hacker, cellular tower, car, and systems icons",
+      "caption": ""
+    },
+    {
+      "id": "image-4",
+      "prompt": "A 3D render of a massive parking lot seen from above, with thousands of cars. A digital overlay highlights hundreds of cars in red, indicating vulnerable vehicles connected to a central cloud with a warning icon. The style is realistic and yet futuristic, with a neutral gray environment and bright red highlights. The mood is alarming but controlled, emphasizing the scale of the cybersecurity threat.",
+      "style": "3d-render",
+      "placement": "section-3",
+      "altText": "3D render of parking lot with red highlighted cars showing scale of telematics vulnerability",
+      "caption": ""
+    }
+  ]
+}

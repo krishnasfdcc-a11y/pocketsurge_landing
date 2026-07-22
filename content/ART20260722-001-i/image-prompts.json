@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "Futuristic cinematic shot of a massive glowing cyber shield enveloping a network of translucent AI agent silhouettes in a dark data center. The shield pulses with neon blue and magenta energy lines, conveying protection. The Glow logo is faintly visible in the shield pattern. Volumetric lighting, glitch effects, high contrast, cyberpunk mood.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Glow AI cybersecurity shield protecting autonomous AI agents in data center",
+      "caption": "Glow emerges from stealth with $1.2B valuation to secure AI endpoints."
+    },
+    {
+      "id": "image-2",
+      "prompt": "Photorealistic image of a transparent vault containing stacks of gold bullion, each bar etched with AI chip patterns. Above the vault floats a luminous holographic brain symbolizing AI security. Dark background with dramatic spotlight, reflections on polished floor, sharp details, premium wealth concept.",
+      "style": "photorealistic",
+      "placement": "section-1",
+      "altText": "AI security startup Glow billion dollar valuation investment funding concept",
+      "caption": "Glow's $1.2B valuation reflects urgent market demand for AI agent security."
+    },
+    {
+      "id": "image-3",
+      "prompt": "Side-by-side illustration comparing old and new endpoint security. Left: a cracked laptop monitor displaying traditional EDR interface with red alerts for files and emails. Right: a glowing sphere representing an AI agent surrounded by a translucent shield with green checkmarks. Clean modern line art style, bright colors.",
+      "style": "illustration",
+      "placement": "section-2",
+      "altText": "Comparison between legacy endpoint security and modern AI agent security Glow",
+      "caption": "Legacy EDR fails to protect autonomous AI agents; Glow redefines endpoint security."
+    },
+    {
+      "id": "image-4",
+      "prompt": "Modern infographic layout on dark background. Three interconnected nodes representing AI security blindspots: a broken chain for supply chain poisoning, a syringe injecting into a circuit for prompt injection, and a red path crossing a network for lateral movement. Neon warning colors (yellow, red) on black, minimal icons.",
+      "style": "infographic",
+      "placement": "section-3",
+      "altText": "Critical blindspots in AI agent security supply chain poisoning prompt injection lateral movement",
+      "caption": "Glow addresses critical blindspots including supply chain poisoning and prompt injection."
+    }
+  ]
+}

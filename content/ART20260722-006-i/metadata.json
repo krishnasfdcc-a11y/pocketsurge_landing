@@ -1,0 +1,51 @@
+{
+  "slug": "run-poolside-laguna-s-21-locally-on-macos-with-mlx",
+  "title": "Run Poolside Laguna S 2.1 Locally on macOS with MLX",
+  "excerpt": "Learn how to run Poolside Laguna S 2.1, a state-of-the-art code generation LLM, directly on your Apple Silicon Mac using MLX. This guide covers performance benchmarks, setup steps, and the benefits of local AI for developers.",
+  "keywords": [
+    "local AI code generation",
+    "Poolside Laguna S 2.1",
+    "MLX framework",
+    "Apple Silicon",
+    "local LLM inference",
+    "macOS AI coding assistant"
+  ],
+  "readingTime": 6,
+  "wordCount": 1112,
+  "category": "technology",
+  "researchId": "33ec50f8-6f82-4ed9-8125-52f09424b3b3",
+  "topicId": "4c9d319f-f910-4052-95f8-4eb94cf0dfb7",
+  "generatedAt": "2026-07-22T11:39:27.308Z",
+  "description": "Learn how to run Poolside Laguna S 2.1, a code generation LLM, on your Apple Silicon Mac with MLX. Covers setup, benchmarks, and benefits of local AI.",
+  "og": {
+    "title": "Run Poolside Laguna S 2.1 Locally on macOS with MLX",
+    "description": "Learn how to run Poolside Laguna S 2.1, a code generation LLM, on your Apple Silicon Mac with MLX. Covers setup, benchmarks, and benefits of local AI.",
+    "type": "article",
+    "image": "Developer running Poolside Laguna S 2.1 code generation on an Apple Silicon Mac using MLX framework"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Run Poolside Laguna S 2.1 Locally on macOS with MLX",
+    "description": "Learn how to run Poolside Laguna S 2.1, a code generation LLM, on your Apple Silicon Mac with MLX. Covers setup, benchmarks, and benefits of local AI."
+  },
+  "schemaOrg": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Run Poolside Laguna S 2.1 Locally on macOS with MLX",
+    "description": "Learn how to run Poolside Laguna S 2.1, a code generation LLM, on your Apple Silicon Mac with MLX. Covers setup, benchmarks, and benefits of local AI.",
+    "author": {
+      "@type": "Person",
+      "name": "TechPulse Team"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "TechPulse"
+    },
+    "datePublished": "2026-07-22T11:39:27.308Z",
+    "dateModified": "2026-07-22T11:39:27.308Z",
+    "image": "Developer running Poolside Laguna S 2.1 code generation on an Apple Silicon Mac using MLX framework"
+  },
+  "language": "en",
+  "status": "approved",
+  "approvedAt": "2026-07-22T12:52:45.465Z"
+}

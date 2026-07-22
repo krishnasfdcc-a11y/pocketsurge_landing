@@ -1,0 +1,55 @@
+{
+  "slug": "hidden-car-device-exposes-millions-to-remote-hacking",
+  "title": "Hidden Car Device Exposes Millions to Remote Hacking",
+  "excerpt": "A telematics control unit installed by dealerships in over 2 million US cars has critical vulnerabilities that allow remote attackers to control vehicle functions. IOActive researchers found weak security in the device's firmware and cloud backend. Owners are urged to check their vehicles and apply patches immediately.",
+  "keywords": [
+    "telematics control unit vulnerability",
+    "car hacking device",
+    "automotive cybersecurity",
+    "dealer-installed telematics",
+    "IOActive research",
+    "TCU vulnerability",
+    "vehicle hacking",
+    "CAN bus attack",
+    "remote car hack",
+    "auto security"
+  ],
+  "readingTime": 7,
+  "wordCount": 1327,
+  "category": "cybersecurity",
+  "researchId": "dfaf2a51-5c6d-4a34-9aee-38d9391f2bd4",
+  "topicId": "a901cabd-f1b2-4e6f-a1ac-e965e05735da",
+  "generatedAt": "2026-07-22T11:41:45.232Z",
+  "description": "A hidden telematics unit in over 2 million cars has critical flaws. IOActive warns remote hackers can control engine, brakes, and locks. Apply patch now.",
+  "og": {
+    "title": "Hidden Car Device Exposes Millions to Remote Hacking",
+    "description": "A hidden telematics unit in over 2 million cars has critical flaws. IOActive warns remote hackers can control engine, brakes, and locks. Apply patch now.",
+    "type": "article",
+    "image": "Illustration of a connected car with a highlighted telematics control unit (TCU) and CAN bus network, showing hacking attack vectors and security lock icons."
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Hidden Car Device Exposes Millions to Remote Hacking",
+    "description": "A hidden telematics unit in over 2 million cars has critical flaws. IOActive warns remote hackers can control engine, brakes, and locks. Apply patch now."
+  },
+  "schemaOrg": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Hidden Car Device Exposes Millions to Remote Hacking",
+    "description": "A hidden telematics unit in over 2 million cars has critical flaws. IOActive warns remote hackers can control engine, brakes, and locks. Apply patch now.",
+    "author": {
+      "@type": "Person",
+      "name": "TechPulse Team"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "TechPulse"
+    },
+    "datePublished": "2026-07-22T11:41:45.232Z",
+    "dateModified": "2026-07-22T11:41:45.232Z",
+    "image": "Illustration of a connected car with a highlighted telematics control unit (TCU) and CAN bus network, showing hacking attack vectors and security lock icons."
+  },
+  "language": "en",
+  "status": "approved",
+  "approvedAt": "2026-07-22T12:52:45.496Z"
+}

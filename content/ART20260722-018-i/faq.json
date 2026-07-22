@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What is Neural-Signals and who should use it?",
+      "answer": "Neural-Signals is an open-source C# library for preprocessing, feature extraction, and analysis of neural signals like EEG and EMG. It is designed for .NET developers and researchers in brain-computer interfaces and biosignal analysis who need a high-performance tool without relying on Python."
+    },
+    {
+      "question": "How does Dynamic Time Warping work in Neural-Signals?",
+      "answer": "Dynamic Time Warping (DTW) aligns time series that vary in speed or timing by finding an optimal non-linear mapping between them. Neural-Signals implements a highly optimized DTW algorithm that is up to 3x faster than traditional Python implementations, making it ideal for real-time neural signal processing."
+    },
+    {
+      "question": "How does Neural-Signals compare to Python libraries like mne-python?",
+      "answer": "While Python libraries like mne-python offer extensive neural signal analysis tools, Neural-Signals brings similar capabilities to the .NET ecosystem with a focus on performance, especially for DTW. This allows C# developers to integrate signal processing directly into their applications without Python interop, and with reported speed improvements."
+    },
+    {
+      "question": "What data formats are supported by Neural-Signals?",
+      "answer": "Neural-Signals supports more than ten data formats for importing neural signal data, including common standards like EDF and CSV. For the complete list, you should refer to the library's official documentation or GitHub repository."
+    },
+    {
+      "question": "How can I get started with Neural-Signals?",
+      "answer": "You can get started by cloning the repository from GitHub and adding the library to your .NET project via NuGet or by building from source. The README provides examples on loading data, preprocessing, and using the DTW algorithm, so you can quickly apply it to your own neural time series data."
+    }
+  ]
+}

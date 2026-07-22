@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What exactly does LTT mean by a 'true 4K gaming PC'?",
+      "answer": "LTT defines a true 4K gaming PC as a system capable of delivering 144+ frames per second in modern AAA titles with full ray tracing enabled, without relying on compromise settings. The goal is smooth, visually rich gameplay that takes full advantage of high-refresh-rate 4K monitors, achieved through smart component pairing rather than just buying the most expensive parts."
+    },
+    {
+      "question": "Why does LTT recommend pairing a mid-range or high-end CPU with a flagship GPU for 4K gaming?",
+      "answer": "At 4K resolution, the graphics card does the vast majority of the work, making it the most critical component. A high-end CPU like the Ryzen 7 9800X3D is sufficient to avoid bottlenecks without needing the absolute fastest processor, so you can allocate more of your budget to the GPU. This strategic pairing delivers about 95% of the performance of a maxed-out build for a significantly lower cost."
+    },
+    {
+      "question": "What are the key GPU options LTT suggests for a true 4K build in 2026?",
+      "answer": "LTT recommends current-generation flagships such as the NVIDIA GeForce RTX 5080 or the AMD Radeon RX 8800 XT. These cards offer the raw compute power, dedicated ray tracing cores, and AI upscaling (DLSS 4 or FSR 4) necessary to maintain high frame rates with ray tracing enabled at 4K."
+    },
+    {
+      "question": "How much should I expect to spend on a true 4K gaming PC following LTT's philosophy?",
+      "answer": "The article emphasizes value over top-tier pricing, so exact figures depend on current market prices, but you can build a system with an RTX 5080 or RX 8800 XT and a Ryzen 7 9800X3D for roughly $2,500 to $3,000. That range gets you the balanced performance LTT advocates—without paying a premium for marginal gains from the absolute best CPU or exotic cooling."
+    },
+    {
+      "question": "I have a high-end GPU but still can't hit 144 fps at 4K in some games—what could be wrong?",
+      "answer": "Common issues include a CPU bottleneck, outdated drivers, or overly aggressive in-game settings. Make sure you're using DLSS/FSR on a quality mode, enable Reflex or Anti-Lag to reduce latency, and verify that your CPU isn't pegged at 100% while the GPU is underutilized. Upgrading to a faster memory kit or using a Gen5 SSD can also reduce stutter in open-world titles."
+    }
+  ]
+}

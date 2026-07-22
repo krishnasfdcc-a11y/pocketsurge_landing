@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A cinematic wide shot of a modern financial trading floor with large digital screens displaying real-time election prediction market data, blending political maps with stock tickers, vibrant blue and red lighting, data visualizations floating in the air, a sense of dynamic probability and regulated trading, high-tech atmosphere, photorealistic, sharp focus, dramatic lighting",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Kalshi Election Hub trading floor with prediction market data screens",
+      "caption": "Kalshi's Election Hub merges political forecasting with regulated financial trading."
+    },
+    {
+      "id": "image-2",
+      "prompt": "A clean infographic style illustration showing a binary event contract scale from $0.00 to $1.00, with a pointer at $0.65, Yes and No outcomes, simple geometric shapes, light background with subtle grid, professional and educational tone, high contrast, minimal text",
+      "style": "infographic",
+      "placement": "section-1",
+      "altText": "Binary event contract price scale from 0 to 1 showing probability",
+      "caption": "A binary event contract priced at $0.65 implies a 65% probability."
+    },
+    {
+      "id": "image-3",
+      "prompt": "A 3D render of a sleek digital dashboard interface on a large monitor, showing multiple election race cards with probabilities, a sidebar with contract categories, user-friendly design, dark mode with neon accents, data tables and charts, futuristic financial technology feel, clean lines, realistic reflections",
+      "style": "3d-render",
+      "placement": "section-2",
+      "altText": "Kalshi Election Hub dashboard displaying election contract probabilities",
+      "caption": "The Election Hub aggregates key races in a user-friendly dashboard."
+    },
+    {
+      "id": "image-4",
+      "prompt": "An illustration of a stylized data network with glowing blue connections between servers and a laptop screen showing JSON code and API endpoints, representing real-time data streaming, low latency, REST and WebSocket symbols, modern dark background, digital art style, focus on technology and data flow",
+      "style": "illustration",
+      "placement": "section-3",
+      "altText": "Kalshi API network diagram with JSON code and data streams",
+      "caption": "Kalshi's REST and WebSocket APIs enable real-time data access for quantitative analysis."
+    }
+  ]
+}

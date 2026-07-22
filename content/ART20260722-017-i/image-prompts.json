@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A high-tech cinematic scene of a data pipeline in an abstract digital space. Glowing blue streams of data flow through interconnected nodes labeled 'Rust', 'vLLM', 'Redis', 'Kubernetes', and 'KEDA'. The environment features dramatic lighting, neon accents, and a sense of depth, symbolizing speed and automation. The composition is dynamic with focus on the central pipeline, evoking a futuristic, production-ready AI infrastructure.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Cinematic visualization of a production OCR pipeline with Rust, vLLM, Redis, KEDA, and Kubernetes nodes connected by glowing data streams.",
+      "caption": "Concept illustration of a scalable AI pipeline."
+    },
+    {
+      "id": "image-2",
+      "prompt": "A split illustration contrasting old and new OCR. Left side: a chaotic pile of crumpled paper, handwritten notes, and blurry faxes in warm dim lighting. Right side: a sleek holographic display showing crisp digital text with a robotic arm labeled 'OCR' bridging the gap. Clean vector art style with vibrant colors, storytelling composition highlighting the transition from noisy documents to structured data.",
+      "style": "illustration",
+      "placement": "section-1",
+      "altText": "Illustration comparing messy traditional documents with clean digital OCR output, bridging by a robotic arm.",
+      "caption": ""
+    },
+    {
+      "id": "image-3",
+      "prompt": "A clean architectural diagram of a production OCR pipeline on a light grid background. Boxes represent 'Rust Service', 'Redis Queue', 'vLLM Inference', 'KEDA Autoscaler', and 'Kubernetes Cluster'. Arrows show job flow with labels like 'OCR Request', 'Job Enqueue', 'Scale Workers'. The diagram uses a minimalist style with blue and teal accents, emphasizing modularity and event-driven design.",
+      "style": "diagram",
+      "placement": "section-2",
+      "altText": "Architectural diagram of the OCR pipeline showing Rust, Redis, vLLM, KEDA, and Kubernetes interactions with labeled arrows.",
+      "caption": ""
+    },
+    {
+      "id": "image-4",
+      "prompt": "An infographic illustrating event-driven autoscaling for ML inference. A line graph displays queue depth spiking over time; below, Kubernetes pod icons scale up and down in sync. KEDA and Redis logos appear at the bottom. The design uses professional blue-green colors, grid lines, and clear labels. Style is clean, data-focused infographic suitable for technical documentation.",
+      "style": "infographic",
+      "placement": "section-3",
+      "altText": "Infographic showing KEDA autoscaling based on Redis queue depth, with pods scaling accordingly.",
+      "caption": ""
+    }
+  ]
+}

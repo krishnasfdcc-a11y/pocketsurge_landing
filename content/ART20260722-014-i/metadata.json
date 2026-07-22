@@ -1,0 +1,50 @@
+{
+  "slug": "day-ahead-wind-power-forecasting-with-open-source-nwp-pipeline",
+  "title": "Day-Ahead Wind Power Forecasting with Open-Source NWP Pipeline",
+  "excerpt": "Discover an open-source project that delivers a complete pipeline for day-ahead wind power forecasting using NWP data. From preprocessing to model evaluation, it supports multiple farms and integrates machine learning for accurate predictions.",
+  "keywords": [
+    "wind power forecasting",
+    "NWP",
+    "open-source forecasting pipeline",
+    "day-ahead forecasting",
+    "machine learning renewable energy",
+    "numerical weather prediction",
+    "wind energy"
+  ],
+  "readingTime": 7,
+  "wordCount": 1211,
+  "category": "mobile-development",
+  "researchId": "533b1b4c-466c-4364-964e-14fffac8230b",
+  "topicId": "f79e3152-8506-4009-b27b-2c078af85273",
+  "generatedAt": "2026-07-22T11:49:30.887Z",
+  "description": "Explore an open-source NWP-driven pipeline for day-ahead wind power forecasting. It covers data preprocessing, ML modeling, and evaluation for multiple wind farms.",
+  "og": {
+    "title": "Day-Ahead Wind Power Forecasting with Open-Source NWP Pipeline",
+    "description": "This project delivers a complete open-source pipeline for day-ahead wind power forecasting using NWP data. From preprocessing to model evaluation, it supports multiple farms and integrates machine learning for accurate predictions.",
+    "type": "article",
+    "image": "A scenic view of wind turbines in a field with digital overlays showing weather data and forecast graphs."
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Day-Ahead Wind Power Forecasting with Open-Source NWP Pipeline",
+    "description": "Learn how this open-source pipeline uses NWP data and machine learning for accurate day-ahead wind power forecasting. Supports multiple wind farms and full workflow."
+  },
+  "schemaOrg": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Day-Ahead Wind Power Forecasting with Open-Source NWP Pipeline",
+    "description": "Explore an open-source NWP-driven pipeline for day-ahead wind power forecasting. It covers data preprocessing, ML modeling, and evaluation for multiple wind farms.",
+    "author": {
+      "@type": "Organization",
+      "name": "TechPulse Team"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "TechPulse"
+    },
+    "datePublished": "2026-07-22T11:49:30.887Z",
+    "dateModified": "2026-07-22T11:49:30.887Z"
+  },
+  "status": "approved",
+  "approvedAt": "2026-07-22T12:52:45.544Z"
+}

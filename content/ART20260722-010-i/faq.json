@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What is Kalshi's Election Hub?",
+      "answer": "Kalshi's Election Hub is a dedicated section on the Kalshi platform that aggregates all prediction market contracts related to the 2026 U.S. midterm elections. It provides a central dashboard for users to view and trade on various electoral outcomes, such as which party will control the Senate or specific race results. The hub is fully regulated by the CFTC, offering a legitimate and data-rich environment for political forecasting."
+    },
+    {
+      "question": "How do I start trading on Kalshi's Election Hub?",
+      "answer": "To start trading on the Election Hub, you first need to create an account on Kalshi and complete the identity verification process. Once verified, you can deposit funds and navigate to the Election Hub to browse available contracts. You can then place orders to buy or sell contracts based on your prediction of the outcome."
+    },
+    {
+      "question": "How does Kalshi differ from other prediction markets like PredictIt or Polymarket?",
+      "answer": "Kalshi is a CFTC-regulated exchange, which provides a level of legitimacy and security that other platforms may lack. Unlike PredictIt, which is limited to political event contracts and capped at a small maximum investment, Kalshi offers a wide range of event contracts across various domains with larger position limits. Polymarket operates on a decentralized blockchain model without regulatory oversight, whereas Kalshi operates within a traditional regulatory framework, making it more accessible for institutional traders."
+    },
+    {
+      "question": "What kind of data can I access through Kalshi's API for quantitative analysis?",
+      "answer": "Kalshi provides a REST API that allows users to retrieve real-time market data, including contract prices, order book depth, and historical trading activity. This API enables quantitative traders and technologists to programmatically access and analyze prediction market data, apply algorithms, and automate trading strategies. The data from binary event contracts is particularly clean and straightforward, as prices directly represent probability."
+    },
+    {
+      "question": "What is the potential impact of regulated prediction markets like Kalshi on political forecasting?",
+      "answer": "Regulated prediction markets like Kalshi have the potential to significantly improve political forecasting by aggregating diverse information into more accurate probability estimates. They provide a transparent and data-driven alternative to traditional polling, which can be subject to biases and low response rates. As institutional capital flows in, these markets could become a key tool for decision-makers in politics, finance, and media to assess electoral risks and opportunities."
+    }
+  ]
+}

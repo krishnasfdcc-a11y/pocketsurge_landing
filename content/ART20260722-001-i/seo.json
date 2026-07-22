@@ -1,0 +1,91 @@
+{
+  "title": "Glow Emerges at $1.2B to Tackle AI Endpoint Security",
+  "metaDescription": "Glow emerges at $1.2B to secure AI agents. Backed by Redpoint, Sequoia, and Meta, it redefines AI endpoint security for the enterprise.",
+  "keywords": {
+    "primary": "AI endpoint security",
+    "secondary": [
+      "glow cybersecurity",
+      "ai agent security",
+      "endpoint security market",
+      "glow valuation"
+    ],
+    "related": [
+      "autonomous AI agents",
+      "MLOps security",
+      "enterprise AI security",
+      "Redpoint Ventures",
+      "Sequoia Capital",
+      "Meta AI safety",
+      "endpoint protection platform",
+      "AI-native security",
+      "cybersecurity valuation",
+      "stealth startup"
+    ]
+  },
+  "headings": {
+    "h1": "Glow Emerges at $1.2B to Tackle AI Endpoint Security",
+    "h2": [
+      "The $1.2 Billion Justification: Investor Confidence in the AI Security Gap",
+      "Redefining Endpoint Protection for the AI-Native Enterprise"
+    ],
+    "h3": [
+      "The Growing Attack Surface of AI Agents",
+      "Strategic Backing from Tech Giants"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "AI security trends in 2026",
+      "suggestedUrl": "/blog/ai-security-trends-2026"
+    },
+    {
+      "anchor": "evolution of endpoint protection",
+      "suggestedUrl": "/blog/endpoint-protection-evolution"
+    },
+    {
+      "anchor": "venture capital in cybersecurity",
+      "suggestedUrl": "/blog/venture-capital-cybersecurity"
+    },
+    {
+      "anchor": "Meta's AI security investments",
+      "suggestedUrl": "/blog/meta-ai-security-investments"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "TechCrunch report on Glow's launch",
+      "suggestedUrl": "https://techcrunch.com/2026/07/22/glow-stealth-ai-endpoint-security/"
+    },
+    {
+      "anchor": "Gartner AI security predictions",
+      "suggestedUrl": "https://www.gartner.com/en/documents/ai-security-predictions"
+    },
+    {
+      "anchor": "Redpoint Ventures portfolio",
+      "suggestedUrl": "https://www.redpoint.com/portfolio/glow"
+    },
+    {
+      "anchor": "Sequoia Capital on AI infrastructure",
+      "suggestedUrl": "https://www.sequoiacap.com/ideas/ai-infrastructure-security/"
+    },
+    {
+      "anchor": "Meta AI safety initiatives",
+      "suggestedUrl": "https://ai.meta.com/safety/"
+    }
+  ],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Glow Emerges at $1.2B to Tackle AI Endpoint Security",
+    "description": "Glow emerged from stealth with a $1.2 billion valuation to address critical security gaps created by AI agents. Backed by Redpoint, Sequoia, and Meta, the company aims to redefine endpoint protection for the AI-native enterprise.",
+    "author": {
+      "@type": "Person",
+      "name": "Author Name"
+    },
+    "datePublished": "2026-07-22T11:35:24.501Z",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Your Publication Name"
+    }
+  }
+}

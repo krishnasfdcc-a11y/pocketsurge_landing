@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What exactly is 'narrative tech debt' as described in the article?",
+      "answer": "Narrative tech debt is a metaphor for when a TV show prioritizes flashy, high-concept gimmicks over foundational character development, mirroring software's technical debt where quick features are added without proper maintenance. In Strange New Worlds Season 4, this results in hollow episodes that look great but fail to deepen character arcs, similar to shipping code without tests or documentation. The long-term cost is viewer disengagement, just as tech debt leads to system instability."
+    },
+    {
+      "question": "How can showrunners avoid the feature creep that plagued this season?",
+      "answer": "Showrunners can avoid feature creep by maintaining a clear 'product vision' for each season, just as product managers prioritize a roadmap over ad-hoc features. Regularly assessing whether each episode serves character growth, rather than just spectacle, helps ensure narrative integrity. Additionally, balancing standalone episodes with serialized arcs can prevent the burnout of constant high-concept plots."
+    },
+    {
+      "question": "Why does the article compare Season 4 of Strange New Worlds to software development pitfalls?",
+      "answer": "The article draws parallels because both fields suffer when short-term gains are prioritized over sustainable growth. In software, features added without care create technical debt; in television, gimmick episodes without character investment create 'narrative debt.' The author uses this analogy to make the critique accessible to a tech-savvy audience, highlighting how both disciplines require disciplined maintenance of the core experience."
+    },
+    {
+      "question": "What specific gimmicks does the article call out in Strange New Worlds Season 4?",
+      "answer": "The article mentions three specific gimmicks: everyone turning into Vulcans, a holodeck murder mystery, and omnipotent beings playing games with the crew. These concepts follow a pattern of grafting different genres onto Star Trek without anchoring them to character growth, resulting in episodes that are visually exciting but emotionally hollow. The holodeck episode is criticized for not challenging core beliefs, much like a microservice that doesn't integrate with the rest of the system."
+    },
+    {
+      "question": "How can a software developer apply the lessons from this review to their own work?",
+      "answer": "Developers can recognize the warning signs of feature creep and technical debt in their own projects, such as the temptation to add flashy features without addressing underlying issues. The article encourages a focus on 'essential maintenance' of core systems, just as good storytelling requires consistent character development. It's a reminder that sustainable work habits, including testing and documentation, lead to long-term success rather than short-term praise."
+    }
+  ]
+}

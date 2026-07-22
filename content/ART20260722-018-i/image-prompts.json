@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A cinematic scene: a transparent human brain model with glowing EEG waveforms emanating from it, set against a dark blue background with futuristic grid lines. In the foreground, a laptop displays C# code from Neural-Signals library. Blue and orange lighting creates a sci-fi atmosphere, with the brain pulsing with light to indicate neural activity. Photorealistic style, high detail, dynamic composition with shallow depth of field.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Futuristic brain model with EEG waveforms and C# code representing Neural-Signals library",
+      "caption": "Image generated with AI"
+    },
+    {
+      "id": "image-2",
+      "prompt": "An infographic-style illustration depicting four interconnected modules: signal preprocessing (noise removal filter icon), feature extraction (time-frequency domain icons), change detection (algorithm block with arrow), and dynamic time warping (two aligned curves). Clean modern flat design with dark background, green and blue accents. Subtle glow from each module, with icons representing EEG headset, brain waves, and gears to emphasize modular functionality.",
+      "style": "infographic",
+      "placement": "section-1",
+      "altText": "Modular diagram of Neural-Signals library showing preprocessing, feature extraction, change detection, and DTW",
+      "caption": "Image generated with AI"
+    },
+    {
+      "id": "image-3",
+      "prompt": "A technical diagram showing two sine waves starting out of phase, converging as a bright warping path maps points between them against a dark grid background. The waves are rendered in neon blue and orange with a subtle glow. The warping path is a lighter curve connecting corresponding points. Flat lighting for readability, with a clean minimalist aesthetic emphasizing alignment and dynamic time warping concept.",
+      "style": "diagram",
+      "placement": "section-2",
+      "altText": "Diagram of Dynamic Time Warping aligning two neural signals in Neural-Signals library",
+      "caption": "Image generated with AI"
+    },
+    {
+      "id": "image-4",
+      "prompt": "A 3D-render style speedometer gauge with a glowing red needle pointing to '3x' on a dark neon scale. Behind it, a circuit board pattern with C# logos integrated. Dark background with neon blue and red lighting, creating a futuristic, high-tech mood. The '3x' is prominently displayed with a sparkle effect, emphasizing speed and efficiency improvements of DTW in Neural-Signals.",
+      "style": "3d-render",
+      "placement": "section-3",
+      "altText": "3D speedometer showing 3x faster DTW performance with Neural-Signals library compared to Python",
+      "caption": "Image generated with AI"
+    },
+    {
+      "id": "image-5",
+      "prompt": "A minimal, abstract illustration of a connected network of nodes representing GitHub contributors, with a central node labeled 'Neural-Signals' glowing brightly. The nodes are blue and orange, connected by thin lines against a dark background with subtle binary code fading in. Flat isometric style with soft ambient lighting, conveying collaboration and open-source community.",
+      "style": "minimal",
+      "placement": "section-4",
+      "altText": "Network of contributors around Neural-Signals open-source C# library on GitHub",
+      "caption": "Image generated with AI"
+    }
+  ]
+}

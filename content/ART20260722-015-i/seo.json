@@ -1,0 +1,93 @@
+{
+  "title": "ChatGPT Configurator: Open Source API Configuration Made Easy",
+  "metaDescription": "Discover the Ydata ChatGPT Configurator, an open-source tool for effortless ChatGPT & Codex API configuration. One-click setup, cross-platform support, and white-label rebranding.",
+  "keywords": {
+    "primary": "ChatGPT configurator",
+    "secondary": [
+      "open source API configuration",
+      "Ydata ChatGPT Codex",
+      "ChatGPT configuration tool",
+      "API configuration tool"
+    ],
+    "related": [
+      "ChatGPT API integration",
+      "Codex API setup",
+      "Rust ChatGPT client",
+      "AI configuration tool",
+      "open source AI tools",
+      "API key management",
+      "cross-platform application",
+      "white-label software",
+      "enterprise AI customization",
+      "one-click configuration"
+    ]
+  },
+  "headings": {
+    "h1": "ChatGPT Configurator: Open Source API Configuration Made Easy",
+    "h2": [
+      "The Challenge of API Configuration",
+      "Introducing ydata-chatgpt-configurator",
+      "Key Features and Benefits",
+      "Use Cases and Applications",
+      "Getting Started with ChatGPT Configurator",
+      "Conclusion"
+    ],
+    "h3": [
+      "One-Click Internationalization and Recovery",
+      "Cross-Platform Compatibility",
+      "White-Label Rebranding for Enterprises",
+      "Secure API Key Management"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "Learn more about open source data science tools",
+      "suggestedUrl": "/category/data-science"
+    },
+    {
+      "anchor": "How to integrate ChatGPT into your application",
+      "suggestedUrl": "/articles/chatgpt-integration-guide"
+    },
+    {
+      "anchor": "Explore Rust for building CLI tools",
+      "suggestedUrl": "/articles/rust-cli-tutorial"
+    },
+    {
+      "anchor": "API configuration best practices",
+      "suggestedUrl": "/articles/api-configuration-tips"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "OpenAI API Documentation",
+      "suggestedUrl": "https://platform.openai.com/docs"
+    },
+    {
+      "anchor": "Ydata official website",
+      "suggestedUrl": "https://ydata.ai"
+    },
+    {
+      "anchor": "Rust Programming Language",
+      "suggestedUrl": "https://www.rust-lang.org"
+    },
+    {
+      "anchor": "OpenAI Codex",
+      "suggestedUrl": "https://openai.com/blog/openai-codex"
+    }
+  ],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "ChatGPT Configurator: Open Source API Configuration Made Easy",
+    "description": "Discover the Ydata ChatGPT Configurator, an open-source tool built in Rust, simplifies ChatGPT and Codex API configuration. It offers one-click setup, cross-platform support, white-label rebranding, and enterprise customization.",
+    "author": {
+      "@type": "Person",
+      "name": "Ydata Team"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Ydata"
+    },
+    "datePublished": "2026-07-22T11:50:01.752Z"
+  }
+}

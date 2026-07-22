@@ -1,0 +1,89 @@
+{
+  "title": "Kalshi Launches Election Hub for Midterm Prediction Markets",
+  "metaDescription": "Kalshi's Election Hub offers CFTC-regulated prediction markets for the 2026 midterms. Trade binary event contracts, access API data, and apply quantitative strategies for political forecasting.",
+  "keywords": {
+    "primary": "Kalshi Election Hub",
+    "secondary": [
+      "midterm prediction markets",
+      "regulated event contracts",
+      "political forecasting API",
+      "binary event contracts"
+    ],
+    "related": [
+      "prediction market trading",
+      "CFTC regulated exchange",
+      "Kalshi API",
+      "political risk assessment",
+      "event contract pricing",
+      "quantitative trading politics",
+      "election outcome markets",
+      "data science political forecasting"
+    ]
+  },
+  "headings": {
+    "h1": "Kalshi Launches Election Hub for Midterm Prediction Markets",
+    "h2": [
+      "The Mechanics of a Regulated Prediction Market",
+      "API Access and Data Integration",
+      "Why CFTC Regulation Matters",
+      "Trading Strategies for Political Event Contracts"
+    ],
+    "h3": [
+      "Understanding Binary Event Contracts",
+      "Settlement and Pricing Mechanisms",
+      "How to Use the Kalshi API",
+      "Risk Management in Political Markets"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "What are prediction markets?",
+      "suggestedUrl": "/prediction-markets-explained"
+    },
+    {
+      "anchor": "Introduction to event contract trading",
+      "suggestedUrl": "/event-contracts-guide"
+    },
+    {
+      "anchor": "Kalshi API documentation",
+      "suggestedUrl": "/kalshi-api-integration"
+    },
+    {
+      "anchor": "Political forecasting with data science",
+      "suggestedUrl": "/political-forecasting-methods"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "CFTC order on Kalshi",
+      "suggestedUrl": "https://www.cftc.gov/PressRoom/PressReleases/8745-23"
+    },
+    {
+      "anchor": "Wikipedia: Prediction market",
+      "suggestedUrl": "https://en.wikipedia.org/wiki/Prediction_market"
+    },
+    {
+      "anchor": "Kalshi official site",
+      "suggestedUrl": "https://kalshi.com"
+    }
+  ],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Kalshi Launches Election Hub for Midterm Prediction Markets",
+    "description": "Kalshi's new Election Hub aggregates regulated prediction markets for the 2026 midterms. We explore the platform's API, mechanics, and the potential for quantitative technologists and traders to leverage political forecasting data.",
+    "datePublished": "2026-07-22T11:44:34.678Z",
+    "category": "finance",
+    "keywords": [
+      "Kalshi",
+      "Election Hub",
+      "prediction markets",
+      "political forecasting",
+      "midterms 2026",
+      "event contracts",
+      "regulated markets",
+      "API trading",
+      "CFTC"
+    ]
+  }
+}

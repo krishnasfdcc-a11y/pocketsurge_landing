@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What is Liquid Components?",
+      "answer": "Liquid Components is an open-source React library that provides pre-styled UI components with a glassmorphism effect. It's built on top of shadcn/ui, ensuring accessibility and customization, and includes components like cards, modals, and buttons with a translucent 'liquid glass' appearance."
+    },
+    {
+      "question": "How does Liquid Components differ from other glassmorphism libraries?",
+      "answer": "Unlike other libraries that may require heavy dependencies or offer limited component sets, Liquid Components leverages shadcn/ui's robust foundation for accessibility and customization. It focuses on a consistent 'liquid glass' aesthetic beyond simple backdrop blur, incorporating subtle gradients and depth for a modern look."
+    },
+    {
+      "question": "How do I install and use Liquid Components in my React project?",
+      "answer": "To use Liquid Components, first set up a React project with shadcn/ui, then install the library via npm or yarn and import the desired components. The components are highly customizable, allowing you to adjust colors, opacity, and blur effects to match your design."
+    },
+    {
+      "question": "Why should I choose Liquid Components over custom CSS for glassmorphism?",
+      "answer": "Liquid Components saves development time and ensures UI consistency, as each component is already styled with glassmorphism effects and follows accessibility best practices. It also avoids the complexity of maintaining custom CSS, while offering a component architecture that is well-maintained and community-supported."
+    },
+    {
+      "question": "How does Liquid Components integrate with Tailwind CSS?",
+      "answer": "Liquid Components is built on shadcn/ui, which uses Tailwind CSS for styling by default. This makes it easy to integrate into existing Tailwind projects and customize components using utility classes. The library respects the Tailwind configuration, ensuring a smooth development experience."
+    }
+  ]
+}

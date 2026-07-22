@@ -1,0 +1,83 @@
+{
+  "title": "PWA Sense Bridge: Privacy-First Sensor Access for PWAs",
+  "metaDescription": "Privacy-first sensor access for PWAs with PWA Sense Bridge. Enables LLM integration using motion data on Android and iOS. Get started now.",
+  "keywords": {
+    "primary": "privacy-first sensor access",
+    "secondary": [
+      "progressive web app sensor API",
+      "mobile motion sensor PWA",
+      "LLM integration sensor data",
+      "PWA device orientation API",
+      "PWA cross-platform sensor"
+    ],
+    "related": [
+      "PWA motion data",
+      "sensor permission PWA",
+      "iOS sensor request permission",
+      "Android sensor API PWA",
+      "DeviceOrientationEvent.requestPermission",
+      "PWA gyroscope access",
+      "accelerometer PWA",
+      "sensor data LLM",
+      "privacy sensor bridge"
+    ]
+  },
+  "headings": {
+    "h1": "PWA Sense Bridge: Privacy-First Sensor Access for Progressive Web Apps",
+    "h2": [
+      "The Challenge of Sensor Access in PWAs",
+      "Introducing PWA Sense Bridge",
+      "Key Features of PWA Sense Bridge",
+      "Bridging Platform Differences",
+      "How to Integrate PWA Sense Bridge with LLMs"
+    ],
+    "h3": [
+      "User Consent and Permissions",
+      "Data Minimization",
+      "Cross-Platform Support",
+      "LLM-Friendly JSON Output"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "PWA vs Native sensor access",
+      "suggestedUrl": "/articles/pwa-vs-native-sensor-access"
+    },
+    {
+      "anchor": "Building LLM-powered Progressive Web Apps",
+      "suggestedUrl": "/articles/llm-powered-pwa"
+    },
+    {
+      "anchor": "Mobile API design best practices",
+      "suggestedUrl": "/articles/mobile-api-design"
+    },
+    {
+      "anchor": "Privacy-first web development guide",
+      "suggestedUrl": "/articles/privacy-first-web-dev"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "MDN DeviceOrientationEvent API",
+      "suggestedUrl": "https://developer.mozilla.org/en-US/docs/Web/API/DeviceOrientationEvent"
+    },
+    {
+      "anchor": "iOS sensor access guidelines",
+      "suggestedUrl": "https://developer.apple.com/documentation/safari/safari_user_guides/using_the_ios_safari_browser_features"
+    },
+    {
+      "anchor": "Chrome sensor access requirements",
+      "suggestedUrl": "https://developer.chrome.com/docs/web-platform/sensor-api/"
+    },
+    {
+      "anchor": "PWA Sense Bridge GitHub repository",
+      "suggestedUrl": "https://github.com/0xblewalker/pwa-sense-bridge"
+    }
+  ],
+  "structuredData": {
+    "@type": "Article",
+    "headline": "PWA Sense Bridge: Privacy-First Sensor Access for PWAs",
+    "description": "Privacy-first sensor access for PWAs with PWA Sense Bridge. Enables LLM integration using motion data on Android and iOS.",
+    "datePublished": "2026-07-22T11:48:59.507Z"
+  }
+}

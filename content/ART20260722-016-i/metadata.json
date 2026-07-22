@@ -1,0 +1,51 @@
+{
+  "slug": "unlocking-cloud-storage-savings-with-tianjian518casgen",
+  "title": "Unlocking Cloud Storage Savings with tianjian518/casgen",
+  "excerpt": "Discover tianjian518/casgen: a Python tool converting cloud drive media to CAS format locally, integrating with Docker Hub for automated builds and storage savings.",
+  "keywords": [
+    "tianjian518/casgen",
+    "Content-Addressable Storage",
+    "Docker Hub automated builds",
+    "cloud drive optimization",
+    "DevOps storage slimming",
+    "CAS conversion",
+    "data deduplication",
+    "Python tool"
+  ],
+  "readingTime": 8,
+  "wordCount": 1445,
+  "category": "devops",
+  "researchId": "1c96b1db-178d-4f77-be7d-4f60b03429cb",
+  "topicId": "db2ec87e-0a5d-4458-aec8-b7541063fef4",
+  "generatedAt": "2026-07-22T11:52:03.956Z",
+  "description": "Discover tianjian518/casgen: a Python tool converting cloud drive media to CAS format locally, integrating with Docker Hub for automated builds and storage savings.",
+  "og": {
+    "title": "Unlocking Cloud Storage Savings with tianjian518/casgen",
+    "description": "Discover tianjian518/casgen: a Python tool converting cloud drive media to CAS format locally, integrating with Docker Hub for automated builds and storage savings.",
+    "type": "article",
+    "image": "Diagram showing local conversion of cloud drive media to CAS layers for Docker"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Unlocking Cloud Storage Savings with tianjian518/casgen",
+    "description": "Discover tianjian518/casgen: a Python tool converting cloud drive media to CAS format locally, integrating with Docker Hub for automated builds and storage savings."
+  },
+  "schemaOrg": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Unlocking Cloud Storage Savings with tianjian518/casgen",
+    "description": "Discover tianjian518/casgen: a Python tool converting cloud drive media to CAS format locally, integrating with Docker Hub for automated builds and storage savings.",
+    "author": {
+      "@type": "Person",
+      "name": "TechPulse Team"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "TechPulse"
+    },
+    "datePublished": "2026-07-22T11:52:03.956Z",
+    "dateModified": "2026-07-22T11:52:03.956Z"
+  },
+  "status": "approved",
+  "approvedAt": "2026-07-22T12:52:45.556Z"
+}

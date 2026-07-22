@@ -1,0 +1,90 @@
+{
+  "title": "Antigravity Arcade: From Prompt to Playable Game in Minutes",
+  "metaDescription": "Discover how Antigravity Arcade uses generative AI to turn text prompts into playable game prototypes in minutes, backed by data on 55% studio adoption. See the future of AI game prototyping.",
+  "keywords": {
+    "primary": "antigravity arcade",
+    "secondary": [
+      "generative ai game development",
+      "ai game prototyping",
+      "prompt to game",
+      "ai game development trends"
+    ],
+    "related": [
+      "ai game development tools",
+      "automated game design",
+      "game prototyping with AI",
+      "generative ai in gaming",
+      "ai code generation for games",
+      "text to game",
+      "game development automation",
+      "low-code game creation",
+      "ai game design",
+      "rapid game prototyping"
+    ]
+  },
+  "headings": {
+    "h1": "Antigravity Arcade: From Prompt to Game in Minutes",
+    "h2": [
+      "The Rise of Generative AI in Game Development",
+      "How Antigravity Arcade Works",
+      "Benefits of AI-Driven Prototyping",
+      "The Future of Game Creation"
+    ],
+    "h3": [
+      "Key Statistics on AI Adoption",
+      "Overcoming Development Bottlenecks",
+      "From Designer to Developer: Empowering Creators"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "AI game development tools and trends",
+      "suggestedUrl": "/gaming/ai-game-development-tools"
+    },
+    {
+      "anchor": "Generative AI in game design",
+      "suggestedUrl": "/gaming/generative-ai-in-game-design"
+    },
+    {
+      "anchor": "Future of game programming with AI",
+      "suggestedUrl": "/gaming/future-of-game-programming"
+    },
+    {
+      "anchor": "Game prototyping best practices",
+      "suggestedUrl": "/gaming/game-prototyping-best-practices"
+    },
+    {
+      "anchor": "Automated code generation for games",
+      "suggestedUrl": "/gaming/ai-code-generation"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "GDC State of the Game Industry 2024 report",
+      "suggestedUrl": "https://www.gdconf.com/news/state-of-the-game-industry-2024"
+    },
+    {
+      "anchor": "Unity 2024 Gaming Report",
+      "suggestedUrl": "https://unity.com/reports/gaming-report-2024"
+    },
+    {
+      "anchor": "Generative AI in game development overview",
+      "suggestedUrl": "https://www.gamedeveloper.com/business/generative-ai-in-game-development"
+    }
+  ],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Antigravity Arcade: From Prompt to Playable Game in Minutes",
+    "description": "Discover how Antigravity Arcade uses generative AI to turn text prompts into playable game prototypes in minutes, backed by data on 55% studio adoption.",
+    "datePublished": "2026-07-22T11:55:20.531Z",
+    "author": {
+      "@type": "Organization",
+      "name": "Your Publication Name"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Your Publication Name"
+    }
+  }
+}

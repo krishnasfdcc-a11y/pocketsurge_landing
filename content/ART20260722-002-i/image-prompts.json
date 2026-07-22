@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A cinematic, darkly lit scene showing a judge's wooden gavel on a polished desk, foreground focus. In the background, an ICE badge and a state flag are out of focus, symbolizing the legal conflict. Warm amber light from a desk lamp contrasts with cool blue light from a window, creating tension. Photorealistic, dramatic mood.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Judge's gavel with ICE badge and state flag symbolizing legal clash over ICE agent transparency.",
+      "caption": "The legal battle over ICE transparency escalates between states and the federal government."
+    },
+    {
+      "id": "image-2",
+      "prompt": "A wide, documentary-style shot inside a state legislative chamber during a heated debate. Lawmakers are standing at wooden podiums, gesturing animatedly. A large electronic screen in the background displays 'ICE Agent Identification Act' in bold letters. Sunlight streams through tall windows, creating long shadows and dust motes. Realistic lighting, photorealistic style, capturing the intensity of democratic process.",
+      "style": "photorealistic",
+      "placement": "section-1",
+      "altText": "State legislative chamber during debate on ICE agent identification act with large screen.",
+      "caption": "State houses across the country are taking up bills to require ICE agents to display visible identification."
+    },
+    {
+      "id": "image-3",
+      "prompt": "A close-up illustration of a computer monitor in a dark room, displaying a retro-futuristic facial recognition art project interface overlaid with error messages and glitch effects. A black DHS badge rests on the desk beside the keyboard. Neon lights in blue and red cast dramatic shadows on the wall. Cinematic, slightly dystopian mood, illustration style.",
+      "style": "illustration",
+      "placement": "section-2",
+      "altText": "Defunct ICE facial recognition art project on computer screen with DHS badge.",
+      "caption": "The Trump administration's legal defense controversially cited a non-functional facial recognition art project."
+    },
+    {
+      "id": "image-4",
+      "prompt": "A photorealistic low-angle shot of a diverse crowd of protesters filling a city street. They hold handmade signs reading 'TRANSPARENCY NOW' and 'SHOW YOUR FACE' in bold marker. Some signs include a drawn police badge. Overcast sky casts soft, natural light, emphasizing faces and determined expressions. The scene conveys grassroots demand for accountability, with urban buildings receding in the background.",
+      "style": "photorealistic",
+      "placement": "section-3",
+      "altText": "Diverse crowd of protesters holding signs demanding transparency from federal agents.",
+      "caption": "Public demand for accountability has surged, with 70% of Americans supporting visible identification for federal agents."
+    }
+  ]
+}

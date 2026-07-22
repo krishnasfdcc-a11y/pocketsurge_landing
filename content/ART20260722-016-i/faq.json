@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What is tianjian518/casgen?",
+      "answer": "tianjian518/casgen is a Python-based tool that converts media files from China Mobile Cloud Drive (139) into Content-Addressable Storage (CAS) format. It processes files locally, avoiding network traffic during conversion, and is designed to integrate with Docker Hub for automated builds, ultimately reducing storage costs through deduplication."
+    },
+    {
+      "question": "How does the local conversion process maintain zero network traffic?",
+      "answer": "The conversion runs entirely on your local machine after files are downloaded from the cloud drive. Since no data is sent to external servers during the CAS conversion process, it consumes zero additional network bandwidth, making it ideal for teams with limited or costly bandwidth."
+    },
+    {
+      "question": "What are the key benefits of using Content-Addressable Storage for DevOps?",
+      "answer": "CAS uses content hashes to identify files, enabling automatic deduplication—identical files are stored once regardless of how many times they appear. This dramatically reduces storage requirements for media assets and optimizes Docker image layers, leading to faster builds and lower costs."
+    },
+    {
+      "question": "How can I integrate tianjian518/casgen with Docker Hub automated builds?",
+      "answer": "After converting your media to CAS format, you can create Dockerfiles that leverage these CAS layers. By pushing the resulting images to Docker Hub, you set up an automated pipeline that rebuilds images whenever the underlying CAS data changes, streamlining deployment of media-rich applications."
+    },
+    {
+      "question": "Is tianjian518/casgen compatible with cloud drives other than 139?",
+      "answer": "Currently, tianjian518/casgen is specifically built for the 139 cloud drive ecosystem. However, its modular Python architecture and the underlying CAS principles could be adapted for other cloud providers with custom development. The project's approach serves as a blueprint for similar integrations."
+    }
+  ]
+}

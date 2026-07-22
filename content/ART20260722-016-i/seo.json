@@ -1,0 +1,80 @@
+{
+  "title": "Unlocking Cloud Storage Savings with tianjian518/casgen",
+  "metaDescription": "Discover how tianjian518/casgen reduces cloud drive costs by converting media to CAS format locally. Integrate with Docker Hub for automated builds and storage slimming.",
+  "keywords": {
+    "primary": "tianjian518/casgen",
+    "secondary": [
+      "Content-Addressable Storage",
+      "Docker Hub automated builds",
+      "cloud drive optimization",
+      "DevOps storage slimming"
+    ],
+    "related": [
+      "local data deduplication",
+      "Python CAS tool",
+      "cloud drive egress reduction",
+      "CI/CD pipeline storage",
+      "media asset management DevOps"
+    ]
+  },
+  "headings": {
+    "h1": "Unlocking Cloud Storage Savings with tianjian518/casgen",
+    "h2": [
+      "What is tianjian518/casgen?",
+      "The Power of Content-Addressable Storage in DevOps",
+      "Local Conversion for Zero Egress Costs",
+      "Integrating with Docker Hub Automated Builds",
+      "Streamlining Media Assets in CI/CD"
+    ],
+    "h3": [
+      "Key Technical Features",
+      "How CAS Deduplication Works",
+      "Real-World Benefits for Teams"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "optimizing Docker images for storage",
+      "suggestedUrl": "/blog/docker-image-size-optimization"
+    },
+    {
+      "anchor": "reducing cloud storage costs with CAS",
+      "suggestedUrl": "/blog/cloud-storage-cost-reduction-strategies"
+    },
+    {
+      "anchor": "automated Docker builds with CI/CD",
+      "suggestedUrl": "/blog/automating-docker-builds-cicd"
+    },
+    {
+      "anchor": "Python tools for DevOps workflows",
+      "suggestedUrl": "/blog/python-devops-automation"
+    },
+    {
+      "anchor": "managing large media files in DevOps",
+      "suggestedUrl": "/blog/managing-large-media-files-devops"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "Content-Addressable Storage (CAS) explanation",
+      "suggestedUrl": "https://en.wikipedia.org/wiki/Content-addressable_storage"
+    },
+    {
+      "anchor": "China Mobile Cloud Drive (139) official site",
+      "suggestedUrl": "https://c.139.com/"
+    },
+    {
+      "anchor": "Docker Hub automated builds documentation",
+      "suggestedUrl": "https://docs.docker.com/docker-hub/builds/"
+    },
+    {
+      "anchor": "Python programming language official site",
+      "suggestedUrl": "https://www.python.org/"
+    }
+  ],
+  "structuredData": {
+    "@type": "Article",
+    "headline": "Unlocking Cloud Storage Savings with tianjian518/casgen",
+    "description": "Discover how tianjian518/casgen reduces cloud drive costs by converting media to CAS format locally. Integrate with Docker Hub for automated builds and storage slimming."
+  }
+}

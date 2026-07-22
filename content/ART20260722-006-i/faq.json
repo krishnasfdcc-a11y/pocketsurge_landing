@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What makes Poolside Laguna S 2.1 different from general-purpose LLMs for coding?",
+      "answer": "Poolside Laguna S 2.1 is fine-tuned specifically for software development, with extensive training on code syntax, patterns, and APIs. It excels at code completion, generation, and explanation, making it more efficient for developers than general-purpose models."
+    },
+    {
+      "question": "What are the hardware requirements to run Poolside Laguna S 2.1 on a Mac?",
+      "answer": "You need an Apple Silicon Mac (M1, M2, or M3) with at least 16 GB of RAM and macOS Sonoma or later. The MLX framework efficiently leverages the unified memory architecture and GPU for smooth inference."
+    },
+    {
+      "question": "How does the performance of Laguna S 2.1 on MLX compare to running it via other methods?",
+      "answer": "MLX is optimized for Apple Silicon, providing low-overhead inference using the GPU and Neural Engine. Community benchmarks show that it runs efficiently on Macs with 16GB to 64GB RAM, with token generation speeds suitable for interactive code completion."
+    },
+    {
+      "question": "Can I use Poolside Laguna S 2.1 offline after setting it up?",
+      "answer": "Yes, once the model is downloaded and configured via the macos-laguna-s2.1 repository, it runs entirely locally on your Mac. This ensures that your code and data never leave your device, offering privacy and security."
+    },
+    {
+      "question": "What should I do if the model runs slowly or runs out of memory?",
+      "answer": "Consider closing other memory-intensive applications, reducing the context window size, or using a quantized version of the model if available. For best performance, ensure your Mac has at least 16GB RAM and adequate free disk space for swapping."
+    }
+  ]
+}

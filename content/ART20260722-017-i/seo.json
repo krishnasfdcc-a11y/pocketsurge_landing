@@ -1,0 +1,72 @@
+{
+  "title": "Production OCR Course: Build Pipelines with Rust & vLLM",
+  "metaDescription": "Build production-grade OCR pipelines with Rust & vLLM. This DevOps course covers Kubernetes orchestration, KEDA autoscaling, efficient LLM serving, and scalable AI infrastructure.",
+  "keywords": {
+    "primary": "production OCR pipeline",
+    "secondary": [
+      "neural-maze production OCR course",
+      "Rust DevOps",
+      "vLLM inference",
+      "KEDA autoscaling"
+    ],
+    "related": [
+      "Kubernetes OCR",
+      "event-driven autoscaling for ML",
+      "LLM serving",
+      "scalable AI infrastructure",
+      "OCR with Rust"
+    ]
+  },
+  "headings": {
+    "h1": "Neural Maze's Production OCR Course: Build Scalable Pipelines with Rust & vLLM",
+    "h2": [
+      "The Challenge of Production OCR",
+      "Why Traditional OCR Falls Short",
+      "The Rise of LLM-Assisted OCR",
+      "Key Components of the Pipeline",
+      "Scaling with Event-Driven Autoscaling"
+    ],
+    "h3": [
+      "Using Rust for High-Performance OCR",
+      "Optimizing vLLM for Production Inference",
+      "Configuring KEDA for ML Workloads"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "Rust for DevOps",
+      "suggestedUrl": "/devops/rust-devops"
+    },
+    {
+      "anchor": "KEDA autoscaling for ML workloads",
+      "suggestedUrl": "/devops/keda-autoscaling-ml"
+    },
+    {
+      "anchor": "vLLM inference optimization",
+      "suggestedUrl": "/devops/vllm-inference-optimization"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "Neural Maze Production OCR Course",
+      "suggestedUrl": "https://github.com/neural-maze/production-ocr-course"
+    },
+    {
+      "anchor": "vLLM official documentation",
+      "suggestedUrl": "https://vllm.readthedocs.io/"
+    },
+    {
+      "anchor": "KEDA documentation",
+      "suggestedUrl": "https://keda.sh/"
+    },
+    {
+      "anchor": "Rust programming language",
+      "suggestedUrl": "https://www.rust-lang.org/"
+    }
+  ],
+  "structuredData": {
+    "@type": "Article",
+    "headline": "Production OCR Course: Build Pipelines with Rust & vLLM",
+    "description": "Build production-grade OCR pipelines with Rust & vLLM. This DevOps course covers Kubernetes orchestration, KEDA autoscaling, efficient LLM serving, and scalable AI infrastructure."
+  }
+}

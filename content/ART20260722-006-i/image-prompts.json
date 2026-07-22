@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "Cinematic wide shot of an Apple Silicon MacBook Pro on a modern desk. The screen displays a clean code editor with vibrant, glowing AI-generated ghost text appearing in real-time. Floating holographic terminal windows and translucent neural network nodes hover above the screen. Low-key warm lighting with cool blue and magenta neon accents from the glowing interface. Photorealistic macro mode, shallow depth of field, hyper-detailed, 8k resolution, CGSociety quality.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Apple Silicon MacBook Pro running local AI code generation model with MLX",
+      "caption": ""
+    },
+    {
+      "id": "image-2",
+      "prompt": "An abstract, minimalist 3D illustration. On the left, glowing blue strings of raw source code in Python and JavaScript. They flow through a central geometric orb of shimmering data streams into clean, readable English text on the right side. The background is a deep horizontal gradient of dark teal and navy. The style is sleek, modern, tech editorial, smooth volumetric lighting, isometric 3D render, sharp focus.",
+      "style": "3d-render",
+      "placement": "section-1",
+      "altText": "Abstract visualization of AI code completion, generation, and explanation capabilities",
+      "caption": ""
+    },
+    {
+      "id": "image-3",
+      "prompt": "Close-up shot of a terminal window on a macOS desktop. The text shows commands for cloning a git repository, installing Python requirements, and a progress bar showing the model loading via the MLX framework. A stylized 'MLX' logo glows softly in the top corner of the interface. The overall mood is technical, precise, and empowering. Dark mode background, vibrant green and white monospaced text on black. Photorealistic render of a high-resolution Retina display.",
+      "style": "photorealistic",
+      "placement": "section-2",
+      "altText": "Terminal setup and installation process for running Poolside model locally on Mac",
+      "caption": ""
+    },
+    {
+      "id": "image-4",
+      "prompt": "Sleek infographic-style 3D render on a dark gradient background. A glowing '12 T/s' tokens-per-second badge is centered, referencing M2 Pro benchmarks. Smaller abstract speed lines and data particles radiate outwards from stylized Apple Silicon chip icons for M1, M2, M3, M2 Pro, and M3 Max. Clean futuristic typography highlights chip names. High contrast, vibrant cyan and magenta color palette, clean futuristic infographic aesthetic.",
+      "style": "infographic",
+      "placement": "section-3",
+      "altText": "Tokens per second performance benchmarks for Laguna S 2.1 on Apple Silicon chips",
+      "caption": ""
+    },
+    {
+      "id": "image-5",
+      "prompt": "A conceptual 3D illustration. A glowing, translucent cube shield encloses an Apple Silicon MacBook from above. Inside the shield, vibrant AI code flows freely through a terminal environment. Outside the shield, glowing padlocks and a faint cloud icon with a red 'X' over it represent absolute data privacy. The background is a dark, rich gradient of cyberpunk-inspired blues and purples. Minimalist, impactful, stylized isometric 3D render, hyper-detailed volumetric lighting, depth of field.",
+      "style": "3d-render",
+      "placement": "section-4",
+      "altText": "Conceptual data privacy shield for local AI development workflow on macOS",
+      "caption": ""
+    }
+  ]
+}

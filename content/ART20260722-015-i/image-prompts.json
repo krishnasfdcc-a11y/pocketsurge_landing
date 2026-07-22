@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A sleek developer workspace with a large monitor displaying a modern UI configuration panel for ChatGPT API, showing API key fields, model selection dropdowns, and language settings. The interface has a clean dark theme with neon blue accents. Next to the monitor, a Rust programming language logo glows softly. The desk has a mechanical keyboard and coffee mug. Photorealistic style with warm ambient lighting, shallow depth of field, modern tech workspace atmosphere.",
+      "style": "photorealistic",
+      "placement": "hero",
+      "altText": "ChatGPT configuration tool UI with API settings on a modern developer desk setup",
+      "caption": "Ydata ChatGPT Configurator simplifies API configuration with one-click setup."
+    },
+    {
+      "id": "image-2",
+      "prompt": "An infographic illustration showing a complex network of API endpoints, keys, and configuration files on the left, transforming into a clean single-button interface on the right. The transition shows gears and code snippets being simplified into streamlined icons. Flat design style with dark background, blue and green gradient accents, clean lines, representing the complexity-to-simplicity journey of API configuration.",
+      "style": "infographic",
+      "placement": "section-1",
+      "altText": "Infographic showing automation of complex API configuration into one-click setup",
+      "caption": "One-click setup eliminates hours of manual configuration work."
+    },
+    {
+      "id": "image-3",
+      "prompt": "A 3D render of two operating system logos - Windows and macOS - connected by a glowing bridge made of Rust code, with a unified configuration panel floating above them. The scene has a dark gradient background with cool blue and purple lighting, the bridge symbolizes cross-platform compatibility. Clean modern 3D style, smooth surfaces, subtle reflections, futuristic tech aesthetic.",
+      "style": "3d-render",
+      "placement": "section-2",
+      "altText": "Cross-platform ChatGPT configurator bridging Windows and macOS with Rust",
+      "caption": "Cross-platform support for Windows and macOS with a unified Rust backend."
+    },
+    {
+      "id": "image-4",
+      "prompt": "A modern flat illustration of a blank white-label template being customized with a paintbrush and palette icons, surrounded by corporate branding elements like logos, color swatches, and typography samples. The scene shows an empty container being filled with custom branding assets. Clean vector illustration style, bright professional colors, white background with subtle shadows, representing white-label customization for businesses.",
+      "style": "illustration",
+      "placement": "section-3",
+      "altText": "White-label rebranding customization for enterprise ChatGPT configuration tool",
+      "caption": "Enterprise white-label rebranding allows consultancies and resellers to customize the tool."
+    }
+  ]
+}

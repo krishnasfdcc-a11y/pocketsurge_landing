@@ -1,0 +1,93 @@
+{
+  "title": "LTT's True 4K Gaming PC Build Guide (2026)",
+  "metaDescription": "Build your True 4K Gaming PC with LTT's 2026 guide. Smart component pairing delivers smooth 4K performance at 144+ FPS without overspending. Start building!",
+  "keywords": {
+    "primary": "True 4K Gaming PC",
+    "secondary": [
+      "LTT Build Guide",
+      "4K gaming build 2026",
+      "high refresh rate 4K",
+      "Linus Tech Tips build",
+      "4K gaming PC"
+    ],
+    "related": [
+      "RTX 5080",
+      "RX 8800 XT",
+      "DLSS 4",
+      "FSR 4",
+      "ray tracing",
+      "144 FPS",
+      "smart component pairing",
+      "AAA gaming",
+      "gaming build 2026",
+      "bottleneck-free performance"
+    ]
+  },
+  "headings": {
+    "h1": "LTT's True 4K Gaming PC Build Guide (2026)",
+    "h2": [
+      "The LTT Philosophy: Smart Component Pairing for 4K",
+      "Core Components for a True 4K Gaming PC",
+      "The GPU: The Heart of 4K Gaming",
+      "The CPU: Balanced Bottleneck-Free Performance",
+      "Building for the Future: Upgrade Path",
+      "Conclusion: Your True 4K Gaming PC Awaits"
+    ],
+    "h3": [
+      "NVIDIA GeForce RTX 5080 vs AMD Radeon RX 8800 XT",
+      "DLSS 4 and FSR 4: Maximizing 4K Performance",
+      "AMD Ryzen 7 9800X3D vs Intel Core i7-14700K",
+      "Choosing the Right Memory and Storage",
+      "Power Supply and Cooling Essentials"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "Best GPUs for 4K Gaming in 2026",
+      "suggestedUrl": "/guides/best-gpu-4k-gaming-2026"
+    },
+    {
+      "anchor": "Ultimate 4K Gaming PC Build 2026",
+      "suggestedUrl": "/builds/ultimate-4k-gaming-pc-2026"
+    },
+    {
+      "anchor": "LTT's Classic Build Guide Series",
+      "suggestedUrl": "/series/classic-build-guides"
+    },
+    {
+      "anchor": "How to Choose a 4K Monitor",
+      "suggestedUrl": "/guides/choose-4k-monitor-2026"
+    },
+    {
+      "anchor": "Understanding Ray Tracing in Gaming",
+      "suggestedUrl": "/guides/ray-tracing-explained"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "NVIDIA GeForce RTX 50 Series",
+      "suggestedUrl": "https://www.nvidia.com/en-us/geforce/graphics-cards/"
+    },
+    {
+      "anchor": "AMD Radeon RX 8000 Series",
+      "suggestedUrl": "https://www.amd.com/en/products/graphics"
+    },
+    {
+      "anchor": "LTT True 4K Gaming PC Build Video",
+      "suggestedUrl": "https://www.youtube.com/watch?v=example"
+    },
+    {
+      "anchor": "DLSS 4 Technology Overview",
+      "suggestedUrl": "https://www.nvidia.com/en-us/geforce/technologies/dlss/"
+    },
+    {
+      "anchor": "AMD FSR 4 Technology Overview",
+      "suggestedUrl": "https://www.amd.com/en/technologies/fidelityfx-super-resolution"
+    }
+  ],
+  "structuredData": {
+    "@type": "Article",
+    "headline": "LTT's True 4K Gaming PC Build Guide (2026)",
+    "description": "Build your True 4K Gaming PC with LTT's 2026 guide. Smart component pairing delivers smooth 4K performance at 144+ FPS without overspending. Start building!"
+  }
+}

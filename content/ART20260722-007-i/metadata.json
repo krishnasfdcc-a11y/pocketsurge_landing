@@ -1,0 +1,53 @@
+{
+  "slug": "liquid-components-a-glassmorphism-react-library-built-on-shadcnui",
+  "title": "Liquid Components: Glassmorphism React Library on shadcn/ui",
+  "excerpt": "Liquid Components is an open-source React component library that brings the trendy glassmorphism aesthetic to your projects. Built on shadcn/ui, it offers ready-to-use, accessible components that streamline UI development and add a modern, fluid look to web applications.",
+  "keywords": [
+    "liquid-components",
+    "glassmorphism",
+    "shadcn/ui",
+    "react component library",
+    "open-source UI",
+    "glassmorphism react components",
+    "web design trends",
+    "frontend development"
+  ],
+  "readingTime": 6,
+  "wordCount": 1051,
+  "category": "web-development",
+  "researchId": "92074883-5ce4-4ffd-aeaf-ad57dd41537f",
+  "topicId": "1d8ff206-c98d-4a62-8940-269bf6c639df",
+  "generatedAt": "2026-07-22T11:40:10.288Z",
+  "description": "Liquid Components is an open-source glassmorphism React library built on shadcn/ui. It offers ready-to-use, accessible components for modern web interfaces.",
+  "og": {
+    "title": "Liquid Components: Glassmorphism React Library on shadcn/ui",
+    "description": "Liquid Components is an open-source glassmorphism React library built on shadcn/ui. It offers ready-to-use, accessible components for modern web interfaces.",
+    "type": "article",
+    "image": "An illustration of various glassmorphism UI components including cards, buttons, and modals with frosted glass effect on a colorful gradient background"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Liquid Components: Glassmorphism React Library on shadcn/ui",
+    "description": "Liquid Components is an open-source glassmorphism React library built on shadcn/ui. It offers ready-to-use, accessible components for modern web interfaces."
+  },
+  "schemaOrg": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Liquid Components: A Glassmorphism React Library Built on shadcn/ui",
+    "description": "Liquid Components is an open-source glassmorphism React library built on shadcn/ui. It offers ready-to-use, accessible components for modern web interfaces.",
+    "author": {
+      "@type": "Person",
+      "name": "TechPulse Team"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "TechPulse"
+    },
+    "datePublished": "2026-07-22T11:40:10.288Z",
+    "dateModified": "2026-07-22T11:40:10.288Z",
+    "image": "An illustration of various glassmorphism UI components including cards, buttons, and modals with frosted glass effect on a colorful gradient background"
+  },
+  "language": "en",
+  "status": "approved",
+  "approvedAt": "2026-07-22T12:52:45.488Z"
+}

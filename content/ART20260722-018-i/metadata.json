@@ -1,0 +1,52 @@
+{
+  "slug": "neural-signals-a-powerful-c-library-for-neural-signal-processing-and-time-warping-analysis",
+  "title": "Neural-Signals: C# Neural Signal Processing & Time-Warping",
+  "excerpt": "Discover Neural-Signals, an open-source C# library that brings robust dynamic time warping and signal processing to .NET developers. Learn how this tool accelerates EEG and EMG analysis with up to 3x faster DTW computation and streamlined pipelines.",
+  "keywords": [
+    "Neural-Signals",
+    "C# neural signal processing",
+    "Dynamic Time Warping",
+    "EEG preprocessing",
+    "BCI development",
+    "biosignal processing",
+    "time series analysis",
+    "open-source C# library"
+  ],
+  "readingTime": 5,
+  "wordCount": 950,
+  "category": "data-science",
+  "researchId": "2f46a5f4-ace6-45f6-8e39-204e0ce98d9b",
+  "topicId": "09e370fd-10bd-42e7-9c9e-2d6779fe24bf",
+  "generatedAt": "2026-07-22T11:52:57.318Z",
+  "description": "Neural-Signals is an open-source C# library for dynamic time warping and signal processing. Learn how it accelerates EEG/EMG analysis with up to 3x faster DTW.",
+  "og": {
+    "title": "Neural-Signals: A Powerful C# Library for Neural Signal Processing and Time-Warping Analysis",
+    "description": "Neural-Signals is an open-source C# library for neural signal processing, offering 3x faster DTW computation over Python, flexible preprocessing, and feature extraction for EEG and EMG analysis. Ideal for BCI developers and researchers.",
+    "type": "article",
+    "image": "A diagram illustrating the Neural-Signals library architecture and its Dynamic Time Warping alignment process"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Neural-Signals: C# Neural Signal Processing & Time-Warping",
+    "description": "Neural-Signals brings robust dynamic time warping and signal preprocessing to .NET developers, accelerating EEG/EMG analysis with 3x faster DTW. Open-source library for BCI research."
+  },
+  "schemaOrg": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Neural-Signals: A Powerful C# Library for Neural Signal Processing and Time-Warping Analysis",
+    "description": "Discover Neural-Signals, an open-source C# library that brings robust dynamic time warping and signal processing to .NET developers. Learn how this tool accelerates EEG and EMG analysis with up to 3x faster DTW computation and streamlined pipelines.",
+    "author": {
+      "@type": "Person",
+      "name": "TechPulse Team"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "TechPulse"
+    },
+    "datePublished": "2026-07-22T11:52:57.318Z",
+    "dateModified": "2026-07-22T11:52:57.318Z",
+    "image": "A diagram illustrating the Neural-Signals library architecture and its Dynamic Time Warping alignment process"
+  },
+  "status": "approved",
+  "approvedAt": "2026-07-22T12:52:45.576Z"
+}

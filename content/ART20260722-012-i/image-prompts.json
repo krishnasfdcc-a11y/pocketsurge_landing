@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A cinematic shot of the U.S.S. Enterprise bridge with flickering lights, holographic screens displaying error messages and red code, cables hanging loose, and crew members looking frustrated. Chaotic atmosphere reflecting technical debt, dark blue and orange color palette, dramatic sci-fi lighting.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Enterprise bridge overrun with glitches and error codes",
+      "caption": "The Enterprise bridge as a metaphor for narrative technical debt."
+    },
+    {
+      "id": "image-2",
+      "prompt": "A photorealistic scene of a holodeck archway partially disintegrated, revealing an empty room behind a flickering holographic surface. Edges show digital gridlines and code. Stark white clinical light contrasts with colorful hologram edges. Mood is anticlimactic and hollow, symbolizing a flashy but empty gimmick.",
+      "style": "photorealistic",
+      "placement": "section-1",
+      "altText": "Malfunctioning holodeck showing emptiness behind the illusion",
+      "caption": "The holodeck gimmick: visually impressive but lacking substance."
+    },
+    {
+      "id": "image-3",
+      "prompt": "A 3D render of a starship engine room with a massive backlog board on the wall labeled 'FEATURE CREEP' and 'TECH DEBT'. A Starfleet officer struggles to attach a shiny new engine part that doesn't fit, while other components lie disassembled. Vibrant colors, exaggerated proportions, satirical yet realistic lighting.",
+      "style": "3d-render",
+      "placement": "section-2",
+      "altText": "Feature creep illustrated in a starship engine room",
+      "caption": "Feature creep: adding spectacle while ignoring core character bugs."
+    },
+    {
+      "id": "image-4",
+      "prompt": "A close-up cinematic shot of Captain Pike (Anson Mount) in Starfleet uniform, sitting at a desk fixing a broken 24th-century printer with a frustrated expression. Behind him, a viewscreen shows a spectacular but irrelevant space battle. Dim lighting with soft key light on his face. Photorealistic style.",
+      "style": "photorealistic",
+      "placement": "section-3",
+      "altText": "Captain Pike repairing a printer while a battle rages on screen",
+      "caption": "Wasted talent: Pike doing low-impact tasks while spectacle surrounds him."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "Cinematic aerial view of a digital data stream transforming from bulky media files into sleek, glowing CAS layers feeding into a Docker container, cloud storage icons in background, neon blue and green lighting, high-tech atmosphere, intricate network cables, volumetric lighting, 8K, photorealistic, sharp focus, dramatic angle, motion blur on data packets, glowing particles floating, modern data center aesthetic.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Transformation of media assets into CAS layers for Docker containers via cloud pipeline.",
+      "caption": "The tianjian518/casgen pipeline: from cloud storage to container."
+    },
+    {
+      "id": "image-2",
+      "prompt": "Minimalist illustration of a Python script executing on a laptop screen, with China Mobile Cloud Drive folder icon and CAS output symbol, zero network traffic badge, clean desk setup with coffee, soft natural lighting from window, tech startup vibe, vector illustration style, flat design with subtle gradients, laptop screen displaying code editor, wireless mouse and notepad beside laptop, calm productive atmosphere, pastel color palette, focus on simplicity and clarity.",
+      "style": "illustration",
+      "placement": "section-1",
+      "altText": "Local conversion of 139 cloud drive files to CAS using Python tool.",
+      "caption": "Local conversion with zero network traffic."
+    },
+    {
+      "id": "image-3",
+      "prompt": "Infographic explaining content-addressable storage deduplication: two identical video files highlighted with same hash value pointing to single storage block, percentage savings callout box showing '30-50% storage reduction', timeline showing faster deployments and backups, modern infographic style, navy blue and teal color scheme, clean typography, iconography, side-by-side comparison of traditional vs CAS storage, bar charts, arrows indicating efficiency, realistic textures on icons.",
+      "style": "infographic",
+      "placement": "section-2",
+      "altText": "Infographic showing content-addressable storage deduplication and storage savings.",
+      "caption": "CAS deduplication can reduce storage footprint by 30-50%."
+    },
+    {
+      "id": "image-4",
+      "prompt": "Diagram of automated CI/CD pipeline: four sequential steps with icons – China Mobile Cloud Drive, tianjian518/casgen conversion engine, CAS data layer optimization, Docker image build and deployment to production servers. Clean flowchart design, glowing node connections, digital blueprint aesthetic, dark background with high contrast neon lines, stylized connectors with pulsing light, subtle grid underlay, minimalist icons for each step, professional technical diagram look.",
+      "style": "diagram",
+      "placement": "section-3",
+      "altText": "Automated pipeline from cloud drive to Docker Hub via CAS conversion.",
+      "caption": "Four-step pipeline: ingest, convert, layer, deploy."
+    },
+    {
+      "id": "image-5",
+      "prompt": "3D render of a futuristic data center with holographic display showing a CI/CD pipeline integrating content-addressable storage, glowing CAS nodes alongside Docker containers, streamlined data flow paths, blue and purple lighting, sci-fi design, floating binary code, high detail, octane render, realistic server racks with blinking LEDs, central glass hologram projecting pipeline stages, depth of field, cinematic composition, vibrant colors.",
+      "style": "3d-render",
+      "placement": "section-4",
+      "altText": "Futuristic data center with holographic CI/CD and CAS integration.",
+      "caption": "CAS in CI/CD: modern DataOps approach."
+    }
+  ]
+}

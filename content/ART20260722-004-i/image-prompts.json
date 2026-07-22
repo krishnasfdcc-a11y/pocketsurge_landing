@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A photorealistic futuristic biotechnology laboratory where a glowing DNA helix intertwines with digital circuits, holographic interfaces project protein structures and machine learning models, researchers collaborate under soft blue ambient light, cinematic depth of field, emphasizing the fusion of biology and computation, ultra-detailed 8K render, inspirational mood.",
+      "style": "photorealistic",
+      "placement": "hero",
+      "altText": "Futuristic bio-computational lab with DNA and AI holograms",
+      "caption": "Conceptual visualization of the science-compute convergence."
+    },
+    {
+      "id": "image-2",
+      "prompt": "An abstract illustration of a bridge between a biological cell and a computer microchip, with luminous data streams flowing across, vibrant colors like cyan and magenta, clean minimal lines, representing the convergence of biology and computation, mood of connectivity and innovation, digital art style.",
+      "style": "illustration",
+      "placement": "section-1",
+      "altText": "Abstract illustration of biology and computation convergence",
+      "caption": "The new frontier where biology meets compute."
+    },
+    {
+      "id": "image-3",
+      "prompt": "A 3D render of an infographic showing fund growth from $500 million to $800 million, with glowing rectangular bars and upward arrows, surrounded by abstract DNA and circuit board patterns, dark blue background with neon orange highlights, sense of exponential growth and investment surge, detailed data visualization.",
+      "style": "3d-render",
+      "placement": "section-2",
+      "altText": "3D chart showing Dimension Capital fund growth from $500 million to $800 million",
+      "caption": "Visualization of the 60% fund size increase."
+    },
+    {
+      "id": "image-4",
+      "prompt": "A photorealistic busy venture capital office with multiple monitors displaying biotech stock charts and AI algorithms, investors engaged in discussion around a glass table, holographic projections of molecules and DNA strands in the air, warm ambient lighting, mood of excitement and investment opportunity, corporate but innovative setting.",
+      "style": "photorealistic",
+      "placement": "section-3",
+      "altText": "Venture capitalists discussing AI-driven biotech investments in modern office",
+      "caption": "Investors flocking to AI-enabled life sciences."
+    },
+    {
+      "id": "image-5",
+      "prompt": "A close-up photorealistic image of a scientist using a tablet with molecular models overlay on a lab bench, background shows a screen with AI drug interaction predictions, clean modern laboratory with soft lighting, shallow depth of field focusing on the tablet and hands, mood of precision and breakthrough, detailed textures.",
+      "style": "photorealistic",
+      "placement": "section-4",
+      "altText": "Scientist using AI for drug discovery in modern laboratory",
+      "caption": "AI-driven drug discovery in action."
+    }
+  ]
+}

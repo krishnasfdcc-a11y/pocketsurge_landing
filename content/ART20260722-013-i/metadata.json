@@ -1,0 +1,53 @@
+{
+  "slug": "pwa-sense-bridge-privacy-first-sensor-access-for-progressive-web-apps",
+  "title": "PWA Sense Bridge: Privacy-First Sensor for PWAs",
+  "excerpt": "PWA Sense Bridge provides privacy-first access to mobile motion sensors for Progressive Web Apps, enabling LLM integration with real-world data across Android and iOS.",
+  "keywords": [
+    "pwa-sense-bridge",
+    "progressive web apps",
+    "mobile sensor API",
+    "LLM integration",
+    "privacy-first sensor access",
+    "device orientation API",
+    "JavaScript library",
+    "motion sensors",
+    "accelerometer",
+    "gyroscope"
+  ],
+  "readingTime": 5,
+  "wordCount": 915,
+  "category": "mobile-development",
+  "researchId": "191ffde8-ceef-4cc7-9ef4-437414231049",
+  "topicId": "004d6b18-8038-48f9-a476-f2d25e7d40b7",
+  "generatedAt": "2026-07-22T11:48:59.507Z",
+  "description": "PWA Sense Bridge provides privacy-first access to mobile motion sensors for Progressive Web Apps, enabling LLM integration with real-world data across Android and iOS.",
+  "og": {
+    "title": "PWA Sense Bridge: Privacy-First Sensor Access for Progressive Web Apps",
+    "description": "PWA Sense Bridge provides privacy-first access to mobile motion sensors for Progressive Web Apps, enabling LLM integration with real-world data across Android and iOS.",
+    "type": "article",
+    "image": "An illustration showing a mobile phone with sensor data streams connecting to a web app interface, with privacy lock icon overlay."
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "PWA Sense Bridge: Privacy-First Sensor Access for Progressive Web Apps",
+    "description": "PWA Sense Bridge provides privacy-first access to mobile motion sensors for Progressive Web Apps, enabling LLM integration with real-world data across Android and iOS."
+  },
+  "schemaOrg": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "PWA Sense Bridge: Privacy-First Sensor Access for Progressive Web Apps",
+    "description": "PWA Sense Bridge provides privacy-first access to mobile motion sensors for Progressive Web Apps, enabling LLM integration with real-world data across Android and iOS.",
+    "author": {
+      "@type": "Person",
+      "name": "TechPulse Team"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "TechPulse"
+    },
+    "datePublished": "2026-07-22T11:48:59.507Z",
+    "dateModified": "2026-07-22T11:48:59.507Z"
+  },
+  "status": "approved",
+  "approvedAt": "2026-07-22T12:52:45.530Z"
+}

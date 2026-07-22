@@ -1,0 +1,49 @@
+{
+  "slug": "antigravity-arcade-from-prompt-to-game-in-minutes",
+  "title": "Antigravity Arcade: From prompt to game in minutes",
+  "excerpt": "Discover how Antigravity Arcade uses generative AI to transform text prompts into playable game prototypes in minutes, backed by data showing 55% studio adoption and 300% yearly growth in AI prototyping.",
+  "keywords": [
+    "antigravity arcade",
+    "generative ai game development",
+    "ai game prototyping",
+    "prompt to game",
+    "ai game development trends"
+  ],
+  "readingTime": 8,
+  "wordCount": 1514,
+  "category": "gaming",
+  "researchId": "2fff97cb-43f5-4d43-b9e7-9112b8423859",
+  "topicId": "2398e29f-8e6f-4cec-a6e0-4dacbf656497",
+  "generatedAt": "2026-07-22T11:55:20.531Z",
+  "description": "Discover how Antigravity Arcade uses generative AI to transform text prompts into playable game prototypes in minutes, backed by data showing 55% studio adoption and 300% yearly growth in AI prototyping.",
+  "og": {
+    "title": "Antigravity Arcade: From prompt to game in minutes",
+    "description": "Discover how Antigravity Arcade uses generative AI to transform text prompts into playable game prototypes in minutes, backed by data showing 55% studio adoption and 300% yearly growth in AI prototyping.",
+    "type": "article",
+    "image": "An illustration of the Antigravity Arcade platform showing a user typing a game prompt on the left and the resulting arcade game scene on the right, with AI generation elements in the background."
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Antigravity Arcade: From prompt to game in minutes",
+    "description": "Discover how Antigravity Arcade uses generative AI to transform text prompts into playable game prototypes in minutes, backed by data showing 55% studio adoption and 300% yearly growth in AI prototyping."
+  },
+  "schemaOrg": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Antigravity Arcade: From prompt to game in minutes",
+    "description": "Discover how Antigravity Arcade uses generative AI to transform text prompts into playable game prototypes in minutes, backed by data showing 55% studio adoption and 300% yearly growth in AI prototyping.",
+    "author": {
+      "@type": "Person",
+      "name": "TechPulse Team"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "TechPulse"
+    },
+    "datePublished": "2026-07-22T11:55:20.531Z",
+    "dateModified": "2026-07-22T11:55:20.531Z"
+  },
+  "language": "en",
+  "status": "approved",
+  "approvedAt": "2026-07-22T12:52:45.583Z"
+}

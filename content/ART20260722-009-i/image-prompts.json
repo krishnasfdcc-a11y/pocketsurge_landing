@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A dramatic cinematic shot of a modern glass skyscraper with Capital One logo at dusk, looming question marks faintly reflected in the windows, moody blue and orange lighting, clouds gathering overhead suggesting uncertainty, photorealistic architectural photography style, shallow depth of field, 8K quality",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Capital One headquarters with question marks reflecting uncertainty about Discover and Brex deals",
+      "caption": "Image: Conceptual representation of market uncertainty around Capital One's strategic deals"
+    },
+    {
+      "id": "image-2",
+      "prompt": "A clean financial dashboard infographic with flat design, showing steady bar charts and line graphs in corporate blue and green, key metrics highlighted with circles reading EPS, Revenue, NIM, minimalist data visualization style, soft studio lighting, professional and calm atmosphere, 4K resolution",
+      "style": "infographic",
+      "placement": "section-1",
+      "altText": "Financial dashboard showing Capital One earnings metrics including EPS, revenue, and net interest margin",
+      "caption": "Capital One's core metrics showed stability but no upside catalysts"
+    },
+    {
+      "id": "image-3",
+      "prompt": "A surreal 3D render of two massive metallic puzzle pieces slowly connecting, one piece has Capital One logo etched in blue, the other has Discover Financial logo in orange, golden light emanating from the seam between them, dark atmospheric background with floating digital particles, cinematic volumetric lighting, sense of anticipation and complexity, hyperdetailed texture work",
+      "style": "3d-render",
+      "placement": "section-2",
+      "altText": "Capital One and Discover puzzle pieces connecting symbolizing the acquisition deal",
+      "caption": "The Discover acquisition promises synergies but integration remains the critical unknown"
+    },
+    {
+      "id": "image-4",
+      "prompt": "A modern split composition of two shaking hands emerging from digital circuits and code, left side rendered in Capital One blue tones with traditional bank elements, right side in Brex teal with startup fintech icons like mobile apps and cloud symbols, clean white background, professional illustration style with smooth gradients, symbolic of partnership and technology fusion, bright optimistic lighting",
+      "style": "illustration",
+      "placement": "section-3",
+      "altText": "Handshake between traditional banking and digital fintech symbolizing Capital One and Brex partnership",
+      "caption": "The Brex alliance blends Capital One's balance sheet with digital-first fintech agility"
+    },
+    {
+      "id": "image-5",
+      "prompt": "A minimalist financial chart showing a declining trend line in red against a dark gradient background, small investor silhouette figures looking up at the graph from below, subtle downward arrows in translucent white, cool blue and warm amber accent lighting creating tension, clean modern data visualization aesthetic, moody atmospheric depth, 4K resolution",
+      "style": "minimal",
+      "placement": "section-4",
+      "altText": "Declining stock chart showing Capital One underperformance and declining investor sentiment",
+      "caption": "Investor sentiment on deal synergy declined 5% after the earnings announcement"
+    }
+  ]
+}

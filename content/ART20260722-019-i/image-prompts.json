@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A dramatic dark desktop scene showcasing premium PC gaming components arranged on an anti-static mat: an NVIDIA GeForce RTX 5080 GPU with glowing RGB LEDs, an AMD CPU in its socket, DDR5 RAM sticks, and an NVMe SSD. RGB lighting creates cyan and magenta reflections on the mat. The components are arranged in a semi-circle with the motherboard as centerpiece. Photorealistic macro photography style, shallow depth of field, high detail, 8K quality, dramatic mood lighting, gaming setup aesthetic.",
+      "style": "photorealistic",
+      "placement": "hero",
+      "altText": "High-end PC gaming components including RTX 5080 GPU, AMD CPU, DDR5 RAM arranged on desk",
+      "caption": "Smart component pairing delivers true 4K gaming without overspending."
+    },
+    {
+      "id": "image-2",
+      "prompt": "An infographic comparison showing two gaming PCs side by side. Left side: an overpriced build with a gold price tag showing wasted money on unnecessary parts. Right side: LTT's smart-paired build with a green checkmark and lower price tag achieving the same 144+ FPS in 4K gaming. The infographic uses clean flat design with dark background, bright blue and green accent colors, component icons, and performance bar charts.",
+      "style": "infographic",
+      "placement": "section-1",
+      "altText": "Cost comparison infographic showing smart-paired build vs overpriced build at same 4K performance",
+      "caption": "Smart pairing gets 95% of the performance for a fraction of the cost."
+    },
+    {
+      "id": "image-3",
+      "prompt": "A clean isometric 3D render of a modern gaming desk setup. A large ultrawide monitor displays a 4K game scene with vibrant graphics and an FPS counter showing '144 FPS'. Below the desk, a glass-side PC case reveals glowing components. RGB lighting illuminates the desk with a purple and blue color scheme. A mechanical keyboard and gaming mouse complete the setup. Photorealistic 3D render, dramatic lighting, premium gaming room atmosphere.",
+      "style": "3d-render",
+      "placement": "section-2",
+      "altText": "Isometric 3D render of 4K gaming desk with RTX 5080 PC and ultrawide monitor",
+      "caption": "Achieve 144+ FPS in AAA titles with full ray tracing at true 4K resolution."
+    },
+    {
+      "id": "image-4",
+      "prompt": "A minimal flat vector illustration of a performance scaling chart showing CPU vs GPU utilization for 4K gaming. The GPU bar is fully saturated (100%) while the CPU bar shows moderate usage (40%), illustrating that 4K gaming is GPU-bound. Clean line art with blue and orange gradients, simple icons representing processor and graphics card, dark background with grid lines, minimalist diagram style.",
+      "style": "minimal",
+      "placement": "section-3",
+      "altText": "Performance chart showing GPU-bound nature of 4K gaming with CPU headroom",
+      "caption": "At 4K resolution, the GPU does the heavy lifting - invest where it matters most."
+    }
+  ]
+}

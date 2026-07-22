@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What is a telematics control unit and why is it vulnerable?",
+      "answer": "A telematics control unit (TCU) is an aftermarket device that provides features like GPS tracking, remote start, and emergency assistance. It connects to your car's internal network (CAN bus) and maintains a constant cellular link to the cloud. Researchers at IOActive discovered critical security flaws—such as weak authentication and hardcoded credentials—that let remote attackers take control of vehicle functions."
+    },
+    {
+      "question": "How can I find out if my car has a vulnerable telematics device?",
+      "answer": "Check for a small box under the dashboard or in the trunk, often connected to the vehicle's diagnostic port. You can also review your car's documentation for references to a telematics or tracking system. If you're unsure, your local dealer can tell you whether such a device was installed as part of an optional package."
+    },
+    {
+      "question": "What can hackers do once they compromise the TCU?",
+      "answer": "Once inside the TCU, an attacker can send malicious commands over the CAN bus to unlock doors, start the engine, disable brakes, or even cut the engine while driving. They can also track your location in real time. This turns a convenience feature into a dangerous security risk."
+    },
+    {
+      "question": "Why does the device stay active even if I never subscribed to the service?",
+      "answer": "The device is designed to maintain its cellular connection even if you never activate the service, because it used by dealerships for inventory tracking or as a sales tool. Researchers found that the device remains online and able to receive commands from the cloud at all times. This means it can be targeted by remote attackers even if you never use its features."
+    },
+    {
+      "question": "What immediate steps can I take to protect my car from this type of attack?",
+      "answer": "First, check with your dealer to see if your vehicle is affected and if a patch is available. If a fix exists, apply it immediately. If not, you can physically disconnect the device by pulling its fuse or having a mechanic unplug it, but that may disable legitimate features like emergency call systems."
+    }
+  ]
+}

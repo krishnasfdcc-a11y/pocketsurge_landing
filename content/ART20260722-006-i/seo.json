@@ -1,0 +1,93 @@
+{
+  "title": "Run Poolside Laguna S 2.1 Locally on macOS with MLX",
+  "metaDescription": "Learn to run Poolside Laguna S 2.1, a state-of-the-art code generation LLM, on Apple Silicon Mac using MLX. Includes setup, benchmarks, and local AI benefits.",
+  "keywords": {
+    "primary": "Poolside Laguna S 2.1",
+    "secondary": [
+      "local AI code generation",
+      "MLX framework",
+      "Apple Silicon",
+      "local LLM inference",
+      "macOS AI coding assistant"
+    ],
+    "related": [
+      "code generation LLM",
+      "Apple MLX",
+      "local LLM on Mac",
+      "AI coding assistant",
+      "offline AI coding",
+      "privacy-preserving AI",
+      "7B parameter model",
+      "machine learning on Apple Silicon",
+      "AI code completion"
+    ]
+  },
+  "headings": {
+    "h1": "Run Poolside Laguna S 2.1 Locally on macOS with MLX",
+    "h2": [
+      "What Is Poolside Laguna S 2.1?",
+      "Running Laguna S 2.1 on macOS with MLX",
+      "Requirements and Setup",
+      "Performance and Benchmarks",
+      "Benefits of Local AI for Developers",
+      "Conclusion"
+    ],
+    "h3": [
+      "Clone the Repository",
+      "Install Dependencies",
+      "Download Model Weights",
+      "Run Inference"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "Introduction to MLX framework",
+      "suggestedUrl": "/guides/mlx-framework-overview"
+    },
+    {
+      "anchor": "Benefits of local AI inference",
+      "suggestedUrl": "/articles/benefits-of-local-ai-for-developers"
+    },
+    {
+      "anchor": "Top code generation LLMs compared",
+      "suggestedUrl": "/comparisons/code-generation-llms"
+    },
+    {
+      "anchor": "Apple Silicon AI performance guide",
+      "suggestedUrl": "/guides/apple-silicon-ai-performance"
+    },
+    {
+      "anchor": "Setting up a local AI coding assistant",
+      "suggestedUrl": "/tutorials/local-ai-coding-assistant"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "Poolside Laguna S 2.1 GitHub repository",
+      "suggestedUrl": "https://github.com/tanishq-dubey/macos-laguna-s2.1"
+    },
+    {
+      "anchor": "Apple MLX framework documentation",
+      "suggestedUrl": "https://developer.apple.com/machine-learning/mlx/"
+    },
+    {
+      "anchor": "Poolside AI official website",
+      "suggestedUrl": "https://poolside.ai"
+    },
+    {
+      "anchor": "Hugging Face Poolside models",
+      "suggestedUrl": "https://huggingface.co/poolside"
+    },
+    {
+      "anchor": "Understand local LLM inference on Apple Silicon",
+      "suggestedUrl": "https://machinelearning.apple.com/research/mlx"
+    }
+  ],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Run Poolside Laguna S 2.1 Locally on macOS with MLX",
+    "description": "Learn how to run Poolside Laguna S 2.1, a state-of-the-art code generation LLM, directly on your Apple Silicon Mac using MLX. This guide covers performance benchmarks, setup steps, and the benefits of local AI for developers.",
+    "datePublished": "2026-07-22T11:39:27.308Z"
+  }
+}

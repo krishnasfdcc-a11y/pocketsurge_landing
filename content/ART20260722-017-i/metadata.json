@@ -1,0 +1,55 @@
+{
+  "slug": "neural-mazes-production-ocr-course-build-scalable-pipelines-with-rust-and-vllm",
+  "title": "Neural Maze's Rust & vLLM Production OCR Course",
+  "excerpt": "The neural-maze/production-ocr-course offers a comprehensive, hands-on guide to constructing scalable OCR pipelines using a modern DevOps stack. It covers Rust for performance, vLLM for efficient LLM inference, Redis messaging, KEDA autoscaling, and Kubernetes orchestration, making it essential for engineers deploying AI at scale.",
+  "keywords": [
+    "production OCR pipeline",
+    "neural-maze production OCR course",
+    "Rust DevOps",
+    "vLLM inference",
+    "KEDA autoscaling",
+    "Kubernetes OCR",
+    "event-driven autoscaling for ML",
+    "LLM serving",
+    "scalable AI infrastructure",
+    "OCR with Rust"
+  ],
+  "readingTime": 6,
+  "wordCount": 1145,
+  "category": "devops",
+  "researchId": "c37dde71-ed36-4284-a94a-316b6abc0417",
+  "topicId": "862f0f3d-7a82-43f3-8448-e02b3a3a44f6",
+  "generatedAt": "2026-07-22T11:52:34.457Z",
+  "description": "Neural Maze's Production OCR course offers a hands-on guide to building scalable OCR pipelines with Rust, vLLM, Redis, KEDA, and Kubernetes for modern AI infrastructure.",
+  "og": {
+    "title": "Neural Maze's Production OCR Course: Build Scalable Pipelines with Rust & vLLM",
+    "description": "Neural Maze's Production OCR Course provides hands-on guidance for building scalable OCR pipelines with Rust, vLLM, Redis, KEDA, and Kubernetes. Essential for engineers deploying AI at scale.",
+    "type": "article",
+    "image": "A diagram illustrating a production OCR pipeline flowing from input images through a Rust service, Redis queue, vLLM inference engine, and Kubernetes cluster managed by KEDA autoscaling."
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Neural Maze's Rust & vLLM Production OCR Course",
+    "description": "Neural Maze's Production OCR Course provides hands-on guidance for building scalable OCR pipelines with Rust, vLLM, Redis, KEDA, and Kubernetes. Essential for engineers deploying AI at scale."
+  },
+  "schemaOrg": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Neural Maze's Production OCR Course: Build Scalable Pipelines with Rust & vLLM",
+    "description": "Neural Maze's Production OCR course offers a hands-on guide to building scalable OCR pipelines with Rust, vLLM, Redis, KEDA, and Kubernetes for modern AI infrastructure.",
+    "author": {
+      "@type": "Person",
+      "name": "TechPulse Team"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "TechPulse"
+    },
+    "datePublished": "2026-07-22T11:52:34.457Z",
+    "dateModified": "2026-07-22T11:52:34.457Z",
+    "image": "Architecture diagram of a production OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes"
+  },
+  "inLanguage": "en",
+  "status": "approved",
+  "approvedAt": "2026-07-22T12:52:45.568Z"
+}

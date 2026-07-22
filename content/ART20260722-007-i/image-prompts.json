@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A futuristic web interface with glassmorphism design elements. Frosted glass panels with soft shadows and background blur overlay a vibrant gradient background. React logo and various UI components like cards and buttons are displayed on different glass layers. Soft studio lighting, shallow depth of field, modern and sleek mood. Photorealistic style.",
+      "style": "photorealistic",
+      "placement": "hero",
+      "altText": "Glassmorphism web interface with React components and frosted glass UI",
+      "caption": ""
+    },
+    {
+      "id": "image-2",
+      "prompt": "An infographic timeline showing the rise of glassmorphism in web design from 2021 to 2025. Icons represent design trends. Highlighted translucent glass UI elements, desktop and mobile screens with glassmorphism cards. Clean background with subtle grid. Bright colors and data points indicating growth. Infographic style.",
+      "style": "infographic",
+      "placement": "section-1",
+      "altText": "Infographic timeline of glassmorphism adoption in web design 2021-2025",
+      "caption": ""
+    },
+    {
+      "id": "image-3",
+      "prompt": "A 3D render showcase of glassmorphism React UI components: a glass card, a translucent button, a modal with blur backdrop, and a text input. Components are arranged on a dark surface with colorful reflections and lighting. Each component has a liquid glass appearance with soft edges and vibrant underlay. Futuristic and polished. 3D render style.",
+      "style": "3d-render",
+      "placement": "section-2",
+      "altText": "3D render of glassmorphism React components including card, button, modal, and input",
+      "caption": ""
+    },
+    {
+      "id": "image-4",
+      "prompt": "A diagram illustrating the integration of Liquid Components with shadcn/ui. Two blocks represent the libraries connected by arrows. Code snippets in a terminal window show importing components. Icons for accessibility and Tailwind CSS are visible. Clean white background with minimal line art and blue accents. Diagram style.",
+      "style": "diagram",
+      "placement": "section-3",
+      "altText": "Diagram of integration between Liquid Components and shadcn/ui with code examples",
+      "caption": ""
+    },
+    {
+      "id": "image-5",
+      "prompt": "A minimal flat vector illustration showing accessible glassmorphism interface elements. A screen with glass cards and contrasting text. Symbols for contrast checker and screen reader are present. Soft colors, clean lines. Emphasizes usability. Minimal style.",
+      "style": "minimal",
+      "placement": "section-4",
+      "altText": "Minimal illustration of accessible glassmorphism UI with accessibility symbols",
+      "caption": ""
+    }
+  ]
+}

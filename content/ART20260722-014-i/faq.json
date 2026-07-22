@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What is Numerical Weather Prediction (NWP) and why is it important for wind power forecasting?",
+      "answer": "NWP uses mathematical models of the atmosphere to forecast weather variables like wind speed, direction, and temperature. It is critical for day-ahead wind power forecasting because it provides the meteorological data needed to predict wind generation hours to days in advance, which supports grid scheduling, energy trading, and reserve allocation."
+    },
+    {
+      "question": "How do I get started with the open-source wind power forecasting pipeline from the article?",
+      "answer": "Start by cloning the GitHub repository (Mr-yiyi/NWP-Driven-Wind-Power-Forecasting) and following the setup documentation. You will need NWP data (e.g., GFS or ECMWF forecasts) and historical wind power data from your wind farm. The pipeline provides preprocessing scripts, model training modules, and evaluation tools to run a complete forecast workflow."
+    },
+    {
+      "question": "What machine learning models does the pipeline support for day-ahead forecasting?",
+      "answer": "The pipeline supports several machine learning models, including random forests, gradient boosting, and deep neural networks. Users can select and compare different algorithms, as the modular design allows easy swapping of models. The best model depends on the specific data characteristics and farm location."
+    },
+    {
+      "question": "Can this pipeline handle forecasting for multiple wind farms at the same time?",
+      "answer": "Yes, the pipeline is designed to manage multiple wind farms by organizing data with farm identifiers and allowing separate training and evaluation for each site. This makes it practical for portfolio-level forecasting, where operators need predictions for several farms simultaneously."
+    },
+    {
+      "question": "What are the common challenges when using NWP data in wind power forecasting and how does the pipeline address them?",
+      "answer": "NWP data often has coarse spatial resolution and systematic biases, which can degrade forecast accuracy. The pipeline mitigates these issues through preprocessing steps like interpolation to match site locations, bias correction techniques, and feature engineering that extracts relevant meteorological signals. It also provides model evaluation metrics to help users identify and improve weak forecasts."
+    }
+  ]
+}

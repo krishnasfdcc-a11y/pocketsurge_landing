@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What is the science-compute convergence?",
+      "answer": "The science-compute convergence refers to the integration of advanced computational techniques, particularly artificial intelligence and machine learning, with biological discovery and healthcare. This approach accelerates drug development, molecular biology insights, and other life sciences breakthroughs by leveraging data and algorithms."
+    },
+    {
+      "question": "Why is Dimension Capital raising such a large fund?",
+      "answer": "Dimension Capital's $800 million fund reflects surging investor interest in startups at the intersection of biology and computation. The 60% increase from their previous fund in just 18 months indicates both the firm's strong performance and the growing conviction that AI-driven biotech will define the future of healthcare."
+    },
+    {
+      "question": "How is AI used in biotech startups?",
+      "answer": "AI is employed to analyze vast biological datasets, predict molecular interactions, and streamline drug discovery. Startups like Chai Discovery use machine learning to model biological processes, identify potential drug candidates, and reduce the time and cost of bringing new therapies to market."
+    },
+    {
+      "question": "What does the rise of science-compute investing mean for the future of medicine?",
+      "answer": "The influx of capital signals that computation will play a central role in next-generation medicine. We can expect faster development of personalized treatments, more efficient clinical trials, and breakthroughs in areas like rare diseases and oncology, driven by AI-powered insights."
+    },
+    {
+      "question": "How does Dimension Capital's focus differ from traditional biotech VCs?",
+      "answer": "Traditional biotech VCs often invest in companies focused on specific therapeutic areas or platform technologies. Dimension Capital uniquely targets startups that combine deep biology with advanced computation, emphasizing that the most impactful biotech firms will be those that treat biology as an information science."
+    }
+  ]
+}
