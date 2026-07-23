@@ -1,5 +1,6 @@
 "use client";
 
+import { useState } from "react";
 import { SITE } from "@/config/site";
 
 export function ArticleShare({
@@ -12,6 +13,17 @@ export function ArticleShare({
   const url = `${SITE.url}/article/${slug}`;
   const encodedUrl = encodeURIComponent(url);
   const encodedTitle = encodeURIComponent(title);
+  const [copied, setCopied] = useState(false);
+
+  async function copyLink() {
+    try {
+      await navigator.clipboard.writeText(url);
+      setCopied(true);
+      setTimeout(() => setCopied(false), 2000);
+    } catch {
+      setCopied(false);
+    }
+  }
 
   const shareLinks = [
     {
@@ -44,23 +56,43 @@ export function ArticleShare({
   ];
 
   return (
-    <div className="mt-10 border-t border-surface-200 pt-6">
+    <div className="mt-10 border-t border-surface-200 pt-6 dark:border-surface-800">
       <h3 className="mb-3 text-sm font-semibold uppercase tracking-wider text-surface-400">
         Share this article
       </h3>
-      <div className="flex gap-2">
+      <div className="flex flex-wrap gap-2">
         {shareLinks.map((link) => (
           <a
             key={link.name}
             href={link.href}
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex items-center gap-2 rounded-lg border border-surface-200 px-4 py-2 text-sm font-medium text-surface-600 transition-colors hover:bg-surface-50 hover:text-surface-900"
+            className="inline-flex items-center gap-2 rounded-lg border border-surface-200 px-4 py-2 text-sm font-medium text-surface-600 transition-colors hover:bg-surface-50 hover:text-surface-900 dark:border-surface-700 dark:text-surface-300 dark:hover:bg-surface-800 dark:hover:text-white"
           >
             {link.icon}
             {link.name}
           </a>
         ))}
+        <button
+          type="button"
+          onClick={copyLink}
+          className="inline-flex items-center gap-2 rounded-lg border border-surface-200 px-4 py-2 text-sm font-medium text-surface-600 transition-colors hover:bg-surface-50 hover:text-surface-900 dark:border-surface-700 dark:text-surface-300 dark:hover:bg-surface-800 dark:hover:text-white"
+        >
+          <svg
+            className="h-4 w-4"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+            strokeWidth={2}
+          >
+            <path
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              d="M13.19 8.688a4.5 4.5 0 011.242 7.244l-4.5 4.5a4.5 4.5 0 01-6.364-6.364l1.757-1.757m13.35-.622.622-.622a4.5 4.5 0 00-6.364-6.364l-4.5 4.5a4.5 4.5 0 001.242 7.244"
+            />
+          </svg>
+          {copied ? "Copied!" : "Copy link"}
+        </button>
       </div>
     </div>
   );

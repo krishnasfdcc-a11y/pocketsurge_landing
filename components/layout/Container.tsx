@@ -7,12 +7,16 @@ export function Container({
 }: {
   children: React.ReactNode;
   className?: string;
-  size?: "page" | "article";
+  size?: "page" | "article" | "article-wide";
 }) {
   return (
     <div
       className={cn(
-        size === "page" ? "container-page" : "container-article",
+        size === "page"
+          ? "container-page"
+          : size === "article-wide"
+            ? "article-layout"
+            : "container-article",
         className
       )}
     >

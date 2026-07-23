@@ -1,18 +1,20 @@
 import { getArticles, getArticleBySlug } from "@/lib/content";
-import { getRelatedArticles } from "@/lib/related";
-import { getArticleCard } from "@/lib/content";
 import { buildMetadata } from "@/lib/seo/metadata";
 import { SITE } from "@/config/site";
 import { Container } from "@/components/layout/Container";
 import { ArticleHero } from "@/components/article/ArticleHero";
+import { ArticleMeta } from "@/components/article/ArticleMeta";
 import { ArticleContent } from "@/components/article/ArticleContent";
 import { ArticleTOC } from "@/components/article/ArticleTOC";
 import { ArticleFAQ } from "@/components/article/ArticleFAQ";
 import { ArticleImages } from "@/components/article/ArticleImages";
+import { ArticleTags } from "@/components/article/ArticleTags";
 import { ArticleShare } from "@/components/article/ArticleShare";
 import { ArticleBreadcrumb } from "@/components/article/ArticleBreadcrumb";
 import { ArticleNav } from "@/components/article/ArticleNav";
 import { RelatedArticles } from "@/components/article/RelatedArticles";
+import { ReadingProgressBar } from "@/components/ui/ReadingProgressBar";
+import { BackToTop } from "@/components/ui/BackToTop";
 import {
   ArticleSchemaLD,
   FAQSchemaLD,
@@ -37,7 +39,8 @@ export async function generateMetadata({
   const article = getArticleBySlug(slug);
   if (!article) return {};
 
-  const canonicalUrl = article.seo.canonicalUrl || `${SITE.url}/article/${slug}`;
+  const canonicalUrl =
+    article.seo.canonicalUrl || `${SITE.url}/article/${slug}`;
   const ogImage = article.images.hero
     ? `${SITE.url}${article.images.hero}`
     : undefined;
@@ -60,20 +63,30 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   const currentIndex = allArticles.findIndex((a) => a.slug === slug);
   const prevArticle =
     currentIndex < allArticles.length - 1
-      ? { slug: allArticles[currentIndex + 1].slug, title: allArticles[currentIndex + 1].title }
+      ? {
+          slug: allArticles[currentIndex + 1].slug,
+          title: allArticles[currentIndex + 1].title,
+        }
       : undefined;
   const nextArticle =
     currentIndex > 0
-      ? { slug: allArticles[currentIndex - 1].slug, title: allArticles[currentIndex - 1].title }
+      ? {
+          slug: allArticles[currentIndex - 1].slug,
+          title: allArticles[currentIndex - 1].title,
+        }
       : undefined;
 
   return (
     <>
+      <ReadingProgressBar />
+      <BackToTop />
+
       <ArticleSchemaLD
         article={{
           title: article.title,
           excerpt: article.excerpt,
           generatedAt: article.generatedAt,
+          updatedAt: article.updatedAt,
           images: article.images,
           category: article.category,
           keywords: article.keywords,
@@ -84,35 +97,59 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       <BreadcrumbSchemaLD
         items={[
           { name: "Home", url: SITE.url },
-          { name: article.category, url: `${SITE.url}/category/${article.category.toLowerCase()}` },
+          {
+            name: article.category,
+            url: `${SITE.url}/category/${article.category.toLowerCase()}`,
+          },
           { name: article.title, url: `${SITE.url}/article/${slug}` },
         ]}
       />
 
-      <Container size="article" className="py-10">
-        <ArticleBreadcrumb category={article.category} title={article.title} />
+      <Container size="article-wide" className="py-10">
+        <div className="xl:grid xl:grid-cols-[240px_1fr] xl:gap-10">
+          <ArticleTOC contentHtml={article.content} sidebar />
 
-        <ArticleHero
-          title={article.title}
-          category={article.category}
-          readingTime={article.readingTime}
-          generatedAt={article.generatedAt}
-          heroImage={article.images.hero}
-        />
+          <div className="min-w-0">
+            <ArticleBreadcrumb
+              category={article.category}
+              title={article.title}
+            />
 
-        <ArticleTOC contentHtml={article.content} />
+            <ArticleHero
+              title={article.title}
+              category={article.category}
+              readingTime={article.readingTime}
+              generatedAt={article.generatedAt}
+              heroImage={article.images.hero}
+            />
 
-        <ArticleContent content={article.content} />
+            <ArticleMeta
+              excerpt={article.excerpt}
+              generatedAt={article.generatedAt}
+              updatedAt={article.updatedAt}
+              readingTime={article.readingTime}
+              wordCount={article.wordCount}
+            />
 
-        <ArticleImages images={article.images.gallery} />
+            <div className="xl:hidden">
+              <ArticleTOC contentHtml={article.content} />
+            </div>
 
-        <ArticleFAQ faq={article.faq} />
+            <ArticleContent content={article.content} />
 
-        <ArticleShare title={article.title} slug={slug} />
+            <ArticleImages images={article.images.gallery} />
 
-        <ArticleNav prev={prevArticle} next={nextArticle} />
+            <ArticleTags tags={article.tags} />
 
-        <RelatedArticles article={article} />
+            <ArticleFAQ faq={article.faq} />
+
+            <ArticleShare title={article.title} slug={slug} />
+
+            <ArticleNav prev={prevArticle} next={nextArticle} />
+
+            <RelatedArticles article={article} />
+          </div>
+        </div>
       </Container>
     </>
   );

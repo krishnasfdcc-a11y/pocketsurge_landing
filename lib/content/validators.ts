@@ -135,6 +135,7 @@ const MetadataRaw = z.object({
   excerpt: z.string().optional(),
   category: z.string().optional(),
   keywords: z.array(z.string()).optional(),
+  tags: z.array(z.string()).optional(),
   language: z.string().optional(),
   status: z.string().optional(),
   og: OpenGraphSchema.optional(),
@@ -142,6 +143,9 @@ const MetadataRaw = z.object({
   twitter: TwitterCardSchema.optional(),
   schemaOrg: z.record(z.unknown()).optional(),
   generatedAt: z.string().optional(),
+  datePublished: z.string().optional(),
+  dateModified: z.string().optional(),
+  updatedAt: z.string().optional(),
 });
 
 export const MetadataSchema = MetadataRaw.transform((raw) => ({
@@ -150,6 +154,7 @@ export const MetadataSchema = MetadataRaw.transform((raw) => ({
   excerpt: raw.excerpt ?? "",
   category: raw.category ?? "Uncategorized",
   keywords: raw.keywords ?? [],
+  tags: raw.tags ?? [],
   language: raw.language ?? "en",
   status:
     raw.status === "approved" || raw.status === "published"
@@ -170,7 +175,8 @@ export const MetadataSchema = MetadataRaw.transform((raw) => ({
     creator?: string;
   },
   schemaOrg: raw.schemaOrg ?? {},
-  generatedAt: raw.generatedAt ?? "",
+  generatedAt: raw.generatedAt ?? raw.datePublished ?? "",
+  updatedAt: raw.updatedAt ?? raw.dateModified ?? raw.generatedAt ?? "",
 }));
 
 // --- Article data — title required, content OR contentHtml required ---

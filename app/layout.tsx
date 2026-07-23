@@ -1,8 +1,24 @@
 import type { Metadata } from "next";
+import { Inter, Plus_Jakarta_Sans } from "next/font/google";
 import { SITE } from "@/config/site";
 import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
+import { PageEnter } from "@/components/ui/PageEnter";
+import { ThemeSync } from "@/components/ui/ThemeSync";
+import { OrganizationSchemaLD } from "@/components/seo/JsonLD";
 import "@/styles/globals.css";
+
+const inter = Inter({
+  subsets: ["latin"],
+  variable: "--font-sans",
+  display: "swap",
+});
+
+const plusJakarta = Plus_Jakarta_Sans({
+  subsets: ["latin"],
+  variable: "--font-display",
+  display: "swap",
+});
 
 export const metadata: Metadata = {
   title: {
@@ -33,16 +49,27 @@ export const metadata: Metadata = {
   },
 };
 
+const themeInitScript = `(function(){try{var t=localStorage.getItem('theme');var d=t==='dark'||(t!=='light'&&matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',!!d);}catch(e){}})();`;
+
 export default function RootLayout({
   children,
 }: {
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en">
-      <body className="flex min-h-screen flex-col">
+    <html lang="en" suppressHydrationWarning>
+      <head>
+        <script dangerouslySetInnerHTML={{ __html: themeInitScript }} />
+      </head>
+      <body
+        className={`${inter.variable} ${plusJakarta.variable} flex min-h-screen flex-col bg-white font-sans text-surface-900 antialiased transition-colors dark:bg-surface-950 dark:text-surface-100`}
+      >
+        <ThemeSync />
+        <OrganizationSchemaLD />
         <Header />
-        <main className="flex-1">{children}</main>
+        <main className="flex-1">
+          <PageEnter>{children}</PageEnter>
+        </main>
         <Footer />
       </body>
     </html>

@@ -4,12 +4,14 @@ export interface Article {
   excerpt: string;
   content: string;
   keywords: string[];
+  tags: string[];
   readingTime: number;
   wordCount: number;
   category: string;
   researchId: string;
   topicId: string;
   generatedAt: string;
+  updatedAt: string;
   metadata: ArticleMetadata;
   seo: SEOData;
   faq: FAQItem[];
@@ -22,12 +24,14 @@ export interface ArticleMetadata {
   excerpt: string;
   category: string;
   keywords: string[];
+  tags: string[];
   language: string;
   status: "published" | "draft";
   openGraph: OpenGraphData;
   twitter: TwitterCardData;
   schemaOrg: Record<string, unknown>;
   generatedAt: string;
+  updatedAt: string;
 }
 
 export interface OpenGraphData {
@@ -72,9 +76,15 @@ export interface FAQItem {
   answer: string;
 }
 
+export interface GalleryImage {
+  src: string;
+  caption?: string;
+  alt?: string;
+}
+
 export interface ArticleImages {
   hero: string | null;
-  gallery: string[];
+  gallery: GalleryImage[];
 }
 
 export interface ArticleCard {
@@ -83,6 +93,7 @@ export interface ArticleCard {
   excerpt: string;
   category: string;
   keywords: string[];
+  tags: string[];
   readingTime: number;
   generatedAt: string;
   heroImage: string | null;
@@ -93,5 +104,19 @@ export interface SearchEntry {
   title: string;
   excerpt: string;
   keywords: string[];
+  tags: string[];
   category: string;
+}
+
+export interface CategoryMeta {
+  name: string;
+  slug: string;
+  count: number;
+  description: string;
+}
+
+export interface TagMeta {
+  name: string;
+  slug: string;
+  count: number;
 }

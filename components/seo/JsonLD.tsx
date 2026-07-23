@@ -9,6 +9,20 @@ export function JsonLD({ data }: { data: Record<string, unknown> }) {
   );
 }
 
+export function OrganizationSchemaLD() {
+  const schema = {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    name: SITE.name,
+    url: SITE.url,
+    description: SITE.description,
+    email: SITE.email,
+    sameAs: [`https://twitter.com/${SITE.twitter.replace("@", "")}`],
+  };
+
+  return <JsonLD data={schema} />;
+}
+
 export function ArticleSchemaLD({
   article,
   url,
@@ -17,6 +31,7 @@ export function ArticleSchemaLD({
     title: string;
     excerpt: string;
     generatedAt: string;
+    updatedAt?: string;
     images: { hero: string | null };
     category: string;
     keywords: string[];
@@ -29,17 +44,21 @@ export function ArticleSchemaLD({
     headline: article.title,
     description: article.excerpt,
     datePublished: article.generatedAt,
+    dateModified: article.updatedAt || article.generatedAt,
     image: article.images.hero ? `${SITE.url}${article.images.hero}` : undefined,
     author: {
       "@type": "Organization",
-      name: SITE.name,
+      name: SITE.author.name,
+      url: `${SITE.url}/author`,
     },
     publisher: {
       "@type": "Organization",
       name: SITE.name,
+      url: SITE.url,
     },
     about: article.keywords.join(", "),
     articleSection: article.category,
+    mainEntityOfPage: url,
   };
 
   return <JsonLD data={schema} />;

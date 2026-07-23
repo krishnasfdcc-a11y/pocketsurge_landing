@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "ln -sfn ../content public/content && next dev",
-    "build": "tsx scripts/validate-content.ts && tsx scripts/generate-rss.ts && next build && tsx scripts/copy-assets.ts",
+    "build": "tsx scripts/validate-content.ts && tsx scripts/generate-rss.ts && tsx scripts/generate-urls.ts && next build && tsx scripts/copy-assets.ts",
     "start": "next start",
     "lint": "next lint"
   },

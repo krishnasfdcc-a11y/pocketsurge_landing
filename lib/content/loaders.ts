@@ -12,21 +12,58 @@ import type {
   SEOData,
   FAQItem,
   ArticleImages,
+  GalleryImage,
 } from "@/types/article";
+import { normalizeTagList } from "@/utils/strings";
 
 function safeReadJSON<T>(filePath: string): T | null {
   try {
     const raw = fs.readFileSync(filePath, "utf-8");
     return JSON.parse(raw) as T;
   } catch (err) {
-    console.warn(`  Failed to read/parse JSON: ${filePath} — ${(err as Error).message}`);
+    console.warn(
+      `  Failed to read/parse JSON: ${filePath} — ${(err as Error).message}`
+    );
     return null;
   }
+}
+
+interface ImagePromptEntry {
+  id?: string;
+  caption?: string;
+  altText?: string;
+  placement?: string;
+}
+
+function loadImageCaptions(
+  articleDir: string
+): Map<string, { caption?: string; alt?: string }> {
+  const map = new Map<string, { caption?: string; alt?: string }>();
+  const prompts = safeReadJSON<{ images?: ImagePromptEntry[] }>(
+    path.join(articleDir, "image-prompts.json")
+  );
+  if (!prompts?.images) return map;
+
+  for (const img of prompts.images) {
+    if (!img.id) continue;
+    // image-1 → hero; image-2 → image-2.webp, etc.
+    if (img.id === "image-1") {
+      map.set("hero", { caption: img.caption, alt: img.altText });
+    } else {
+      const num = img.id.replace(/^image-/, "");
+      map.set(`image-${num}.webp`, {
+        caption: img.caption,
+        alt: img.altText,
+      });
+    }
+  }
+  return map;
 }
 
 function discoverImages(articleDir: string): ArticleImages {
   const imagesDir = path.join(articleDir, "images");
   const heroPath = path.join(imagesDir, "hero.webp");
+  const captions = loadImageCaptions(articleDir);
 
   const images: ArticleImages = {
     hero: null,
@@ -51,9 +88,14 @@ function discoverImages(articleDir: string): ArticleImages {
         return aNum - bNum;
       });
 
-    images.gallery = galleryFiles.map(
-      (f) => `/content/${path.basename(articleDir)}/images/${f}`
-    );
+    images.gallery = galleryFiles.map((f): GalleryImage => {
+      const meta = captions.get(f);
+      return {
+        src: `/content/${path.basename(articleDir)}/images/${f}`,
+        caption: meta?.caption,
+        alt: meta?.alt,
+      };
+    });
   } catch {
     // Gallery discovery failed — non-fatal
   }
@@ -69,7 +111,6 @@ export function loadArticle(slug: string): Article | null {
     return null;
   }
 
-  // Load and validate article.json
   const articleRaw = safeReadJSON<Record<string, unknown>>(
     path.join(articleDir, "article.json")
   );
@@ -77,24 +118,28 @@ export function loadArticle(slug: string): Article | null {
 
   const articleResult = ArticleDataSchema.safeParse(articleRaw);
   if (!articleResult.success) {
-    console.warn(`  Invalid article.json in "${slug}":`, articleResult.error.flatten());
+    console.warn(
+      `  Invalid article.json in "${slug}":`,
+      articleResult.error.flatten()
+    );
     return null;
   }
   const articleData = articleResult.data;
 
-  // Load metadata.json (optional — use article data as defaults)
   let metadata: ArticleMetadata = {
     title: articleData.title,
     description: articleData.excerpt,
     excerpt: articleData.excerpt,
     category: articleData.category,
     keywords: articleData.keywords,
+    tags: [],
     language: "en",
     status: "published",
     openGraph: { title: articleData.title, description: articleData.excerpt },
     twitter: { title: articleData.title, description: articleData.excerpt },
     schemaOrg: {},
     generatedAt: articleData.generatedAt,
+    updatedAt: articleData.generatedAt,
   };
   const metadataRaw = safeReadJSON<Record<string, unknown>>(
     path.join(articleDir, "metadata.json")
@@ -108,7 +153,6 @@ export function loadArticle(slug: string): Article | null {
     }
   }
 
-  // Load seo.json (optional — use defaults if missing/invalid)
   let seo: SEOData = {
     seoTitle: articleData.title,
     metaDescription: articleData.excerpt,
@@ -131,11 +175,8 @@ export function loadArticle(slug: string): Article | null {
     }
   }
 
-  // Load faq.json (optional)
   let faq: FAQItem[] = [];
-  const faqRaw = safeReadJSON<unknown[]>(
-    path.join(articleDir, "faq.json")
-  );
+  const faqRaw = safeReadJSON<unknown[]>(path.join(articleDir, "faq.json"));
   if (faqRaw) {
     const faqResult = FAQDataSchema.safeParse(faqRaw);
     if (faqResult.success) {
@@ -145,22 +186,37 @@ export function loadArticle(slug: string): Article | null {
     }
   }
 
-  // Discover images
   const images = discoverImages(articleDir);
+
+  const tags = normalizeTagList(
+    metadata.tags.length > 0
+      ? metadata.tags
+      : articleData.keywords.length > 0
+        ? articleData.keywords
+        : metadata.keywords
+  );
+
+  const generatedAt = articleData.generatedAt || metadata.generatedAt;
+  const updatedAt =
+    metadata.updatedAt || metadata.generatedAt || articleData.generatedAt;
 
   return {
     slug: articleData.slug || slug,
     title: articleData.title,
-    excerpt: articleData.excerpt,
+    excerpt: articleData.excerpt || metadata.excerpt || metadata.description,
     content: articleData.content,
-    keywords: articleData.keywords,
+    keywords: articleData.keywords.length
+      ? articleData.keywords
+      : metadata.keywords,
+    tags,
     readingTime: articleData.readingTime,
     wordCount: articleData.wordCount,
-    category: articleData.category,
+    category: articleData.category || metadata.category,
     researchId: articleData.researchId,
     topicId: articleData.topicId,
-    generatedAt: articleData.generatedAt,
-    metadata,
+    generatedAt,
+    updatedAt,
+    metadata: { ...metadata, tags, updatedAt },
     seo,
     faq,
     images,
@@ -171,7 +227,9 @@ export function discoverArticles(): Article[] {
   const contentDir = path.join(process.cwd(), "content");
 
   if (!fs.existsSync(contentDir)) {
-    console.warn("No content directory found. Creating empty content/ directory.");
+    console.warn(
+      "No content directory found. Creating empty content/ directory."
+    );
     fs.mkdirSync(contentDir, { recursive: true });
     return [];
   }
@@ -179,7 +237,9 @@ export function discoverArticles(): Article[] {
   const entries = fs.readdirSync(contentDir, { withFileTypes: true });
   const articleDirs = entries
     .filter((e) => e.isDirectory())
-    .filter((e) => fs.existsSync(path.join(contentDir, e.name, "article.json")))
+    .filter((e) =>
+      fs.existsSync(path.join(contentDir, e.name, "article.json"))
+    )
     .map((e) => e.name);
 
   console.log(`\n📦 Discovering articles in content/ ...`);
@@ -197,7 +257,6 @@ export function discoverArticles(): Article[] {
     }
   }
 
-  // Sort by generatedAt descending (newest first)
   articles.sort(
     (a, b) =>
       new Date(b.generatedAt).getTime() - new Date(a.generatedAt).getTime()

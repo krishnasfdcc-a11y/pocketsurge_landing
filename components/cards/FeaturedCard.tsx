@@ -20,7 +20,7 @@ export function FeaturedCard({ article }: { article: FeaturedCardData }) {
   return (
     <Link
       href={`/article/${article.slug}`}
-      className="group relative flex flex-col overflow-hidden rounded-2xl border border-surface-200 bg-white transition-all hover:border-brand-200 hover:shadow-xl lg:flex-row"
+      className="group relative flex flex-col overflow-hidden rounded-2xl border border-surface-200 bg-white transition-all duration-300 hover:-translate-y-1 hover:border-brand-200 hover:shadow-xl dark:border-surface-800 dark:bg-surface-900 dark:hover:border-brand-700 lg:flex-row"
     >
       <div className="relative aspect-[16/9] shrink-0 overflow-hidden bg-surface-100 lg:aspect-square lg:w-[45%]">
         {article.heroImage ? (
@@ -41,10 +41,10 @@ export function FeaturedCard({ article }: { article: FeaturedCardData }) {
           <CategoryBadge category={article.category} />
           <ReadingTime minutes={article.readingTime} />
         </div>
-        <h2 className="mb-3 text-2xl font-bold leading-tight text-surface-900 group-hover:text-brand-600 lg:text-3xl">
+        <h2 className="mb-3 font-display text-2xl font-bold leading-tight text-surface-900 transition-colors group-hover:text-brand-600 dark:text-white dark:group-hover:text-brand-400 lg:text-3xl">
           {article.title}
         </h2>
-        <p className="mb-4 text-base leading-relaxed text-surface-500">
+        <p className="mb-4 text-base leading-relaxed text-surface-500 dark:text-surface-400">
           {truncate(article.excerpt, 180)}
         </p>
         <time

@@ -45,7 +45,7 @@ export function ArticleHero({
             {formatDate(generatedAt)}
           </time>
         </div>
-        <h1 className="text-3xl font-bold leading-tight text-white sm:text-4xl lg:text-5xl">
+        <h1 className="hero-anim font-display text-3xl font-bold leading-tight text-white sm:text-4xl lg:text-5xl">
           {title}
         </h1>
       </div>

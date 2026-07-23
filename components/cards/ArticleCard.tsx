@@ -28,11 +28,11 @@ export function ArticleCard({
     <Link
       href={`/article/${article.slug}`}
       className={cn(
-        "group block overflow-hidden rounded-xl border border-surface-200 bg-white transition-all hover:border-brand-200 hover:shadow-lg",
+        "group block overflow-hidden rounded-xl border border-surface-200 bg-white transition-all duration-300 hover:-translate-y-1 hover:border-brand-200 hover:shadow-lg dark:border-surface-800 dark:bg-surface-900 dark:hover:border-brand-700",
         className
       )}
     >
-      <div className="aspect-[16/9] overflow-hidden bg-surface-100">
+      <div className="aspect-[16/9] overflow-hidden bg-surface-100 dark:bg-surface-800">
         {article.heroImage ? (
           <Image
             src={article.heroImage}
@@ -50,10 +50,10 @@ export function ArticleCard({
           <CategoryBadge category={article.category} />
           <ReadingTime minutes={article.readingTime} />
         </div>
-        <h3 className="mb-2 text-lg font-semibold leading-tight text-surface-900 group-hover:text-brand-600">
+        <h3 className="mb-2 text-lg font-semibold leading-tight text-surface-900 group-hover:text-brand-600 dark:text-white dark:group-hover:text-brand-400">
           {article.title}
         </h3>
-        <p className="mb-3 text-sm leading-relaxed text-surface-500">
+        <p className="mb-3 text-sm leading-relaxed text-surface-500 dark:text-surface-400">
           {truncate(article.excerpt, 120)}
         </p>
         <time className="text-xs text-surface-400" dateTime={article.generatedAt}>
