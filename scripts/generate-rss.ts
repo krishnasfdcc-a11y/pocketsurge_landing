@@ -4,7 +4,7 @@ import { discoverArticles } from "../lib/content/loaders";
 
 const SITE_URL = "https://pocketsurge.com";
 const SITE_NAME = "PocketSurge";
-const SITE_DESCRIPTION = "Your daily dose of tech insights, guides, and reviews.";
+const SITE_DESCRIPTION = "Your daily dose of insights, guides, and reviews across technology, science, finance, gaming, and more.";
 
 function escapeXml(s: string): string {
   return s

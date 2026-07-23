@@ -14,6 +14,7 @@ export default function HomePage() {
 
   return (
     <Container className="py-10">
+      <h1 className="sr-only">PocketSurge — Your daily dose of insights, guides, and reviews across technology, science, finance, gaming, and more</h1>
       {/* Hero / Featured */}
       {featuredArticles.length > 0 && (
         <section className="mb-16">

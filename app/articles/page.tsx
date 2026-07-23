@@ -6,7 +6,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = buildMetadata({
   title: "All Articles",
-  description: "Browse all articles on PocketSurge — tech insights, guides, and reviews.",
+  description: "Browse all articles on PocketSurge — insights, guides, and reviews across technology, science, finance, gaming, and more.",
 });
 
 export default function ArticlesPage() {
