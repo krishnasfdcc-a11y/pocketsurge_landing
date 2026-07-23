@@ -1,0 +1,17 @@
+# PocketSurge — Cloudflare Pages configuration
+# This project uses Next.js static export (output: "export"),
+# NOT @cloudflare/next-on-pages. The framework preset must be "none"
+# to prevent Cloudflare from running its own Next.js pipeline.
+
+name = "pocketsurge-landing"
+compatibility_date = "2025-07-23"
+
+[build]
+command = "npm run build"
+
+[build.environment]
+NODE_VERSION = "20.0.0"
+
+[site]
+# Framework preset must be set to "none" in Cloudflare Pages dashboard
+# to avoid auto-detection of Next.js adapter

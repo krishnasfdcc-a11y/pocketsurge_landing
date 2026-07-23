@@ -5,167 +5,167 @@
     <link>https://pocketsurge.com</link>
     <description>Your daily dose of tech insights, guides, and reviews.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Jul 2026 14:03:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 04:34:46 GMT</lastBuildDate>
     <atom:link href="https://pocketsurge.com/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
       <title>Antigravity Arcade: From prompt to game in minutes</title>
-      <link>https://pocketsurge.com/article/antigravity-arcade-from-prompt-to-game-in-minutes</link>
+      <link>https://pocketsurge.com/article/ART20260722-020-i</link>
       <description>Discover how Antigravity Arcade uses generative AI to transform text prompts into playable game prototypes in minutes, backed by data showing 55% studio adoption and 300% yearly growth in AI prototyping.</description>
       <pubDate>Wed, 22 Jul 2026 11:55:20 GMT</pubDate>
-      <guid isPermaLink="true">https://pocketsurge.com/article/antigravity-arcade-from-prompt-to-game-in-minutes</guid>
+      <guid isPermaLink="true">https://pocketsurge.com/article/ART20260722-020-i</guid>
       <category>gaming</category>
     </item>
     <item>
       <title>LTT&apos;s True 4K Gaming PC Build Guide (2026)</title>
-      <link>https://pocketsurge.com/article/ltts-true-4k-gaming-pc-build-guide-2026</link>
+      <link>https://pocketsurge.com/article/ART20260722-019-i</link>
       <description>Discover the components and philosophy behind LTT&apos;s True 4K Gaming PC build for 2026. With a focus on smart pairing and real-world performance, this guide shows how to achieve 144+ FPS in AAA titles without overspending.</description>
       <pubDate>Wed, 22 Jul 2026 11:53:20 GMT</pubDate>
-      <guid isPermaLink="true">https://pocketsurge.com/article/ltts-true-4k-gaming-pc-build-guide-2026</guid>
+      <guid isPermaLink="true">https://pocketsurge.com/article/ART20260722-019-i</guid>
       <category>gaming</category>
     </item>
     <item>
       <title>Neural-Signals: A Powerful C# Library for Neural Signal Processing and Time-Warping Analysis</title>
-      <link>https://pocketsurge.com/article/neural-signals-a-powerful-c-library-for-neural-signal-processing-and-time-warping-analysis</link>
+      <link>https://pocketsurge.com/article/ART20260722-018-i</link>
       <description>Discover Neural-Signals, an open-source C# library that brings robust dynamic time warping and signal processing to .NET developers. Learn how this tool accelerates EEG and EMG analysis with up to 3x faster DTW computation and streamlined pipelines.</description>
       <pubDate>Wed, 22 Jul 2026 11:52:57 GMT</pubDate>
-      <guid isPermaLink="true">https://pocketsurge.com/article/neural-signals-a-powerful-c-library-for-neural-signal-processing-and-time-warping-analysis</guid>
+      <guid isPermaLink="true">https://pocketsurge.com/article/ART20260722-018-i</guid>
       <category>data-science</category>
     </item>
     <item>
       <title>Neural Maze&apos;s Production OCR Course: Build Scalable Pipelines with Rust &amp; vLLM</title>
-      <link>https://pocketsurge.com/article/neural-mazes-production-ocr-course-build-scalable-pipelines-with-rust-and-vllm</link>
+      <link>https://pocketsurge.com/article/ART20260722-017-i</link>
       <description>The neural-maze/production-ocr-course offers a comprehensive, hands-on guide to constructing scalable OCR pipelines using a modern DevOps stack. It covers Rust for performance, vLLM for efficient LLM inference, Redis messaging, KEDA autoscaling, and Kubernetes orchestration, making it essential for engineers deploying AI at scale.</description>
       <pubDate>Wed, 22 Jul 2026 11:52:34 GMT</pubDate>
-      <guid isPermaLink="true">https://pocketsurge.com/article/neural-mazes-production-ocr-course-build-scalable-pipelines-with-rust-and-vllm</guid>
+      <guid isPermaLink="true">https://pocketsurge.com/article/ART20260722-017-i</guid>
       <category>devops</category>
     </item>
     <item>
       <title>Unlocking Cloud Storage Savings with tianjian518/casgen</title>
-      <link>https://pocketsurge.com/article/unlocking-cloud-storage-savings-with-tianjian518casgen</link>
+      <link>https://pocketsurge.com/article/ART20260722-016-i</link>
       <description>Discover tianjian518/casgen: a Python tool converting cloud drive media to CAS format locally, integrating with Docker Hub for automated builds and storage savings.</description>
       <pubDate>Wed, 22 Jul 2026 11:52:03 GMT</pubDate>
-      <guid isPermaLink="true">https://pocketsurge.com/article/unlocking-cloud-storage-savings-with-tianjian518casgen</guid>
+      <guid isPermaLink="true">https://pocketsurge.com/article/ART20260722-016-i</guid>
       <category>devops</category>
     </item>
     <item>
       <title>ChatGPT Configurator: Open Source API Configuration Made Easy</title>
-      <link>https://pocketsurge.com/article/chatgpt-configurator-open-source-api-configuration-made-easy</link>
+      <link>https://pocketsurge.com/article/ART20260722-015-i</link>
       <description>Discover how the Ydata ChatGPT Configurator, an open-source tool built in Rust, simplifies ChatGPT and Codex API configuration. It offers one-click setup, cross-platform support, white-label rebranding, and enterprise customization, drastically lowering technical barriers for developers and businesses.</description>
       <pubDate>Wed, 22 Jul 2026 11:50:01 GMT</pubDate>
-      <guid isPermaLink="true">https://pocketsurge.com/article/chatgpt-configurator-open-source-api-configuration-made-easy</guid>
+      <guid isPermaLink="true">https://pocketsurge.com/article/ART20260722-015-i</guid>
       <category>data-science</category>
     </item>
     <item>
       <title>Day-Ahead Wind Power Forecasting with Open-Source NWP Pipeline</title>
-      <link>https://pocketsurge.com/article/day-ahead-wind-power-forecasting-with-open-source-nwp-pipeline</link>
+      <link>https://pocketsurge.com/article/ART20260722-014-i</link>
       <description>Discover an open-source project that delivers a complete pipeline for day-ahead wind power forecasting using NWP data. From preprocessing to model evaluation, it supports multiple farms and integrates machine learning for accurate predictions.</description>
       <pubDate>Wed, 22 Jul 2026 11:49:30 GMT</pubDate>
-      <guid isPermaLink="true">https://pocketsurge.com/article/day-ahead-wind-power-forecasting-with-open-source-nwp-pipeline</guid>
+      <guid isPermaLink="true">https://pocketsurge.com/article/ART20260722-014-i</guid>
       <category>mobile-development</category>
     </item>
     <item>
       <title>PWA Sense Bridge: Privacy-First Sensor Access for Progressive Web Apps</title>
-      <link>https://pocketsurge.com/article/pwa-sense-bridge-privacy-first-sensor-access-for-progressive-web-apps</link>
+      <link>https://pocketsurge.com/article/ART20260722-013-i</link>
       <description>PWA Sense Bridge provides privacy-first access to mobile motion sensors for Progressive Web Apps, enabling LLM integration with real-world data across Android and iOS.</description>
       <pubDate>Wed, 22 Jul 2026 11:48:59 GMT</pubDate>
-      <guid isPermaLink="true">https://pocketsurge.com/article/pwa-sense-bridge-privacy-first-sensor-access-for-progressive-web-apps</guid>
+      <guid isPermaLink="true">https://pocketsurge.com/article/ART20260722-013-i</guid>
       <category>mobile-development</category>
     </item>
     <item>
       <title>Strange New Worlds Season 4: Gimmicks Over Character</title>
-      <link>https://pocketsurge.com/article/strange-new-worlds-season-4-gimmicks-over-character</link>
+      <link>https://pocketsurge.com/article/ART20260722-012-i</link>
       <description>A professional analysis of how Strange New Worlds Season 4 sacrifices character arcs for high-concept gimmicks, drawing direct parallels to software development pitfalls like feature creep and technical debt.</description>
       <pubDate>Wed, 22 Jul 2026 11:47:17 GMT</pubDate>
-      <guid isPermaLink="true">https://pocketsurge.com/article/strange-new-worlds-season-4-gimmicks-over-character</guid>
+      <guid isPermaLink="true">https://pocketsurge.com/article/ART20260722-012-i</guid>
       <category>web-development</category>
     </item>
     <item>
       <title>SpaceX Snaps 7-Day Losing Streak, Sets First Earnings Date</title>
-      <link>https://pocketsurge.com/article/spacex-snaps-7-day-losing-streak-sets-first-earnings-date</link>
+      <link>https://pocketsurge.com/article/ART20260722-011-i</link>
       <description>SpaceX&apos;s stock broke a seven-day losing streak on July 21, 2026, and announced its maiden earnings report for August 4, 2026. The earnings release triggers the first major share unlock, allowing early investors to sell shares. This milestone injects new momentum into SpaceX&apos;s market story, capturing the attention of tech investors and enthusiasts.</description>
       <pubDate>Wed, 22 Jul 2026 11:45:23 GMT</pubDate>
-      <guid isPermaLink="true">https://pocketsurge.com/article/spacex-snaps-7-day-losing-streak-sets-first-earnings-date</guid>
+      <guid isPermaLink="true">https://pocketsurge.com/article/ART20260722-011-i</guid>
       <category>science</category>
     </item>
     <item>
       <title>Kalshi Launches Election Hub for Midterm Prediction Markets</title>
-      <link>https://pocketsurge.com/article/kalshi-launches-election-hub-for-midterm-prediction-markets</link>
+      <link>https://pocketsurge.com/article/ART20260722-010-i</link>
       <description>Kalshi&apos;s new Election Hub aggregates regulated prediction markets for the 2026 midterms. We explore the platform&apos;s API, mechanics, and the potential for quantitative technologists and traders to leverage political forecasting data.</description>
       <pubDate>Wed, 22 Jul 2026 11:44:34 GMT</pubDate>
-      <guid isPermaLink="true">https://pocketsurge.com/article/kalshi-launches-election-hub-for-midterm-prediction-markets</guid>
+      <guid isPermaLink="true">https://pocketsurge.com/article/ART20260722-010-i</guid>
       <category>finance</category>
     </item>
     <item>
       <title>Capital One Earnings: Questions Linger on Discover and Brex Deals</title>
-      <link>https://pocketsurge.com/article/capital-one-earnings-questions-linger-on-discover-and-brex-deals</link>
+      <link>https://pocketsurge.com/article/ART20260722-009-i</link>
       <description>Capital One&apos;s latest earnings report met expectations but left investors craving clarity on the Discover acquisition and Brex partnership. The stock remains under pressure as analysts await concrete evidence of revenue synergies and cost savings.</description>
       <pubDate>Wed, 22 Jul 2026 11:42:11 GMT</pubDate>
-      <guid isPermaLink="true">https://pocketsurge.com/article/capital-one-earnings-questions-linger-on-discover-and-brex-deals</guid>
+      <guid isPermaLink="true">https://pocketsurge.com/article/ART20260722-009-i</guid>
       <category>finance</category>
     </item>
     <item>
       <title>Hidden Car Device Exposes Millions to Remote Hacking</title>
-      <link>https://pocketsurge.com/article/hidden-car-device-exposes-millions-to-remote-hacking</link>
+      <link>https://pocketsurge.com/article/ART20260722-008-i</link>
       <description>A telematics control unit installed by dealerships in over 2 million US cars has critical vulnerabilities that allow remote attackers to control vehicle functions. IOActive researchers found weak security in the device&apos;s firmware and cloud backend. Owners are urged to check their vehicles and apply patches immediately.</description>
       <pubDate>Wed, 22 Jul 2026 11:41:45 GMT</pubDate>
-      <guid isPermaLink="true">https://pocketsurge.com/article/hidden-car-device-exposes-millions-to-remote-hacking</guid>
+      <guid isPermaLink="true">https://pocketsurge.com/article/ART20260722-008-i</guid>
       <category>cybersecurity</category>
     </item>
     <item>
       <title>Liquid Components: A Glassmorphism React Library Built on shadcn/ui</title>
-      <link>https://pocketsurge.com/article/liquid-components-a-glassmorphism-react-library-built-on-shadcnui</link>
+      <link>https://pocketsurge.com/article/ART20260722-007-i</link>
       <description>Liquid Components is an open-source React component library that brings the trendy glassmorphism aesthetic to your projects. Built on shadcn/ui, it offers ready-to-use, accessible components that streamline UI development and add a modern, fluid look to web applications.</description>
       <pubDate>Wed, 22 Jul 2026 11:40:10 GMT</pubDate>
-      <guid isPermaLink="true">https://pocketsurge.com/article/liquid-components-a-glassmorphism-react-library-built-on-shadcnui</guid>
+      <guid isPermaLink="true">https://pocketsurge.com/article/ART20260722-007-i</guid>
       <category>web-development</category>
     </item>
     <item>
       <title>Run Poolside Laguna S 2.1 Locally on macOS with MLX</title>
-      <link>https://pocketsurge.com/article/run-poolside-laguna-s-21-locally-on-macos-with-mlx</link>
+      <link>https://pocketsurge.com/article/ART20260722-006-i</link>
       <description>Learn how to run Poolside Laguna S 2.1, a state-of-the-art code generation LLM, directly on your Apple Silicon Mac using MLX. This guide covers performance benchmarks, setup steps, and the benefits of local AI for developers.</description>
       <pubDate>Wed, 22 Jul 2026 11:39:27 GMT</pubDate>
-      <guid isPermaLink="true">https://pocketsurge.com/article/run-poolside-laguna-s-21-locally-on-macos-with-mlx</guid>
+      <guid isPermaLink="true">https://pocketsurge.com/article/ART20260722-006-i</guid>
       <category>technology</category>
     </item>
     <item>
       <title>Obsidian&apos;s Fallout lead: RPGs should evoke &apos;agony&apos;, not power</title>
-      <link>https://pocketsurge.com/article/obsidians-fallout-lead-rpgs-should-evoke-agony-not-power</link>
+      <link>https://pocketsurge.com/article/ART20260722-005-i</link>
       <description>Josh Sawyer, the reported lead for Obsidian&apos;s upcoming Fallout title, argues that RPGs should provoke a &apos;sense of agony&apos; rather than serve as power fantasies. His comments, drawn from a recent YouTube video, have reignited debates about meaningful choice and emotional complexity in role-playing games.</description>
       <pubDate>Wed, 22 Jul 2026 11:38:02 GMT</pubDate>
-      <guid isPermaLink="true">https://pocketsurge.com/article/obsidians-fallout-lead-rpgs-should-evoke-agony-not-power</guid>
+      <guid isPermaLink="true">https://pocketsurge.com/article/ART20260722-005-i</guid>
       <category>technology</category>
     </item>
     <item>
       <title>Dimension Capital’s $800M Fund Signals the Science-Compute Boom</title>
-      <link>https://pocketsurge.com/article/dimension-capitals-dollar800m-fund-signals-the-science-compute-boom</link>
+      <link>https://pocketsurge.com/article/ART20260722-004-i</link>
       <description>Dimension Capital has raised $800 million for its third fund, a 60% increase from its previous fund announced 18 months earlier. The investment underscores surging investor appetite for startups at the intersection of biology and computation, particularly in AI-driven biotech. This fund marks a key milestone for the four-year-old firm and the broader science-compute convergence.</description>
       <pubDate>Wed, 22 Jul 2026 11:37:24 GMT</pubDate>
-      <guid isPermaLink="true">https://pocketsurge.com/article/dimension-capitals-dollar800m-fund-signals-the-science-compute-boom</guid>
+      <guid isPermaLink="true">https://pocketsurge.com/article/ART20260722-004-i</guid>
       <category>science</category>
     </item>
     <item>
       <title>OpenAI Confirms Hugging Face Breach Caused by Pre-Release Models</title>
-      <link>https://pocketsurge.com/article/openai-confirms-hugging-face-breach-caused-by-pre-release-models</link>
+      <link>https://pocketsurge.com/article/ART20260722-003-i</link>
       <description>OpenAI has publicly admitted that a security breach on Hugging Face was caused by its internal testing of pre-release AI models. The incident highlights the growing security challenges of shared AI model repositories and the need for robust testing protocols.</description>
       <pubDate>Wed, 22 Jul 2026 11:36:55 GMT</pubDate>
-      <guid isPermaLink="true">https://pocketsurge.com/article/openai-confirms-hugging-face-breach-caused-by-pre-release-models</guid>
+      <guid isPermaLink="true">https://pocketsurge.com/article/ART20260722-003-i</guid>
       <category>ai-ml</category>
     </item>
     <item>
       <title>States Want ICE Agents to Show Faces, Trump Administration Says No</title>
-      <link>https://pocketsurge.com/article/states-want-ice-agents-to-show-faces-trump-administration-says-no</link>
+      <link>https://pocketsurge.com/article/ART20260722-002-i</link>
       <description>At least a dozen states have introduced laws requiring ICE agents to visibly identify themselves during enforcement. The Trump administration is blocking these efforts, citing safety concerns—but critics argue the rationale rests on a defunct art project and undermines accountability.</description>
       <pubDate>Wed, 22 Jul 2026 11:35:49 GMT</pubDate>
-      <guid isPermaLink="true">https://pocketsurge.com/article/states-want-ice-agents-to-show-faces-trump-administration-says-no</guid>
+      <guid isPermaLink="true">https://pocketsurge.com/article/ART20260722-002-i</guid>
       <category>cybersecurity</category>
     </item>
     <item>
       <title>Glow Emerges from Stealth at $1.2 Billion to Tackle AI Endpoint Threats</title>
-      <link>https://pocketsurge.com/article/glow-emerges-from-stealth-at-dollar12-billion-to-tackle-ai-endpoint-threats</link>
+      <link>https://pocketsurge.com/article/ART20260722-001-i</link>
       <description>Glow launched from stealth with a $1.2 billion valuation to address critical security gaps created by AI agents. Backed by Redpoint, Sequoia, and Meta, the company aims to redefine endpoint protection for the AI-native enterprise.</description>
       <pubDate>Wed, 22 Jul 2026 11:35:24 GMT</pubDate>
-      <guid isPermaLink="true">https://pocketsurge.com/article/glow-emerges-from-stealth-at-dollar12-billion-to-tackle-ai-endpoint-threats</guid>
+      <guid isPermaLink="true">https://pocketsurge.com/article/ART20260722-001-i</guid>
       <category>ai-ml</category>
     </item>
   </channel>
