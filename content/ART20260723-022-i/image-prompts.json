@@ -1,0 +1,52 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A sleek Dyson V10 Konical cordless stick vacuum standing upright on a polished hardwood floor, bathed in soft natural light from a nearby window. A minimalist living room background with a potted plant and a soft rug adds warmth. The vacuum’s grey and purple design is prominent. Photorealistic, sharp focus, professional product photography style, inviting and clean atmosphere.",
+      "style": "photorealistic",
+      "placement": "hero",
+      "altText": "Dyson V10 Konical cordless vacuum on hardwood floor in bright living room",
+      "caption": "Image credit: Dyson"
+    },
+    {
+      "id": "image-2",
+      "prompt": "Close-up dynamic shot of the Dyson V10 Konical’s floor head actively cleaning a medium-pile carpet, with visible dirt and dust particles being lifted into the transparent bin. The purple cyclone cones spin visibly. Motion lines suggest strong suction. Cinematic lighting, high contrast, shallow depth of field focusing on the suction action. Bright, energetic mood conveying powerful performance.",
+      "style": "cinematic",
+      "placement": "section-1",
+      "altText": "Dyson V10 Konical vacuum cleaning carpet with strong suction and visible debris",
+      "caption": ""
+    },
+    {
+      "id": "image-3",
+      "prompt": "A user’s hand pressing the release button to remove the battery pack from the Dyson V10 Konical. The battery pack is clearly labeled with capacity details. The vacuum rests on a modern kitchen counter. Soft overhead lighting, photorealistic, detailed textures of plastic and metal. The scene emphasizes the removable battery advantage for extended runtime.",
+      "style": "photorealistic",
+      "placement": "section-2",
+      "altText": "Removable battery pack being taken off Dyson V10 Konical vacuum",
+      "caption": ""
+    },
+    {
+      "id": "image-4",
+      "prompt": "A person holding the Dyson V10 Konical comfortably in one hand while cleaning under a low table. The lightweight design and trigger control are highlighted. The ergonomic grip and slim wand are visible. Natural home environment with furniture and a dog bed nearby. Cinematic lens, warm tones, relaxed yet efficient mood, showcasing everyday usability.",
+      "style": "cinematic",
+      "placement": "section-3",
+      "altText": "User holding Dyson V10 Konical vacuum cleaning under a table with one hand",
+      "caption": ""
+    },
+    {
+      "id": "image-5",
+      "prompt": "A clean flat lay composition of the Dyson V10 Konical vacuum and its attachments: direct-drive head, combination tool, crevice tool, and mini motorized pet tool arranged neatly on a light concrete surface. Each tool casts a soft shadow. Minimalist style, consistent soft lighting, product catalog aesthetic, showcasing included accessories and versatility.",
+      "style": "minimal",
+      "placement": "section-4",
+      "altText": "Flat lay of Dyson V10 Konical with all included attachments and tools",
+      "caption": "Image credit: Dyson"
+    },
+    {
+      "id": "image-6",
+      "prompt": "A modern infographic with a clean white background and thin grey lines showing a price comparison bar chart. The Dyson V10 Konical at $399.99 is contrasted with mid-tier Shark, LG, and Samsung models. A line graph overlays showing '30% increase in demand for affordable cordless vacuums' and 'Dyson budget line growth of 20% from 2024 to 2026'. Minimal text, stylized icons, professional layout, soft blue and purple accent colors.",
+      "style": "infographic",
+      "placement": "section-5",
+      "altText": "Infographic comparing Dyson V10 Konical price and market trends among competitors",
+      "caption": ""
+    }
+  ]
+}

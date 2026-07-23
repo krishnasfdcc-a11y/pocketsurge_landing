@@ -1,0 +1,51 @@
+{
+  "slug": "lg-to-ban-residential-proxy-networks-from-smart-tv-apps",
+  "title": "LG to Ban Residential Proxy Networks from Smart TV Apps",
+  "excerpt": "LG will suspend smart TV apps acting as residential proxy nodes. With 42% of webOS apps containing proxy SDKs, this move addresses privacy violations and lack of informed consent. Developers must remove proxy features or face suspension.",
+  "keywords": [
+    "LG webOS",
+    "residential proxy",
+    "smart TV privacy",
+    "proxy SDKs",
+    "smart TV security",
+    "Bright Data",
+    "proxy network",
+    "LG ban"
+  ],
+  "readingTime": 5,
+  "wordCount": 810,
+  "category": "entertainment",
+  "researchId": "1138ed55-5f2f-4f5f-b8f2-4b5afa90b131",
+  "topicId": "af6768fa-a0b3-4759-b884-5a28020d2721",
+  "generatedAt": "2026-07-23T05:18:16.574Z",
+  "description": "LG to ban smart TV apps as residential proxy nodes. 42% of webOS apps contain proxy SDKs, raising privacy concerns. Developers must remove proxy features.",
+  "og": {
+    "title": "LG to Ban Residential Proxy Networks from Smart TV Apps",
+    "description": "LG to ban smart TV apps as residential proxy nodes. 42% of webOS apps contain proxy SDKs, raising privacy concerns. Developers must remove proxy features.",
+    "type": "article",
+    "image": "An illustration of a smart TV with a network of nodes representing residential proxy networks, with a ban symbol overlay."
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "LG to Ban Residential Proxy Networks from Smart TV Apps",
+    "description": "LG to ban smart TV apps as residential proxy nodes. 42% of webOS apps contain proxy SDKs, raising privacy concerns. Developers must remove proxy features."
+  },
+  "schemaOrg": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "LG to Ban Residential Proxy Networks from Smart TV Apps",
+    "description": "LG to ban smart TV apps as residential proxy nodes. 42% of webOS apps contain proxy SDKs, raising privacy concerns. Developers must remove proxy features.",
+    "author": {
+      "@type": "Person",
+      "name": "TechPulse Team"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "TechPulse"
+    },
+    "datePublished": "2026-07-23T05:18:16.574Z",
+    "dateModified": "2026-07-23T05:18:16.574Z"
+  },
+  "status": "approved",
+  "approvedAt": "2026-07-23T06:04:36.457Z"
+}

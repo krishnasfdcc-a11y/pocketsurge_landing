@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A live-action scene from Parasyte: Tamiya, with actress Shioli Kutsuna in a tense confrontation with a shape-shifting parasite creature, dark urban atmosphere of a rainy Seoul night, cinematic lighting with dramatic shadows, photorealistic style, high-contrast color grading, inspired by Yeon Sang-ho's visual aesthetic, intense mood.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Shioli Kutsuna in Parasyte: Tamiya facing a parasite creature in Seoul",
+      "caption": "A scene from Parasyte: Tamiya, part of the expanding Parasyte universe on Netflix."
+    },
+    {
+      "id": "image-2",
+      "prompt": "A detailed close-up of a parasite creature undergoing grotesque transformation, advanced 3D modeling and motion capture, realistic skin textures and bone structure, dark and moody lighting with blue and purple tones, showcasing high-fidelity visual effects, 3D render style, hyper-detailed, biological horror aesthetic.",
+      "style": "3d-render",
+      "placement": "section-1",
+      "altText": "Parasite creature transformation in Parasyte: Tamiya with advanced VFX",
+      "caption": "The parasites require advanced 3D modeling, motion capture, and compositing."
+    },
+    {
+      "id": "image-3",
+      "prompt": "Director Yeon Sang-ho and his VFX team in a modern production studio, multiple monitors display 3D models in Maya and Unreal Engine, motion capture markers on a suit, industrial lighting with warm lamps, collaborative atmosphere, photorealistic documentary style, creative clutter and technology focus.",
+      "style": "photorealistic",
+      "placement": "section-2",
+      "altText": "Yeon Sang-ho and team working on Parasyte: Tamiya VFX in studio",
+      "caption": "Yeon Sang-ho's animation background informs the creature design and visual style."
+    },
+    {
+      "id": "image-4",
+      "prompt": "Portrait of actress Shioli Kutsuna as her character in Parasyte: Tamiya, intense gaze, futuristic costume with subtle parasite motifs, background of a neon-lit Korean cityscape blending with abstract digital grids, cinematic lighting with edge light, shallow depth of field, dramatic and stylish.",
+      "style": "cinematic",
+      "placement": "section-3",
+      "altText": "Shioli Kutsuna stars as the lead in Parasyte: Tamiya on Netflix",
+      "caption": "Shioli Kutsuna brings international appeal to the series."
+    },
+    {
+      "id": "image-5",
+      "prompt": "An infographic showing the growth of Korean original content on Netflix from 2020 to 2027, upward trending gradient line, icons representing hit shows like Squid Game and Hellbound, country map of South Korea with data points, sleek modern design, dark background with vibrant accents, minimal text.",
+      "style": "infographic",
+      "placement": "section-4",
+      "altText": "Infographic charting growth of Korean original series on Netflix",
+      "caption": "Netflix has significantly expanded its investment in Korean original content since 2020."
+    }
+  ]
+}

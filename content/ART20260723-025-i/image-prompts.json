@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "Reese Witherspoon standing confidently on a sunlit film set, holding a clapperboard, surrounded by warm golden hour lighting, modern production studio background with cameras and lighting equipment, professional editorial photography, female empowerment atmosphere, natural smile, business casual attire, bright and inspiring composition.",
+      "style": "photorealistic",
+      "placement": "hero",
+      "altText": "Reese Witherspoon on a film set celebrating Hello Sunshine's 10th anniversary.",
+      "caption": "Hello Sunshine marks a decade of championing female-driven storytelling."
+    },
+    {
+      "id": "image-2",
+      "prompt": "Split screen composition showing three iconic TV show scenes: the dramatic Monterey cliffs from Big Little Lies, a sleek Apple TV+ production set, and a glamorous Amazon Prime Video premiere event, connected by a golden thread motif, cinematic lighting, warm and cool color contrast, storytelling through visual montage.",
+      "style": "cinematic",
+      "placement": "section-1",
+      "altText": "Montage of Big Little Lies, Apple TV+ Lucky, and Amazon's Elle productions.",
+      "caption": "From 'Big Little Lies' to 'Lucky' and 'Elle,' Hello Sunshine's slate continues to grow."
+    },
+    {
+      "id": "image-3",
+      "prompt": "Diverse group of women writers and directors in a bright modern writers' room, whiteboards with story outlines, laptops open, collaborative creative atmosphere, natural window light, warm tones, professional yet relaxed environment, authentic expressions of discussion and creativity, editorial photography style.",
+      "style": "photorealistic",
+      "placement": "section-2",
+      "altText": "Diverse female writers and directors collaborating in a Hello Sunshine writers' room.",
+      "caption": "Hello Sunshine's commitment to authentic female-driven narratives has reshaped the industry."
+    },
+    {
+      "id": "image-4",
+      "prompt": "Streaming platform interface concept art showing three highlighted shows on a glowing screen, Apple TV+ and Amazon Prime Video logos visible, modern UI design, dark mode aesthetic with vibrant show thumbnails, data analytics graphs in the background showing audience growth, technology meets entertainment theme.",
+      "style": "infographic",
+      "placement": "section-3",
+      "altText": "Streaming platform interface showing Hello Sunshine shows on Apple TV+ and Amazon Prime Video.",
+      "caption": "Strategic platform partnerships have been key to Hello Sunshine's content distribution success."
+    }
+  ]
+}

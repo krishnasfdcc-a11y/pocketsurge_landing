@@ -1,0 +1,50 @@
+{
+  "slug": "when-listening-to-music-was-a-team-sport",
+  "title": "When Listening to Music Was a Team Sport",
+  "excerpt": "An exploration of the Cooper Hewitt's 'Art of Noise' exhibition, revealing how jukeboxes and phonographs turned music listening into a shared, social 'team sport.' This stands in stark contrast to the isolated habits of modern streaming, and the article examines the design, culture, and quiet resurgence of communal listening.",
+  "keywords": [
+    "communal music listening",
+    "Art of Noise exhibition",
+    "history of jukeboxes",
+    "social music experience",
+    "vinyl resurgence",
+    "listening bars"
+  ],
+  "readingTime": 7,
+  "wordCount": 1267,
+  "category": "entertainment",
+  "researchId": "260bd10d-0b8e-4c87-86f3-7800e1ecc825",
+  "topicId": "541a40e8-2d59-409b-8f57-e23d010409f8",
+  "generatedAt": "2026-07-23T05:15:45.416Z",
+  "description": "Explore the 'Art of Noise' exhibition revealing how jukeboxes turned music into a shared team sport, contrasting with modern isolated streaming. Discover the design and culture of communal listening.",
+  "og": {
+    "title": "When Listening to Music Was a Team Sport",
+    "description": "Explore the 'Art of Noise' exhibition revealing how jukeboxes turned music into a shared team sport, contrasting with modern isolated streaming. Discover the design and culture of communal listening.",
+    "type": "article",
+    "image": "Vintage jukebox from 1940s with neon lights, centerpiece of a room full of people"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "When Listening to Music Was a Team Sport",
+    "description": "Explore the 'Art of Noise' exhibition revealing how jukeboxes turned music into a shared team sport, contrasting with modern isolated streaming. Discover the design and culture of communal listening."
+  },
+  "schemaOrg": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "When Listening to Music Was a Team Sport",
+    "description": "Explore the 'Art of Noise' exhibition revealing how jukeboxes turned music into a shared team sport, contrasting with modern isolated streaming. Discover the design and culture of communal listening.",
+    "author": {
+      "@type": "Organization",
+      "name": "TechPulse Team"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "TechPulse Team"
+    },
+    "datePublished": "2026-07-23T05:15:45.416Z",
+    "dateModified": "2026-07-23T05:15:45.416Z"
+  },
+  "language": "en",
+  "status": "approved",
+  "approvedAt": "2026-07-23T06:04:36.446Z"
+}

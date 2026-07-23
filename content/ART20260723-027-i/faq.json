@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "How does the Narwal Flow 2's obstacle avoidance work?",
+      "answer": "The Narwal Flow 2 uses a combination of lidar for distance mapping and a camera for object recognition. Its AI is trained to identify common household items like cables, shoes, and furniture legs, allowing it to preemptively avoid them without bumping into them."
+    },
+    {
+      "question": "Can the Narwal Flow 2 handle both carpets and hard floors?",
+      "answer": "Yes, the Narwal Flow 2 can clean both carpets and hard floors. Its vacuum performance adjusts to different surfaces, and the mopping system is designed for hard floors only. When transitioning to carpet, the mop head lifts automatically to avoid wetting the carpet."
+    },
+    {
+      "question": "Do I need to clean up cables and small objects before running the Narwal Flow 2?",
+      "answer": "No, one of the key benefits of the Narwal Flow 2 is that its advanced obstacle avoidance can detect and navigate around cables and small objects. This means you can run it without pre-cleaning, making it truly autonomous."
+    },
+    {
+      "question": "How does the Narwal Flow 2 compare to other robot vacuums in terms of mopping?",
+      "answer": "The Narwal Flow 2 stands out for its effective mopping system that removes dried-on stains while leaving floors only barely damp. Many other robot vacuums with mopping features simply drag a wet cloth, which can leave streaks or overly wet floors. The Flow 2's intelligent water control and scrubbing action provide superior mopping results."
+    },
+    {
+      "question": "Does the Narwal Flow 2 learn and improve its navigation over time?",
+      "answer": "Yes, the Narwal Flow 2's AI learns from each cleaning session. It continuously updates its map and improves obstacle recognition based on the environment it encounters, leading to more efficient cleaning over time."
+    }
+  ]
+}

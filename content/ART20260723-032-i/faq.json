@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What is the 'Art of Noise' exhibition at the Cooper Hewitt?",
+      "answer": "The 'Art of Noise' is an exhibition at the Cooper Hewitt Smithsonian Design Museum in New York that explores the history of music machines like jukeboxes and phonographs. It highlights how these devices were designed as 'social hardware' to encourage communal listening, contrasting with today's isolated streaming habits."
+    },
+    {
+      "question": "How did jukeboxes encourage communal music listening?",
+      "answer": "Jukeboxes served as the centerpiece of social spaces, drawing people together with captivating designs like glowing bubble tubes and illuminated panels. By requiring a coin drop and collective selection, they turned music playback into a shared event where strangers could experience a deliberate auditory moment together."
+    },
+    {
+      "question": "What are listening bars and how do they relate to the jukebox era?",
+      "answer": "Listening bars are intimate venues that prioritize high-quality sound and a social, focused listening experience, often playing vinyl records. They represent a quiet resurgence of communal listening, recreating the shared atmosphere and deliberate engagement that defined the jukebox era."
+    },
+    {
+      "question": "How does modern music streaming differ from the jukebox experience?",
+      "answer": "Streaming services prioritize personal playlists and convenience, often isolating listeners with headphones and algorithm-driven recommendations. In contrast, jukeboxes required public interaction and collective attention, making music a social event rather than a private soundtrack."
+    },
+    {
+      "question": "What can we learn from the 'Art of Noise' exhibition about design and social behavior?",
+      "answer": "The exhibition demonstrates that the design of technology directly shapes how we interact with music and with each other. It suggests that designing for community—as seen in the iconic Wurlitzer jukebox—can foster connection, offering lessons for creating more meaningful social experiences today."
+    }
+  ]
+}

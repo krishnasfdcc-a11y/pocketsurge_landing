@@ -1,0 +1,103 @@
+{
+  "title": "Clayface Trailer Leans Into Body Horror: A DCU Game-Changer",
+  "metaDescription": "The Clayface trailer brings body horror to the DCU. Alan Tudyk voices Matt Hagen in James Watkins' game-changing origin story. Discover the stunning visual effects and bold new direction.",
+  "keywords": {
+    "primary": "Clayface trailer",
+    "secondary": [
+      "body horror",
+      "DCU Gods and Monsters",
+      "Alan Tudyk Clayface",
+      "James Watkins Clayface"
+    ],
+    "related": [
+      "Clayface DCU",
+      "Matt Hagen Clayface",
+      "SDCC Clayface 2026",
+      "superhero body horror",
+      "DCU horror film",
+      "Clayface origin story",
+      "prosthetics in film",
+      "Alan Tudyk DCU",
+      "visual effects Clayface",
+      "Mike Flanagan Clayface"
+    ]
+  },
+  "headings": {
+    "h1": "Clayface Trailer Leans Into Body Horror: A DCU Game-Changer",
+    "h2": [
+      "The Clayface Trailer: A New Direction for the DCU",
+      "Body Horror in Superhero Films: A Rising Trend",
+      "Alan Tudyk's Return as Clayface",
+      "Visual Effects and Prosthetics",
+      "The Gods and Monsters Arc"
+    ],
+    "h3": [
+      "SDCC Debut Reactions",
+      "Matt Hagen's Tragic Origin",
+      "Hybrid Animation and Live-Action Techniques"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "Creature Commandos Review",
+      "suggestedUrl": "/creature-commandos-review"
+    },
+    {
+      "anchor": "DCU Gods and Monsters Phase Overview",
+      "suggestedUrl": "/dcu-gods-and-monsters-overview"
+    },
+    {
+      "anchor": "Body Horror in Superhero Films",
+      "suggestedUrl": "/body-horror-in-superhero-films"
+    },
+    {
+      "anchor": "Alan Tudyk's DCU Roles",
+      "suggestedUrl": "/alan-tudyk-dcu-role"
+    },
+    {
+      "anchor": "James Watkins Filmography",
+      "suggestedUrl": "/james-watkins-filmography"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "San Diego Comic-Con Official Site",
+      "suggestedUrl": "https://www.comic-con.org/sdcc"
+    },
+    {
+      "anchor": "DC Studios Official Announcement",
+      "suggestedUrl": "https://www.dc.com/movies/clayface"
+    },
+    {
+      "anchor": "Hollywood Reporter on Body Horror Trend",
+      "suggestedUrl": "https://www.hollywoodreporter.com/movies/movie-features/body-horror-superhero-film-trend-2026"
+    }
+  ],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Clayface Trailer Leans Into Body Horror: A DCU Game-Changer",
+    "description": "The debut Clayface trailer at San Diego Comic-Con signals a bold move into body horror for the DCU, with James Watkins directing and Alan Tudyk voicing Matt Hagen. This origin story promises to redefine superhero genre boundaries and showcase cutting-edge visual effects.",
+    "datePublished": "2026-07-23T04:58:55.752Z",
+    "author": {
+      "@type": "Person",
+      "name": "Content Writer"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Technology Publication"
+    },
+    "image": "https://example.com/images/clayface-trailer.jpg",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://example.com/clayface-trailer-body-horror-dcu"
+    },
+    "keywords": [
+      "Clayface trailer",
+      "body horror",
+      "DCU Gods and Monsters",
+      "Alan Tudyk Clayface",
+      "James Watkins Clayface"
+    ]
+  }
+}

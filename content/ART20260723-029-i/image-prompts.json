@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A dynamic cinematic shot of Spider-Man in his new suit, poised on a skyscraper edge at dusk, with a translucent shimmering figure of an invisible villain distorting the air around him. New York City skyline blurs softly in the background. The mood is tense and mysterious, with dramatic sidelighting casting long shadows. Photorealistic style, high contrast, subtle volumetric fog, enhanced by particle effects revealing the invisible foe's movement.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Spider-Man crouched on a skyscraper facing an invisible villain in a dramatic night scene",
+      "caption": "Spider-Man confronts an unseen threat in 'Spider-Man: Brand New Day.'"
+    },
+    {
+      "id": "image-2",
+      "prompt": "A close-up concept art illustration of a transparent villain figure, visible only through ripples in rain, shattered glass fragments floating mid-air, and dust kicked up by rapid movement. The background is a dark alley with neon reflections on wet pavement. Volumetric lighting cuts through the scene, highlighting the invisible presence. Style is a hybrid of photorealistic and digital painting, evoking a sense of unseen danger and technical VFX artistry.",
+      "style": "illustration",
+      "placement": "section-1",
+      "altText": "Concept art visualising an invisible villain through rain and debris in a dark alley",
+      "caption": "Volumetric and particle effects bring the invisible villain to life."
+    },
+    {
+      "id": "image-3",
+      "prompt": "A behind-the-scenes shot of director Destin Daniel Cretton on a film set surrounded by an LED volume wall displaying a virtual New York cityscape. Motion capture suits and cameras are visible near a stunt rig. The lighting is a blend of practical set lights and the cool blue glow from the LED screens. The mood is focused and innovative. Photorealistic style, capturing the intersection of filmmaking and cutting-edge technology.",
+      "style": "photorealistic",
+      "placement": "section-2",
+      "altText": "Director Destin Daniel Cretton on set with LED volume wall and motion capture equipment",
+      "caption": "Destin Daniel Cretton uses advanced LED volume technology for 'Spider-Man: Brand New Day.'"
+    },
+    {
+      "id": "image-4",
+      "prompt": "An intense cinematic group shot of Spider-Man swinging alongside Daredevil, The Punisher, and the Hulk in a street-level confrontation. The composition places Spider-Man in the foreground with the other heroes behind him, each in their iconic costumes. The lighting is a mix of firelight from an explosion and cool city night lights. The mood is epic and superhero-team-up. Digital painting style with detailed textures and dynamic poses.",
+      "style": "illustration",
+      "placement": "section-3",
+      "altText": "Spider-Man swings with Daredevil, Punisher, and Hulk in an epic team-up scene",
+      "caption": "Spider-Man teams up with Daredevil, Punisher, and Hulk in the new film."
+    }
+  ]
+}

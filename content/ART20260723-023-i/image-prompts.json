@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A photorealistic image of a Flipper Busy Bar on a clean modern desk, displaying the red 'busy' side. Next to it, a laptop with code on screen, a coffee mug, and a smartphone showing calendar events. The lighting is warm and cinematic, with shadows creating a focused atmosphere. The background is softly blurred, suggesting a busy office environment. The composition emphasizes the device as the focal point, conveying a sense of controlled productivity.",
+      "style": "photorealistic",
+      "placement": "hero",
+      "altText": "Flipper Busy Bar red busy side on desk with laptop and coffee",
+      "caption": "The Flipper Busy Bar in its busy state, signaling focused work."
+    },
+    {
+      "id": "image-2",
+      "prompt": "An illustration depicting the chaos of an open-plan office. In the foreground, a stressed tech professional wearing noise-cancelling headphones, trying to code on a laptop. In the background, multiple colleagues are walking, talking, and gesturing. Bright fluorescent lighting, cluttered desks, and a sense of fragmented attention. The style is a digital illustration with vibrant colors and slight distortion to convey anxiety and distraction.",
+      "style": "illustration",
+      "placement": "section-1",
+      "altText": "Open office chaos with distractions and fragmented attention",
+      "caption": "The high cost of interruptions in modern workplaces."
+    },
+    {
+      "id": "image-3",
+      "prompt": "A 3D render of a Flipper Busy Bar, floating in a pristine white environment. The bar is shown in an angled view, with both red and green sides visible. A subtle holographic calendar interface is projected above, showing Google Calendar and Outlook icons. Soft, even lighting with pastel colors. The image highlights the device's modern design and smart connectivity, emphasizing its tech-savvy nature.",
+      "style": "3d-render",
+      "placement": "section-2",
+      "altText": "Flipper Busy Bar 3D render with calendar integration icons",
+      "caption": "The Flipper Busy Bar combines physical design with calendar integration."
+    },
+    {
+      "id": "image-4",
+      "prompt": "A cinematic shot in a busy open office: a focused programmer at a desk with the Flipper Busy Bar set to red, but a colleague is leaning over and breaking focus. The lighting is mixed, with harsh overhead lights and a screen glow on the protagonist's face. The mood is tense and frustrated. The image illustrates the mixed effectiveness of the device in preventing interruptions.",
+      "style": "cinematic",
+      "placement": "section-3",
+      "altText": "Colleague interrupting despite Flipper Busy Bar showing red busy status",
+      "caption": "In some settings, the Busy Bar fails to deter interruptions."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A glowing 1946 Wurlitzer 1015 jukebox as the centerpiece of a dimly lit retro diner, neon bubble tubes casting warm amber and teal light, a small crowd gathered around it, vintage 1950s atmosphere, chrome and wood details, nostalgic Americana, cinematic composition, warm film grain texture, social gathering around music.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "A glowing Wurlitzer 1015 jukebox surrounded by people in a retro diner setting.",
+      "caption": "The jukebox transformed music listening from a solitary act into a shared social ritual."
+    },
+    {
+      "id": "image-2",
+      "prompt": "Museum exhibition hall at the Cooper Hewitt Smithsonian Design Museum, carefully curated vintage audio equipment on display, hand-cranked phonographs, mid-century hi-fi consoles, and neon-lit jukeboxes arranged in a chronological timeline, warm gallery lighting, elegant museum design, educational atmosphere, architectural photography style.",
+      "style": "photorealistic",
+      "placement": "section-1",
+      "altText": "The 'Art of Noise' exhibition at Cooper Hewitt featuring vintage audio equipment.",
+      "caption": "The 'Art of Noise' exhibition at Cooper Hewitt explores the social architecture of music machines."
+    },
+    {
+      "id": "image-3",
+      "prompt": "Split scene contrast: left side shows a 1950s living room with a family gathered around a large wooden hi-fi console record player, right side shows a modern person alone with noise-canceling headphones and smartphone, warm vintage tones on left, cool isolated blues on right, visual commentary on social vs solitary listening.",
+      "style": "cinematic",
+      "placement": "section-2",
+      "altText": "Split scene contrasting communal vinyl listening in the 1950s with isolated modern headphone listening.",
+      "caption": "While streaming offers convenience, something fundamental has been lost in the social contract of shared listening."
+    },
+    {
+      "id": "image-4",
+      "prompt": "Interior of a modern Japanese listening bar, warm dim lighting, wooden shelves lined with vinyl records, a high-end turntable setup, small group of people sitting quietly and attentively listening, craft cocktails on the bar, intimate atmosphere, rich wood tones and amber light, revival of communal listening culture, editorial photography style.",
+      "style": "photorealistic",
+      "placement": "section-3",
+      "altText": "Modern listening bar interior where people gather to share the experience of vinyl records.",
+      "caption": "Listening bars represent a quiet resurgence of the communal music experience."
+    }
+  ]
+}

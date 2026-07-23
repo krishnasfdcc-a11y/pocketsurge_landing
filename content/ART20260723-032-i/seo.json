@@ -1,0 +1,82 @@
+{
+  "title": "Communal Music Listening: When Jukeboxes Made Music a Team Sport",
+  "metaDescription": "Discover how the 'Art of Noise' exhibition highlights the rise of communal music listening through jukeboxes and phonographs. Learn why social music experiences are making a comeback.",
+  "keywords": {
+    "primary": "communal music listening",
+    "secondary": [
+      "Art of Noise exhibition",
+      "history of jukeboxes",
+      "social music experience",
+      "vinyl resurgence",
+      "listening bars"
+    ],
+    "related": [
+      "jukebox history",
+      "social listening",
+      "record player",
+      "music exhibition",
+      "audio design",
+      "Wurlitzer",
+      "phonograph",
+      "vinyl revival",
+      "Cooper Hewitt",
+      "social music consumption"
+    ]
+  },
+  "headings": {
+    "h1": "When Listening to Music Was a Team Sport",
+    "h2": [
+      "The 'Art of Noise': A Museum of Social Architecture",
+      "The Jukebox: The Democracy of Sound",
+      "The Social Contract of Shared Listening",
+      "The Quiet Resurgence of Communal Music"
+    ],
+    "h3": [
+      "Design as Social Hardware",
+      "How the Wurlitzer 1015 Became a Cultural Icon",
+      "From Phonographs to Listening Bars"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "history of jukeboxes",
+      "suggestedUrl": "/articles/history-of-jukeboxes"
+    },
+    {
+      "anchor": "vinyl resurgence trends",
+      "suggestedUrl": "/culture/vinyl-resurgence"
+    },
+    {
+      "anchor": "social music experiences",
+      "suggestedUrl": "/music/social-listening"
+    },
+    {
+      "anchor": "Cooper Hewitt exhibitions",
+      "suggestedUrl": "/design/cooper-hewitt-exhibitions"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "Art of Noise exhibition at Cooper Hewitt",
+      "suggestedUrl": "https://www.cooperhewitt.org/art-of-noise"
+    },
+    {
+      "anchor": "Wurlitzer 1015",
+      "suggestedUrl": "https://en.wikipedia.org/wiki/Wurlitzer"
+    },
+    {
+      "anchor": "history of phonographs at the Smithsonian",
+      "suggestedUrl": "https://americanhistory.si.edu/collections/object-groups/phonographs"
+    }
+  ],
+  "structuredData": {
+    "@type": "Article",
+    "headline": "Communal Music Listening: When Jukeboxes Made Music a Team Sport",
+    "description": "Discover how the 'Art of Noise' exhibition highlights the rise of communal music listening through jukeboxes and phonographs. Learn why social music experiences are making a comeback.",
+    "datePublished": "2026-07-23",
+    "author": {
+      "@type": "Organization",
+      "name": "TechCulture Publishing"
+    }
+  }
+}

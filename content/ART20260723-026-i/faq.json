@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What is a residential proxy network, and how does it work on smart TVs?",
+      "answer": "A residential proxy network routes internet traffic through real household devices, making it appear as if the traffic originates from a legitimate home IP address. In smart TVs, app developers embed SDKs that turn the TV into a proxy node, using the device's IP address and bandwidth for purposes like web scraping or ad verification, often without clear user awareness."
+    },
+    {
+      "question": "Why is LG banning apps that use residential proxy SDKs?",
+      "answer": "LG is banning these apps because they violate user privacy by turning smart TVs into proxy nodes without meaningful, informed consent. The company aims to protect consumers from unauthorized use of their devices, especially after research showed that over 42% of LG webOS apps contain such proxy SDKs. LG will suspend apps that fail to remove proxy features."
+    },
+    {
+      "question": "How can I tell if my LG smart TV is being used as a proxy node?",
+      "answer": "You can check the permissions and behavior of your installed apps: if an app sends unusual network traffic, uses excessive bandwidth in the background, or requests unnecessary device permissions, it may contain a proxy SDK. Unfortunately, there is no simple built-in indicator, but staying informed about app updates and reading developer documentation can help. LG’s new policy should eventually force developers to remove these SDKs or risk suspension."
+    },
+    {
+      "question": "What are the privacy risks of having a residential proxy SDK on my smart TV?",
+      "answer": "The primary risk is that your IP address is used for activities you did not authorize, which could include illegal or harmful actions like bypassing geo-restrictions, distributing malware, or engaging in fraud. Additionally, your bandwidth is consumed without consent, and your device's resources are exploited. Even if the SDK provider claims opt-in consent, the clarity and transparency of that consent in TV apps remain questionable."
+    },
+    {
+      "question": "What should I do if I have an app on my LG TV that uses a proxy SDK?",
+      "answer": "First, check for any app updates that might remove the proxy functionality, as developers may comply with LG’s ban. If you are unsure which app is affected, review the app permissions and network usage in your TV settings. You can also contact the app developer for clarification. As a general privacy measure, consider uninstalling apps you do not trust and disable any features that share your data without clear consent."
+    }
+  ]
+}

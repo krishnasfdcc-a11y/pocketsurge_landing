@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "Why did Whoopi Goldberg defend Elliot Page's casting in 'The Odyssey'?",
+      "answer": "Whoopi Goldberg defended Elliot Page's casting on The View after transphobic critics complained about Page's role. She told critics to 'Don't go see the damn movie,' emphasizing that the film is for audiences who appreciate inclusive storytelling."
+    },
+    {
+      "question": "How successful was 'The Odyssey' at the box office?",
+      "answer": "The Odyssey grossed over $300 million worldwide after a record opening weekend, according to Deadline. This success defied critics who doubted the commercial viability of inclusive casting, with analysts attributing part of the momentum to positive sentiment from the diverse cast."
+    },
+    {
+      "question": "What does the controversy around 'The Odyssey' teach us about sentiment analysis?",
+      "answer": "The controversy offers a real-world case study in how negative press can be converted into awareness and box office success. For data professionals, the film's performance demonstrates the value of audience segmentation and sentiment analysis in measuring the financial impact of inclusive content."
+    },
+    {
+      "question": "Does inclusive casting hurt or help box office performance?",
+      "answer": "The success of 'The Odyssey' suggests inclusive casting can positively impact box office performance, contradicting the assumption that it hurts commercial appeal. This aligns with broader trends showing audiences increasingly value representation, as reflected in the film's record-breaking gross."
+    },
+    {
+      "question": "What was Whoopi Goldberg's specific message to critics on The View?",
+      "answer": "Whoopi Goldberg told critics on The View, 'Don't go see the damn movie,' directly responding to complaints about Elliot Page's casting. She distinguished between a film for everyone and a film for those who appreciate inclusive storytelling, mirroring how tech companies segment audiences."
+    }
+  ]
+}

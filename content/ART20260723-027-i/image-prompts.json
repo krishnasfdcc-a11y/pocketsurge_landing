@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A sleek Narwal Flow 2 robot vacuum cleans a modern living room with hardwood floors and an area rug. Soft natural light streams through large windows, casting warm shadows. The robot navigates autonomously around a coffee table and modern sofa. High-end interior design, photorealistic style, shallow depth of field, warm and inviting mood, 8K ultra-detailed.",
+      "style": "photorealistic",
+      "placement": "hero",
+      "altText": "Narwal Flow 2 robot vacuum cleaning a modern living room with hardwood floors",
+      "caption": "The Narwal Flow 2 navigates a modern living room with ease."
+    },
+    {
+      "id": "image-2",
+      "prompt": "Close-up of a Narwal Flow 2 robot vacuum navigating around a black power cable on a light hardwood floor. The lidar sensor emits a subtle grid projection visualizing distance mapping. The vacuum maintains centimeter clearance from the cable. Sharp focus, dramatic side lighting emphasizing precision, cinematic tech photography style, shallow depth of field with background blurred.",
+      "style": "cinematic",
+      "placement": "obstacle-avoidance",
+      "altText": "Narwal Flow 2 avoiding a power cable using lidar obstacle avoidance technology",
+      "caption": "The Flow 2's lidar and AI detect cables without contact."
+    },
+    {
+      "id": "image-3",
+      "prompt": "The Narwal Flow 2 robot vacuum mopping a tiled kitchen floor. A visible dried coffee stain on the tile is being scrubbed by the oscillating water pad. Fine water droplets on the pad and floor. Clean kitchen background with modern cabinets. Bright, clean lighting, high detail macro shot of the mop pad and stain, photorealistic, focus on the cleaning action.",
+      "style": "photorealistic",
+      "placement": "mopping-performance",
+      "altText": "Narwal Flow 2 mopping a kitchen floor with oscillating pad removing dried coffee stain",
+      "caption": "The oscillating mop pad effectively removes dried-on stains."
+    },
+    {
+      "id": "image-4",
+      "prompt": "Split composition: top half shows a Narwal Flow 2 robot vacuum in a bright hallway with various floor types; bottom half shows a smartphone app interface displaying a detailed room map with labeled areas, no-go zones, and cleaning path overlay. Modern tech aesthetic, clean lines, professional look, infographic style with precise layout, bright lighting.",
+      "style": "infographic",
+      "placement": "smart-mapping",
+      "altText": "Narwal Flow 2 smart mapping app interface with room map and cleaning zones",
+      "caption": "The companion app gives granular control over mapping and cleaning schedules."
+    }
+  ]
+}

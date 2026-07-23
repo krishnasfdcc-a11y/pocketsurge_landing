@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What is the build mode in the RuneScape housing revamp?",
+      "answer": "The build mode is a new feature that allows players to freely place, rotate, resize, and recolor objects like walls, floors, and furniture without a grid. It includes undo/redo functionality for risk-free experimentation, similar to sandbox games like The Sims."
+    },
+    {
+      "question": "How can I create a neighborhood with friends in RuneScape?",
+      "answer": "To create a neighborhood, you need to own a player-owned house and then invite friends to connect their homes into a shared area. This collaboration turns individual housing into a communal space where you can build and explore together."
+    },
+    {
+      "question": "How does RuneScape's new housing customization compare to other MMOs?",
+      "answer": "Most MMOs restrict housing to predefined layouts and grid-based placement, but RuneScape’s build mode offers complete freedom with no grid constraints. This puts it on par with standalone building games and makes it one of the most flexible housing systems in the genre."
+    },
+    {
+      "question": "Why can't I access the build mode or neighborhood features?",
+      "answer": "First, ensure your game is updated to the July 18, 2024 version. You also need to own a player-owned house in RuneScape, and some features may require an active membership to unlock the full range of options."
+    },
+    {
+      "question": "Will RuneScape continue to expand housing features in future updates?",
+      "answer": "Given the positive reception and the growing trend of MMO housing personalization, it is likely that Jagex will add more furniture items, customization options, and social events for neighborhoods. The update sets a strong foundation for ongoing improvements."
+    }
+  ]
+}

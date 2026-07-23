@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A dramatic wide-angle shot of a grand ancient Greek theatre bathed in golden sunset light, with a diverse cast of actors in classical costumes walking toward the stage. Overlaid text reads 'The Odyssey'. The mood is epic and triumphant, capturing the spirit of an inclusive modern retelling. Cinematic lighting with warm tones and lens flare enhances the emotional impact.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Epic scene from The Odyssey film with diverse cast in golden sunset lighting.",
+      "caption": "A modern vision of Homer's epic, celebrating inclusive storytelling."
+    },
+    {
+      "id": "image-2",
+      "prompt": "A television studio set resembling The View, with a female talk show host in a colorful dress speaking assertively across a round table. Background monitors display the quote 'Don't go see the damn movie'. The mood is bold and confrontational, with bright studio lighting and a sense of live television energy, emphasizing a pivotal cultural moment.",
+      "style": "cinematic",
+      "placement": "section-1",
+      "altText": "Whoopi Goldberg on The View defending Elliot Page's casting in The Odyssey.",
+      "caption": "Whoopi Goldberg's unapologetic defense sparked both praise and controversy."
+    },
+    {
+      "id": "image-3",
+      "prompt": "An infographic showing a rising bar chart with a world map background, highlighting a record opening weekend and '$300 million' in bold text. Diversity icons like silhouettes of different genders and ethnicities are integrated into the graph. The color palette is blue and gold, with clean typography and modern data visualization elements.",
+      "style": "infographic",
+      "placement": "section-2",
+      "altText": "Infographic showing The Odyssey box office success with diversity icons.",
+      "caption": "Data proves inclusive films can achieve both critical and commercial success."
+    },
+    {
+      "id": "image-4",
+      "prompt": "A digital illustration of social media feeds and hashtags swirling around a central speech bubble containing 'Don't go see the damn movie'. Thumbs up and thumbs down symbols represent positive and negative sentiment in a dynamic vortex. The colors are bright and contrasting, with a modern flat design style that captures real-time online reaction.",
+      "style": "illustration",
+      "placement": "section-3",
+      "altText": "Social media reaction illustration showing sentiment around Whoopi Goldberg's quote.",
+      "caption": "The internet reacted instantly, demonstrating the power of real-time sentiment analysis."
+    },
+    {
+      "id": "image-5",
+      "prompt": "A technical diagram showing a sentiment analysis pipeline: social media posts flow through NLP components like tokenization, sentiment scoring, and visualization. The diagram uses clean lines, nodes, and arrows, with examples of positive and negative comments. The style is analytical and professional with a dark background and neon accents for clarity.",
+      "style": "diagram",
+      "placement": "section-4",
+      "altText": "Diagram of sentiment analysis pipeline analyzing social media comments about Whoopi Goldberg and The Odyssey.",
+      "caption": "Natural language processing tools can quantify the cultural impact of such moments."
+    }
+  ]
+}

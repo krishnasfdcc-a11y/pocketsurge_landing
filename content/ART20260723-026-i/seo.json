@@ -1,0 +1,82 @@
+{
+  "title": "LG to Ban Residential Proxy Networks from Smart TV Apps",
+  "metaDescription": "LG to ban smart TV apps from being used as residential proxy nodes. Learn about the prevalence of proxy SDKs in webOS apps and how to protect your smart TV privacy.",
+  "keywords": {
+    "primary": "residential proxy",
+    "secondary": [
+      "smart TV privacy",
+      "LG webOS",
+      "proxy SDKs",
+      "smart TV security"
+    ],
+    "related": [
+      "IP address masking",
+      "consumer privacy",
+      "Bright Data",
+      "web scraping",
+      "authorized proxy use",
+      "device consent",
+      "proxy nodes",
+      "Spur research"
+    ]
+  },
+  "headings": {
+    "h1": "LG to Ban Residential Proxy Networks from Smart TV Apps",
+    "h2": [
+      "The Scale of Proxy SDKs in Smart TV Apps",
+      "Understanding Residential Proxy Networks",
+      "The Privacy Risks of Unauthorized Proxy Nodes"
+    ],
+    "h3": [
+      "42% of LG webOS Apps Contain Proxy SDKs",
+      "Bright Data Defends Opt-In Consent"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "Smart TV privacy basics",
+      "suggestedUrl": "/guides/smart-tv-privacy"
+    },
+    {
+      "anchor": "LG webOS security features",
+      "suggestedUrl": "/tech/lg-webos-security"
+    },
+    {
+      "anchor": "Residential proxy explained",
+      "suggestedUrl": "/internet/residential-proxy-explained"
+    },
+    {
+      "anchor": "How to check for proxy SDKs in apps",
+      "suggestedUrl": "/tutorials/check-proxy-sdks"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "Spur research on smart TV proxy SDKs",
+      "suggestedUrl": "https://spur.us/research/smart-tv-proxy-sdks"
+    },
+    {
+      "anchor": "Bright Data blog on consent practices",
+      "suggestedUrl": "https://blog.brightdata.com/consent-smart-tv"
+    },
+    {
+      "anchor": "LG official announcement",
+      "suggestedUrl": "https://www.lg.com/newsroom/lg-bans-proxy-apps"
+    }
+  ],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "LG to Ban Residential Proxy Networks from Smart TV Apps",
+    "description": "LG will suspend smart TV apps acting as residential proxy nodes. With 42% of webOS apps containing proxy SDKs, this move addresses privacy violations and lack of informed consent. Developers must remove proxy features or face suspension.",
+    "datePublished": "2026-07-23T05:18:16.574Z",
+    "author": {
+      "@type": "Organization",
+      "name": "TechNews"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "TechNews"
+    }
+  }
+}

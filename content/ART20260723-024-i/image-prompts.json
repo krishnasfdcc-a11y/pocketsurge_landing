@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "Cinematic wide shot of a rugged geologist in a flannel shirt and khaki pants, standing on a rocky outcrop overlooking a steaming, ominous volcano. Classic film noir aesthetic with dramatic low-key lighting and deep shadows across the frame. The heavy mood of impending doom is palpable. The sky is dark and stormy clouds gather. Grainy 35mm film texture adds to the classic adventure cinema feel.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Rugged geologist in film noir style overlooking a dangerous volcano",
+      "caption": "The archetype of the doomed cinematic geologist."
+    },
+    {
+      "id": "image-2",
+      "prompt": "Hyper-detailed infographic illustration. A cracked tombstone heavily features the glowing red neon number '34%' at its center. Beside it sits a stack of dusty old film reels and a geologist's rock hammer. The dark background is pierced by a single dramatic spotlight. The style blends clean flat vector elements with highly polished 3D rendering. The mood is somber and dramatic, fitting a high-end data visualization of mortality statistics.",
+      "style": "infographic",
+      "placement": "section-1",
+      "altText": "Infographic showing 34 percent mortality for geologists in movies",
+      "caption": "The study found a 34% mortality rate across 202 geologist characters appearing in film from 1919 to 2023."
+    },
+    {
+      "id": "image-3",
+      "prompt": "Stylized vintage movie poster for a 1960s crime drama. Five geologists in hard hats are silhouetted against a dark, smoky background. They huddle around a map as a menacing shadowy figure lurks behind them. The retro color palette features deep oranges, browns, and teal. The scratched retro font prominently displays the title 'The Money Jungle'. The overall mood is eerie and dangerous, heavily inspired by the graphic art style of Saul Bass.",
+      "style": "illustration",
+      "placement": "section-2",
+      "altText": "Vintage movie poster for The Money Jungle with doomed geologists",
+      "caption": "The worst serial slaughter of geologists in any movie occurs in the 1967 film The Money Jungle."
+    },
+    {
+      "id": "image-4",
+      "prompt": "Wide cinematic split screen composition. The left side depicts a vast, empty desert canyon under harsh sunlight. The right side shows the deep, terrifying darkness of a narrow cave entrance. A solitary figure in a geologist's outfit walks into the cave, appearing incredibly small and vulnerable. High contrast lighting. Anamorphic lens perspective. The cinematic color grade features deep teals and warm oranges, creating a strong feeling of profound isolation and imminent danger.",
+      "style": "cinematic",
+      "placement": "section-3",
+      "altText": "Split screen of a geologist in a desert canyon and a dark cave",
+      "caption": "Remote locations like deserts and caves make geological fieldwork a prime setting for on-screen disaster."
+    },
+    {
+      "id": "image-5",
+      "prompt": "Intimate close-up portrait of a confident female geologist in her 30s. She wears a practical Patagonia jacket and a hard hat, holding a rock sample. The soft, natural lighting is hopeful. She looks directly at the camera with a slight, knowing smile. The background is a tasteful blur of a film set with a clapperboard, contrasting modern inclusivity with established cinematic tropes. Photorealistic, determined, and professional mood.",
+      "style": "photorealistic",
+      "placement": "section-4",
+      "altText": "Confident female geologist portrait against a blurred film set background",
+      "caption": "Only 11% of cinematic geologists are female, but representation has slowly risen since the 1990s."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A cinematic, photorealistic side profile of a middle-aged adult sitting in a dimly lit living room. The head is partially transparent, revealing a brain structure. Inside the brain, a brightly glowing television screen sits where the hippocampus should be. The surrounding neural tissue appears faded, atrophied, and grey compared to the bright screen. Dark, moody lighting, volumetric haze, deep shadows, 8k, dramatic atmosphere, hyperrealistic textures, emphasizing the cognitive cost of passive entertainment.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Side profile of person with glowing TV screen inside translucent brain showing atrophy",
+      "caption": "Passive consumption may come at a high cognitive price."
+    },
+    {
+      "id": "image-2",
+      "prompt": "A high contrast split screen photorealistic image. Left side: a person slumped on a sofa watching a large flat screen TV, brain shown as a small, dim, grey sphere, colors are desaturated blue. Right side: a focused tech professional sitting at a desk with multiple monitors displaying code, brain is a large, intricate network of glowing golden and cyan neurons firing brightly. Warm, focused lighting on the right, cold flat lighting on the left. Sharp focus, detailed textures, 3d rendered volumetric brain elements.",
+      "style": "photorealistic",
+      "placement": "section-1",
+      "altText": "Comparison of sedentary TV watching with dull brain versus coding with active glowing brain",
+      "caption": "Not all sitting is equal: passive TV vs. active deep work."
+    },
+    {
+      "id": "image-3",
+      "prompt": "A detailed, scientific 3d render of a human brain cutaway view. The hippocampus and prefrontal cortex are highlighted in bright red and orange, showing signs of atrophy and degradation. White matter pathways are depicted as glowing fiber optic cables, some of which are broken, frayed, or dimmed. The rest of the brain is a translucent blue. Dark clinical background, precise lighting, medical illustration style, high detail, realistic tissue textures.",
+      "style": "3d-render",
+      "placement": "section-2",
+      "altText": "3D medical brain render showing damaged hippocampus and prefrontal cortex with degrading white matter",
+      "caption": "The specific brain regions eroded by frequent midlife TV viewing."
+    },
+    {
+      "id": "image-4",
+      "prompt": "An abstract, minimal, clean illustration of brain networks. Left side represents passive consumption: a single, straight, flat, grey line connecting two dull nodes. Right side represents active cognitive work: a vibrant, branching, intricate network of glowing neon blue and gold nodes and synapses firing in complex patterns. Minimalist white background, sharp vector lines, flat design with subtle glowing effects, modern data visualization aesthetic.",
+      "style": "illustration",
+      "placement": "section-3",
+      "altText": "Minimalist brain network illustration comparing passive flat neural path to active complex branching network",
+      "caption": "The neurochemical divide between passive attention and active cognitive engagement."
+    }
+  ]
+}

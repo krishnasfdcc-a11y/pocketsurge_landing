@@ -5,9 +5,9 @@ Generate all article images using Stable Diffusion Web UI API.
 For each article with image-prompts.json:
  - Creates images/ folder inside the article directory
  - Generates hero image at 1200x514 (21:9)
- - Generates gallery images at 1024x768 (4:3)
  - Saves as WebP
  - Reuses hero.webp for other purposes (OG, cards, etc.)
+ - Only generates hero images (gallery images skipped)
 """
 
 import json
@@ -138,19 +138,29 @@ def process_article(article_dir):
         print(f"\n=== SKIP {slug} (no images in config) ===")
         return
 
+    # Filter to only hero images
+    hero_images = [img for img in images_config if img.get("placement") == "hero"]
+    if not hero_images:
+        print(f"\n=== SKIP {slug} (no hero image) ===")
+        return
+
     # Create images directory
     images_dir = article_dir / "images"
     images_dir.mkdir(exist_ok=True)
 
     print(f"\n{'='*60}")
-    print(f"=== {slug} ({len(images_config)} images) ===")
+    print(f"=== {slug} (1 hero image) ===")
     print(f"{'='*60}")
 
-    for img_cfg in images_config:
+    for img_cfg in hero_images:
         img_id = img_cfg["id"]
         prompt = img_cfg["prompt"]
         placement = img_cfg.get("placement", "")
         style = img_cfg.get("style", "")
+
+        # Only generate hero images
+        if placement != "hero":
+            continue
 
         # Determine output filename and resolution
         is_hero = placement == "hero"
@@ -226,7 +236,11 @@ def main():
     for d in article_dirs:
         with open(d / "image-prompts.json") as f:
             data = json.load(f)
-        total_expected += len(data.get("images", []))
+        # Only count hero images
+        total_expected += sum(
+            1 for img in data.get("images", [])
+            if img.get("placement") == "hero"
+        )
 
     print(f"Total images expected: {total_expected}")
     print(f"\n{'#' * 60}")

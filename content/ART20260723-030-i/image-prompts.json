@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A colossal wooden Trojan horse looms over the ancient walls of Troy under a dramatic sunset sky. The horse is intricately carved, with ropes and a hidden army inside. Greek soldiers stand in awe around the massive structure. Cinematic wide shot, shallow depth of field, warm golden lighting, epic scale, photorealistic style, mood of awe and impending doom.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Trojan horse towering over Troy in epic cinematic scene from The Odyssey",
+      "caption": "The Trojan horse as a cinematic spectacle in The Odyssey"
+    },
+    {
+      "id": "image-2",
+      "prompt": "A lone astronaut in a tattered spacesuit kneels on a desolate beach, staring in horror at the remains of the Statue of Liberty half-buried in sand. The statue's face is weathered, the torch missing, and the sky is overcast and gray. Cinematic shot, low angle, emotional impact, desaturated colors, mood of shocking realization and despair.",
+      "style": "cinematic",
+      "placement": "section-1",
+      "altText": "Statue of Liberty reveal from Planet of the Apes, iconic sci-fi twist ending",
+      "caption": "The Statue of Liberty twist ending in Planet of the Apes (1968)"
+    },
+    {
+      "id": "image-3",
+      "prompt": "Split illustration comparing the iconic reveals: left side shows the Statue of Liberty in ruins with a silhouette of Taylor; right side shows the Trojan horse towering over Troy with a silhouette of a Greek soldier. Both use a similar low-angle perspective and dramatic lighting. Illustration style, clean lines, vignette effect, mood of awe and narrative parallel.",
+      "style": "illustration",
+      "placement": "section-2",
+      "altText": "Split comparison of Statue of Liberty and Trojan horse visual reveals",
+      "caption": "Parallel visual language between two iconic film moments"
+    },
+    {
+      "id": "image-4",
+      "prompt": "Infographic diagram deconstructing the visual reveal technique. Three panels: 'Scale and Perspective' with camera lens diagram, 'The Slow Burn' with timeline arrows, and 'Subtext through Texture' with close-ups of weathered bronze and fresh wood. Clean 3d-render elements, minimalist design, annotations, mood of analytical clarity.",
+      "style": "infographic",
+      "placement": "section-3",
+      "altText": "Infographic showing design architecture of iconic film reveals",
+      "caption": "Technical breakdown of the reveal's emotional architecture"
+    },
+    {
+      "id": "image-5",
+      "prompt": "A film director and VFX artists gathered around a large monitor in a dimly lit studio. The screen shows a real-time game engine view of the Trojan horse, wireframe overlaying the final render. Concept art on walls, gear on desk. Cinematic shot, dramatic lighting from screen, mood of creative collaboration and technical precision.",
+      "style": "cinematic",
+      "placement": "section-4",
+      "altText": "VFX team using real-time engine for previsualization of Trojan horse scene",
+      "caption": "Real-time previsualization allows for iterative design"
+    }
+  ]
+}

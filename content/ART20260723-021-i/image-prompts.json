@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "Cinematic wide shot of Clayface in mid-transformation, his body violently morphing into a grotesque unstable humanoid form made of brown and grey clay, tendrils of viscous protoplasm stretching and snapping, dramatic chiaroscuro lighting, deep shadows, unsettling psychological horror atmosphere, photorealistic style, highly detailed textures of the malleable skin blending with human features, moody dark background, golden hour backlighting creating a silhouette effect, 8k resolution, complex VFX simulation, DC Universe Gods and Monsters aesthetic.",
+      "style": "photorealistic",
+      "placement": "hero",
+      "altText": "Cinematic scene of Clayface transforming in the body horror trailer for the DCU film.",
+      "caption": "Director James Watkins' 'Clayface' announces a dark new direction for the DCU."
+    },
+    {
+      "id": "image-2",
+      "prompt": "Low angle shot of Alan Tudyk in a motion capture suit, intense expression on his face, surrounded by infrared cameras and VFX markers, a massive holographic projection behind him displaying a fully rendered monstrous Clayface mid-scream, blue and red moody lighting blending practical set with digital art, cinematic composition, photorealistic, capturing the actor's emotional performance blending with digital character creation, dark and gritty backstage look.",
+      "style": "cinematic",
+      "placement": "section-1",
+      "altText": "Alan Tudyk performing motion capture for the Clayface character in the DCU film.",
+      "caption": "Alan Tudyk brings his acclaimed performance from 'Creature Commandos' to the big screen."
+    },
+    {
+      "id": "image-3",
+      "prompt": "Extreme macro close-up of a human hand melting into a grotesque viscous clay substance, realistic skin textures merging with fluid dynamics, intricate prosthetic makeup blending seamlessly with detailed CGI simulation, clinical top-lit medical horror aesthetic, hyperdetailed pores and clay particles, unsettling organic metamorphosis, photorealistic style, high contrast, stark lighting, 8k textures, the line between flesh and clay is indistinguishable.",
+      "style": "photorealistic",
+      "placement": "section-2",
+      "altText": "Macro shot of body horror with practical prosthetics and CGI of melting clay skin.",
+      "caption": "'Clayface' pushes the boundaries of visual effects in superhero cinema."
+    },
+    {
+      "id": "image-4",
+      "prompt": "Illustration of Matt Hagen, a struggling actor, in a gritty mirror reflection, his face partially cracking and revealing a void of shifting clay underneath, dark alleyway background with neon lights, rain-streaked window, expression of horror and despair, psychological depth, rich textures, oil painting meets digital art style, narrative tragedy and addiction themes, dramatic shadows, emotional core of the character.",
+      "style": "illustration",
+      "placement": "section-3",
+      "altText": "Illustration of Matt Hagen's reflection cracking to reveal the Clayface monster within.",
+      "caption": "The origin of Matt Hagen explores a tragic descent into madness and identity loss."
+    },
+    {
+      "id": "image-5",
+      "prompt": "Concept art style depiction of a high-tech VFX studio workspace, multiple monitors displaying fluid dynamics simulations and 3D models of the Clayface character, a digital sculpting interface showing the topology of the clay form, a stylized timeline showing the transition from Mike Flanagan's vision to James Watkins' direction, moody ambient blue and orange lighting, cinematic atmosphere, photorealistic digital art, organized creative chaos, computers and reference boards, a sterile yet creative environment.",
+      "style": "3d-render",
+      "placement": "section-4",
+      "altText": "Concept art of VFX studio creating Clayface with digital sculpting and fluid simulations.",
+      "caption": "From Mike Flanagan to James Watkins, the technical vision for 'Clayface' relies on cutting-edge VFX."
+    }
+  ]
+}

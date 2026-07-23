@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "Fantasy medieval house interior in RuneScape style, a player character using a floating build mode interface to place furniture and walls, grid-free construction system, warm torch lighting, wooden beams and stone walls, cozy cottage atmosphere, isometric game-like perspective, vibrant colors, detailed textures, sandbox customization theme.",
+      "style": "3d-render",
+      "placement": "hero",
+      "altText": "RuneScape player using the new build mode to customize their house interior.",
+      "caption": "RuneScape's housing revamp introduces a flexible build mode with unprecedented customization."
+    },
+    {
+      "id": "image-2",
+      "prompt": "Aerial view of a RuneScape neighborhood with multiple player houses arranged in a charming village layout, cobblestone paths connecting different homes, each house having a unique architectural style, community gathering area in the center with a fountain, vibrant fantasy colors, isometric game art style, social gaming atmosphere.",
+      "style": "3d-render",
+      "placement": "section-1",
+      "altText": "Aerial view of a player-created neighborhood in RuneScape with unique houses.",
+      "caption": "The new neighborhood system turns solo housing into a collaborative social experience."
+    },
+    {
+      "id": "image-3",
+      "prompt": "Split comparison showing a basic RuneScape house on the left and a fully customized elaborate mansion on the right, transformation visual, before and after style, the customized side showing elevated structures, decorative items, color variations, and detailed landscaping, game UI elements showing customization options, vibrant fantasy art style.",
+      "style": "illustration",
+      "placement": "section-2",
+      "altText": "Before and after comparison of RuneScape housing customization with the new build mode.",
+      "caption": "Players can now freely place, rotate, resize, and recolor objects without grid constraints."
+    },
+    {
+      "id": "image-4",
+      "prompt": "Technical architecture diagram showing the modular housing system design, legacy code base on one side and new build mode system on the other, data flow arrows showing incremental updates, server-client synchronization visualization, clean technical illustration style, blue and green color scheme, software architecture diagram.",
+      "style": "diagram",
+      "placement": "section-3",
+      "altText": "Technical diagram of RuneScape's modular housing system architecture.",
+      "caption": "The build mode uses a modular architecture that separates new functionality from legacy code."
+    }
+  ]
+}

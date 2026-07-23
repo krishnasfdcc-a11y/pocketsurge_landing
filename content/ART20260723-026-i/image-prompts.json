@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "Modern living room with a large LG smart TV on the wall, a subtle glowing network data stream visualized as translucent blue lines flowing from the TV into the internet, warm cozy home environment contrasting with the cold blue data streams, evening ambiance with lamp light, photorealistic style, editorial photography composition, technology privacy theme.",
+      "style": "photorealistic",
+      "placement": "hero",
+      "altText": "LG smart TV in a living room with visualized data streams showing proxy network activity.",
+      "caption": "LG announces a crackdown on smart TV apps secretly operating as residential proxy nodes."
+    },
+    {
+      "id": "image-2",
+      "prompt": "Isometric technical diagram of a residential proxy network, showing multiple smart TVs in different homes connected through a central server, data packets flowing from the internet through home IP addresses, network topology visualization, clean infographic style, blue and orange color scheme, professional technical illustration.",
+      "style": "diagram",
+      "placement": "section-1",
+      "altText": "Technical diagram showing how residential proxy networks route traffic through smart TVs.",
+      "caption": "Over 42% of LG webOS apps contain residential proxy SDKs, according to research firm Spur."
+    },
+    {
+      "id": "image-3",
+      "prompt": "Close-up of a smart TV settings screen with a hidden proxy SDK permission buried deep in menus, a magnifying glass hovering over the obscure setting, split lighting with half the screen in warm TV glow and half in suspicious blue light, photorealistic, editorial style, privacy concern visual metaphor.",
+      "style": "photorealistic",
+      "placement": "section-2",
+      "altText": "Close-up of smart TV settings showing hidden proxy SDK permissions.",
+      "caption": "Users may unknowingly allow their bandwidth and IP address to be used for proxy activities."
+    },
+    {
+      "id": "image-4",
+      "prompt": "Comparison infographic showing LG webOS and Samsung Tizen app ecosystems side by side, with percentage bars indicating proxy SDK prevalence (42% vs 25%), clean data visualization, corporate color scheme, bar charts and statistics, professional infographic style, clear typography.",
+      "style": "infographic",
+      "placement": "section-3",
+      "altText": "Infographic comparing proxy SDK prevalence in LG webOS and Samsung Tizen apps.",
+      "caption": "LG's decision follows research revealing widespread proxy SDK integration across smart TV platforms."
+    }
+  ]
+}
