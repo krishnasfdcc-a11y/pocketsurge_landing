@@ -1,6 +1,8 @@
-# PocketSurge — Cloudflare Pages static export
-# Framework preset must be set to "none" in Cloudflare Pages dashboard
-# Settings → Build configuration → Framework preset: None
+# PocketSurge — Cloudflare static export (Next.js output: "export" → out/)
+# In Cloudflare dashboard (Workers Builds / Pages):
+#   Build command: npm run build
+#   Deploy command: npx wrangler deploy
+#   NODE_VERSION=20 (as an environment variable, not in this file)
 
 name = "pocketsurge-landing"
 compatibility_date = "2025-07-23"
@@ -8,5 +10,6 @@ compatibility_date = "2025-07-23"
 [build]
 command = "npm run build"
 
-[build.environment]
-NODE_VERSION = "20.0.0"
+[assets]
+directory = "./out"
+not_found_handling = "404-page"
