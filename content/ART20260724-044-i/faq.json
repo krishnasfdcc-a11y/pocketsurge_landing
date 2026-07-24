@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What are the new tariffs Trump imposed in 2026?",
+      "answer": "The new tariffs impose a 25% charge on approximately $400 billion in annual imports from 60 trade partners, targeting key technology supply chains including semiconductors and consumer electronics."
+    },
+    {
+      "question": "How will these tariffs affect the cost of consumer electronics?",
+      "answer": "The tariffs will directly increase the import costs of components and finished goods, likely leading to higher prices for devices like smartphones, laptops, and servers as companies pass on the added expenses."
+    },
+    {
+      "question": "What strategies can tech companies adopt to mitigate the impact?",
+      "answer": "Companies can diversify their sourcing away from affected countries, accelerate domestic manufacturing investments, or seek product redesigns to reduce tariff exposure, though the broad scope limits alternatives."
+    },
+    {
+      "question": "Which countries are included and why does it matter for semiconductors?",
+      "answer": "Major semiconductor hubs like Taiwan, South Korea, Germany, and the Netherlands are included, disrupting the global chip supply chain and complicating diversification as many alternative locations are also tariffed."
+    },
+    {
+      "question": "How do these tariffs compare to earlier Trump trade actions?",
+      "answer": "Unlike previous case-by-case tariffs, this action targets 60 nations simultaneously at a uniform 25% rate, marking a significant escalation and testing executive authority after earlier policies faced legal setbacks."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "title": "Devnors Data MCP Server: Unify Chinese Data for AI Agents",
+  "metaDescription": "Devnors Data MCP Server unifies Chinese legal, corporate, and WeChat data for AI agents via Model Context Protocol. Simplify business intelligence with natural language queries.",
+  "keywords": {
+    "primary": "Devnors Data MCP Server",
+    "secondary": [
+      "Model Context Protocol",
+      "Chinese business data",
+      "AI agent integration",
+      "MCP server",
+      "unified data API"
+    ],
+    "related": [
+      "Chinese data sources",
+      "business intelligence China",
+      "AI research assistants",
+      "corporate registries China",
+      "WeChat index data",
+      "legal cases China",
+      "data unification",
+      "natural language queries",
+      "Claude MCP integration",
+      "Chinese API integration"
+    ]
+  },
+  "headings": {
+    "h1": "Devnors Data MCP Server: Unifying Chinese Data for AI Agents",
+    "h2": [
+      "What is the Devnors Data MCP Server?",
+      "How Devnors Data MCP Server Works",
+      "Core Features and Supported Data Sources",
+      "Getting Started with MCP Integration"
+    ],
+    "h3": [
+      "Seamless Integration with Leading AI Tools",
+      "Core Technical Architecture Explained",
+      "Supported Chinese Business Data APIs"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "Model Context Protocol guide",
+      "suggestedUrl": "/blog/model-context-protocol-guide"
+    },
+    {
+      "anchor": "AI agent integration best practices",
+      "suggestedUrl": "/blog/ai-agent-integration"
+    },
+    {
+      "anchor": "Chinese business intelligence data sources",
+      "suggestedUrl": "/blog/chinese-business-intelligence"
+    },
+    {
+      "anchor": "MCP server development tutorial",
+      "suggestedUrl": "/blog/mcp-server-tutorial"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "Model Context Protocol specification",
+      "suggestedUrl": "https://modelcontextprotocol.io"
+    },
+    {
+      "anchor": "Claude MCP integration documentation",
+      "suggestedUrl": "https://docs.anthropic.com/en/docs/claude-mcp"
+    },
+    {
+      "anchor": "WeChat Index official API",
+      "suggestedUrl": "https://developers.weixin.qq.com/doc/offiaccount/Analytics/WeChat_Index.html"
+    },
+    {
+      "anchor": "Chinese company registration lookup",
+      "suggestedUrl": "https://www.gsxt.gov.cn"
+    }
+  ],
+  "structuredData": {
+    "@type": "Article",
+    "headline": "Devnors Data MCP Server: Unifying Chinese Data for AI Agents",
+    "description": "Devnors Data MCP Server unifies Chinese legal, corporate, and WeChat data for AI agents via Model Context Protocol. Simplify business intelligence with natural language queries."
+  }
+}

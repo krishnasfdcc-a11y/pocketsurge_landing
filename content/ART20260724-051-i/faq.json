@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What is the statistical definition of entropy and how is it different from the common idea of disorder?",
+      "answer": "Entropy is defined as S = k_B ln W, where W is the number of microstates consistent with a macrostate. It does not measure disorder directly; it counts possible arrangements. A messy room may have high entropy not because it is messy but because there are many ways to arrange its contents to look equally messy."
+    },
+    {
+      "question": "Why does entropy tend to increase if the second law is statistical?",
+      "answer": "Because there are overwhelmingly more microstates with high entropy than low entropy. For example, there are far more ways for air molecules to be spread out than crowded into a corner, so the system will almost always evolve toward higher entropy states."
+    },
+    {
+      "question": "What is the relationship between thermodynamic entropy and Shannon entropy?",
+      "answer": "Both measure the number of possible configurations of a system, but thermodynamic entropy applies to physical microstates and has units of J/K, while Shannon entropy applies to communication outcomes and is measured in bits. The mathematical forms are analogous, with Shannon's H = -∑ p_i log p_i representing uncertainty."
+    },
+    {
+      "question": "How is entropy used in machine learning models?",
+      "answer": "In machine learning, entropy is central to information gain in decision trees, where splits are chosen to maximize entropy reduction. Cross-entropy loss is widely used for classification tasks, penalizing models that assign low probability to the correct class."
+    },
+    {
+      "question": "What is von Neumann entropy and why is it important in quantum computing?",
+      "answer": "Von Neumann entropy, S = -Tr(ρ log ρ), quantifies the mixedness of a quantum state. A pure state has zero entropy and is fully coherent, while decoherence increases entropy, which degrades quantum information. Managing entropy is crucial for maintaining qubit coherence and error correction."
+    }
+  ]
+}

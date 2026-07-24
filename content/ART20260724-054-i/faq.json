@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What is the Devnors Data MCP Server and what problem does it solve?",
+      "answer": "The Devnors Data MCP Server is an open-source implementation of the Model Context Protocol that provides a unified, natural language interface for AI agents to access fragmented Chinese data sources—such as legal judgments, company registries, and WeChat indices. It solves the challenge of juggling multiple APIs, authentication methods, and query syntaxes, enabling seamless business intelligence, tax verification, and credit checks through tools like Claude, Cursor, and WorkBuddy."
+    },
+    {
+      "question": "How do I get started using the Devnors Data MCP Server with AI tools like Claude?",
+      "answer": "First, install the MCP server from its repository and configure it with your Devnors API keys. Then add the server to your MCP client (for example, in the Claude Desktop app's configuration file). Once connected, you can simply ask natural language questions like 'Verify the registration status of company XYZ' or 'Find recent legal cases related to trademark infringement'—the server handles the underlying API calls and returns structured results."
+    },
+    {
+      "question": "What types of Chinese data sources can I access through the Devnors Data MCP Server?",
+      "answer": "The server currently supports major Chinese databases including corporate registration records, court judgments and legal precedents, tax verification information, credit reports, and WeChat index data. As an open-source project, the list of available sources may expand over time through community contributions and updates, giving users a growing pool of business intelligence and regulatory information."
+    },
+    {
+      "question": "Do I need to know Chinese or handle complex API authentications to use the Devnors Data MCP Server?",
+      "answer": "No special Chinese language skills or familiarity with Chinese data portals are required for querying—the MCP layer translates natural language requests into properly formatted API calls, automatically handling authentication tokens and required parameters. You do need a Devnors account and API key for access, but the server abstracts away the underlying complexity, making it as simple as asking your AI assistant a question."
+    },
+    {
+      "question": "Is the Devnors Data MCP Server free and can I use it commercially?",
+      "answer": "Yes, the server itself is open-source under the MIT license, meaning you can freely use, modify, and integrate it into commercial projects. However, while the MCP server is free, the underlying Chinese data APIs it connects to may impose their own usage fees—so you should check the pricing of specific data sources (like company registries or credit reports) to avoid surprises."
+    }
+  ]
+}

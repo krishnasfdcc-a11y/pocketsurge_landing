@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A visually striking photorealistic image of a glowing semiconductor chip at the center, surrounded by rising stock market charts and digital candlestick patterns in blue and gold colors. The chip has circuit lines that morph into stock graphs. Dark background with dramatic spotlight highlighting the chip. The mood is confident and forward-looking, evoking AI-driven market growth.",
+      "style": "photorealistic",
+      "placement": "hero",
+      "altText": "Semiconductor chip with stock market charts symbolizing AI chip stock market watch",
+      "caption": "AI chip stocks drive Friday's market watchlist."
+    },
+    {
+      "id": "image-2",
+      "prompt": "A cinematic shot of Intel's headquarters with a digital overlay of rising earnings numbers and stock price green arrows. The building is modern with glass facade reflecting blue sky. A subtle glow emanates from windows. Foreground shows a motherboard with Intel processor. Lighting is dynamic HDR. Mood: triumphant and innovative.",
+      "style": "cinematic",
+      "placement": "section-1",
+      "altText": "Intel headquarters with earnings growth overlay",
+      "caption": "Intel's surprise earnings beat leads Friday focus."
+    },
+    {
+      "id": "image-3",
+      "prompt": "An illustration depicting a high-tech chip packaging facility with robotic arms handling advanced semiconductor wafers. A holographic projection shows the Amkor and Nvidia logos merging. Clean, blue lighting with a sense of precision engineering. The scene highlights the partnership in AI chip production.",
+      "style": "illustration",
+      "placement": "section-2",
+      "altText": "Amkor Technology chip packaging facility with Nvidia partnership hologram",
+      "caption": "Amkor Technology upgrade follows Nvidia partnership."
+    },
+    {
+      "id": "image-4",
+      "prompt": "A futuristic 3D render of interconnected glowing AI chips forming a digital network. Lines of light connect various chip architectures like AMD, Nvidia, and Broadcom. Abstract representation of AI ecosystem partnerships. Dark background with neon blue and purple colors. Dynamic composition suggesting flow of data and collaboration.",
+      "style": "3d-render",
+      "placement": "section-3",
+      "altText": "Abstract 3D render of AI chips interconnected representing partnerships",
+      "caption": "AI chip demand spurs new partnerships across semiconductors."
+    },
+    {
+      "id": "image-5",
+      "prompt": "A photorealistic image of the Federal Reserve building in Washington D.C. during a sunny morning. In the foreground, a tablet displaying PPI charts and economic indicators. Professional, clean composition with a sense of calm authority. Soft golden hour lighting.",
+      "style": "photorealistic",
+      "placement": "section-5",
+      "altText": "Federal Reserve building with economic data charts",
+      "caption": "PPI and Fed commentary may impact tech stocks."
+    }
+  ]
+}

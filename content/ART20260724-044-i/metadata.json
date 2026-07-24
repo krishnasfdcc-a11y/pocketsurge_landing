@@ -1,0 +1,51 @@
+{
+  "slug": "ART20260724-044-i",
+  "title": "Trump’s 25% Tariffs Reshape Tech Supply Chains",
+  "excerpt": "President Trump’s new 25% tariffs on $400 billion in imports from 60 trade partners directly impact technology supply chains. Tech professionals face rising hardware costs, a pressing need for diversification, and a fundamentally altered global trade landscape.",
+  "keywords": [
+    "Trump tariffs 2026",
+    "tech supply chain tariffs",
+    "25% tariff imports",
+    "semiconductor tariffs",
+    "US trade policy technology",
+    "global trade policy",
+    "supply chain disruption",
+    "hardware cost increase"
+  ],
+  "readingTime": 9,
+  "wordCount": 1726,
+  "category": "politics",
+  "researchId": "de857cd3-4767-49b4-98a9-bf10565ca660",
+  "topicId": "9f1a70c8-3794-46a4-a33d-42cec0390fb3",
+  "generatedAt": "2026-07-24T15:07:17.070Z",
+  "description": "President Trump’s 25% tariffs on $400B in imports from 60 nations disrupt tech supply chains, raising hardware costs and forcing diversification.",
+  "og": {
+    "title": "Trump’s 25% Tariffs Reshape Tech’s Global Supply Chain",
+    "description": "President Trump’s 25% tariffs on $400B in imports from 60 nations disrupt tech supply chains, raising hardware costs and forcing diversification.",
+    "type": "article",
+    "image": "Trump speaking at podium with tariff chart showing 25% on imports from 60 nations"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Trump’s 25% Tariffs Reshape Tech Supply Chains",
+    "description": "President Trump’s 25% tariffs on $400B in imports from 60 nations disrupt tech supply chains, raising hardware costs and forcing diversification."
+  },
+  "schemaOrg": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Trump’s 25% Tariffs on 60 Nations Reshape Tech’s Global Supply Chain",
+    "description": "President Trump’s new 25% tariffs on $400 billion in imports from 60 trade partners directly impact technology supply chains. Tech professionals face rising hardware costs, a pressing need for diversification, and a fundamentally altered global trade landscape.",
+    "author": {
+      "@type": "Person",
+      "name": "TechPulse Team"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "TechPulse"
+    },
+    "datePublished": "2026-07-24T15:07:17.070Z",
+    "dateModified": "2026-07-24T15:07:17.070Z"
+  },
+  "status": "approved",
+  "approvedAt": "2026-07-24T17:01:23.801Z"
+}

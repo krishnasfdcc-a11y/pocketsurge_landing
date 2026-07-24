@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A professional sitting in a modern home office speaking naturally to a laptop, the ChatGPT interface open with a glowing voice mode activation button, translucent waveform visualizations floating above the keyboard, warm ambient lighting from desk lamps, atmospheric depth of field, high-resolution detail on the user's expressive hand gestures and the sleek laptop, cinematic composition with a focus on effortless human-AI interaction, mood of productive serenity.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Professional using ChatGPT desktop voice mode with waveform visualizations on laptop",
+      "caption": "OpenAI's advanced voice mode brings hands-free interaction to the desktop."
+    },
+    {
+      "id": "image-2",
+      "prompt": "Split composition showing the evolution of voice AI: left side a person using ChatGPT voice mode on a smartphone in a bright café, right side another person at a minimalist desk using voice mode on a desktop computer, soft gradient transition from warm café tones to cool office light, sleek infographic lines connecting the two scenes, clean flat illustration style, modern tech aesthetic, emphasizing seamless platform expansion.",
+      "style": "infographic",
+      "placement": "section-1",
+      "altText": "Split illustration of ChatGPT voice mode on mobile and desktop showing evolution",
+      "caption": "From mobile to desktop: voice interaction expands across platforms."
+    },
+    {
+      "id": "image-3",
+      "prompt": "Close-up of a desktop monitor displaying the ChatGPT dark mode interface with the voice activation button illuminated in green, a professional condenser microphone on the desk in sharp focus, animated sound waves transitioning into transcribed text on screen, blue and purple neon accent lighting, shallow depth of field blurring the background, sleek technological atmosphere, ultra-sharp details on UI elements and microphone, cinematic mood highlighting real-time voice processing.",
+      "style": "cinematic",
+      "placement": "section-2",
+      "altText": "Close-up of ChatGPT desktop voice mode interface with microphone and transcribing text",
+      "caption": "Voice mode leverages Whisper recognition and GPT for real-time responses."
+    },
+    {
+      "id": "image-4",
+      "prompt": "A focused software developer in a modern brick-wall office using dual monitors, one screen showing ChatGPT desktop with a code generation prompt, the developer speaking into a headset microphone with one hand gesturing, code snippets appearing on screen, warm screen glow on face, ergonomic keyboard and mouse present but unused emphasizing hands-free coding, photorealistic texture on desk items and clothing, natural window light mixing with screen light, dynamic composition.",
+      "style": "photorealistic",
+      "placement": "section-3",
+      "altText": "Developer using ChatGPT voice mode with Codex to generate code hands-free",
+      "caption": "Codex integration allows developers to generate and debug code with voice commands."
+    },
+    {
+      "id": "image-5",
+      "prompt": "A diverse group of professionals in a sunlit open-plan office using voice commands on ChatGPT desktops and laptops, a person with a physical disability using a voice-activated workstation, inclusive modern workspace with accessible height-adjustable desks, natural light streaming through large windows, plants and collaborative spaces visible, warm and vibrant color palette, realistic rendering of faces and office environment, wide-angle cinematic composition emphasizing teamwork and accessibility.",
+      "style": "cinematic",
+      "placement": "section-4",
+      "altText": "Inclusive office scene with professionals using ChatGPT voice mode including accessible workstation",
+      "caption": "Voice mode enhances productivity and accessibility for all users."
+    }
+  ]
+}

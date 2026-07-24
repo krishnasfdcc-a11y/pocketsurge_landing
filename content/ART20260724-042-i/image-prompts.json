@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A cinematic wide shot of a warm, dimly lit 1990s game development studio late at night. Two young creators, a man and a woman, are huddled around a glowing CRT monitor displaying a vibrant pixelated platformer game. Sketches, pizza boxes, and game cartridges cover the desk. A salt lamp and fairy lights create a cozy, nostalgic atmosphere. The mood is intimate and deeply focused, capturing the magic of shared creation from the novel Tomorrow, and Tomorrow, and Tomorrow.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Two game developers collaborating late at night on a pixel art video game in a 90s studio",
+      "caption": "The creative partnership at the heart of Gabrielle Zevin's novel"
+    },
+    {
+      "id": "image-2",
+      "prompt": "A cinematic promotional portrait of two young male actors, Sky Yang and Sean Kaufman, standing back to back. They are dressed in modern streetwear like hoodies and denim jackets. The background is an abstract geometric pattern inspired by 90s arcade games, glowing with magenta and cyan neon lights. Dramatic high-contrast lighting, confident expressions, capturing the energy of the new casting announcement for the Paramount adaptation.",
+      "style": "cinematic",
+      "placement": "section-1",
+      "altText": "Promotional portrait of actors Sky Yang and Sean Kaufman joining the Tomorrow Tomorrow Tomorrow cast",
+      "caption": "Sky Yang and Sean Kaufman bring new energy to the Paramount adaptation. (Credit: Paramount Pictures / Exclusive)"
+    },
+    {
+      "id": "image-3",
+      "prompt": "A photorealistic macro shot of a vintage computer monitor from the 1990s displaying a complex level editor for a video game. A hand holding a mouse is carefully adjusting a 2D sprite character. The screen shows grids, color palettes, and game logic scripts. The room is dark, the screen casting a blue-white glow. Technical notes and code printouts are pinned to the wall behind, representing the hard work of prototyping and development.",
+      "style": "photorealistic",
+      "placement": "section-2",
+      "altText": "Close up of a computer screen showing video game level editing and pixel art creation process",
+      "caption": "The film promises an authentic look at the software development life cycle and game design"
+    },
+    {
+      "id": "image-4",
+      "prompt": "A surreal illustration of two abstract human figures, a man and a woman, walking together through a dreamlike landscape constructed entirely from massive blocks, 8-bit trees, and glowing console cartridges (Nintendo, Game Boy). The sky transitions from a bright pixelated sunrise on one side to a deep starry night on the other, representing the passage of time. The path is made of scrolling code. Warm, nostalgic colors, representing the core theme of friendship and collaboration across the years.",
+      "style": "illustration",
+      "placement": "section-3",
+      "altText": "Abstract illustration of two friends walking through a video game landscape representing time and collaboration",
+      "caption": "Author Gabrielle Zevin's novel explores the deep connections formed through shared creative work"
+    },
+    {
+      "id": "image-5",
+      "prompt": "A clean, modern dark mode infographic. Title: 'Tomorrow, and Tomorrow, and Tomorrow by the Numbers'. Data points with minimalist icons: 60+ Weeks on NYT Bestseller List, 2 Million Copies Sold, 30+ Languages Translated. A smaller bottom section shows the Global Video Game Market: $196 Billion Revenue (2022). The color scheme is magenta, cyan, and white on a deep black background. Sharp, clear, professional data visualization aesthetic.",
+      "style": "infographic",
+      "placement": "section-4",
+      "altText": "Infographic showing key statistics for Tomorrow and Tomorrow and Tomorrow including book sales and video game market revenue",
+      "caption": "The novel's success mirrors the booming global video game industry"
+    }
+  ]
+}

@@ -5,9 +5,169 @@
     <link>https://pocketsurge.com</link>
     <description>Your daily dose of insights, guides, and reviews across technology, science, finance, gaming, and more.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Jul 2026 10:04:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 18:51:00 GMT</lastBuildDate>
     <atom:link href="https://pocketsurge.com/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>Devnors Data MCP Server: Unifying Chinese Data for AI Agents</title>
+      <link>https://pocketsurge.com/article/ART20260724-054-i</link>
+      <description>Devnors Data MCP Server leverages the Model Context Protocol to provide a unified interface for AI agents to query diverse Chinese data sources, including legal cases, company registries, and WeChat indices. This enables seamless AI agent integration for business intelligence, tax verification, and credit checks.</description>
+      <pubDate>Fri, 24 Jul 2026 15:25:13 GMT</pubDate>
+      <guid isPermaLink="true">https://pocketsurge.com/article/ART20260724-054-i</guid>
+      <category>data-science</category>
+    </item>
+    <item>
+      <title>Fallout 5 Preproduction, TES6, and Remasters Confirmed by Bethesda</title>
+      <link>https://pocketsurge.com/article/ART20260724-053-i</link>
+      <description>Bethesda has officially announced Fallout 5 is in preproduction alongside The Elder Scrolls 6 development, both on the updated Creation Engine. The studio also confirmed Fallout 3 and New Vegas remasters, offering a deep dive for tech professionals into engine evolution, multi-project management, and corporate transparency.</description>
+      <pubDate>Fri, 24 Jul 2026 15:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://pocketsurge.com/article/ART20260724-053-i</guid>
+      <category>web-development</category>
+    </item>
+    <item>
+      <title>EU Researchers Battle Platforms for Social Media Data</title>
+      <link>https://pocketsurge.com/article/ART20260724-052-i</link>
+      <description>The EU Digital Services Act promised vetted researchers data access to study systemic risks, but platforms are obstructing these efforts. Delays, NDAs, and complex processes hinder independent research on algorithmic harm, leaving policymakers in the dark.</description>
+      <pubDate>Fri, 24 Jul 2026 15:21:02 GMT</pubDate>
+      <guid isPermaLink="true">https://pocketsurge.com/article/ART20260724-052-i</guid>
+      <category>science</category>
+    </item>
+    <item>
+      <title>What Is Entropy, Really? A Technical Guide for Professionals</title>
+      <link>https://pocketsurge.com/article/ART20260724-051-i</link>
+      <description>Entropy is misunderstood as disorder, but it&apos;s a measure of microscopic configurations. Explore its meaning from thermodynamics to AI and quantum computing.</description>
+      <pubDate>Fri, 24 Jul 2026 15:20:16 GMT</pubDate>
+      <guid isPermaLink="true">https://pocketsurge.com/article/ART20260724-051-i</guid>
+      <category>science</category>
+    </item>
+    <item>
+      <title>Trump&apos;s Iran Threat: Tech Implications of a Massive Strike</title>
+      <link>https://pocketsurge.com/article/ART20260724-050-i</link>
+      <description>President Trump&apos;s threat of a &apos;massive attack&apos; on Iran and Tehran labeling the UK an &apos;accomplice&apos; creates immediate risks for global technology. Tech leaders face supply chain disruptions, state-sponsored cyber warfare, and volatile energy markets.</description>
+      <pubDate>Fri, 24 Jul 2026 15:17:07 GMT</pubDate>
+      <guid isPermaLink="true">https://pocketsurge.com/article/ART20260724-050-i</guid>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Meta Launches Standalone &apos;Seller&apos; App for Facebook Marketplace</title>
+      <link>https://pocketsurge.com/article/ART20260724-049-i</link>
+      <description>Meta introduces Seller, a standalone app for Facebook Marketplace with over 1 billion monthly users. The app aims to streamline buying and selling with dedicated features and enhanced security.</description>
+      <pubDate>Fri, 24 Jul 2026 15:14:47 GMT</pubDate>
+      <guid isPermaLink="true">https://pocketsurge.com/article/ART20260724-049-i</guid>
+      <category>finance</category>
+    </item>
+    <item>
+      <title>Unlock 15+ Chinese Data Sources with Devnors Python SDK</title>
+      <link>https://pocketsurge.com/article/ART20260724-048-i</link>
+      <description>The Devnors Data Python SDK provides a unified API for over 15 Chinese data types, including legal, business, and social media data. This article covers its features, use cases, and integration tips for developers.</description>
+      <pubDate>Fri, 24 Jul 2026 15:13:02 GMT</pubDate>
+      <guid isPermaLink="true">https://pocketsurge.com/article/ART20260724-048-i</guid>
+      <category>data-science</category>
+    </item>
+    <item>
+      <title>AI-Powered Guitar Posture Assistant for Real-Time Correction</title>
+      <link>https://pocketsurge.com/article/ART20260724-047-i</link>
+      <description>The guitar-posture-assistant project uses OpenCV and MediaPipe to provide real-time feedback on a guitarist&apos;s posture, preventing long-term strain and injury. This open-source tool reflects a rising trend in AI-driven health tech for musicians.</description>
+      <pubDate>Fri, 24 Jul 2026 15:11:17 GMT</pubDate>
+      <guid isPermaLink="true">https://pocketsurge.com/article/ART20260724-047-i</guid>
+      <category>web-development</category>
+    </item>
+    <item>
+      <title>Sony&apos;s Disc Decision: Physical Sales Down 87.5%, Data Shows</title>
+      <link>https://pocketsurge.com/article/ART20260724-046-i</link>
+      <description>Physical game sales in the US have plummeted 87.5% from their 2009 peak to just 37 million units in the last year. With only seven PlayStation games selling over 100,000 physical copies in 2026, Sony&apos;s all-digital shift was inevitable.</description>
+      <pubDate>Fri, 24 Jul 2026 15:10:11 GMT</pubDate>
+      <guid isPermaLink="true">https://pocketsurge.com/article/ART20260724-046-i</guid>
+      <category>gaming</category>
+    </item>
+    <item>
+      <title>The Club&apos;s Friday Market Watch: 10 Stock Events to Track</title>
+      <link>https://pocketsurge.com/article/ART20260724-045-i</link>
+      <description>Intel&apos;s blockbuster earnings and Amkor&apos;s upgrade by UBS lead the Club&apos;s list of Friday stock market events. Discover the top ten developments every tech investor should monitor, from AI chip deals to economic data.</description>
+      <pubDate>Fri, 24 Jul 2026 15:07:51 GMT</pubDate>
+      <guid isPermaLink="true">https://pocketsurge.com/article/ART20260724-045-i</guid>
+      <category>finance</category>
+    </item>
+    <item>
+      <title>Trump’s 25% Tariffs on 60 Nations Reshape Tech’s Global Supply Chain</title>
+      <link>https://pocketsurge.com/article/ART20260724-044-i</link>
+      <description>President Trump’s new 25% tariffs on $400 billion in imports from 60 trade partners directly impact technology supply chains. Tech professionals face rising hardware costs, a pressing need for diversification, and a fundamentally altered global trade landscape.</description>
+      <pubDate>Fri, 24 Jul 2026 15:07:17 GMT</pubDate>
+      <guid isPermaLink="true">https://pocketsurge.com/article/ART20260724-044-i</guid>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Aang: The Last Airbender Sequel Sets New Bar for Streaming Animation</title>
+      <link>https://pocketsurge.com/article/ART20260724-043-i</link>
+      <description>The first Avatar Studios release continues the beloved series with breathtaking animation and a streaming-first launch, signaling a new era for franchise revivals in the digital landscape.</description>
+      <pubDate>Fri, 24 Jul 2026 15:04:03 GMT</pubDate>
+      <guid isPermaLink="true">https://pocketsurge.com/article/ART20260724-043-i</guid>
+      <category>entertainment</category>
+    </item>
+    <item>
+      <title>‘Tomorrow, and Tomorrow, and Tomorrow’ Cast Adds Sky Yang, Sean Kaufman (Exclusive)</title>
+      <link>https://pocketsurge.com/article/ART20260724-042-i</link>
+      <description>Paramount’s adaptation of Gabrielle Zevin’s bestselling novel adds Sky Yang and Sean Kaufman to a cast led by Daisy Edgar-Jones. The film explores decades of friendship between video game developers, tapping into a $196 billion industry. This exclusive casting news signals strong momentum for one of the most anticipated tech-adjacent literary adaptations.</description>
+      <pubDate>Fri, 24 Jul 2026 15:03:14 GMT</pubDate>
+      <guid isPermaLink="true">https://pocketsurge.com/article/ART20260724-042-i</guid>
+      <category>technology</category>
+    </item>
+    <item>
+      <title>Clayface Trailer: Body Horror Reshapes the DCU Strategy</title>
+      <link>https://pocketsurge.com/article/ART20260724-041-i</link>
+      <description>The debut trailer for DC&apos;s Clayface provides a visceral showcase of body horror, pushing the boundaries of superhero storytelling and VFX technology. We analyze the film&apos;s strategic significance, its origins in the 1992 &apos;Feat of Clay&apos; episode, and what it means for the DCU&apos;s &apos;Gods and Monsters&apos; technical and narrative roadmap.</description>
+      <pubDate>Fri, 24 Jul 2026 15:02:25 GMT</pubDate>
+      <guid isPermaLink="true">https://pocketsurge.com/article/ART20260724-041-i</guid>
+      <category>entertainment</category>
+    </item>
+    <item>
+      <title>Open-Source AI Job Search Workflow: A Complete Guide</title>
+      <link>https://pocketsurge.com/article/ART20260724-040-i</link>
+      <description>This open-source AI tool provides a local-first job search framework. Learn how to triage, score, and track applications while maintaining complete privacy and control.</description>
+      <pubDate>Fri, 24 Jul 2026 14:59:18 GMT</pubDate>
+      <guid isPermaLink="true">https://pocketsurge.com/article/ART20260724-040-i</guid>
+      <category>technology</category>
+    </item>
+    <item>
+      <title>Halo Campaign Evolved Signals Xbox&apos;s Strategy for the Next 3 Years</title>
+      <link>https://pocketsurge.com/article/ART20260724-039-i</link>
+      <description>Halo: Campaign Evolved signals Xbox&apos;s reset under Sharma. By prioritizing a flagship remake, Xbox shifts to evolving core pillars over chasing new IP for the next three years.</description>
+      <pubDate>Fri, 24 Jul 2026 14:57:24 GMT</pubDate>
+      <guid isPermaLink="true">https://pocketsurge.com/article/ART20260724-039-i</guid>
+      <category>gaming</category>
+    </item>
+    <item>
+      <title>US Warns: Iranian Hackers Disrupting Water and Energy Providers</title>
+      <link>https://pocketsurge.com/article/ART20260724-038-i</link>
+      <description>The US government has issued an updated advisory warning that Iran-linked hackers are actively targeting and disrupting water and energy providers. These state-sponsored attacks exploit vulnerabilities in industrial control systems, posing significant risks to critical infrastructure. The advisory provides indicators of compromise and actionable steps for detection and mitigation.</description>
+      <pubDate>Fri, 24 Jul 2026 14:56:06 GMT</pubDate>
+      <guid isPermaLink="true">https://pocketsurge.com/article/ART20260724-038-i</guid>
+      <category>cybersecurity</category>
+    </item>
+    <item>
+      <title>Satellite Images: Suspected Scam Compounds Surge in Myanmar</title>
+      <link>https://pocketsurge.com/article/ART20260724-037-i</link>
+      <description>Recent satellite imagery reveals dozens of suspected scam compounds are being built in remote Myanmar regions, despite government crackdown claims. The rapid construction pace indicates sophisticated criminal logistics and enforcement failures, posing a growing global cybersecurity threat.</description>
+      <pubDate>Fri, 24 Jul 2026 14:54:43 GMT</pubDate>
+      <guid isPermaLink="true">https://pocketsurge.com/article/ART20260724-037-i</guid>
+      <category>cybersecurity</category>
+    </item>
+    <item>
+      <title>Why AI Guardrails Are Failing Offensive Cybersecurity Researchers</title>
+      <link>https://pocketsurge.com/article/ART20260724-036-i</link>
+      <description>AI guardrails from companies like OpenAI and Anthropic are blocking legitimate security research while failing to stop malicious actors. This article explores the impact on offensive cybersecurity researchers, the rise of specialized tools, and the call for more nuanced, context-aware safety measures.</description>
+      <pubDate>Fri, 24 Jul 2026 14:52:27 GMT</pubDate>
+      <guid isPermaLink="true">https://pocketsurge.com/article/ART20260724-036-i</guid>
+      <category>ai-ml</category>
+    </item>
+    <item>
+      <title>OpenAI&apos;s Advanced Voice Mode Now Available on ChatGPT Desktop</title>
+      <link>https://pocketsurge.com/article/ART20260724-035-i</link>
+      <description>OpenAI has expanded its advanced voice mode to the ChatGPT desktop app, enabling voice commands for tasks and Codex integration. This move makes AI interactions more natural across devices and offers developers a hands-free way to generate and edit code.</description>
+      <pubDate>Fri, 24 Jul 2026 14:50:13 GMT</pubDate>
+      <guid isPermaLink="true">https://pocketsurge.com/article/ART20260724-035-i</guid>
+      <category>ai-ml</category>
+    </item>
     <item>
       <title>RuneScape Housing Revamp Adds Build Mode and Neighborhoods</title>
       <link>https://pocketsurge.com/article/ART20260723-028-i</link>

@@ -1,0 +1,56 @@
+{
+  "slug": "ART20260724-038-i",
+  "title": "US Warns: Iranian Hackers Disrupting Water and Energy Providers",
+  "excerpt": "The US government has issued an updated advisory warning that Iran-linked hackers are actively targeting and disrupting water and energy providers. These state-sponsored attacks exploit vulnerabilities in industrial control systems, posing significant risks to critical infrastructure. The advisory provides indicators of compromise and actionable steps for detection and mitigation.",
+  "keywords": [
+    "Iranian hackers",
+    "critical infrastructure",
+    "water security",
+    "energy security",
+    "industrial control systems",
+    "operational technology",
+    "state-sponsored cyber attacks",
+    "CISA advisory",
+    "FBI advisory",
+    "ICS/OT security"
+  ],
+  "readingTime": 7,
+  "wordCount": 1381,
+  "category": "cybersecurity",
+  "researchId": "86738f6a-837f-470e-ba1d-dc5cfd2322b8",
+  "topicId": "71877bec-cc12-46d3-abd7-f4b99b9e5cfc",
+  "generatedAt": "2026-07-24T14:56:06.250Z",
+  "description": "State-sponsored Iranian hackers are disrupting water and energy providers. The joint CISA-FBI advisory provides IOCs and mitigation steps for ICS/OT attacks.",
+  "og": {
+    "title": "US Warns: Iranian Hackers Disrupting Water and Energy Providers",
+    "description": "State-sponsored Iranian hackers are disrupting water and energy providers. The joint CISA-FBI advisory provides IOCs and mitigation steps for ICS/OT attacks.",
+    "type": "article",
+    "image": "Concept image of Iranian hackers targeting water and energy infrastructure with ICS/OT systems"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "US Warns: Iranian Hackers Disrupting Water and Energy Providers",
+    "description": "State-sponsored Iranian hackers are disrupting water and energy providers. The joint CISA-FBI advisory provides IOCs and mitigation steps for ICS/OT attacks."
+  },
+  "schemaOrg": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "US Warns: Iranian Hackers Disrupting Water and Energy Providers",
+    "description": "State-sponsored Iranian hackers are disrupting water and energy providers. The joint CISA-FBI advisory provides IOCs and mitigation steps for ICS/OT attacks.",
+    "author": {
+      "@type": "Person",
+      "name": "TechPulse Team"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "TechPulse"
+    },
+    "datePublished": "2026-07-24T14:56:06.250Z",
+    "dateModified": "2026-07-24T14:56:06.250Z",
+    "image": "https://techpulse.com/images/iranian-hackers-critical-infrastructure.jpg",
+    "inLanguage": "en"
+  },
+  "language": "en",
+  "status": "approved",
+  "approvedAt": "2026-07-24T17:01:23.786Z"
+}

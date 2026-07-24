@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What immediate cybersecurity threats does the US-Iran conflict pose to global tech firms?",
+      "answer": "The conflict increases the risk of state-sponsored cyber attacks, including retaliatory hacks, ransomware, and attacks on critical infrastructure. Tech firms should prepare for phishing campaigns, DDoS attacks, and potential breaches of supply chain partners linked to Iran."
+    },
+    {
+      "question": "How can companies mitigate supply chain disruptions from a potential blockade in the Strait of Hormuz?",
+      "answer": "Companies should diversify suppliers across multiple regions, increase inventory buffers for critical components, and explore alternative shipping routes. This may involve prioritizing suppliers in stable regions and investing in logistics flexibility to reduce reliance on the Middle Eastern chokepoint."
+    },
+    {
+      "question": "What is the connection between oil prices and cloud computing costs?",
+      "answer": "Cloud data centers require massive amounts of electricity, often generated from fossil fuels. Spikes in oil prices directly increase energy bills for cloud providers, who then pass those costs to customers through higher compute and storage prices. This makes geopolitical events that affect oil supply a direct cost driver for cloud services."
+    },
+    {
+      "question": "Will the US-Iran conflict worsen the global semiconductor shortage?",
+      "answer": "Yes, because semiconductor manufacturing relies on global just-in-time shipping of raw materials and finished goods. Military actions disrupting shipping routes in the Red Sea or Arabian Gulf can delay shipments of wafers, packaging materials, and finished chips, exacerbating existing shortages and extending lead times for servers, GPUs, and networking equipment."
+    },
+    {
+      "question": "What steps should technology leaders take now to protect their operations?",
+      "answer": "Technology leaders should immediately assess their exposure to energy volatility, diversify supply chains, strengthen cybersecurity postures, and model the financial impact of prolonged conflict. They should also engage with cloud providers to understand pricing risks and secure hardware commitments in advance."
+    }
+  ]
+}

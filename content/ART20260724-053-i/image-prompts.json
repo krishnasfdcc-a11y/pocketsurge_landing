@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A futuristic game development war room. A massive central holographic display shows the interconnected roadmaps of Fallout 5, Elder Scrolls 6, and Fallout 3/New Vegas remasters, visualized as Gantt charts, code commit history, and engine version control branches. Casual-clad engineers analyze the data, their faces lit by the glowing holograms. Cinematic photography style, low-key lighting, deep shadows, intense blue and amber neon accents. Mood: strategic, ambitious, transparent corporate planning.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Bethesda game development roadmap hologram with Fallout 5, Elder Scrolls 6, and Fallout remasters in a futuristic war room",
+      "caption": ""
+    },
+    {
+      "id": "image-2",
+      "prompt": "An abstract 3D isometric visualization of the Creation Engine 2.0 modular architecture. A central glowing core branches out into distinct, interconnected modules labeled 'Animation (TES6)', 'Physics (Fallout 5)', 'Rendering Pipeline', 'Scripting Papyrus'. Glowing data pathways and version control nodes connect them over a dark, grid-lined floor. Clean, futuristic data center aesthetic, blue and green neon lighting, technical annotations floating in the air. Mood: structured, powerful, engineered for scale.",
+      "style": "3d-render",
+      "placement": "section-1",
+      "altText": "Creation Engine 2.0 modular architecture diagram for Bethesda game development",
+      "caption": ""
+    },
+    {
+      "id": "image-3",
+      "prompt": "A dramatic split-screen comparison of game development phases. Left panel 'Preproduction': A skeleton crew of four developers in a dim, cozy lab huddled around a single workstation with messy whiteboards and prototypes, warm intimate lighting. Right panel 'Full Production': A massive, brightly lit open-plan office with hundreds of developers, screens showing build pipelines and scrum boards, cool efficient light. High contrast, photorealistic architectural photography style. Mood: Resource management duality, scale and focus.",
+      "style": "photorealistic",
+      "placement": "section-2",
+      "altText": "Preproduction skeleton crew versus full production team size in AAA game development comparison",
+      "caption": ""
+    },
+    {
+      "id": "image-4",
+      "prompt": "A hyper-realistic close-up of a programmer's desk with a dual-monitor setup. One monitor displays a highly complex software engineering UML diagram showing an API abstraction layer for SKSE/FOSE backward compatibility. The other monitor runs a stunning looking modded scene from Skyrim or Fallout 4. A mechanical keyboard, game controller, and a steaming cup of coffee rest on the wooden desk. Warm atmospheric lighting, focus on the screen and hands. Mood: Focused, nostalgic, passionate engineering craft. Photorealistic.",
+      "style": "photorealistic",
+      "placement": "section-3",
+      "altText": "Bethesda modding community backward compatibility engineering with SKSE FOSE API abstraction",
+      "caption": ""
+    },
+    {
+      "id": "image-5",
+      "prompt": "A magical realism concept art scene representing the resurrection of a classic game world for a remaster. An old, worn Bethesda game folder titled 'Fallout 3' rests on a desk, opened. From it, glowing blue and amber digital light beams spiral upwards into the dark air, reconstructing a highly detailed, photorealistic Capital Wasteland with volumetric fog, god rays, and modern lighting. The scene contrasts a physical object with advanced digital rendering. Moody, cinematic lighting. Nostalgic yet futuristic.",
+      "style": "illustration",
+      "placement": "section-4",
+      "altText": "Fallout 3 remaster technology recreation concept art with digital light reconstruction",
+      "caption": ""
+    }
+  ]
+}

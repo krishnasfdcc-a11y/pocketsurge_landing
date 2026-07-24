@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A dramatic cinematic drone shot looking down on a sprawling American city at dusk. Digital red attack vectors and glitching nodes spiderweb across the landscape, targeting a water reservoir and a power plant. A subtle translucent watermark of the Iranian flag is embedded in the sky. The mood is urgent and threatening. High contrast, rich blacks, neon red highlights.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Iranian state-sponsored hackers targeting US water and energy utilities in a cyber attack.",
+      "caption": "A visual representation of the escalating threat to American critical infrastructure from state-sponsored cyber actors."
+    },
+    {
+      "id": "image-2",
+      "prompt": "A dark cyber command center. Silhouetted advanced persistent threat (APT) actors sit in front of a massive wall of glowing monitors. One monitor displays a live CISA and FBI joint advisory header, another shows a compromised SCADA network diagram of a power grid. The lighting is harsh, originating from the screens. The atmosphere is intense and covert.",
+      "style": "cinematic",
+      "placement": "section-1",
+      "altText": "APT hackers monitoring compromised industrial control networks in a command center.",
+      "caption": "State-sponsored cyber cells often operate with the strategic intent of disrupting vital public services."
+    },
+    {
+      "id": "image-3",
+      "prompt": "A stark photorealistic split image. Left side: a massive open water reservoir with a picturesque American town in the background, peaceful sunlight. Right side: the same scene digitized, with a glowing red schematic overlay showing chemical levels being altered by a remote attacker. Unlocked padlock icons float over the power lines. The contrast between peaceful reality and digital vulnerability is chilling.",
+      "style": "photorealistic",
+      "placement": "section-2",
+      "altText": "Split screen showing a real water treatment facility and its vulnerable digital control interface.",
+      "caption": "The convergence of legacy operational technology (OT) with modern network access creates significant security gaps."
+    },
+    {
+      "id": "image-4",
+      "prompt": "A highly detailed 3D render of a cyber attack breaching a water treatment plant. A glowing red malicious packet stream flows through transparent network pipes connected to a vintage industrial PLC controller. An HMI screen in the background displays critical pressure levels spiking into the red zone. The scene is dark with cool deep blue tones contrasting against the bright red malicious data.",
+      "style": "3d-render",
+      "placement": "section-3",
+      "altText": "Cyber attack on a water treatment plant exploiting weak ICS and OT security credentials.",
+      "caption": "Attackers frequently exploit default credentials on internet-exposed devices to gain initial access to critical networks."
+    },
+    {
+      "id": "image-5",
+      "prompt": "A minimalist 3D rendered infographic. A sturdy glowing blue cybersecurity shield locks down an industrial gear representing critical water and energy infrastructure. Small icons representing firewalls, multi-factor authentication, and network segmentation orbit neatly around the shield. The background is a clean dark gradient. The mood is professional and confident.",
+      "style": "minimal",
+      "placement": "section-4",
+      "altText": "Cybersecurity shield protecting American water and energy infrastructure from hackers.",
+      "caption": "Implementing robust multi-layered defenses is essential for protecting public safety and national security."
+    }
+  ]
+}

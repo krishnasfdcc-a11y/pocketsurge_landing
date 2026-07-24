@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What is the DSA's data access mandate for researchers?",
+      "answer": "The Digital Services Act (DSA) requires very large online platforms (VLOPs) to provide vetted researchers with access to internal data. This mandate aims to enable independent study of systemic risks such as disinformation, hate speech, and algorithmic manipulation. Researchers must be approved by national authorities to receive this data."
+    },
+    {
+      "question": "How do researchers apply for data access under the DSA?",
+      "answer": "Researchers apply through dedicated portals maintained by each VLOP, such as Meta's research portal. They must submit a detailed research proposal and undergo vetting by a national digital regulator. However, the process is often fraught with delays, NDAs, and bureaucratic hurdles, taking up to six months for a response."
+    },
+    {
+      "question": "Why do platforms like Meta or TikTok resist sharing data with researchers?",
+      "answer": "Platforms claim they must protect user privacy and safeguard trade secrets, which are legitimate concerns under the DSA. However, critics argue that these reasons are often used as a pretext to delay or deny access, effectively preventing independent oversight. The tension between transparency and commercial confidentiality remains a key point of contention."
+    },
+    {
+      "question": "What types of data are platforms required to share under the DSA?",
+      "answer": "Platforms must share data related to systemic risks, including data on algorithmic content promotion, ad targeting, and content moderation actions. The DSA's implementing acts specify categories like recommender system parameters and advertising transparency data. However, platforms can redact commercially sensitive information, which researchers say hampers their work."
+    },
+    {
+      "question": "What is the broader impact of data access challenges on DSA enforcement?",
+      "answer": "Without reliable access to platform data, independent researchers cannot verify whether platforms are effectively managing risks. This leaves the European Commission and national authorities without key evidence to enforce the DSA's requirements. As a result, the regulation's goal of evidence-based oversight is being undermined by the very platforms it seeks to regulate."
+    }
+  ]
+}

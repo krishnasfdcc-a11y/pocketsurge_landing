@@ -1,0 +1,82 @@
+{
+  "title": "Stock Market Friday: 10 Key Events to Track",
+  "metaDescription": "Track the top stock market Friday events: Intel earnings, Amkor upgrade. Get the Club's curated watchlist of 10 must-track developments for tech investors.",
+  "keywords": {
+    "primary": "stock market Friday",
+    "secondary": [
+      "Intel earnings",
+      "Amkor Technology upgrade",
+      "AI chip stocks",
+      "semiconductor sector"
+    ],
+    "related": [
+      "chip stocks",
+      "earnings season",
+      "analyst upgrade",
+      "AI chips",
+      "PHLX Semiconductor Index",
+      "economic data",
+      "tech stock watchlist",
+      "Friday trading"
+    ]
+  },
+  "headings": {
+    "h1": "Stock Market Friday: 10 Key Events to Track",
+    "h2": [
+      "The Top 10 Watchlist"
+    ],
+    "h3": [
+      "Intel's Earnings Blowout Continues",
+      "Amkor Technology Upgrade by UBS",
+      "AI Chip Demand Drives New Partnerships",
+      "Broader Semiconductor Sector Rally",
+      "Economic Data Releases"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "Intel's earnings beat",
+      "suggestedUrl": "/category/earnings/intel"
+    },
+    {
+      "anchor": "Amkor Technology partnership with Nvidia",
+      "suggestedUrl": "/stocks/amkor-nvidia-partnership"
+    },
+    {
+      "anchor": "AI chip stocks outlook",
+      "suggestedUrl": "/sector/ai-chip-stocks"
+    },
+    {
+      "anchor": "semiconductor sector rally",
+      "suggestedUrl": "/sector/semiconductor-outlook"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "UBS upgrade on Amkor",
+      "suggestedUrl": "https://www.ubs.com/global/en/asset-management/insights.html"
+    },
+    {
+      "anchor": "Nvidia partnership announcement",
+      "suggestedUrl": "https://nvidianews.nvidia.com/"
+    },
+    {
+      "anchor": "PHLX Semiconductor Index",
+      "suggestedUrl": "https://www.nasdaq.com/market-activity/index/sox"
+    },
+    {
+      "anchor": "Producer Price Index data",
+      "suggestedUrl": "https://www.bls.gov/ppi/"
+    }
+  ],
+  "structuredData": {
+    "@type": "Article",
+    "headline": "Stock Market Friday: 10 Key Events to Track",
+    "description": "Track the top stock market Friday events: Intel earnings, Amkor upgrade. Get the Club's curated watchlist of 10 must-track developments for tech investors.",
+    "datePublished": "2026-07-24T15:07:51.504Z",
+    "author": {
+      "@type": "Organization",
+      "name": "The Club"
+    }
+  }
+}

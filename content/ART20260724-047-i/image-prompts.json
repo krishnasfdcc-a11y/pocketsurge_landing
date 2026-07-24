@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A close-up cinematic shot of a guitarist's upper body, bathed in warm stage lighting, with a semi-transparent digital skeleton overlay in neon cyan and magenta highlighting the spine, shoulders, and wrists. A red holographic alert icon flickers near the hunched shoulder, while a green checkmark appears by the straight wrist. Real-time posture correction, computer vision music education.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "AI pose estimation overlay on a guitarist showing real-time posture correction with visual alerts.",
+      "caption": "AI-powered feedback loop using MediaPipe landmarks."
+    },
+    {
+      "id": "image-2",
+      "prompt": "A split-screen medical-style illustration showing the silhouette of a guitarist. Left side: red, poor posture with exaggerated hunched back, forward head tilt, and bent wrist, with red pressure lines indicating strain. Right side: blue/green, perfect ergonomic posture with straight spine, relaxed shoulders, neutral wrist. Ergonomic health in music, preventing injury.",
+      "style": "illustration",
+      "placement": "section-1",
+      "altText": "Comparison of bad and good guitar posture highlighting strain areas and ergonomic alignment.",
+      "caption": "Nearly 50% of musicians face playing-related injuries, making ergonomic awareness critical."
+    },
+    {
+      "id": "image-3",
+      "prompt": "Technical flat-lay infographic on a dark desk. A webcam points at a guitarist silhouette. Dashed arrows represent the video stream connecting to a glowing 'OpenCV' icon, then to 'MediaPipe Pose' landmarks diagram (33 points), then to a 'Posture Logic' brain icon, then to a speaker/notification icon. Modern, clean, high-tech style, 3d render.",
+      "style": "infographic",
+      "placement": "section-2",
+      "altText": "Flowchart showing the data pipeline from webcam to OpenCV to MediaPipe to posture detection alerts.",
+      "caption": "The lightweight and responsive processing pipeline enables real-time feedback during practice."
+    },
+    {
+      "id": "image-4",
+      "prompt": "Over-the-shoulder shot of a programmer's desk, a modern laptop displays a Python IDE with the code snippet `import cv2` and `import mediapipe`. A small webcam is clipped to the monitor. The screen shows a debug view of the posture assistant with skeleton tracking lines. Focus on the hands on the keyboard and the glowing code. Photorealistic style.",
+      "style": "photorealistic",
+      "placement": "section-3",
+      "altText": "Developer coding the guitar posture assistant with OpenCV and MediaPipe in Python on a laptop.",
+      "caption": "The open-source project invites community contributions via its GitHub repository."
+    },
+    {
+      "id": "image-5",
+      "prompt": "Abstract technical close-up of a person's neck, shoulder, and hand playing an invisible guitar. Glowing geometric lines and angles measure the specific posture conditions: head tilt angle (45 degrees), shoulder hunched distance, wrist deviation angle (15 degrees). Labels 'Hunch', 'Tilt', 'Bend' float in a clean sans-serif font. Dark mode UI aesthetic, 3d wireframe style.",
+      "style": "3d-render",
+      "placement": "section-4",
+      "altText": "Technical diagram showing specific angles and measurements for head tilt, shoulder hunch, and wrist bend during guitar playing.",
+      "caption": "Algorithm thresholds based on standard ergonomic guidelines ensure accurate correction."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A cinematic wide shot of Aang from Avatar: The Last Airbender, standing atop a mountain with wind swirling around him, the four elements represented in the background (water, earth, fire, air). The scene has a vibrant, painterly style with dramatic lighting from a setting sun, evoking a sense of epic adventure and nostalgia. The image should blend traditional 2D animation aesthetics with modern 3D rendering techniques to emphasize the technological leap. The mood is inspiring and majestic, suitable for a hero image about a streaming sequel.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Aang with elements swirling around him on a mountain at sunset, cinematic style",
+      "caption": "Aang: The Last Airbender brings back the beloved characters with unprecedented visual quality."
+    },
+    {
+      "id": "image-2",
+      "prompt": "An illustration showing a timeline of the Avatar franchise revival, starting with the original 2005 series, moving to the Netflix arrival in 2020, the founding of Avatar Studios in 2021, and culminating in 'Aang: The Last Airbender' in 2024. The design uses a clean infographic style with icons representing each milestone, set against a background inspired by the four elements. Colors are warm and inviting, with a focus on the growth of the franchise. The mood is informative and celebratory.",
+      "style": "infographic",
+      "placement": "section-1",
+      "altText": "Timeline infographic of Avatar franchise revival milestones",
+      "caption": "From 2005 to 2024: The journey of the Avatar franchise. Data source: Netflix, Variety."
+    },
+    {
+      "id": "image-3",
+      "prompt": "A detailed 3D render of an animated scene showing a waterbender shaping a stream of water with intricate particle effects and fluid simulation, set in a stylized forest with glowing lights. The image highlights the advanced animation technology, with a focus on the fluid dynamics, lighting, and texture work. The style is a hybrid of 2D and 3D, with sharp details and a cinematic depth of field. The mood is awe-inspiring and technical, showcasing the artistry of modern animation.",
+      "style": "3d-render",
+      "placement": "section-2",
+      "altText": "3D render of waterbending with particle effects and fluid simulation",
+      "caption": "The breathtaking animation of Aang: The Last Airbender pushes the boundaries of visual storytelling."
+    },
+    {
+      "id": "image-4",
+      "prompt": "A minimalist digital illustration showing a glowing streaming interface overlaid on a world map, with lines connecting different regions to a central server. The design uses a dark blue and teal color scheme, with icons representing streaming data, adaptive bitrate, and global delivery. The mood is modern and data-driven, suggesting the technical infrastructure behind streaming animation. The style is clean, minimal, and professional.",
+      "style": "minimal",
+      "placement": "section-3",
+      "altText": "Minimalist illustration of streaming infrastructure with global connections",
+      "caption": "The streaming-first strategy for Aang: The Last Airbender reflects industry trends in digital distribution."
+    },
+    {
+      "id": "image-5",
+      "prompt": "A photorealistic workplace scene showing diverse technology professionals collaborating on animation and streaming projects. On screens, we see code, streaming analytics, and animated characters. The setting is a modern studio with ambient lighting, focused and creative atmosphere. The image conveys the convergence of entertainment and technology, with subtle references to CDN optimization, cloud services, and data analytics. The mood is productive and innovative.",
+      "style": "photorealistic",
+      "placement": "section-4",
+      "altText": "Tech professionals working on animation and streaming projects in a modern studio",
+      "caption": "Technology professionals play a crucial role in bringing animated content to global audiences."
+    }
+  ]
+}

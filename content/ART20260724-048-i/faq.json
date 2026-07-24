@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What is the Devnors Data Python SDK and what problem does it solve?",
+      "answer": "The Devnors Data Python SDK is a Python package that provides a unified interface for accessing over 15 Chinese data categories, including legal, business, and social media data. It simplifies integration by offering a single API endpoint and API key authentication, eliminating the need to manage multiple separate APIs."
+    },
+    {
+      "question": "How do I install and start using the Devnors Data Python SDK?",
+      "answer": "To get started, install the package via pip: `pip install devnors-data`. Then, obtain an API key from the Devnors platform. Initialize the client with your key and begin making requests to the unified endpoint for various data types."
+    },
+    {
+      "question": "What types of Chinese data can I access with this SDK?",
+      "answer": "The SDK covers over 15 data categories, including legal documents like court judgments and debtor lists, business registration data, social media data such as WeChat Index and Douyin hot searches, and more. This makes it suitable for legal analytics, market research, and trend analysis."
+    },
+    {
+      "question": "How does authentication work with the Devnors Data Python SDK?",
+      "answer": "The SDK uses simple API key authentication. You obtain an API key from the Devnors website and pass it to the SDK client. All requests are authenticated via this key, ensuring secure access without complex OAuth flows."
+    },
+    {
+      "question": "What are some practical use cases for the Devnors Data Python SDK?",
+      "answer": "Common use cases include legal research and compliance monitoring, credit risk assessment using debtor lists, social media sentiment analysis, and business intelligence for companies operating in China. The unified interface makes it easy to combine different data sources in Python applications."
+    }
+  ]
+}

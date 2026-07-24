@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A cinematic, photorealistic scene showing a single physical PS5 game disc resting on a dark, reflective surface. The disc is partially dissolving into bright blue and white digital particles that float upwards into a vast digital void. A faint, glowing statistic '87.5%' is embedded in the dark background like a watermark. Moody dramatic lighting, high contrast, shallow depth of field, symbolic of the decline of physical media in the gaming industry.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "A PS5 game disc dissolving into digital particles symbolizing an 87.5% decline in physical sales.",
+      "caption": ""
+    },
+    {
+      "id": "image-2",
+      "prompt": "A high-contrast, 3D infographic style image. A massive glowing blue bar labeled '297M' towers over a tiny red bar labeled '37M'. Connecting them is a stark downward arrow showing the trajectory over time. The text '87.5% DECLINE' is emblazoned across the image in bold, modern typography. The background is dark and abstract, focusing all attention on the drastic drop in the chart. Clean, corporate data visualization style with a dramatic edge.",
+      "style": "infographic",
+      "placement": "section-1",
+      "altText": "Infographic showing a 3D bar chart comparing 297 million physical units in 2009 to 37 million in 2026.",
+      "caption": "Source: Circana / Mat Piscatella"
+    },
+    {
+      "id": "image-3",
+      "prompt": "A photorealistic, desolate scene inside a game store. A large shelf labeled 'PLAYSTATION TOP SELLERS' is almost entirely empty. A single lonely game case leans sideways on the shelf, covered in a thin layer of dust. A stark, cold beam of light from a ceiling fixture illuminates the dusty case and the empty slots around it, emphasizing scarcity and neglect. High resolution, grim mood.",
+      "style": "photorealistic",
+      "placement": "section-2",
+      "altText": "An empty PlayStation top sellers shelf with a single dusty game case, representing the collapse of physical retail.",
+      "caption": ""
+    },
+    {
+      "id": "image-4",
+      "prompt": "A sleek, futuristic 3D render of a glowing all-digital PlayStation console in a minimalist dark room. The console has no disc drive slot, its sleek seamless case illuminated by pulsing blue light strips. Holographic game icons and a fast-moving download progress bar float in the air above the console, representing the digital ecosystem. No physical discs or cases are present. Cinematic lighting, high tech, clean modern aesthetic.",
+      "style": "3d-render",
+      "placement": "section-3",
+      "altText": "Futuristic 3D render of an all-digital game console with holographic game downloads floating above it.",
+      "caption": ""
+    }
+  ]
+}

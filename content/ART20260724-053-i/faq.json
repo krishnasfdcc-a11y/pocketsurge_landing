@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What is Creation Engine 2 and how does it differ from the original Creation Engine?",
+      "answer": "Creation Engine 2 is an updated version of Bethesda's proprietary game engine, first used in Starfield. It introduced improved rendering, lighting, and scripting capabilities compared to the original Creation Engine used for Skyrim and Fallout 4. The updated version aims to support more detailed worlds and better performance on current-generation hardware."
+    },
+    {
+      "question": "What is the difference between preproduction and full-scale development in the context of Fallout 5 and TES6?",
+      "answer": "Preproduction is the early planning phase where concepts, prototypes, and design documents are created before full-scale development begins. Fallout 5 is currently in preproduction, meaning the team is exploring ideas and building foundations, while TES6 is in active development with a larger team working on asset creation, programming, and level design. This phased approach allows Bethesda to allocate resources efficiently across multiple projects."
+    },
+    {
+      "question": "Why does Bethesda choose to use its proprietary Creation Engine instead of commercial engines like Unreal Engine?",
+      "answer": "Bethesda uses its in-house engine to maintain the unique gameplay feel, modding support, and specific physics and scripting systems that define its games. Proprietary engines allow deep optimization for target platforms and full control over features, but require significant ongoing investment to evolve. This trade-off is central to Bethesda's identity and the expectations of its player base."
+    },
+    {
+      "question": "What challenges does Bethesda face when developing multiple AAA games simultaneously?",
+      "answer": "Balancing resources across multiple projects is a major challenge, as each game requires a dedicated team for engineering, art, and design. Bethesda must prioritize which projects are in preproduction versus full development, often causing long development cycles. Additionally, engine updates must accommodate both projects, requiring careful coordination to avoid delays."
+    },
+    {
+      "question": "How might the updates to the Creation Engine influence future game design in The Elder Scrolls 6 and Fallout 5?",
+      "answer": "The engine updates from Starfield's development will likely enable more seamless open worlds, improved AI systems, and enhanced visual fidelity in both TES6 and Fallout 5. However, the engine's strengths in rendering large landscapes and handling complex scripts will shape the games' scale and emergent gameplay. Fans can expect refinements to core systems like combat and inventory, leveraging lessons learned from Starfield."
+    }
+  ]
+}

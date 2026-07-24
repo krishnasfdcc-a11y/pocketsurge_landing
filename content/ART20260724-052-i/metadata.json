@@ -1,0 +1,51 @@
+{
+  "slug": "ART20260724-052-i",
+  "title": "EU Researchers Battle Platforms for Social Media Data",
+  "excerpt": "The EU Digital Services Act promised vetted researchers data access to study systemic risks, but platforms are obstructing these efforts. Delays, NDAs, and complex processes hinder independent research on algorithmic harm, leaving policymakers in the dark.",
+  "keywords": [
+    "DSA data access",
+    "social media research",
+    "platform data sharing",
+    "algorithmic harm",
+    "EU Digital Services Act",
+    "researcher access",
+    "platform accountability",
+    "digital regulation"
+  ],
+  "readingTime": 4,
+  "wordCount": 733,
+  "category": "science",
+  "researchId": "7c1309b9-9200-4614-94ef-64caf15ced5e",
+  "topicId": "bca05f95-2753-4475-af61-ef7a373c707a",
+  "generatedAt": "2026-07-24T15:21:02.580Z",
+  "description": "The EU Digital Services Act promised vetted researchers access to social media data, but platforms are obstructing independent studies with undue delays and restrictive NDAs.",
+  "og": {
+    "title": "EU Researchers Battle Platforms for Social Media Data",
+    "description": "The EU Digital Services Act promised vetted researchers access to social media data, but platforms are obstructing independent studies with undue delays and restrictive NDAs.",
+    "type": "article",
+    "image": "A graphic of a lock on social media app icons with the EU flag in the background, symbolizing data access barriers."
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "EU Researchers Battle Platforms for Social Media Data",
+    "description": "The EU Digital Services Act promised vetted researchers access to social media data, but platforms are obstructing independent studies with undue delays and restrictive NDAs."
+  },
+  "schemaOrg": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "EU Researchers Battle Platforms for Social Media Data",
+    "description": "The EU Digital Services Act promised vetted researchers access to social media data, but platforms are obstructing independent studies with undue delays and restrictive NDAs.",
+    "author": {
+      "@type": "Person",
+      "name": "TechPulse Team"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "TechPulse"
+    },
+    "datePublished": "2026-07-24T15:21:02.580Z",
+    "dateModified": "2026-07-24T15:21:02.580Z"
+  },
+  "status": "approved",
+  "approvedAt": "2026-07-24T17:01:23.820Z"
+}

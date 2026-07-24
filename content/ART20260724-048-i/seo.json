@@ -1,0 +1,89 @@
+{
+  "title": "Unlock 15+ Chinese Data Sources with Devnors Python SDK",
+  "metaDescription": "Access 15+ Chinese data sources including legal, business, and social media with the Devnors Data Python SDK. Learn features, use cases, and how to integrate in your projects.",
+  "keywords": {
+    "primary": "Devnors Data Python SDK",
+    "secondary": [
+      "Chinese data API",
+      "Python data SDK",
+      "Chinese legal data",
+      "social media data China"
+    ],
+    "related": [
+      "WeChat Index API",
+      "Douyin hot search API",
+      "Chinese court judgments data",
+      "business data China",
+      "unified API Chinese data",
+      "Python SDK for Chinese data",
+      "legal analytics China",
+      "credit risk assessment China",
+      "compliance China data",
+      "Chinese social media API"
+    ]
+  },
+  "headings": {
+    "h1": "Unlock 15+ Chinese Data Sources with Devnors Python SDK",
+    "h2": [
+      "Core Features of the Devnors Data Python SDK",
+      "Exploring Chinese Data Categories",
+      "Practical Applications and Use Cases",
+      "Integration Tips and Best Practices",
+      "Conclusion"
+    ],
+    "h3": [
+      "Legal Data: Court Judgments and Debtor Lists",
+      "Business Data: Company Registration and Credit",
+      "Social Media Data: WeChat and Douyin Trends"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "Chinese data APIs",
+      "suggestedUrl": "/blog/chinese-data-apis"
+    },
+    {
+      "anchor": "Python SDK integration guide",
+      "suggestedUrl": "/tutorials/python-sdk-integration"
+    },
+    {
+      "anchor": "data science tools for Python",
+      "suggestedUrl": "/blog/data-science-tools"
+    },
+    {
+      "anchor": "legal data analytics",
+      "suggestedUrl": "/blog/legal-data-analytics"
+    },
+    {
+      "anchor": "business data China",
+      "suggestedUrl": "/resources/business-data-china"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "China Court official judgments",
+      "suggestedUrl": "https://wenshu.court.gov.cn/"
+    },
+    {
+      "anchor": "WeChat official site",
+      "suggestedUrl": "https://weixin.qq.com/"
+    },
+    {
+      "anchor": "Douyin official site",
+      "suggestedUrl": "https://www.douyin.com/"
+    },
+    {
+      "anchor": "OECD China data",
+      "suggestedUrl": "https://www.oecd.org/china/"
+    },
+    {
+      "anchor": "World Bank China data",
+      "suggestedUrl": "https://www.worldbank.org/en/country/china"
+    }
+  ],
+  "structuredData": {
+    "@type": "Article",
+    "headline": "Unlock 15+ Chinese Data Sources with Devnors Python SDK",
+    "description": "Access 15+ Chinese data sources including legal, business, and social media with the Devnors Data Python SDK. Learn features, use cases, and how to integrate in your projects."
+  }
+}

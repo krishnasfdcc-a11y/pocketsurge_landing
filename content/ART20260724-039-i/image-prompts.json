@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A cinematic, high-contrast shot of a minimalist strategic war room. The room is dimly lit by the glow of a massive, central holographic table displaying a deconstructed and reassembling Master Chief helmet, glowing green and blue. Holographic charts and franchise timelines float around it. The mood is serious, focused, and signals a powerful strategic reset and rebirth for the Xbox brand. Photorealistic style, volumetric lighting, anamorphic lens flare.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Strategic war room with holographic Master Chief helmet symbolizing Xbox reset.",
+      "caption": "A visual metaphor for Xbox's strategic command center under new leadership."
+    },
+    {
+      "id": "image-2",
+      "prompt": "A photorealistic 3D render of a tabletop strategy game. Among various shattered glass figures representing struggling Xbox studios, a single solid, gleaming Cortana chip and UNSC emblem stand tall and brightly lit. A spotlight shines directly on them, representing the Halo franchise as the definitive 'lucky pull' and foundational pillar for the future. Shallow depth of field, dramatic shadows, highly detailed textures.",
+      "style": "3d-render",
+      "placement": "section-1",
+      "altText": "3D render of glowing Cortana chip standing strong against shattered studio representations.",
+      "caption": "The Halo franchise emerges as the cornerstone of the new strategy."
+    },
+    {
+      "id": "image-3",
+      "prompt": "A detailed digital illustration showing a vertical split diorama of a Halo ring. The left half features classic early 2000s graphics style with low resolution, foggy skies, and blocky trees. The right half is a modern, next-gen rebuild with full ray tracing, photorealistic grass and metallic surfaces, and a vibrant atmospheric sky. A glowing line of energy separates the two eras, symbolizing the 'Evolved Edition' concept of a full ground-up remake retaining the original's soul.",
+      "style": "illustration",
+      "placement": "section-2",
+      "altText": "Digital illustration comparing classic and evolved Halo ring graphics side by side.",
+      "caption": "Defining the 'Evolved Edition': a ground-up rebuild preserving the classic soul."
+    },
+    {
+      "id": "image-4",
+      "prompt": "A cinematic, melancholic wide shot of a game development office in a state of transition. Several cubicles are dark and empty, representing layoffs and restructuring at Xbox studios. A single brightly lit workstation displays a blueprint of the Pillar of Autumn. Dust particles float in a strong beam of window light. The atmosphere is somber but not hopeless, focusing on the consolidation of talent onto the core mission. Cinematic realism, anamorphic lens, moody blue and orange color grading.",
+      "style": "cinematic",
+      "placement": "section-3",
+      "altText": "Empty game development office with single workstation displaying Halo blueprints.",
+      "caption": "The human cost of the reset: resources consolidated onto the core franchise."
+    },
+    {
+      "id": "image-5",
+      "prompt": "A sleek, high-tech timeline infographic visualizing Xbox's strategic plan from 2024 to 2027. The background is a dark holographic grid. The timeline is an energetic circuit board path glowing in blue and gold. Key nodes are labeled: '2024: Restructuring' with a phoenix icon, '2026: Halo Campaign Evolved' with a Master Chief helmet icon, and '2027: Vision Complete' with an X logo. Clean, minimalist, corporate technology aesthetic.",
+      "style": "infographic",
+      "placement": "section-4",
+      "altText": "Infographic timeline of Xbox strategy from 2024 to 2027 featuring Halo Campaign Evolved.",
+      "caption": "Xbox's calculated roadmap: stability, remakes, and brand evolution."
+    }
+  ]
+}

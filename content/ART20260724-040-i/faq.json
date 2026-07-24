@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What is the rcsnr/job-search-workflow and how does it differ from cloud-based job search tools?",
+      "answer": "The rcsnr/job-search-workflow is an open-source AI tool that runs locally on your machine to help triage, score, and track job applications. Unlike cloud-based tools, it processes all job search data on your own computer, ensuring your personal information and preferences remain private and under your control."
+    },
+    {
+      "question": "How does the local-first approach of this workflow protect my privacy during a job search?",
+      "answer": "The local-first approach ensures that all your search queries, salary expectations, and notes are processed and stored on your machine, never sent to external servers. This eliminates the risk of data exploitation by third parties and gives you complete control over your job search data."
+    },
+    {
+      "question": "How do I get started with the rcsnr/job-search-workflow?",
+      "answer": "To get started, you need to clone the repository from the rcsnr/job-search-workflow GitHub page, follow the installation instructions in the README (which include setting up a local environment and connecting to the LinkedIn job database), and then configure the filtering and scoring parameters according to your preferences."
+    },
+    {
+      "question": "What programming experience do I need to use and customize this open-source job search tool?",
+      "answer": "The tool is built with JavaScript, so familiarity with JavaScript and the command line is helpful for installation and customization. However, basic technical skills to run a local development environment and follow setup instructions should suffice for initial use, with more advanced customization requiring deeper coding knowledge."
+    },
+    {
+      "question": "How does the triage and scoring system work within the workflow?",
+      "answer": "The triage system aggressively filters noise from the LinkedIn job database by applying custom criteria you define, such as job title, location, salary range, and skills. The scoring mechanism then ranks the filtered listings based on how well they match your preferences, allowing you to focus on the best-fitting opportunities."
+    }
+  ]
+}

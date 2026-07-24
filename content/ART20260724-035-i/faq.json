@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What is the new advanced voice mode for ChatGPT desktop?",
+      "answer": "The advanced voice mode on ChatGPT desktop is a hands-free interaction feature that allows users to speak commands and questions instead of typing. It brings the natural voice interface previously available on mobile to desktop workstations, aiming to streamline workflows and enhance productivity."
+    },
+    {
+      "question": "How does the voice mode work on the desktop app?",
+      "answer": "You can activate voice mode by clicking an icon or using a keyboard shortcut. Once activated, you speak naturally, and the system uses OpenAI's Whisper technology for accurate speech recognition and GPT models to generate responses. The conversation history is saved so you can continue later."
+    },
+    {
+      "question": "How can developers benefit from the Codex integration with voice commands?",
+      "answer": "Developers can use voice commands to generate code snippets, refactor functions, or debug logic through Codex integration. For example, they can say 'Create a Python function to sort a list of dictionaries by a key' and Codex will produce the code. This hands-free capability speeds up prototyping and reduces context switching."
+    },
+    {
+      "question": "How does the desktop voice mode differ from the mobile version?",
+      "answer": "The desktop voice mode offers similar natural language processing and context awareness as the mobile version, but is optimized for a desktop environment where users often multitask. It is activated via click or shortcut, whereas mobile might use a button or wake word. The core functionality of real-time transcription and intelligent responses remains consistent across platforms."
+    },
+    {
+      "question": "What are the system requirements to use voice mode on the desktop?",
+      "answer": "To use voice mode on desktop, you need to have the ChatGPT desktop app installed and an internet connection. The feature should be available in the app after the latest update. Specific hardware requirements may include a working microphone, but the software is designed to work on standard desktop setups."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "Photorealistic extreme close-up of a smartphone held in a hand, displaying the vibrant interface of the new Meta 'Seller' app on a high-resolution screen. Soft studio lighting illuminates the scene, highlighting the app's clean blue and white design. The background is a softly blurred modern living space. High depth of field, professional tech product photography, crisp details.",
+      "style": "photorealistic",
+      "placement": "hero",
+      "altText": "Meta Seller app interface open on a smartphone for Facebook Marketplace.",
+      "caption": "Meta's new Seller app provides a dedicated hub for managing Facebook Marketplace transactions."
+    },
+    {
+      "id": "image-2",
+      "prompt": "An abstract 3D data visualization illustrating the explosive growth of Facebook Marketplace. A dynamic upward moving graph composed of glowing blue and purple particles, with floating shopping cart and package icons along the trajectory. The background is a dark blue gradient with subtle grid lines. '1 Billion Users' text glows softly. Futuristic, sleek, professional infographic style.",
+      "style": "3d-render",
+      "placement": "section-1",
+      "altText": "3D infographic showing social commerce and Facebook Marketplace growth trends.",
+      "caption": "Facebook Marketplace has grown to over 1 billion monthly active users, driving Meta's standalone app strategy."
+    },
+    {
+      "id": "image-3",
+      "prompt": "A modern UI/UX design showcase on a bright white background. Three floating smartphone mockups arranged horizontally displaying different screens of the Meta Seller app. The first shows a product listing interface with AI price suggestions. The second shows a unified inbox with buyer messages. The third displays a sleek analytics dashboard with conversion charts. Clean lines, soft shadows, blue accent colors, minimal flat design.",
+      "style": "minimal",
+      "placement": "section-2",
+      "altText": "Three user interface screens of the Meta Seller app showing listings, inbox, and analytics.",
+      "caption": "The Seller app features advanced listing tools, a unified inbox, and a comprehensive analytics dashboard."
+    },
+    {
+      "id": "image-4",
+      "prompt": "An isometric digital ecosystem illustration. A large central glowing Facebook hub connects to smaller satellite 3D app icons representing Messenger, Instagram, and WhatsApp, with a new distinguished 'Seller' icon branching out. Luminous data paths and nodes connect them. Dark gradient background, neon blue and white accents, technology network concept, clean vector illustration with volumetric lighting.",
+      "style": "illustration",
+      "placement": "section-3",
+      "altText": "Isometric diagram illustrating Meta's strategy of launching standalone apps like Seller.",
+      "caption": "Meta's standalone app strategy follows the successful model used for Messenger and Facebook Gaming."
+    }
+  ]
+}

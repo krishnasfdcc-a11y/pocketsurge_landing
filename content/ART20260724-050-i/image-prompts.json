@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A dramatic cinematic scene showing a modern data center interior with rows of servers and blinking lights, but in the background through large windows, military jets and explosions are reflected, symbolizing the threat of war on digital infrastructure. The atmosphere is tense with orange and red lighting, smoke haze, and a sense of impending disruption. Photorealistic, high contrast, wide angle.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Data center under threat from US-Iran military conflict",
+      "caption": "Conceptual representation of technology infrastructure at risk."
+    },
+    {
+      "id": "image-2",
+      "prompt": "A photorealistic aerial view of the Strait of Hormuz at sunset, with oil tankers navigating the narrow chokepoint. In the foreground, a massive data center complex with cooling towers and power lines blends into the scene, symbolizing the connection between fossil fuel shipping and cloud computing energy demands. Golden hour lighting, dramatic clouds, scale emphasizing vulnerability.",
+      "style": "photorealistic",
+      "placement": "section-1",
+      "altText": "Strait of Hormuz oil tankers and data center vulnerability",
+      "caption": "Strait of Hormuz: a chokepoint for oil and data center energy."
+    },
+    {
+      "id": "image-3",
+      "prompt": "A high-tech cyber attack visualization: a digital world map with glowing red lines targeting the Middle East, London, and Washington DC. In the foreground, a hacker silhouette typing on a laptop with cascading green code on screens, mixed with imagery of Iranian flags. Style inspired by cyberpunk cinema, blue and red neon lighting, intense atmosphere, emphasizing stealth and threat.",
+      "style": "cinematic",
+      "placement": "section-2",
+      "altText": "Iranian cyber attack targeting global technology infrastructure",
+      "caption": "Iran's state-sponsored hacker groups pose a threat to global tech."
+    },
+    {
+      "id": "image-4",
+      "prompt": "A futuristic 3D render of a swarm of drones flying over a modern city skyline at dusk. The drones are small but numerous, with red targeting lasers. In the sky, glowing AI circuit patterns and data streams are visible, representing the fusion of artificial intelligence and warfare. The mood is ominous and cold, with blue and red color contrast, depth of field.",
+      "style": "3d-render",
+      "placement": "section-3",
+      "altText": "Drone swarm with artificial intelligence in US-Iran conflict",
+      "caption": "Drone swarms and AI represent the next frontier of conflict."
+    }
+  ]
+}

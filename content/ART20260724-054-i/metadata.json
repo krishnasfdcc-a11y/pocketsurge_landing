@@ -1,0 +1,21 @@
+{
+  "slug": "ART20260724-054-i",
+  "title": "Devnors Data MCP Server: Unifying Chinese Data for AI Agents",
+  "description": "Devnors Data MCP Server leverages the Model Context Protocol to provide a unified interface for AI agents to query diverse Chinese data sources, including legal cases, company registries, and WeChat indices. This enables seamless AI agent integration for business intelligence, tax verification, and credit checks.",
+  "excerpt": "Devnors Data MCP Server leverages the Model Context Protocol to provide a unified interface for AI agents to query diverse Chinese data sources, including legal cases, company registries, and WeChat indices. This enables seamless AI agent integration for business intelligence, tax verification, and credit checks.",
+  "keywords": [
+    "Devnors Data MCP Server",
+    "Model Context Protocol",
+    "Chinese business data",
+    "AI agent integration",
+    "MCP server"
+  ],
+  "readingTime": 7,
+  "wordCount": 1237,
+  "category": "data-science",
+  "researchId": "fe8fab8e-6a91-4419-a3a8-3b5977f706dd",
+  "topicId": "0a22beb7-1e08-420a-a36f-5b3067188426",
+  "generatedAt": "2026-07-24T15:25:13.950Z",
+  "status": "approved",
+  "approvedAt": "2026-07-24T17:01:23.827Z"
+}

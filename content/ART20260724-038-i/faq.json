@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What is the significance of Iranian hackers targeting industrial control systems in water and energy sectors?",
+      "answer": "Unlike traditional IT breaches that steal data, attacks on industrial control systems (ICS) and operational technology (OT) can directly disrupt physical processes like water treatment or power generation. This escalation poses immediate risks to public safety and national security, as highlighted in the recent CISA and FBI advisory."
+    },
+    {
+      "question": "How can organizations detect if their industrial control systems are being targeted by Iranian hackers?",
+      "answer": "The advisory provides specific indicators of compromise (IOCs) and tactics, techniques, and procedures (TTPs) used by Iranian actors. Organizations should monitor their ICS/OT networks for unusual activity, apply the IOCs to their security tools, and implement network segmentation between IT and OT environments."
+    },
+    {
+      "question": "What immediate steps should water and energy providers take to protect against these attacks?",
+      "answer": "Critical infrastructure operators should follow the mitigation steps in the advisory, which include patching known vulnerabilities, using strong access controls, and monitoring for suspicious behavior. Additionally, they should have an incident response plan specifically for OT environments and report any incidents to CISA."
+    },
+    {
+      "question": "Why are Iranian state-sponsored hackers targeting US water and energy providers now?",
+      "answer": "Iran has a history of cyber aggression against US interests, and recently shifted focus to operational technology for maximum disruptive impact. The advisory suggests these attacks are part of a broader pattern to test capabilities and apply pressure, using both common exploit techniques and tailored ICS attacks."
+    },
+    {
+      "question": "What is the difference between securing traditional IT systems and securing industrial control systems?",
+      "answer": "IT security focuses on data confidentiality and integrity, while OT security emphasizes availability and safety of physical processes. Patching and upgrades that require system reboots can be impossible in 24/7 critical infrastructure, so OT security requires careful risk management and often relies on compensating controls like network segmentation and robust monitoring."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A dramatic cinematic wide shot of a global map with interconnected glowing lines representing trade routes, crossed out by heavy red chains and barriers. The scene conveys disruption and fragmentation of global supply chains. Lighting is moody with dark clouds over continents, emphasizing tension and economic impact. The style is photorealistic with a surreal atmospheric touch, targeting a tech and geopolitical narrative. Full HD, 16:9 aspect ratio.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Global supply chain disruption from Trump's 25% tariffs on 60 nations for tech imports",
+      "caption": "A dramatic visualization of tariff-driven supply chain fragmentation affecting global technology trade."
+    },
+    {
+      "id": "image-2",
+      "prompt": "An infographic style illustration featuring a world map with 60 flags highlighted, a large '25%' text in bold red, and a '$400B' bar chart. Clean corporate design with a dark blue background and gold accents. Icons of factories and shipping containers provide context. Text labels include '60 Trade Partners Affected' and '25% Average Tariff Rate'. The mood is analytical and data-driven, emphasizing the scale of the tariff action. Suitable for a policy article.",
+      "style": "infographic",
+      "placement": "section-1",
+      "altText": "Infographic showing Trump's 25% tariffs affecting 60 trade partners and $400 billion in imports",
+      "caption": "Key metrics of the new tariff policy targeting global tech supply chains."
+    },
+    {
+      "id": "image-3",
+      "prompt": "A photorealistic close-up of a semiconductor wafer and microchips with a customs document overlay showing a '25% Tariff' stamp in red ink. The scene includes tweezers and packaging on a steel table. Lighting is high-contrast with a spotlight on the chips, emphasizing scrutiny and serious trade implications. The background is blurred with server racks, linking to data centers and cloud computing. The overall mood is tense and investigative, highlighting the tech sector under tariff pressure.",
+      "style": "photorealistic",
+      "placement": "section-2",
+      "altText": "Semiconductor chips and 25 tariff stamp highlighting tech supply chain impact",
+      "caption": "The semiconductor industry faces direct cost increases from the new tariff regime."
+    },
+    {
+      "id": "image-4",
+      "prompt": "A 3D render of a stacked server rack with Ethernet cables, each server displaying a red price tag showing a 25% increase. In the foreground, a broken chain wraps around a network switch. The style is clean and modern with a dark tech lab atmosphere, blue LED lights from the servers casting cool tones. A transparent display in the background shows a graph of rising cost curves. The image conveys the cost pressure on cloud infrastructure due to tariffs.",
+      "style": "3d-render",
+      "placement": "section-3",
+      "altText": "Server racks with 25% tariff price tags showing increased costs for cloud infrastructure",
+      "caption": "Cloud infrastructure and enterprise hardware costs are projected to surge under the 25% tariffs."
+    }
+  ]
+}

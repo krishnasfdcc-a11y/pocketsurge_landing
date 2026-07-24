@@ -1,0 +1,52 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A cybersecurity researcher in a dimly lit office stares at a computer screen with code. On the screen, a glowing red barrier with a padlock icon blocks access to AI tools. The researcher looks frustrated, with crossed arms. In the background, digital chains and bars loom. Cinematic lighting, moody atmosphere, teal and orange color grading.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Frustrated cybersecurity researcher blocked by AI guardrails on computer screen",
+      "caption": ""
+    },
+    {
+      "id": "image-2",
+      "prompt": "Illustration of a large language model pipeline with input layer, content filter, keyword block, and output. Each filter acts as a gate with a traffic light indicator. The AI system is depicted as a central brain with data flows. Clean, modern infographic style with labeled components, bright colors, arrows showing direction.",
+      "style": "infographic",
+      "placement": "section-1",
+      "altText": "Illustration showing AI guardrail content filters blocking user queries",
+      "caption": "AI guardrails use content filters and keyword blocks to restrict outputs."
+    },
+    {
+      "id": "image-3",
+      "prompt": "Visual metaphor: a large blunt hammer labeled 'AI Guardrails' smashing down on a table, blocking a professional researcher's path forward, while a shadowy figure in a hoodie representing a malicious actor slips through a crack unnoticed. The hammer is metallic and heavy, cracking the wood. The researcher holds a laptop, looking dismayed. High contrast lighting, dramatic shadows, photorealistic style, dark atmosphere.",
+      "style": "photorealistic",
+      "placement": "section-2",
+      "altText": "Metaphor showing blunt AI guardrails blocking ethical researcher while malicious actor bypasses",
+      "caption": ""
+    },
+    {
+      "id": "image-4",
+      "prompt": "A cybersecurity researcher at a desk surrounded by coffee cups and crumpled paper, typing on a laptop with a look of exhaustion. Multiple monitors show error messages reading 'Blocked by AI policy'. Blue screen glow illuminates the tired face. Late night office environment, cluttered desk, photorealistic style with warm ambient lighting.",
+      "style": "photorealistic",
+      "placement": "section-3",
+      "altText": "Exhausted cybersecurity researcher spending hours reformulating prompts blocked by AI guardrails",
+      "caption": ""
+    },
+    {
+      "id": "image-5",
+      "prompt": "Split composition: left side shows an ethical researcher in a corporate office, hands tied by red tape labeled 'AI Guardrails', unable to access a secure server. Right side shows a hacker in a hoodie laughing, easily bypassing a fallen guardrail, accessing a laptop with a glowing skull icon. Dark cyberpunk aesthetic, neon accents, cinematic lighting, high detail.",
+      "style": "cinematic",
+      "placement": "section-4",
+      "altText": "Comparison between hindered ethical researcher and malicious actor easily bypassing AI guardrails",
+      "caption": ""
+    },
+    {
+      "id": "image-6",
+      "prompt": "A dark-themed infographic with a glowing bar chart showing researcher frustration levels rising sharply from 2025 to 2026. The bars are colored red-orange, with an annotated '80% increase'. In the foreground, a silhouette of a researcher holding head in despair. 3D render style with depth of field, neon blue background, sleek modern design.",
+      "style": "infographic",
+      "placement": "section-5",
+      "altText": "Infographic showing 80% increase in researcher frustration with AI guardrails from 2025 to 2026",
+      "caption": "Data from TechCrunch 2026 report."
+    }
+  ]
+}

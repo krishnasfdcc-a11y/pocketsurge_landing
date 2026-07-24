@@ -1,0 +1,24 @@
+;; PocketSurge — BIND zone file for Cloudflare DNS Import
+;;
+;; How to upload:
+;; 1. Cloudflare Dashboard → pocketsurge.com → DNS → Records
+;; 2. Import and Export → Import DNS records
+;; 3. Select this file
+;; 4. Leave "Proxy imported DNS records" checked (www uses cf-proxied:true)
+;;
+;; After import:
+;; Workers & Pages → pocketsurge-landing → Domains & Routes
+;; → Add Custom Domain: pocketsurge.com
+;; Then add Redirect Rule: www.pocketsurge.com → https://pocketsurge.com (301)
+;;
+;; Apex (@) is intentionally omitted — Custom Domain creates it.
+
+$ORIGIN pocketsurge.com.
+$TTL 3600
+
+;; www — originless placeholder so Cloudflare can apply redirect rules
+www.pocketsurge.com.	3600	IN	A	192.0.2.0	; cf_tags=cf-proxied:true
+
+;; Email hardening: this domain sends no mail (remove if you add a mailbox later)
+pocketsurge.com.	3600	IN	TXT	"v=spf1 -all"
+_dmarc.pocketsurge.com.	3600	IN	TXT	"v=DMARC1; p=reject; sp=reject; adkim=s; aspf=s"

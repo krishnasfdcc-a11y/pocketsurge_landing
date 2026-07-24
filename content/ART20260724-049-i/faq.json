@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What is the Seller app from Meta?",
+      "answer": "The Seller app is a standalone mobile application created by Meta that is dedicated exclusively to Facebook Marketplace. It offers tools for listing items, communicating with buyers, and processing payments, all in a separate app from the main Facebook experience."
+    },
+    {
+      "question": "How do I get started with selling on the Seller app?",
+      "answer": "Download the Seller app from the iOS App Store or Google Play Store and log in with your Facebook account. Then, tap the 'Sell' button, add photos, a description, price, and category, and publish your listing to reach Facebook Marketplace’s large audience."
+    },
+    {
+      "question": "What are the main differences between the Seller app and using Marketplace inside the regular Facebook app?",
+      "answer": "The Seller app is purpose-built for buying and selling, featuring a unified inbox for buyer messages, advanced listing tools, and integrated payments via Meta Pay. In contrast, the main Facebook app combines Marketplace with other features, which can be less convenient for frequent sellers."
+    },
+    {
+      "question": "Why isn't my listing showing up on the Seller app?",
+      "answer": "Listings may not appear if required fields like photos or price are missing, or if the item violates Facebook’s commerce policies. New accounts or items may also be temporarily held for review; check your listing status in the app and allow a short processing time."
+    },
+    {
+      "question": "What are some best practices for selling items quickly on the Seller app?",
+      "answer": "Use clear, well-lit photos and write accurate descriptions to attract buyers. Leverage the app’s AI pricing suggestions to stay competitive, and respond promptly to messages in the unified inbox to close sales faster."
+    }
+  ]
+}

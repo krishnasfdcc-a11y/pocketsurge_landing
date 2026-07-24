@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What are scam compounds and how do they operate?",
+      "answer": "Scam compounds are fortified facilities used by criminal syndicates to run large-scale cyber fraud operations, often involving romance scams, investment fraud, and cryptocurrency schemes. Victims are lured or trafficked into these compounds, where they are coerced into defrauding people worldwide under threat of violence. These compounds are equipped with sophisticated technology and security features to evade detection."
+    },
+    {
+      "question": "How do satellite images help detect these scam compounds?",
+      "answer": "Satellite imagery provides an unobstructed view of remote areas where these compounds are built, allowing researchers to identify new construction, security features, and patterns of activity over time. By comparing images taken weeks apart, analysts can spot rapid development on previously vacant land. This method is crucial for monitoring areas with limited ground access and for quantifying the scale of the criminal infrastructure."
+    },
+    {
+      "question": "Why is Myanmar becoming a hotspot for cyber scam operations?",
+      "answer": "Myanmar's proximity to major criminal networks, combined with weak governance and political turmoil since the 2021 military coup, has created a power vacuum that allows syndicates to operate with impunity. The country's remote border regions near Thailand and Laos lack effective law enforcement, making them ideal for building hidden compounds. Additionally, the ongoing conflict diverts government resources away from tackling cybercrime."
+    },
+    {
+      "question": "How do these scam compounds pose a threat to global cybersecurity?",
+      "answer": "These compounds serve as hubs for large-scale cyber fraud that targets individuals and businesses worldwide, leading to billions in financial losses. They also facilitate other crimes such as identity theft, money laundering, and human trafficking. Moreover, the data and techniques developed within these compounds can be repurposed for more sophisticated cyberattacks, including ransomware and business email compromise."
+    },
+    {
+      "question": "What actions are being taken to combat these scam compounds, and are they effective?",
+      "answer": "Governments in the region, under pressure from China and others, have conducted raids and promised crackdowns, but success has been limited due to corruption and the complex nature of the syndicates. International cooperation is growing, but enforcement efforts in remote areas remain challenging, and compounds often reappear quickly after being shut down. A more effective approach requires cross-border collaboration, disrupting supply chains for construction and technology, and providing alternative livelihoods for trafficked workers."
+    }
+  ]
+}

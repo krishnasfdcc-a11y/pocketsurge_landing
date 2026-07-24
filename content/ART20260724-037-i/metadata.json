@@ -1,0 +1,50 @@
+{
+  "slug": "ART20260724-037-i",
+  "title": "Satellite Images: Suspected Scam Compounds Surge in Myanmar",
+  "excerpt": "Recent satellite imagery reveals dozens of suspected scam compounds are being built in remote Myanmar regions, despite government crackdown claims. The rapid construction pace indicates sophisticated criminal logistics and enforcement failures, posing a growing global cybersecurity threat.",
+  "keywords": [
+    "scam compounds",
+    "Myanmar",
+    "satellite imagery",
+    "cybercrime",
+    "enforcement failure",
+    "criminal infrastructure"
+  ],
+  "readingTime": 6,
+  "wordCount": 1042,
+  "category": "cybersecurity",
+  "researchId": "141db3dc-207f-4897-b445-f6e7cc6fc556",
+  "topicId": "b7edba39-b24d-468d-9119-a53f58fecefb",
+  "generatedAt": "2026-07-24T14:54:43.016Z",
+  "description": "Satellite images show dozens of new scam compounds built in Myanmar despite crackdown promises, revealing sophisticated criminal logistics and enforcement gaps.",
+  "og": {
+    "title": "Satellite Images: Suspected Scam Compounds Surge in Myanmar",
+    "description": "Satellite images show dozens of new scam compounds built in Myanmar despite crackdown promises, revealing sophisticated criminal logistics and enforcement gaps.",
+    "type": "article",
+    "image": "Satellite image of a scam compound in Myanmar showing perimeter walls and buildings"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Satellite Images: Suspected Scam Compounds Surge in Myanmar",
+    "description": "Satellite images show dozens of new scam compounds built in Myanmar despite crackdown promises, revealing sophisticated criminal logistics and enforcement gaps."
+  },
+  "schemaOrg": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Satellite Images: Suspected Scam Compounds Surge in Myanmar",
+    "description": "Satellite images show dozens of new scam compounds built in Myanmar despite crackdown promises, revealing sophisticated criminal logistics and enforcement gaps.",
+    "author": {
+      "@type": "Person",
+      "name": "TechPulse Team"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "TechPulse"
+    },
+    "datePublished": "2026-07-24T14:54:43.016Z",
+    "dateModified": "2026-07-24T14:54:43.016Z",
+    "image": "https://example.com/satellite-image-scam-compounds.jpg"
+  },
+  "status": "approved",
+  "approvedAt": "2026-07-24T17:01:23.783Z"
+}

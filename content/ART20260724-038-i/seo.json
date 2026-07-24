@@ -1,0 +1,79 @@
+{
+  "title": "US Warns: Iranian Hackers Disrupting Water and Energy Providers",
+  "metaDescription": "US warns Iranian hackers are targeting water and energy providers. Learn about ICS/OT threats, indicators of compromise, and mitigation steps from the new CISA-FBI advisory.",
+  "keywords": {
+    "primary": "Iranian hackers",
+    "secondary": [
+      "water and energy providers",
+      "critical infrastructure cybersecurity",
+      "state-sponsored attacks",
+      "ICS/OT security"
+    ],
+    "related": [
+      "CISA advisory",
+      "FBI warning",
+      "industrial control systems security",
+      "operational technology threats",
+      "ICS vulnerabilities",
+      "water sector cyber threats",
+      "energy sector threats",
+      "Iran cyber threats"
+    ]
+  },
+  "headings": {
+    "h1": "US Warns: Iranian Hackers Disrupting Water and Energy Providers",
+    "h2": [
+      "The Escalating Threat Landscape for Critical Infrastructure"
+    ],
+    "h3": [
+      "A Pattern of State-Sponsored Aggression",
+      "The Joint Advisory: Key Details"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "critical infrastructure cybersecurity",
+      "suggestedUrl": "/critical-infrastructure-cybersecurity"
+    },
+    {
+      "anchor": "state-sponsored cyber attacks",
+      "suggestedUrl": "/state-sponsored-cyber-attacks"
+    },
+    {
+      "anchor": "ICS/OT security best practices",
+      "suggestedUrl": "/ics-ot-security-guide"
+    },
+    {
+      "anchor": "indicators of compromise",
+      "suggestedUrl": "/indicators-of-compromise-explained"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "CISA and FBI joint advisory",
+      "suggestedUrl": "https://www.cisa.gov/news-events/alerts/2026/07/24/cisa-fbi-joint-advisory-iranian-hackers-targeting-water-energy"
+    },
+    {
+      "anchor": "FBI Cyber Division",
+      "suggestedUrl": "https://www.fbi.gov/investigate/cyber"
+    },
+    {
+      "anchor": "NIST ICS security guidance",
+      "suggestedUrl": "https://www.nist.gov/cyberframework/industrial-control-systems"
+    }
+  ],
+  "structuredData": {
+    "@type": "Article",
+    "headline": "US Warns: Iranian Hackers Disrupting Water and Energy Providers",
+    "description": "US warns Iranian hackers are targeting water and energy providers. Learn about ICS/OT threats, indicators of compromise, and mitigation steps from the new CISA-FBI advisory.",
+    "datePublished": "2026-07-24T14:56:06.250Z",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Your Publication"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://yourdomain.com/article/us-warns-iranian-hackers-water-energy"
+    }
+  }
+}

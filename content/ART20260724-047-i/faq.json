@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What is the Guitar Posture Assistant and how does it work?",
+      "answer": "The Guitar Posture Assistant is an open-source tool that uses a webcam with computer vision to monitor a guitarist's posture in real time. It employs MediaPipe's pose estimation to track 33 body landmarks and OpenCV to process the video feed. When it detects issues like hunching or wrist bending, it alerts the user to correct their posture."
+    },
+    {
+      "question": "How can I get started with the Guitar Posture Assistant?",
+      "answer": "To get started, you need a computer with a webcam and Python installed. Clone the project from GitHub, install the dependencies (OpenCV, MediaPipe), and run the script. The tool will use your webcam to begin monitoring your posture immediately."
+    },
+    {
+      "question": "How does the AI tool compare to traditional posture correction methods?",
+      "answer": "Traditional methods rely on a teacher's observation, which can be limited to lesson times. The AI tool provides continuous, real-time feedback, making it accessible anytime. However, it cannot replace the personalized guidance and musical expertise of a human teacher."
+    },
+    {
+      "question": "What common posture issues does the Guitar Posture Assistant detect?",
+      "answer": "The tool detects hunching (shoulders too far forward), head tilt beyond safe angles, wrist bending from neutral position, and poor finger positioning. These are common problems that can lead to chronic pain and injury if uncorrected."
+    },
+    {
+      "question": "What are some tips for using the Guitar Posture Assistant effectively?",
+      "answer": "Use the tool during regular practice to build posture awareness. Focus on one issue at a time and gradually incorporate all corrections. Ensure proper lighting and camera position for accurate detection, and combine the tool with an ergonomic practice setup."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A cinematic, high-contrast image of a developer's workspace with two monitors. The left monitor displays code for an open-source AI job search workflow configuration file, with highlighted syntax. The right monitor shows a dashboard with job listings being automatically triaged, scored by an AI, and tracked through stages. The room is bathed in warm, focused lighting from a desk lamp, casting dramatic shadows. A notebook and pen rest on the desk, emphasizing planning. The overall mood is productive, innovative, and secure, reflecting local-first privacy.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Developer workspace with dual monitors showing AI job search workflow code and dashboard",
+      "caption": "A local-first, open-source workflow puts control back in the user's hands."
+    },
+    {
+      "id": "image-2",
+      "prompt": "An illustration split into two halves: left side shows a worried user next to a cloud server with data cables transmitting personal information, depicted in dull blue tones. Right side shows a relaxed user next to a local computer with a shield icon, in bright green tones. Arrows indicate data staying within the local machine. The contrast in lighting and color emphasizes privacy and control. The style is clean, modern illustration with flat vector elements, suitable for explaining the local-first advantage.",
+      "style": "illustration",
+      "placement": "section-1",
+      "altText": "Comparison illustration between cloud-based data transmission and secure local-first job search",
+      "caption": "Local-first tools keep your personal data private and under your control."
+    },
+    {
+      "id": "image-3",
+      "prompt": "A detailed 3D-render infographic of a job search workflow pipeline. The pipeline has three interconnected stages: a funnel icon for Triage, a star icon for Scoring, and a progress bar icon for Tracking. Each stage is labeled with clean typography. The background is a dark gradient with subtle grid lines, and the icons glow with neon blue and purple accents. Arrows with dashed lines connect the stages, showing the flow from raw job listings to organized campaign. The style is modern, tech-oriented infographic with a 3D depth effect.",
+      "style": "3d-render",
+      "placement": "section-2",
+      "altText": "3D infographic of job search workflow pipeline with triage, scoring, and tracking stages",
+      "caption": "The pipeline helps turn a chaotic job hunt into an organized campaign."
+    },
+    {
+      "id": "image-4",
+      "prompt": "A cinematic scene of a job seeker sitting at a sleek laptop in a cozy home office. On the screen, a graph shows a 45% rise in AI-enhanced job tool adoption. Beside the laptop, a soft glowing holographic circle represents an AI assistant. The user appears focused and confident, with a cup of coffee nearby. The lighting is warm and natural, coming from a window, casting gentle highlights. The background includes books and plants, suggesting a comfortable, productive environment. The mood is optimistic and forward-looking.",
+      "style": "cinematic",
+      "placement": "section-3",
+      "altText": "Job seeker using AI-enhanced job search tool with adoption growth chart on laptop",
+      "caption": "AI-enhanced job search tools are seeing a 45% rise in adoption."
+    }
+  ]
+}

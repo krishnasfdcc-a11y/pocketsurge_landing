@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "High-resolution satellite image taken from directly above showing multiple newly constructed scam compounds cut into the dense green jungle of eastern Myanmar, each compound featuring high white perimeter walls, guard towers at corners, rows of identical metal-roofed buildings, solar panels, and vehicles, surrounded by untouched forest, overcast lighting, photorealistic style with sharp details, mood of covert expansion and tension.",
+      "style": "photorealistic",
+      "placement": "hero",
+      "altText": "High-resolution satellite image shows a surge in scam compounds in Myanmar jungle",
+      "caption": ""
+    },
+    {
+      "id": "image-2",
+      "prompt": "Detailed satellite close-up of a single scam compound in a jungle clearing, showing a cluster of barracks, a central building, rooftop solar panels, guard towers with inward-facing windows, a single gate with guard post, and a bare earth buffer zone, high contrast sunlight casting shadows from walls, photorealistic with visible construction details, mood of surveillance and hidden infrastructure.",
+      "style": "photorealistic",
+      "placement": "section-1",
+      "altText": "Detailed satellite view of a scam compound with solar panels and guard towers",
+      "caption": ""
+    },
+    {
+      "id": "image-3",
+      "prompt": "Cinematic scene of enforcement failure at dusk: Myanmar police officers stand at the entrance of a remote scam compound, looking helpless as a local official counts a bribe from a well-dressed criminal, while victims are visible through a barrack window in the background, high walls and guard towers frame the scene, dim ambient light with flashlight beams, mood of corruption, despair, and futility, cinematic style with rich shadows and warm tones.",
+      "style": "cinematic",
+      "placement": "section-2",
+      "altText": "Corruption at a Myanmar scam compound with police and a bribe exchange",
+      "caption": ""
+    },
+    {
+      "id": "image-4",
+      "prompt": "Infographic illustration depicting the cycle of cybercrime in Myanmar: from victim recruitment through false job ads, transport to remote compounds, forced labor in cyber scams, bribery of local authorities, and repeated ineffective crackdowns, arrows connecting icons in a circular flow, set against a simplified map of Southeast Asia with Myanmar highlighted, clean minimal style, educational and clear, with subtle warning tone.",
+      "style": "infographic",
+      "placement": "section-3",
+      "altText": "Infographic showing the cycle of cybercrime in Myanmar from recruitment to enforcement failure",
+      "caption": ""
+    }
+  ]
+}

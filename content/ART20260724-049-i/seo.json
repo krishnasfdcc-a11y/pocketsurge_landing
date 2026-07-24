@@ -1,0 +1,96 @@
+{
+  "title": "Meta Launches Standalone Seller App for Facebook Marketplace",
+  "metaDescription": "Meta's Seller app for Facebook Marketplace simplifies buying and selling. With 1B+ users, enjoy advanced tools, unified inbox, and secure payments. Start now!",
+  "keywords": {
+    "primary": "Seller app Facebook Marketplace",
+    "secondary": [
+      "Meta standalone e-commerce app",
+      "Facebook Marketplace growth",
+      "social commerce trends",
+      "Meta Seller features"
+    ],
+    "related": [
+      "Facebook Marketplace standalone app",
+      "Meta Seller app features",
+      "social selling app",
+      "peer to peer marketplace app",
+      "Meta e-commerce strategy",
+      "Facebook shopping app",
+      "Meta Pay integration",
+      "buy and sell locally",
+      "secondhand marketplace app"
+    ]
+  },
+  "headings": {
+    "h1": "Meta Launches Standalone 'Seller' App for Facebook Marketplace",
+    "h2": [
+      "The Rise of Facebook Marketplace",
+      "Introducing Seller: Key Features and Capabilities",
+      "How Seller Enhances Security and Trust",
+      "What This Means for Social Commerce Trends"
+    ],
+    "h3": [
+      "Advanced Listing Tools",
+      "Unified Inbox",
+      "Integrated Payments",
+      "AI-Powered Suggestions"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "Facebook Marketplace growth",
+      "suggestedUrl": "/facebook-marketplace-growth"
+    },
+    {
+      "anchor": "Meta's standalone app strategy",
+      "suggestedUrl": "/meta-standalone-apps"
+    },
+    {
+      "anchor": "social commerce trends",
+      "suggestedUrl": "/social-commerce-trends-2025"
+    },
+    {
+      "anchor": "Meta Pay secure payments",
+      "suggestedUrl": "/meta-pay-guide"
+    },
+    {
+      "anchor": "selling on Facebook Marketplace",
+      "suggestedUrl": "/facebook-marketplace-selling-tips"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "Meta Newsroom: Facebook Marketplace updates",
+      "suggestedUrl": "https://about.fb.com/news/2026/07/seller-app-facebook-marketplace"
+    },
+    {
+      "anchor": "Pew Research Center: Social Media Use 2024",
+      "suggestedUrl": "https://www.pewresearch.org/internet/2024/01/31/social-media-use-2024"
+    },
+    {
+      "anchor": "eMarketer: Social Commerce Growth",
+      "suggestedUrl": "https://www.emarketer.com/insights/social-commerce"
+    },
+    {
+      "anchor": "Statista: Facebook Marketplace users",
+      "suggestedUrl": "https://www.statista.com/topics/xxxx/facebook-marketplace"
+    }
+  ],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Meta Launches Standalone 'Seller' App for Facebook Marketplace",
+    "description": "Meta introduces Seller, a standalone app for Facebook Marketplace with over 1 billion monthly users. The app aims to streamline buying and selling with dedicated features and enhanced security.",
+    "image": "https://example.com/images/meta-seller-app.jpg",
+    "datePublished": "2026-07-24T15:14:47.618Z",
+    "dateModified": "2026-07-24T15:14:47.618Z",
+    "author": {
+      "@type": "Organization",
+      "name": "Meta"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Meta"
+    }
+  }
+}

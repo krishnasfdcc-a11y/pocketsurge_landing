@@ -1,0 +1,49 @@
+{
+  "slug": "ART20260724-040-i",
+  "title": "Open-Source AI Job Search Workflow: A Complete Guide",
+  "excerpt": "This open-source AI tool provides a local-first job search framework. Learn how to triage, score, and track applications while maintaining complete privacy and control.",
+  "keywords": [
+    "open-source ai job search",
+    "local-first workflow",
+    "job search automation",
+    "ai career tools",
+    "rcnsnr workflow"
+  ],
+  "readingTime": 7,
+  "wordCount": 1252,
+  "category": "technology",
+  "researchId": "ff743916-1ce4-48a3-ab3e-2c326bce8005",
+  "topicId": "a3687090-e3d4-43c2-81c1-0c95ca780c95",
+  "generatedAt": "2026-07-24T14:59:18.590Z",
+  "description": "This open-source AI job search tool provides a local-first framework to triage, score, and track applications with complete privacy and control.",
+  "og": {
+    "title": "Open-Source AI Job Search Workflow: A Complete Guide",
+    "description": "This open-source AI job search tool provides a local-first framework to triage, score, and track applications with complete privacy and control.",
+    "type": "article",
+    "image": "A visual flowchart showing the local-first job search pipeline, with stages for triage, scoring, and tracking applications, with icons representing privacy and local data control."
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Open-Source AI Job Search Workflow: A Complete Guide",
+    "description": "This open-source AI job search tool provides a local-first framework to triage, score, and track applications with complete privacy and control."
+  },
+  "schemaOrg": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Open-Source AI Job Search Workflow: A Complete Guide",
+    "description": "This open-source AI job search tool provides a local-first framework to triage, score, and track applications with complete privacy and control.",
+    "author": {
+      "@type": "Person",
+      "name": "TechPulse Team"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "TechPulse"
+    },
+    "datePublished": "2026-07-24T14:59:18.590Z",
+    "dateModified": "2026-07-24T14:59:18.590Z",
+    "image": "An illustrative diagram of the job search automation workflow running on a local machine, highlighting the AI triage stage."
+  },
+  "status": "approved",
+  "approvedAt": "2026-07-24T17:01:23.791Z"
+}

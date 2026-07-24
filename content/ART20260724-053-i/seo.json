@@ -1,0 +1,81 @@
+{
+  "title": "Bethesda Confirms Fallout 5 Preproduction, TES6, Remasters",
+  "metaDescription": "Fallout 5 preproduction, TES6, and remasters confirmed by Bethesda. A technical deep dive into Creation Engine 2 evolution and multi-project management.",
+  "keywords": {
+    "primary": "Fallout 5 preproduction",
+    "secondary": [
+      "Creation Engine 2",
+      "Elder Scrolls 6",
+      "Fallout 3 remaster",
+      "New Vegas remaster"
+    ],
+    "related": [
+      "Bethesda game development",
+      "proprietary game engines",
+      "AAA game engines",
+      "Microsoft layoffs gaming",
+      "game engine development",
+      "multi-project management",
+      "engine evolution"
+    ]
+  },
+  "headings": {
+    "h1": "Bethesda Confirms Fallout 5 Preproduction, TES6, Remasters",
+    "h2": [
+      "The Creation Engine 2 Foundation",
+      "Multi-Project Management and Development Roadmap",
+      "Corporate Transparency in a Post-Layoff Era"
+    ],
+    "h3": [
+      "From Starfield to Standard: Evolution of the Engine",
+      "Proprietary Engine Advantages for AAA Development"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "Creation Engine 2 deep dive",
+      "suggestedUrl": "/articles/creation-engine-2-technical-analysis"
+    },
+    {
+      "anchor": "Starfield technical performance",
+      "suggestedUrl": "/articles/starfield-engine-performance-review"
+    },
+    {
+      "anchor": "Bethesda engine evolution",
+      "suggestedUrl": "/articles/bethesda-game-engine-history"
+    },
+    {
+      "anchor": "Microsoft gaming layoffs impact",
+      "suggestedUrl": "/articles/microsoft-layoffs-gaming-division"
+    },
+    {
+      "anchor": "Proprietary vs open-source engines",
+      "suggestedUrl": "/articles/comparing-proprietary-and-open-source-game-engines"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "Bethesda official announcement",
+      "suggestedUrl": "https://bethesda.net/en/article/fallout-5-tes6-remasters-confirmed"
+    },
+    {
+      "anchor": "Creation Engine 2 overview on Wikipedia",
+      "suggestedUrl": "https://en.wikipedia.org/wiki/Creation_Engine"
+    },
+    {
+      "anchor": "Starfield technical review on IGN",
+      "suggestedUrl": "https://www.ign.com/articles/starfield-graphics-and-performance"
+    },
+    {
+      "anchor": "Microsoft layoffs in gaming",
+      "suggestedUrl": "https://www.theverge.com/2024/01/25/microsoft-layoffs-gaming-bethesda-activision"
+    }
+  ],
+  "structuredData": {
+    "@type": "Article",
+    "headline": "Bethesda Confirms Fallout 5 Preproduction, TES6, Remasters",
+    "description": "Fallout 5 preproduction, TES6, and remasters confirmed by Bethesda. A technical deep dive into Creation Engine 2 evolution and multi-project management.",
+    "datePublished": "2026-07-24",
+    "publisher": "Bethesda Game Studios"
+  }
+}

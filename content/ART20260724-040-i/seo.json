@@ -1,0 +1,111 @@
+{
+  "title": "Open-Source AI Job Search Workflow: A Complete Guide",
+  "metaDescription": "Learn to use this open-source AI job search workflow to triage, score, and track applications locally with complete privacy and control.",
+  "keywords": {
+    "primary": "open-source ai job search workflow",
+    "secondary": [
+      "local-first workflow",
+      "job search automation",
+      "ai career tools",
+      "rcnsnr workflow"
+    ],
+    "related": [
+      "local-first AI tool",
+      "AI job search automation",
+      "open-source career tools",
+      "privacy-focused job search",
+      "LinkedIn job triage",
+      "automated job application tracking",
+      "developer job search tools",
+      "AI-powered job hunt"
+    ]
+  },
+  "headings": {
+    "h1": "Open-Source AI Job Search Workflow: A Complete Guide",
+    "h2": [
+      "Why a Local-First Job Search Matters",
+      "Inside the rcnsnr/job-search-workflow Framework",
+      "How to Get Started with Local-First AI Job Search",
+      "Privacy and Data Control in Your Job Search"
+    ],
+    "h3": [
+      "Triage and Filtering",
+      "Scoring and Prioritization",
+      "Application Tracking and Monitoring"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "local-first applications",
+      "suggestedUrl": "/articles/local-first-applications-guide"
+    },
+    {
+      "anchor": "open-source career tools",
+      "suggestedUrl": "/articles/open-source-tools-for-career"
+    },
+    {
+      "anchor": "AI job search automation",
+      "suggestedUrl": "/articles/ai-job-search-automation-tips"
+    },
+    {
+      "anchor": "privacy-focused job search strategies",
+      "suggestedUrl": "/articles/privacy-focused-job-search"
+    },
+    {
+      "anchor": "developer workflow automation",
+      "suggestedUrl": "/articles/developer-workflow-automation"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "rcnsnr/job-search-workflow GitHub repository",
+      "suggestedUrl": "https://github.com/rcnsnr/job-search-workflow"
+    },
+    {
+      "anchor": "Local-First Software development principles",
+      "suggestedUrl": "https://www.inkandswitch.com/local-first/"
+    },
+    {
+      "anchor": "LinkedIn job database API",
+      "suggestedUrl": "https://learn.microsoft.com/en-us/linkedin/consumer/integrations/self-serve/job-search-api"
+    },
+    {
+      "anchor": "trends in local-first app development",
+      "suggestedUrl": "https://www.infoworld.com/article/3700821/the-rise-of-local-first-applications.html"
+    },
+    {
+      "anchor": "AI-powered job search tools",
+      "suggestedUrl": "https://www.pcmag.com/picks/the-best-ai-job-search-tools"
+    }
+  ],
+  "structuredData": {
+    "@type": "Article",
+    "headline": "Open-Source AI Job Search Workflow: A Complete Guide",
+    "description": "Learn to use this open-source AI job search workflow to triage, score, and track applications locally with complete privacy and control.",
+    "datePublished": "2026-07-24T14:59:18.590Z",
+    "author": {
+      "@type": "Person",
+      "name": "Author Name"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Publication Name"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://example.com/article-url"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "url": "https://example.com/image.jpg"
+    },
+    "articleSection": "Technology",
+    "keywords": [
+      "open-source ai job search",
+      "local-first workflow",
+      "job search automation",
+      "ai career tools",
+      "rcnsnr workflow"
+    ]
+  }
+}

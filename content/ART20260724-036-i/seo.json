@@ -1,0 +1,84 @@
+{
+  "title": "Why AI Guardrails Block Offensive Cybersecurity Researchers",
+  "metaDescription": "AI guardrails from OpenAI and Anthropic block ethical hackers while letting attackers through. Learn why offensive cybersecurity researchers need nuanced safety",
+  "keywords": {
+    "primary": "AI guardrails",
+    "secondary": [
+      "offensive cybersecurity research",
+      "vulnerability discovery",
+      "ethical hacking",
+      "AI safety"
+    ],
+    "related": [
+      "AI security",
+      "LLM safety",
+      "content filters",
+      "trustworthy AI",
+      "penetration testing",
+      "CVE research",
+      "OpenAI",
+      "Anthropic",
+      "cybersecurity ethics"
+    ]
+  },
+  "headings": {
+    "h1": "Why AI Guardrails Block Offensive Cybersecurity Researchers",
+    "h2": [
+      "How AI Guardrails Frustrate Security Researchers",
+      "Why Malicious Actors Bypass AI Filters",
+      "The Need for Context-Aware Guardrails"
+    ],
+    "h3": [
+      "What Are AI Guardrails?",
+      "The Blunt Instrument Problem: AI Guardrails That Miss Context",
+      "Impact on Vulnerability Research: How AI Guardrails Slow Ethical Hackers",
+      "Recommendations for Nuanced AI Safety Measures"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "The Ethics of AI in Cybersecurity",
+      "suggestedUrl": "/blog/ai-ethics-cybersecurity"
+    },
+    {
+      "anchor": "How Ethical Hackers Use AI",
+      "suggestedUrl": "/blog/ai-ethical-hacking"
+    },
+    {
+      "anchor": "Best Practices for AI Safety",
+      "suggestedUrl": "/blog/ai-safety-best-practices"
+    },
+    {
+      "anchor": "Understanding LLM Guardrails",
+      "suggestedUrl": "/blog/llm-guardrails"
+    },
+    {
+      "anchor": "Vulnerability Discovery with AI",
+      "suggestedUrl": "/blog/ai-vulnerability-discovery"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "OpenAI's safety guidelines",
+      "suggestedUrl": "https://openai.com/safety"
+    },
+    {
+      "anchor": "Anthropic's responsible scaling policy",
+      "suggestedUrl": "https://www.anthropic.com/responsible-scaling"
+    },
+    {
+      "anchor": "TechCrunch report on AI guardrails",
+      "suggestedUrl": "https://techcrunch.com/2026/07/ai-guardrails-block-security-researchers"
+    },
+    {
+      "anchor": "AI safety research on arXiv",
+      "suggestedUrl": "https://arxiv.org/search/?query=AI+safety+guardrails&searchtype=all"
+    }
+  ],
+  "structuredData": {
+    "@type": "Article",
+    "headline": "Why AI Guardrails Block Offensive Cybersecurity Researchers",
+    "description": "AI guardrails from OpenAI and Anthropic block ethical hackers while letting attackers through. Learn why offensive cybersecurity researchers need nuanced safety",
+    "datePublished": "2026-07-24T14:52:27.838Z"
+  }
+}

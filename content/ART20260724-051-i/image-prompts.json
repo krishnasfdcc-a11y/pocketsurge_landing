@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A luminous 3D visualization of a complex molecular system transitioning from a low entropy state (ordered crystalline lattice) to a high entropy state (disordered gas), with glowing Boltzmann equations S = k ln W superimposed in holographic script. The macrostate is a vivid, stable sphere while thousands of tiny microstate particles swirl chaotically inside. Cinematic lighting, dark background, vibrant neon blue and orange gradients, creating a moody and awe-inspiring scientific visualization.",
+      "style": "3d-render",
+      "placement": "hero",
+      "altText": "Abstract 3D visualization of entropy with Boltzmann equation S equals k ln W showing microstates and macrostates",
+      "caption": "Macrostates and microstates explain the statistical nature of entropy. Credit: AI generated."
+    },
+    {
+      "id": "image-2",
+      "prompt": "A pedagogical split-screen 3D render. Left side: 100 gold coins neatly stacked and all showing heads, representing a low entropy macrostate with only one microstate. Right side: 100 gold coins scattered randomly across a black surface, showing a roughly equal mix of heads and tails, representing a high entropy macrostate with billions of microstates. Clean, studio lighting, sharp focus, minimalist composition.",
+      "style": "3d-render",
+      "placement": "section-1",
+      "altText": "Low and high entropy comparison using a 100 coin analogy in statistical mechanics",
+      "caption": "The number of microstates (W) determines the entropy (S = k ln W) of a macrostate. Credit: AI generated."
+    },
+    {
+      "id": "image-3",
+      "prompt": "A high speed cinematic photograph capturing the exact moment a fresh egg cracks and spills into a hot pan, the yolk bursting and white spreading in chaotic, intricate tendrils. The image evokes irreversibility and the arrow of time. Warm morning light streaming through a window, steam rising, rich golden yellows and whites. Deep focus, dramatic contrast emphasizing the irreversible nature of the process.",
+      "style": "cinematic",
+      "placement": "section-2",
+      "altText": "Cracking egg symbolizing irreversibility and the arrow of time in thermodynamics",
+      "caption": "The second law of thermodynamics defines the arrow of time through overwhelming statistical probability. Credit: AI generated."
+    },
+    {
+      "id": "image-4",
+      "prompt": "An abstract scientific illustration representing Shannon entropy and information theory. A glowing decision tree splits into branches, with probability distributions visualized as colorful gradient flows. Data streams of binary code flow into a central entropy calculation node surrounded by holographic mathematical formulas for cross-entropy loss. Dark blue futuristic tech lab aesthetic, neon blue and purple lighting.",
+      "style": "illustration",
+      "placement": "section-3",
+      "altText": "Shannon entropy and cross-entropy decision tree visualization in machine learning",
+      "caption": "Shannon entropy is the foundation of information theory and machine learning optimization. Credit: AI generated."
+    },
+    {
+      "id": "image-5",
+      "prompt": "A high speed macro photograph capturing black ink dispersing in clear water, creating intricate fractal patterns and swirling tendrils. The image serves as a visual metaphor for the increase of entropy and the second law of thermodynamics. Abstract, elegant, and scientific. High contrast between the deep indigo ink and pure white background. Dramatic fluid dynamics with sharp focus on the central plume.",
+      "style": "cinematic",
+      "placement": "section-4",
+      "altText": "Black ink dispersing in water as a metaphor for the second law of thermodynamics and entropy",
+      "caption": "Everyday processes like diffusion and mixing are manifestations of entropy increasing. Credit: AI generated."
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "title": "EU Researchers Battle Platforms for DSA Data Access",
+  "metaDescription": "DSA data access promised independent research on algorithmic harm. Discover how platforms create obstacles and what it means for EU regulation.",
+  "keywords": {
+    "primary": "DSA data access",
+    "secondary": [
+      "social media platform data sharing",
+      "algorithmic harm research",
+      "EU Digital Services Act researchers",
+      "vetted researcher access"
+    ],
+    "related": [
+      "platform data transparency",
+      "social media moderation research",
+      "independent platform oversight",
+      "algorithmic accountability",
+      "DSA compliance data",
+      "big tech data obstacles",
+      "EU social media regulation"
+    ]
+  },
+  "headings": {
+    "h1": "EU Researchers Battle Platforms for DSA Data Access",
+    "h2": [
+      "The DSA's Data Access Mandate",
+      "The Reality of Platform Obstruction",
+      "Why DSA Data Access Matters for Democracy"
+    ],
+    "h3": [
+      "What Is the DSA's Data Access Mandate?",
+      "How Platforms Are Creating Barriers",
+      "Delays, NDAs, and Bureaucratic Mazes"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "EU Digital Services Act overview",
+      "suggestedUrl": "/digital-services-act-explained"
+    },
+    {
+      "anchor": "Algorithmic transparency research",
+      "suggestedUrl": "/transparency-algorithmic-harm"
+    },
+    {
+      "anchor": "Vetted researcher access regulations",
+      "suggestedUrl": "/eu-researcher-data-access-rules"
+    },
+    {
+      "anchor": "Big tech accountability in Europe",
+      "suggestedUrl": "/big-tech-accountability-eu"
+    },
+    {
+      "anchor": "Platform content moderation failures",
+      "suggestedUrl": "/social-media-content-moderation"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "European Digital Rights (EDRi)",
+      "suggestedUrl": "https://edri.org/"
+    },
+    {
+      "anchor": "Institute for Information Law (IViR)",
+      "suggestedUrl": "https://www.ivir.nl/"
+    },
+    {
+      "anchor": "EU Digital Services Act data access rules",
+      "suggestedUrl": "https://digital-strategy.ec.europa.eu/en/policies/dsa-data-access"
+    },
+    {
+      "anchor": "Wired survey on DSA data delays",
+      "suggestedUrl": "https://www.wired.com/story/eu-digital-services-act-researcher-data-access/"
+    },
+    {
+      "anchor": "Katherine Schroeder EDRi analysis",
+      "suggestedUrl": "https://edri.org/our-work/katherine-schroeder/"
+    }
+  ],
+  "structuredData": {
+    "@type": "Article",
+    "headline": "EU Researchers Battle Platforms for DSA Data Access",
+    "description": "DSA data access promised independent research on algorithmic harm. Discover how platforms create obstacles and what it means for EU regulation."
+  }
+}

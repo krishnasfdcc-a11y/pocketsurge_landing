@@ -1,0 +1,105 @@
+{
+  "title": "Guitar Posture Assistant: AI-Powered Real-Time Correction",
+  "metaDescription": "Learn how the guitar posture assistant utilizes OpenCV and MediaPipe for real-time posture correction, helping guitarists avoid chronic pain and improve technique. Start playing healthier today!",
+  "keywords": {
+    "primary": "guitar posture assistant",
+    "secondary": [
+      "real-time posture correction",
+      "OpenCV guitar",
+      "MediaPipe pose estimation",
+      "computer vision music education"
+    ],
+    "related": [
+      "guitarist posture",
+      "musician injury prevention",
+      "ergonomic guitar playing",
+      "pose detection",
+      "webcam posture analysis",
+      "AI music education",
+      "Python posture assistant",
+      "guitar technique improvement",
+      "hunch back correction guitar",
+      "wrist position guitar"
+    ]
+  },
+  "headings": {
+    "h1": "AI-Powered Guitar Posture Assistant for Real-Time Correction",
+    "h2": [
+      "The Importance of Posture in Guitar Playing",
+      "How Guitar Posture Assistant Works",
+      "Key Features of the Assistant",
+      "Technical Implementation",
+      "Benefits for Guitarists",
+      "Getting Started with the Project"
+    ],
+    "h3": [
+      "Preventing Injuries with AI",
+      "Setting Up the Environment",
+      "Understanding the Code Structure",
+      "Future Improvements and Community Contributions"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "Computer Vision Projects for Music Education",
+      "suggestedUrl": "/blog/computer-vision-music-education"
+    },
+    {
+      "anchor": "OpenCV Tutorial: Pose Estimation with MediaPipe",
+      "suggestedUrl": "/tutorials/opencv-mediapipe-pose"
+    },
+    {
+      "anchor": "AI in Music: Transforming How We Learn Instruments",
+      "suggestedUrl": "/articles/ai-in-music-education"
+    },
+    {
+      "anchor": "Preventing Repetitive Strain Injuries for Musicians",
+      "suggestedUrl": "/guides/musician-injury-prevention"
+    },
+    {
+      "anchor": "Python Projects for Real-Time Feedback Systems",
+      "suggestedUrl": "/projects/python-realtime-feedback"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "MediaPipe Pose Landmark Detection",
+      "suggestedUrl": "https://developers.google.com/mediapipe/solutions/vision/pose_landmarker"
+    },
+    {
+      "anchor": "OpenCV Official Documentation",
+      "suggestedUrl": "https://opencv.org/"
+    },
+    {
+      "anchor": "Study on Musicians' Playing-Related Injuries",
+      "suggestedUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5838468/"
+    },
+    {
+      "anchor": "Fender Guitar Posture Guide",
+      "suggestedUrl": "https://www.fender.com/articles/techniques/guitar-posture"
+    }
+  ],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "AI-Powered Guitar Posture Assistant for Real-Time Correction",
+    "description": "The guitar-posture-assistant project uses OpenCV and MediaPipe to provide real-time feedback on a guitarist's posture, preventing long-term strain and injury. This open-source tool reflects a rising trend in AI-driven health tech for musicians.",
+    "datePublished": "2026-07-24T15:11:17.097Z",
+    "author": {
+      "@type": "Person",
+      "name": "Author Name"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Your Publication Name",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://example.com/logo.png"
+      }
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://example.com/article/guitar-posture-assistant"
+    }
+  }
+}

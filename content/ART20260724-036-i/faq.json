@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What are AI guardrails and how do they work?",
+      "answer": "AI guardrails are restrictions built into large language models to block outputs that could facilitate cyberattacks, generate malware, or provide harmful instructions. Companies like OpenAI and Anthropic implement content filters and refusal mechanisms to prevent their tools from being weaponized."
+    },
+    {
+      "question": "Why do AI guardrails block legitimate cybersecurity researchers while failing to stop malicious actors?",
+      "answer": "Guardrails lack contextual understanding, treating queries about known vulnerabilities for patching the same as those intended to enable attacks. This blunt approach blocks ethical researchers, while malicious actors can easily rephrase their requests to bypass the same filters."
+    },
+    {
+      "question": "What percentage of cybersecurity researchers have been affected by AI guardrails?",
+      "answer": "A 2026 TechCrunch report found that 100% of interviewed cybersecurity researchers reported that AI guardrails have impeded their work in some way. This highlights the pervasive friction guardrails create for legitimate security research."
+    },
+    {
+      "question": "How are malicious actors able to bypass AI guardrails so easily?",
+      "answer": "Malicious actors bypass guardrails by rephrasing questions in different ways that avoid triggering keyword blocks or refusal mechanisms. Since guardrails rely on broad pattern matching without deep context, simple rewording often circumvents them."
+    },
+    {
+      "question": "What changes are cybersecurity researchers calling for in AI guardrail systems?",
+      "answer": "Researchers are calling for more nuanced, context-aware safety measures that differentiate between harmful intent and legitimate security research. They also see the rise of specialized security-focused AI tools as a needed alternative to general-purpose models with restrictive guardrails."
+    }
+  ]
+}

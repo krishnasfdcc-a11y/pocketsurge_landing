@@ -1,0 +1,79 @@
+{
+  "title": "Satellite Images Reveal Surge in Scam Compounds in Myanmar",
+  "metaDescription": "Satellite imagery exposes dozens of new scam compounds in Myanmar, highlighting enforcement failures and a growing global cybercrime threat. Learn how criminal networks operate and what can be done.",
+  "keywords": {
+    "primary": "scam compounds Myanmar",
+    "secondary": [
+      "Myanmar cybercrime",
+      "satellite imagery scams",
+      "criminal infrastructure",
+      "enforcement failure"
+    ],
+    "related": [
+      "cybercrime Southeast Asia",
+      "human trafficking Myanmar",
+      "online scam operations",
+      "border security Thailand",
+      "Myanmar coup impact",
+      "criminal networks",
+      "BEC scams Asia",
+      "fraud compounds Myanmar"
+    ]
+  },
+  "headings": {
+    "h1": "Satellite Images: Suspected Scam Compounds Surge in Myanmar",
+    "h2": [
+      "The Satellite Evidence: Uncovering Hidden Infrastructure",
+      "The Growth of Cybercrime Infrastructure in Myanmar",
+      "Why Enforcement Efforts Are Failing"
+    ],
+    "h3": [
+      "Rapid Construction Patterns",
+      "Security Features of Scam Compounds",
+      "The Role of Political Turmoil"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "Myanmar's cybercrime after the coup",
+      "suggestedUrl": "/cybersecurity/myanmar-coup-cybercrime"
+    },
+    {
+      "anchor": "How scam compounds operate in Southeast Asia",
+      "suggestedUrl": "/cybersecurity/scam-compounds-southeast-asia"
+    },
+    {
+      "anchor": "Satellite imagery in crime detection",
+      "suggestedUrl": "/technology/satellite-imagery-crime"
+    },
+    {
+      "anchor": "International response to cybercrime",
+      "suggestedUrl": "/cybersecurity/international-response"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "United Nations Office on Drugs and Crime report on cyber fraud",
+      "suggestedUrl": "https://www.unodc.org/unodc/en/frontpage/2023/cybercrime-and-fraud.html"
+    },
+    {
+      "anchor": "Bellingcat investigation into scam compounds",
+      "suggestedUrl": "https://www.bellingcat.com/news/2024/01/scam-compounds-myanmar/"
+    },
+    {
+      "anchor": "Amnesty International report on Myanmar cybercrime",
+      "suggestedUrl": "https://www.amnesty.org/en/latest/research/2024/03/cyber-scams-myanmar/"
+    }
+  ],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Satellite Images: Suspected Scam Compounds Surge in Myanmar",
+    "description": "Recent satellite imagery reveals dozens of suspected scam compounds are being built in remote Myanmar regions, despite government crackdown claims. The rapid construction pace indicates sophisticated criminal logistics and enforcement failures, posing a growing global cybersecurity threat.",
+    "datePublished": "2026-07-24T14:54:43.016Z",
+    "author": {
+      "@type": "Organization",
+      "name": "Your Publication Name"
+    }
+  }
+}

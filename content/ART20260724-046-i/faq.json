@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What caused the 87.5% decline in physical game sales?",
+      "answer": "The decline is driven by the growth of digital storefronts like Steam, PSN, and Xbox Live, which offer convenience, instant access, and frequent sales. Physical sales peaked in 2009 when digital distribution was still emerging, and consumer behavior has since shifted overwhelmingly toward digital purchases. This is a structural market change, not a temporary dip."
+    },
+    {
+      "question": "Why is Sony removing disc drives from future consoles?",
+      "answer": "With only 37 million physical units sold in the US last year and just seven PlayStation games exceeding 100,000 physical copies in 2026, Sony sees limited economic incentive to maintain disc support. The company plans to phase out disc drives by 2028, responding to clear consumer demand for all-digital experiences."
+    },
+    {
+      "question": "How does digital game ownership differ from physical ownership?",
+      "answer": "Digital purchases are licensed rather than owned, meaning you cannot resell or trade them, and access depends on the platform holder’s continued service. Physical copies provide permanent ownership, enable resale, and allow lending or gifting. This trade-off is central to the debate between digital and physical media."
+    },
+    {
+      "question": "What are the benefits of an all-digital gaming future?",
+      "answer": "Digital gaming offers unmatched convenience: no disc swapping, no store trips, and the ability to pre-load and play instantly. Subscription services like PlayStation Plus and frequent digital sales also provide value. However, it eliminates the ability to resell or share games, which some consumers value."
+    },
+    {
+      "question": "Will physical games disappear completely?",
+      "answer": "The data shows a massive decline, but physical media is likely to persist as a niche for collectors and premium special editions. Mass-market game releases will probably become digital-only, as the cost and logistics of producing discs become harder to justify. Physical games will not vanish overnight but will become increasingly rare."
+    }
+  ]
+}

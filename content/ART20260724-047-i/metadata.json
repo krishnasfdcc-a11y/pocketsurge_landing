@@ -1,0 +1,51 @@
+{
+  "slug": "ART20260724-047-i",
+  "title": "AI-Powered Guitar Posture Assistant for Real-Time Correction",
+  "excerpt": "The guitar-posture-assistant project uses OpenCV and MediaPipe to provide real-time feedback on a guitarist's posture, preventing long-term strain and injury. This open-source tool reflects a rising trend in AI-driven health tech for musicians.",
+  "keywords": [
+    "guitar posture assistant",
+    "OpenCV",
+    "MediaPipe",
+    "real-time posture correction",
+    "computer vision music education",
+    "AI posture correction",
+    "ergonomics for musicians"
+  ],
+  "readingTime": 6,
+  "wordCount": 1044,
+  "category": "web-development",
+  "researchId": "06b0ba96-dfab-4597-900c-1b62ddf1f90d",
+  "topicId": "e936c542-60eb-4fa9-803b-603dfaa479e2",
+  "generatedAt": "2026-07-24T15:11:17.097Z",
+  "description": "The guitar-posture-assistant project uses OpenCV and MediaPipe to provide real-time feedback on a guitarist's posture, preventing long-term strain and injury. This open-source tool reflects a rising trend in AI-driven health tech for musicians.",
+  "og": {
+    "title": "AI-Powered Guitar Posture Assistant for Real-Time Correction",
+    "description": "The guitar-posture-assistant project uses OpenCV and MediaPipe to provide real-time feedback on a guitarist's posture, preventing long-term strain and injury. This open-source tool reflects a rising trend in AI-driven health tech for musicians.",
+    "type": "article",
+    "image": "A guitarist using a laptop with webcam showing real-time posture analysis with skeleton overlay"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "AI-Powered Guitar Posture Assistant for Real-Time Correction",
+    "description": "The guitar-posture-assistant project uses OpenCV and MediaPipe to provide real-time feedback on a guitarist's posture, preventing long-term strain and injury. This open-source tool reflects a rising trend in AI-driven health tech for musicians."
+  },
+  "schemaOrg": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "AI-Powered Guitar Posture Assistant for Real-Time Correction",
+    "description": "The guitar-posture-assistant project uses OpenCV and MediaPipe to provide real-time feedback on a guitarist's posture, preventing long-term strain and injury. This open-source tool reflects a rising trend in AI-driven health tech for musicians.",
+    "author": {
+      "@type": "Person",
+      "name": "TechPulse Team"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "TechPulse Team"
+    },
+    "datePublished": "2026-07-24T15:11:17.097Z",
+    "dateModified": "2026-07-24T15:11:17.097Z"
+  },
+  "language": "en",
+  "status": "approved",
+  "approvedAt": "2026-07-24T17:01:23.808Z"
+}

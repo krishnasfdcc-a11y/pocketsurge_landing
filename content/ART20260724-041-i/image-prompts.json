@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "Cinematic wide shot of Clayface in a dark, rain-slicked Gotham alleyway. Matt Hagen's body is semi-transformed, one side a perfectly human face screaming in anguish, the other side erupting into a chaotic, wet, tearing mass of brown and gray clay. Distant neon signs flicker casting purple and green reflections. Moody, dramatic rim lighting. High contrast, film grain, deep shadows. Body horror is visceral and palpable. The scene feels like a cutting-edge VFX breakthrough.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Clayface body horror transformation in dark Gotham alleyway cinematic shot",
+      "caption": "Credit: DC Studios / Conceptual VFX visualization"
+    },
+    {
+      "id": "image-2",
+      "prompt": "A stylized split-screen illustration bridging classic animation and modern VFX. Left side features the angular, cel-shaded art of Batman: The Animated Series, depicting Matt Hagen melting tragically into clay. Right side is a hyper-realistic, gritty modern DCU render of the exact same emotional moment. The two visual styles bleed together at the center, representing legacy code merging with new architecture. Blue and purple twilight sky. A tribute to animated excellence.",
+      "style": "illustration",
+      "placement": "section-1",
+      "altText": "Split screen comparing Clayface in Batman Animated Series and modern DCU",
+      "caption": "The 'Feat of Clay' blueprint: Animated excellence as engineering spec."
+    },
+    {
+      "id": "image-3",
+      "prompt": "A modern, minimalist production office dominated by a glowing central hologram of a Clayface wireframe model. Two distinct silhouettes stand on opposite sides of the table, representing a seamless creative handoff. Back wall is a meticulous Gantt chart and agile sprint board covered in sticky notes. Cool blue light from the hologram contrasts with warm orange practical lamps. Tense, collaborative, architectural atmosphere. Overcast light through large windows.",
+      "style": "minimal",
+      "placement": "section-2",
+      "altText": "Minimalist writers room with Clayface hologram and agile development board",
+      "caption": "The creative handoff: Agile project management in Hollywood."
+    },
+    {
+      "id": "image-4",
+      "prompt": "Abstract 3D visualization of a computational fluid dynamics and soft body physics stress test. A transparent digital humanoid wireframe is violently tearing apart at the torso, semi-fluid brown viscous clay extruding and swirling through the cracks in dynamic topology. Teal and amber data streams and particle simulations flow around the model. High-tech clean render on a deep black background, representing the immense R&D behind Clayface VFX. Fractal chaos.",
+      "style": "3d-render",
+      "placement": "section-3",
+      "altText": "3D render of Clayface fluid dynamics simulation and wireframe system",
+      "caption": "The VFX revolution of malleable form."
+    },
+    {
+      "id": "image-5",
+      "prompt": "Extreme close-up portrait of Clayface's face in mid-transformation, capturing the uncanny valley paradox. One eye is human, terrified, weeping a real tear. The other side of the face is a swirling, fractal vortex of wet clay desperately trying to form a mouth. Photorealistic human skin tears at the seam, revealing a gritty semi-solid interior. Shallow depth of field, sharp focus on the tearing flesh. Disturbing, unsettling, tragic beauty.",
+      "style": "photorealistic",
+      "placement": "section-4",
+      "altText": "Extreme close-up of Clayface face transformation uncanny valley horror",
+      "caption": "Defying the uncanny valley: The human face of digital physics."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A cinematic 3D render featuring a central glowing server node labeled 'Devnors Data MCP Server' connecting seamlessly to various Chinese data icons via radiant blue data streams. Icons include a gavel for legal, a building for corporate registry, a WeChat bubble, and a tax invoice. An abstract AI agent silhouette observes the network from above. Deep blue and gold color palette, volumetric lighting, floating data particles, representing unified business intelligence.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Devnors Data MCP Server unifying Chinese data sources for AI agent integration",
+      "caption": ""
+    },
+    {
+      "id": "image-2",
+      "prompt": "Clean architectural diagram illustrating the Model Context Protocol. On the left, an AI agent interface icon. In the center, a gateway architecture icon labeled 'Devnors MCP Server' converting natural language into API calls. On the right, icons representing Chinese business data APIs. Flowing directional arrows and a minimalist tech aesthetic. Blue and teal color scheme, high contrast, professional layout, representing seamless data connectivity.",
+      "style": "diagram",
+      "placement": "section-1",
+      "altText": "Architecture diagram of Devnors MCP Server bridging AI tools to Chinese data APIs",
+      "caption": ""
+    },
+    {
+      "id": "image-3",
+      "prompt": "A cinematic wide shot of a futuristic digital landscape. A colossal abstract brain made of glowing circuits floats in the center, connecting to server towers via streams of light shaped like a universal plug. Chinese characters flash on holographic screens in the background. Concept of universal protocol connectivity driving AI adoption. Blue and purple neon lighting, photorealistic textures, sense of speed and technological expansion.",
+      "style": "cinematic",
+      "placement": "section-2",
+      "altText": "Conceptual image of the Model Context Protocol connecting AI to Chinese data infrastructure",
+      "caption": ""
+    },
+    {
+      "id": "image-4",
+      "prompt": "Close up photorealistic shot of a business analyst typing on a keyboard. A glowing monitor displays an AI chat interface verifying a Chinese tax invoice (Fapiao). The invoice details are highlighted with a 'Verified: Authentic' badge. A coffee cup and notepad are on the desk. Sharp focus on the screen, shallow depth of field. Modern office setting, warm evening lighting, conveying efficiency and professional reassurance.",
+      "style": "photorealistic",
+      "placement": "section-3",
+      "altText": "AI agent verifying a Chinese tax invoice using the Devnors Data MCP Server",
+      "caption": ""
+    }
+  ]
+}
