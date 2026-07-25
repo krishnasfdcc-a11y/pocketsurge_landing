@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A professional woman sitting at a modern desk with multiple monitors, speaking naturally into the air as she interacts with ChatGPT desktop voice mode. The screens show ChatGPT interface with voice waveform animation. Soft natural lighting from window, cinematic composition, warm and inviting mood, photorealistic style.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Professional woman using ChatGPT voice mode on desktop computer",
+      "caption": "OpenAI's advanced voice mode brings hands-free interaction to desktop users."
+    },
+    {
+      "id": "image-2",
+      "prompt": "A male software developer at a desk in a modern office, dictating code to ChatGPT via voice mode. His monitor displays the ChatGPT Codex interface with lines of code appearing as he speaks. Speech bubbles show voice commands translating into code. Dynamic side lighting, warm tones, focused and productive mood, photorealistic.",
+      "style": "photorealistic",
+      "placement": "section-1",
+      "altText": "Developer using ChatGPT voice mode for dictating code with Codex",
+      "caption": "Hands-free coding with ChatGPT's voice mode and Codex integration."
+    },
+    {
+      "id": "image-3",
+      "prompt": "A 3D isometric view of a chart showing a 40% growth arrow rising from 2024 to 2026, with miniature business figures interacting with voice assistants around it. Clean white background with subtle blue gradients, modern and professional mood, 3D render style.",
+      "style": "3d-render",
+      "placement": "section-2",
+      "altText": "3D chart showing 40% growth in voice AI adoption in enterprise",
+      "caption": "Voice AI adoption in enterprise has increased by 40% from 2024 to 2026."
+    },
+    {
+      "id": "image-4",
+      "prompt": "Colorful flat illustration with three panels representing different use cases: a coder speaking code into a laptop, an analyst pointing at charts while talking, and a manager dictating emails. Each panel includes speech bubbles with icons like code, charts, and documents. Bright colors, modern flat design, clean and engaging.",
+      "style": "illustration",
+      "placement": "section-3",
+      "altText": "Flat illustration of professionals using ChatGPT voice for coding analysis and management",
+      "caption": "Practical use cases for developers, analysts, and managers."
+    },
+    {
+      "id": "image-5",
+      "prompt": "Minimalist scene with three glowing hub logos of OpenAI, Google, and Microsoft arranged in a triangle on a dark background, connected by subtle light beams representing competitive overlap. Sleek, futuristic, and minimal with cool blue tones.",
+      "style": "minimal",
+      "placement": "section-4",
+      "altText": "Minimalist comparison of OpenAI Google and Microsoft voice AI offerings",
+      "caption": "ChatGPT's voice mode competes with Google Assistant and Microsoft Copilot."
+    }
+  ]
+}

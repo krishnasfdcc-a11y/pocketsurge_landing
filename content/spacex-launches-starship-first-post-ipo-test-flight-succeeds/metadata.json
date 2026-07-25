@@ -1,0 +1,50 @@
+{
+  "slug": "spacex-launches-starship-first-post-ipo-test-flight-succeeds",
+  "title": "SpaceX Launches Starship: 1st Post-IPO Test Flight Succeeds",
+  "excerpt": "SpaceX successfully launched its Starship rocket for the first time since its June 2026 IPO, demonstrating full reusability and a 100-ton payload capacity to low Earth orbit.",
+  "keywords": [
+    "SpaceX Starship test flight",
+    "post-IPO SpaceX launch",
+    "Starship reusable rocket",
+    "full reusability Starship",
+    "Super Heavy booster recovery",
+    "commercial spaceflight"
+  ],
+  "readingTime": 7,
+  "wordCount": 1271,
+  "category": "science",
+  "researchId": "d0054d69-5f31-41a1-ad26-11644f68c3d7",
+  "topicId": "1498b075-5a07-4044-8599-be2032810a56",
+  "generatedAt": "2026-07-25T08:30:58.839Z",
+  "description": "SpaceX launched its Starship rocket on its first post-IPO test flight, achieving full reusability and a 100-ton payload to LEO in a 90-minute mission.",
+  "og": {
+    "title": "SpaceX Launches Starship: 1st Post-IPO Test Flight Succeeds",
+    "description": "SpaceX launched its Starship rocket on its first post-IPO test flight, achieving full reusability and a 100-ton payload to LEO in a 90-minute mission.",
+    "type": "article",
+    "image": "A SpaceX Starship rocket launches from a coastal launch pad, with a blue sky and exhaust plumes, the Super Heavy booster boosting the upper stage."
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "SpaceX Launches Starship: 1st Post-IPO Test Flight Succeeds",
+    "description": "SpaceX launched its Starship rocket on its first post-IPO test flight, achieving full reusability and a 100-ton payload to LEO in a 90-minute mission."
+  },
+  "schemaOrg": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "SpaceX Launches Starship: First Post-IPO Test Flight Succeeds",
+    "description": "SpaceX successfully launched its Starship rocket for the first time since its June 2026 IPO, demonstrating full reusability and a 100-ton payload capacity to low Earth orbit.",
+    "author": {
+      "@type": "Person",
+      "name": "TechPulse Team"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "TechPulse"
+    },
+    "datePublished": "2026-07-25T08:30:58.839Z",
+    "dateModified": "2026-07-25T08:30:58.839Z",
+    "image": "A SpaceX Starship rocket launches from a coastal launch pad, with a blue sky and exhaust plumes, the Super Heavy booster boosting the upper stage."
+  },
+  "status": "approved",
+  "approvedAt": "2026-07-25T09:51:14.724Z"
+}

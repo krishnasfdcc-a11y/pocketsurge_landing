@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A high-tech cinematic scene depicting multiple blockchain network nodes connected by glowing data streams, forming a unified digital grid. In the foreground, a holographic wallet interface displays balances for Bitcoin, Ethereum, Solana, and BNB Chain. Lighting emphasizes depth and complexity with deep blues, purples, and neon accents. Mood: futuristic and secure.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Cross-chain wallet auditor Crypto-Checker scanning multiple blockchain networks",
+      "caption": ""
+    },
+    {
+      "id": "image-2",
+      "prompt": "A detailed digital illustration showing a Python-coded terminal application with multiple threads processing wallet addresses. The screen displays progress bars and results in green text. On the sides, icons for six blockchain networks glow. Proxy rotation and export format icons appear as floating elements. Dark mode theme with soft screen glow. Mood: efficient and powerful.",
+      "style": "illustration",
+      "placement": "section-1",
+      "altText": "Crypto-Checker terminal interface with multi-threaded wallet auditing",
+      "caption": ""
+    },
+    {
+      "id": "image-3",
+      "prompt": "A professional infographic showing a rising line chart labeled 'Wallet Audit Demand (2022-2024)' with 40% growth annotation. Below, icons of multi-chain portfolios (e.g., Bitcoin, Ethereum, Solana) connected to a central auditor icon. Gradient background from dark blue to purple. Clean typography and data points. Style: minimalist, corporate.",
+      "style": "infographic",
+      "placement": "section-2",
+      "altText": "Demand for cryptocurrency wallet auditing tools increasing by 40% from 2022 to 2024",
+      "caption": ""
+    },
+    {
+      "id": "image-4",
+      "prompt": "A 3D render of a digital shield protecting a multi-chain wallet ecosystem. Inside the shield, symbols for concurrent threads (50x), multiple chain logos (BTC, ETH, SOL, BNB, MATIC), a dollar sign for real-time valuation, and document icons for export formats. Sleek dark grid background with dramatic spotlight from above. Metallic and glowing effects. Mood: protective and advanced.",
+      "style": "3d-render",
+      "placement": "section-3",
+      "altText": "Key features of Crypto-Checker: 50 concurrent threads, cross-chain support, real-time USD valuation, multi-format export",
+      "caption": ""
+    }
+  ]
+}

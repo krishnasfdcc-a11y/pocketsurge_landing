@@ -1,0 +1,52 @@
+{
+  "slug": "deepseek-web-api-how-to-use-openai-sdks-with-deepseek-models",
+  "title": "DeepSeek Web API: Using OpenAI SDKs with DeepSeek Models",
+  "excerpt": "The DeepSeek Web API project enables developers to interact with DeepSeek's large language models using standard OpenAI API libraries. By leveraging browser automation, it creates a local proxy that translates API requests into web interface interactions, offering a creative workaround for accessing language models without native API support.",
+  "keywords": [
+    "DeepSeek Web API",
+    "OpenAI compatibility",
+    "self-hosted LLM API",
+    "unofficial API",
+    "DeepSeek access",
+    "Puppeteer Chrome DevTools Protocol",
+    "browser automation",
+    "OpenAI SDK",
+    "DeepSeek models"
+  ],
+  "readingTime": 5,
+  "wordCount": 928,
+  "category": "web-development",
+  "researchId": "dbd6c9e0-33d3-4a02-b9b2-8e247c92b275",
+  "topicId": "1e61aa0a-1370-4d40-8833-9a5d14b1bd3c",
+  "generatedAt": "2026-07-25T08:21:45.513Z",
+  "description": "Use OpenAI SDKs to interact with DeepSeek models via a self-hosted browser automation proxy. DeepSeek Web API translates requests to DeepSeek's web interface.",
+  "og": {
+    "title": "DeepSeek Web API: Using OpenAI SDKs with DeepSeek Models",
+    "description": "Use OpenAI SDKs to interact with DeepSeek models via a self-hosted browser automation proxy. DeepSeek Web API translates requests to DeepSeek's web interface.",
+    "type": "article",
+    "image": "Diagram illustrating browser automation connecting OpenAI SDK to DeepSeek models via a self-hosted proxy"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "DeepSeek Web API: Using OpenAI SDKs with DeepSeek Models",
+    "description": "Use OpenAI SDKs to interact with DeepSeek models via a self-hosted browser automation proxy. DeepSeek Web API translates requests to DeepSeek's web interface."
+  },
+  "schemaOrg": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "DeepSeek Web API: Using OpenAI SDKs with DeepSeek Models",
+    "description": "Use OpenAI SDKs to interact with DeepSeek models via a self-hosted browser automation proxy. DeepSeek Web API translates requests to DeepSeek's web interface.",
+    "author": {
+      "@type": "Person",
+      "name": "TechPulse Team"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "TechPulse"
+    },
+    "datePublished": "2026-07-25T08:21:45.513Z",
+    "dateModified": "2026-07-25T08:21:45.513Z"
+  },
+  "status": "approved",
+  "approvedAt": "2026-07-25T09:51:14.713Z"
+}

@@ -1,0 +1,52 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A high-resolution satellite image of a remote Myanmar border region, featuring dozens of large rectangular compounds with blue roofs, surrounded by dense jungle. The compounds are clearly separated by security fencing and guard towers, with small figures visible in open areas. The lighting is hazy from atmospheric conditions, emphasizing the isolation and industrial scale of these illicit operations, as seen through an overhead satellite perspective.",
+      "style": "photorealistic",
+      "placement": "hero",
+      "altText": "Satellite image showing numerous scam compounds in Myanmar border jungle with fencing and guard towers.",
+      "caption": "Satellite image analysis by C4ADS reveals the rapid expansion of scam compounds in Myanmar."
+    },
+    {
+      "id": "image-2",
+      "prompt": "Split-screen satellite image comparison of a Myanmar border region, with the left side showing sparse empty land from six months ago and the right side showing the same area now filled with newly built scam compounds. Red polygon overlays highlight the new constructions, with a timeline annotation at the bottom. The style mimics a forensic analysis graphic, with clear labels and a dark background for contrast.",
+      "style": "infographic",
+      "placement": "section-1",
+      "altText": "Comparison satellite imagery showing before and after of scam compound construction with red overlays indicating new buildings.",
+      "caption": "Satellite evidence shows a 200% increase in the footprint of scam compounds in the last six months."
+    },
+    {
+      "id": "image-3",
+      "prompt": "An infographic map of Southeast Asia focusing on Myanmar’s borders with Thailand, Laos, and China. Areas controlled by ethnic armed groups are shaded in dark red, with bright red dots marking scam compound locations. The map uses a grim digital aesthetic with a dark background and green grid lines, resembling a cybercrime intelligence briefing. Key border crossings are labeled, and arrows indicate trafficking routes.",
+      "style": "infographic",
+      "placement": "section-2",
+      "altText": "Map infographic showing scam compound locations in ethnic armed group controlled border regions of Myanmar.",
+      "caption": "Ethnic armed group territories provide safe havens for scam operations near international borders."
+    },
+    {
+      "id": "image-4",
+      "prompt": "A cinematic, photorealistic interior of a cramped dormitory inside a scam compound. Rows of metal bunk beds fill the space, with young men and women sitting on lower bunks staring at laptop screens. Harsh fluorescent lights cast a greenish pallor, and the walls are bare concrete. Personal belongings are sparse, and a guard is visible in the background through a half-open door. The mood is oppressive and claustrophobic, capturing the reality of forced labor.",
+      "style": "cinematic",
+      "placement": "section-3",
+      "altText": "Cinematic interior of a cramped dormitory with trafficked workers forced to run online scams.",
+      "caption": "Victims are held in crowded conditions, forced to work 12-hour shifts on fraudulent schemes."
+    },
+    {
+      "id": "image-5",
+      "prompt": "A two-part photorealistic image: on the left, the gleaming government buildings of Naypyidaw under a bright blue sky; on the right, a hazy view of remote scam compounds in the borderlands, partly obscured by mist. A subtle digital overlay shows a broken chain link between the two halves. The lighting contrast highlights the disconnect between official promises and on-ground reality.",
+      "style": "photorealistic",
+      "placement": "section-4",
+      "altText": "Split image contrasting Myanmar government buildings in Naypyidaw with distant scam compounds in border areas.",
+      "caption": "Despite government pledges, satellite data shows continued expansion of scam compounds."
+    },
+    {
+      "id": "image-6",
+      "prompt": "A dark digital illustration depicting a world map with glowing red lines radiating from Myanmar’s scam compounds to icons of smartphones, bank vaults, and government buildings across North America, Europe, and Asia. Binary code and encrypted symbols float in the background, while a shield icon with a crack represents cybersecurity vulnerabilities. The color palette is deep blue and neon green, with a sense of global threat and interconnectivity.",
+      "style": "illustration",
+      "placement": "section-5",
+      "altText": "Digital illustration showing global reach of Myanmar scam compounds with data lines targeting international victims.",
+      "caption": "The scam operations pose a growing threat to global cybersecurity and fund other illicit activities."
+    }
+  ]
+}

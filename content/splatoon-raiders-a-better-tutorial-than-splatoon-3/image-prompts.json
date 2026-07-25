@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "Cinematic scene of a chaotic Splatoon Turf War match, featuring an Inkling in squid form sliding through vibrant neon pink and green ink trails under dramatic stadium lighting. Intense motion blur captures the fast-paced action with opponents inking turf in the background. The scene balances the colorful whimsy of the game with the competitive tension, emphasizing the high skill ceiling. Shallow depth of field focuses on the central Inkling mid-jump aiming a Splattershot. Glowing ink effects and high contrast create an epic, exhilarating mood.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Chaotic Splatoon Turf War match with inklings and neon ink splashes",
+      "caption": "Image generated for illustrative purposes."
+    },
+    {
+      "id": "image-2",
+      "prompt": "An infographic illustration depicting the multiple mechanics behind Splatoon Turf War's high skill ceiling. Icons for ink management, sub-strafing, jump aiming, super jump, and map control are arranged around a stylized arena, connected by flow arrows to show cognitive load. The design is clean with bright colors on a dark background, minimalist and educational. Labels highlight the complexity and learning curve, emphasizing the need for structured training.",
+      "style": "infographic",
+      "placement": "section-1",
+      "altText": "Infographic showing complex mechanics in Splatoon Turf War like ink management and jump aiming",
+      "caption": ""
+    },
+    {
+      "id": "image-3",
+      "prompt": "A scene from Splatoon 3's single-player campaign 'Return of the Mammalians' showing an Inkling standing on a colorful platformer obstacle, facing a calm AI Octarian enemy. The background features a bright sunny sky and puzzle structures. The relaxed exploratory mood is contrasted with a subtle overlay of a chaotic Turf War lobby, illustrating the gap between campaign skills and competitive multiplayer. Illustration style with vibrant colors and clear art direction.",
+      "style": "illustration",
+      "placement": "section-2",
+      "altText": "Splatoon 3 single-player campaign scene with puzzle platform and AI enemy",
+      "caption": ""
+    },
+    {
+      "id": "image-4",
+      "prompt": "3D render of the Splatoon Raiders tutorial interface, showing a clean, well-lit training arena with a practice target. An Inkling follows on-screen instructions for a skill drill, with a minimal HUD showing an ink gauge and timer. The design emphasizes focused learning with bright white and ink-colored lighting, sharp focus on the action and instructions. Professional, clear presentation suitable for an educational tool.",
+      "style": "3d-render",
+      "placement": "section-3",
+      "altText": "Splatoon Raiders training interface with skill drill and instructions",
+      "caption": ""
+    },
+    {
+      "id": "image-5",
+      "prompt": "A simulated Turf War match in Splatoon Raiders, featuring AI teammates and opponents in a realistic arena. An Inkling performs a super jump while ink coverage is visible on the ground, with strategic positions marked. The mood is controlled and educational, emphasizing safe practice. Cinematic style with high detail shows the cooperative simulation mode, capturing the essence of learning team play without human pressure.",
+      "style": "cinematic",
+      "placement": "section-4",
+      "altText": "Simulated Turf War match in Splatoon Raiders with AI characters and super jump",
+      "caption": ""
+    }
+  ]
+}

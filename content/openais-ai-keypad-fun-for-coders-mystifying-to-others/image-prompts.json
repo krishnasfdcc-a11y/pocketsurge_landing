@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A sleek, compact AI keypad with a grid of customizable keys sits on a modern wooden desk next to a laptop displaying code. The scene is illuminated by warm ambient light from a desk lamp, casting soft shadows. The style is photorealistic, focusing on the keypad's LED feedback and mechanical switches. The mood is focused and innovative, highlighting the tool's integration into a developer's workflow.",
+      "style": "photorealistic",
+      "placement": "hero",
+      "altText": "OpenAI AI keypad on desk next to laptop displaying code",
+      "caption": "The OpenAI AI Keypad on a developer's desk."
+    },
+    {
+      "id": "image-2",
+      "prompt": "An infographic diagram of the OpenAI AI Keypad showing its connectivity options (USB and Bluetooth) and labeling key features like customizable shortcuts, context-aware prompts, and LED feedback. The design is clean and minimal with a dark background and neon accents, resembling a technical specification sheet.",
+      "style": "diagram",
+      "placement": "section-1",
+      "altText": "Diagram of OpenAI AI Keypad features and connectivity",
+      "caption": "Key features and connectivity of the OpenAI AI Keypad."
+    },
+    {
+      "id": "image-3",
+      "prompt": "A close-up of a developer's hands interacting with the AI keypad while code is visible on a monitor in the background. The scene uses a cinematic style with shallow depth of field, emphasizing the tactile press of a key. Lighting is cool blue from the screen, creating a high-tech atmosphere.",
+      "style": "cinematic",
+      "placement": "section-2",
+      "altText": "Developer using AI keypad with code on screen",
+      "caption": "A developer uses the AI keypad to invoke code assistance."
+    },
+    {
+      "id": "image-4",
+      "prompt": "A casual office setting with a person using a laptop for email and web browsing. In the background, the AI keypad sits unused and slightly out of place. The expression of the person is mildly confused or dismissive. The style is photorealistic with natural lighting, conveying a sense of disconnect between the advanced tool and everyday tasks.",
+      "style": "photorealistic",
+      "placement": "section-3",
+      "altText": "Confused office worker ignoring AI keypad",
+      "caption": "For general users, the keypad may seem unnecessary."
+    },
+    {
+      "id": "image-5",
+      "prompt": "A 3D render of the OpenAI AI keypad floating above a sleek desk, surrounded by subtle holographic interfaces and the OpenAI logo. The scene uses futuristic lighting with gradients of green and blue, emphasizing innovation and the company's first hardware product. The mood is visionary and polished.",
+      "style": "3d-render",
+      "placement": "section-4",
+      "altText": "3D render of OpenAI AI keypad with holographic elements",
+      "caption": "OpenAI's first hardware product represents a new direction."
+    }
+  ]
+}

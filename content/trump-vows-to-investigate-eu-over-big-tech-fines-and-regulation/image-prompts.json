@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A cinematic split image depicting the conflict between the US and EU over Big Tech regulation. On the left, a dramatic silhouette of Donald Trump raising a gavel in front of the US Capitol, backlit by warm amber light with American flags. On the right, the European Parliament building in Brussels illuminated in cool blue, overlaid with transparent, cracked logos of Google, Apple, Meta, and Amazon. The intense contrast between warm and cold tones, strong shadows, and lens flare creates an epic, confrontational mood. Photorealistic detail with a movie poster aesthetic.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Split image of Trump and US Capitol vs EU Parliament with Big Tech logos overlaid.",
+      "caption": "AI-generated image for illustrative purposes."
+    },
+    {
+      "id": "image-2",
+      "prompt": "A photorealistic image of Donald Trump standing at a wooden podium with microphones, speaking forcefully. He wears a dark suit and red tie, with a defiant expression. Behind him, a large digital screen displays a European Union flag with dollar icons, and logos of Google, Apple, Meta, Amazon with red strike-throughs and fine amounts in euros. Stage lighting creates strong shadows and an intense atmosphere. A blurred crowd in the foreground adds depth. The scene conveys political confrontation and economic nationalism.",
+      "style": "photorealistic",
+      "placement": "section-1",
+      "altText": "Trump speaking at podium with EU flag and Big Tech fine details on screen.",
+      "caption": "AI-generated image for illustrative purposes."
+    },
+    {
+      "id": "image-3",
+      "prompt": "An infographic image representing the major EU fines on US tech companies. Four large 3D blocks in transparent glass material, each labeled with company logos: Google (€4.3 billion), Apple (€1.8 billion), Meta (€1.2 billion), Amazon (€746 million). Block height corresponds to fine amount, with glowing data bars. Background: minimalist map of Europe with network lines connecting to US tech hubs. Modern, clean aesthetic using blue and gold colors, with clear typography. Soft overhead lighting creates a polished, professional data visualization look.",
+      "style": "infographic",
+      "placement": "section-2",
+      "altText": "Infographic of EU fines on Google, Apple, Meta, Amazon with euro amounts.",
+      "caption": "AI-generated image for illustrative purposes."
+    },
+    {
+      "id": "image-4",
+      "prompt": "An illustrative scene depicting the ideological clash between European and American tech regulation philosophies. Left: allegorical figure of the European Union (Lady Justice) wearing a blindfold, holding scales labeled 'Privacy' and 'Fair Competition', standing on a pedestal marked 'GDPR' and 'DMA'. Right: figure of America (Uncle Sam) holding a glowing smartphone with wings labeled 'Innovation', standing on a pedestal marked 'Protectionism'. A dark storm cloud between them with lightning bolts. Surreal digital illustration with dramatic chiaroscuro lighting, rich colors.",
+      "style": "illustration",
+      "placement": "section-3",
+      "altText": "Illustration of US and EU allegorical figures battling over tech regulation philosophies.",
+      "caption": "AI-generated image for illustrative purposes."
+    }
+  ]
+}

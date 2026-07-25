@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A cinematic scene depicting a modern courtroom with a glowing AI hologram of a violin above the judge's bench. A gavel rests on a stack of vinyl records. The mood is tense and futuristic, with reflections of digital code on the polished wood. The lighting is dramatic with a mix of cool blue from the hologram and warm light from the windows. The atmosphere suggests a landmark legal case for AI-generated music.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "AI music legal debate courtroom scene with holographic violin and gavel on vinyl records",
+      "caption": "Illustration for AI music legal analysis."
+    },
+    {
+      "id": "image-2",
+      "prompt": "An illustration of a music producer in a high-tech studio, wearing a virtual reality headset, surrounded by floating holographic sheet music and dynamic soundwave visualizations. On the wall, a graph shows exponential growth. The style is vibrant and futuristic, with neon pink and blue lighting. The mood is energetic and transformative, highlighting the rapid adoption of AI music generation tools.",
+      "style": "illustration",
+      "placement": "section-1",
+      "altText": "AI music generation tools usage statistics in futuristic studio",
+      "caption": "Illustration of AI music technology growth."
+    },
+    {
+      "id": "image-3",
+      "prompt": "A minimal infographic-style image featuring a balanced scale with one side containing a hard drive labeled 'Training Data' and the other side a musical note and a dollar sign. In the background, a legal document with blurred text and a question mark. The color palette is monochrome with a red accent. The mood is serious and analytical, representing the legal battle between AI training and copyright.",
+      "style": "minimal",
+      "placement": "section-2",
+      "altText": "Legal gray area AI training data copyright balance scale",
+      "caption": "Infographic representing AI music legal issues."
+    },
+    {
+      "id": "image-4",
+      "prompt": "A 3D render of a retro microphone with a glowing digital aura, surrounded by floating legal documents with 'DMCA' and 'Publicity Rights' labels. In the background, a blurred silhouette of a singer with a question mark. The lighting is moody with a spotlight on the microphone. The mood is controversial and cautious, highlighting the risks of unauthorized AI remixes of artists like Madonna.",
+      "style": "3d-render",
+      "placement": "section-3",
+      "altText": "AI remix Madonna legal risks illustration with microphone and documents",
+      "caption": "3D render for AI remix controversy."
+    }
+  ]
+}

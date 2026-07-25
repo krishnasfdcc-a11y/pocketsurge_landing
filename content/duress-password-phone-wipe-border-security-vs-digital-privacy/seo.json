@@ -1,0 +1,73 @@
+{
+  "title": "Duress Password Phone Wipe: Border Security vs. Digital Privacy",
+  "metaDescription": "A duress password that triggers phone wipe during CBP search leads to obstruction charges. Learn about the clash between border security and digital privacy.",
+  "keywords": {
+    "primary": "duress password",
+    "secondary": [
+      "border device search",
+      "digital privacy",
+      "phone wipe obstruction",
+      "CBP electronic device search"
+    ],
+    "related": [
+      "panic password",
+      "border search authority",
+      "data erasure feature",
+      "Fourth Amendment border exception",
+      "obstruction of justice electronic device"
+    ]
+  },
+  "headings": {
+    "h1": "Duress Password Phone Wipe: Border Security vs. Digital Privacy",
+    "h2": [
+      "The Case at the Border",
+      "The Surge in Electronic Device Searches",
+      "Understanding Duress Passwords"
+    ],
+    "h3": [
+      "How Duress Passwords Work",
+      "Legal Implications for Users"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "CBP electronic device search rights",
+      "suggestedUrl": "/blog/cbp-device-search-rights"
+    },
+    {
+      "anchor": "digital privacy strategies",
+      "suggestedUrl": "/blog/digital-privacy-tips"
+    },
+    {
+      "anchor": "phone security features to protect data",
+      "suggestedUrl": "/blog/phone-security-features"
+    },
+    {
+      "anchor": "fourth amendment digital age",
+      "suggestedUrl": "/blog/fourth-amendment-digital-privacy"
+    },
+    {
+      "anchor": "obstruction charges for data wiping",
+      "suggestedUrl": "/blog/obstruction-evidence-wiping"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "ACLU report on border searches",
+      "suggestedUrl": "https://www.aclu.org/issues/national-security/privacy-and-surveillance/border-searches-laptops"
+    },
+    {
+      "anchor": "CBP electronic device search policy",
+      "suggestedUrl": "https://www.cbp.gov/travel/cbp-search-electronic-devices"
+    },
+    {
+      "anchor": "EFF guide to border privacy",
+      "suggestedUrl": "https://www.eff.org/issues/privacy-border"
+    }
+  ],
+  "structuredData": {
+    "@type": "Article",
+    "headline": "Duress Password Phone Wipe: Border Security vs. Digital Privacy",
+    "description": "A duress password that triggers phone wipe during CBP search leads to obstruction charges. Learn about the clash between border security and digital privacy."
+  }
+}

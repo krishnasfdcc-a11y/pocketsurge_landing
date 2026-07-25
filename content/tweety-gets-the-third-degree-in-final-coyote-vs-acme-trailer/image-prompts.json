@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A cinematic courtroom scene from the final trailer of Coyote vs. Acme, with Wile E. Coyote pointing accusingly at Tweety Bird, who sits nervously in the witness box. The background shows a packed courtroom with Looney Tunes characters, hybrid animation style blending 2D and 3D, dramatic lighting with shadows, vibrant colors, high detail, dynamic composition. The mood is tense yet comedic, with Acme products scattered as evidence on the floor within a grand courthouse setting.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Coyote vs. Acme trailer courtroom scene with Tweety and Wile E. Coyote",
+      "caption": "The final trailer for Coyote vs. Acme premiered at SDCC 2024."
+    },
+    {
+      "id": "image-2",
+      "prompt": "A split scene illustration showing Ian Frazier's 1990 New Yorker article on the left, with text and a pen, and on the right, Wile E. Coyote holding a gavel in a courtroom, representing the film adaptation. Style combines sketchbook and modern animation, warm lighting, nostalgic mood, with Acme boxes scattered around and a typewriter in the background, highlighting the journey from satire to screen.",
+      "style": "illustration",
+      "placement": "section-1",
+      "altText": "From satire to screen Ian Frazier article inspiring Coyote vs. Acme film",
+      "caption": "The concept originated from Ian Frazier's satirical New Yorker article."
+    },
+    {
+      "id": "image-3",
+      "prompt": "A behind-the-scenes look at the hybrid animation of Coyote vs. Acme, with traditional hand-drawn animation cels on a light table alongside a computer monitor showing CGI elements. The scene shows characters like Wile E. Coyote and Tweety in both 2D and 3D forms, warm studio lighting, creative mood, detailed textures, with animators working on both aspects, showcasing the blend of classic and modern techniques.",
+      "style": "photorealistic",
+      "placement": "section-2",
+      "altText": "Hybrid animation process for Coyote vs. Acme with 2D and CGI elements",
+      "caption": "The film blends hand-drawn and computer-generated imagery."
+    },
+    {
+      "id": "image-4",
+      "prompt": "A technical scene of an animation studio workstation, with a large monitor displaying compositing software like Nuke, showing layers of 2D animation and CGI elements for Coyote vs. Acme. The desk has a color grading panel from Davinci Resolve, dim ambient lighting focused on screens, professional mood, clean design with reference sketches pinned on a board, representing the technical approach to hybrid animation.",
+      "style": "3d-render",
+      "placement": "section-3",
+      "altText": "Animation compositing software Nuke used for Coyote vs. Acme hybrid pipeline",
+      "caption": "Compositing software like Nuke is used to blend traditional and digital elements."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A sleek smartphone displaying the new Meta Seller app interface, with a clean dashboard showing listings, sales, and messages. The background is a softly blurred modern workspace with a coffee cup and notepad, creating a professional yet approachable mood. Soft natural lighting from a window illuminates the scene, highlighting the app's intuitive design. The overall style is photorealistic with a warm, inviting color palette.",
+      "style": "photorealistic",
+      "placement": "hero",
+      "altText": "Meta Seller app on smartphone with dashboard interface in a workspace",
+      "caption": "Meta Seller app interface on a smartphone in a workspace setting."
+    },
+    {
+      "id": "image-2",
+      "prompt": "An illustration of a mobile app interface for the Meta Seller app, featuring a centralized dashboard with icons for listings, sales, messages, and analytics. Clean, modern design with a blue and white color scheme reminiscent of Facebook's branding. The screen is surrounded by floating feature callouts like 'Simplified Listing', 'Inventory Management', and 'Analytics'. The overall mood is clear, educational, and user-friendly. Flat illustration style with soft shadows.",
+      "style": "illustration",
+      "placement": "section-1",
+      "altText": "Illustration of Meta Seller app dashboard with feature callouts"
+    },
+    {
+      "id": "image-3",
+      "prompt": "An infographic showing a rising graph of social commerce sales over years, with a background of social media icons and shopping bags. The graph highlights the US market reaching $80 billion in 2024. The style is clean and data-focused, using a professional color palette of blues and greens. Minimalist elements with clear labels and a subtle gradient background. The mood is analytical and forward-looking.",
+      "style": "infographic",
+      "placement": "section-2",
+      "altText": "Infographic showing social commerce sales growth to $80 billion in 2024",
+      "caption": "Social commerce sales in the US are projected to reach $80 billion in 2024 (eMarketer)."
+    },
+    {
+      "id": "image-4",
+      "prompt": "A photorealistic scene of a young woman running a small business from home, smiling as she uses the Meta Seller app on her tablet. She is surrounded by product packages and a laptop showing analytics. Warm ambient lighting from string lights creates a cozy, productive atmosphere. The composition focuses on her engaging with the seller dashboard, conveying efficiency and satisfaction. The mood is positive and entrepreneurial.",
+      "style": "photorealistic",
+      "placement": "section-3",
+      "altText": "Small business owner using Meta Seller app on tablet at home"
+    }
+  ]
+}

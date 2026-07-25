@@ -1,0 +1,49 @@
+{
+  "slug": "patreon-viewer-tool-open-source-data-archiving-for-patreon-content",
+  "title": "Patreon Viewer Tool: Open-Source Data Archiving",
+  "excerpt": "The Patreon Viewer Tool is an open-source application that enables users to download, archive, and manage Patreon content offline. It provides robust data extraction features for backing up creator posts and attachments, with community-driven development ensuring transparency and continuous improvement.",
+  "keywords": [
+    "patreon viewer tool",
+    "patreon content archiving",
+    "open-source data extraction",
+    "patreon backup tool",
+    "digital content preservation"
+  ],
+  "readingTime": 5,
+  "wordCount": 920,
+  "category": "data-science",
+  "researchId": "ca498163-e5cb-4d31-bc15-35ffe6d5b0a7",
+  "topicId": "58699dad-05c9-4946-8ebb-2897762d62f1",
+  "generatedAt": "2026-07-25T08:34:40.644Z",
+  "description": "Open-source Patreon Viewer Tool for downloading, archiving Patreon content offline with bulk download, selective archiving, and metadata preservation.",
+  "og": {
+    "title": "Patreon Viewer Tool: Open-Source Data Archiving for Patreon Content",
+    "description": "Discover the Patreon Viewer Tool — an open-source app for downloading, archiving, and managing Patreon content offline. Features bulk download, selective archiving, and metadata preservation.",
+    "type": "article",
+    "image": "An illustration of the Patreon Viewer Tool interface showing data archiving features."
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Patreon Viewer Tool: Open-Source Data Archiving for Patreon Content",
+    "description": "Open-source Patreon Viewer Tool for downloading, archiving Patreon content offline with bulk download, selective archiving, and metadata preservation."
+  },
+  "schemaOrg": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Patreon Viewer Tool: Open-Source Data Archiving for Patreon Content",
+    "description": "Open-source Patreon Viewer Tool for downloading, archiving Patreon content offline with bulk download, selective archiving, and metadata preservation.",
+    "author": {
+      "@type": "Person",
+      "name": "TechPulse Team"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "TechPulse"
+    },
+    "datePublished": "2026-07-25T08:34:40.644Z",
+    "dateModified": "2026-07-25T08:34:40.644Z"
+  },
+  "language": "en",
+  "status": "approved",
+  "approvedAt": "2026-07-25T09:51:14.728Z"
+}

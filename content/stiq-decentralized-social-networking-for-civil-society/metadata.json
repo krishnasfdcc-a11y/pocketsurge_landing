@@ -1,0 +1,50 @@
+{
+  "slug": "stiq-decentralized-social-networking-for-civil-society",
+  "title": "Stiq: Decentralized Social Networking for Civil Society",
+  "excerpt": "Stiq is an innovative Nostr client and relay built to empower communities without sacrificing individual control. Developed by the BKF community with AI assistance, it sets a new standard for open, decentralized communication in civil society.",
+  "keywords": [
+    "Stiq",
+    "Nostr client",
+    "decentralized social network",
+    "civil society technology",
+    "BKF community",
+    "data sovereignty",
+    "Nostr relay"
+  ],
+  "readingTime": 4,
+  "wordCount": 769,
+  "category": "web-development",
+  "researchId": "c6c749db-b15c-4148-b174-35ec232c7b0f",
+  "topicId": "a832eee7-cb3c-4d60-ad3b-cd163fb52608",
+  "generatedAt": "2026-07-25T08:26:36.770Z",
+  "description": "Stiq: an open-source Nostr client and relay for civil society. Decentralized social networking with data sovereignty. Built by BKF community, for communities.",
+  "og": {
+    "title": "Stiq: Decentralized Social Networking for Civil Society",
+    "description": "Stiq: an open-source Nostr client and relay for civil society. Decentralized social networking with data sovereignty. Built by BKF community, for communities.",
+    "type": "article",
+    "image": "A screenshot of the Stiq interface with a decentralized network diagram overlay, showing connected nodes representing community members and relay servers, with a focus on user sovereignty and privacy."
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Stiq: Decentralized Social Networking for Civil Society",
+    "description": "Stiq: an open-source Nostr client and relay for civil society. Decentralized social networking with data sovereignty. Built by BKF community, for communities."
+  },
+  "schemaOrg": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Stiq: Decentralized Social Networking for Civil Society",
+    "description": "Stiq: an open-source Nostr client and relay for civil society. Decentralized social networking with data sovereignty. Built by BKF community, for communities.",
+    "author": {
+      "@type": "Person",
+      "name": "TechPulse Team"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "TechPulse"
+    },
+    "datePublished": "2026-07-25T08:26:36.770Z",
+    "dateModified": "2026-07-25T08:26:36.770Z"
+  },
+  "status": "approved",
+  "approvedAt": "2026-07-25T09:51:14.720Z"
+}

@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A cinematic wide shot of a digital workspace with a sleek laptop open on a desk, screen displaying code and Patreon API interface, glowing blue lines of data flowing from the screen, warm ambient lighting from a desk lamp, organized folders and a coffee mug nearby, mood of productivity and digital preservation, photorealistic with high contrast and shallow depth of field.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Open-source Patreon Viewer Tool for archiving and data extraction displayed on a laptop in a modern workspace.",
+      "caption": "AI-generated hero image for the article on Patreon Viewer Tool."
+    },
+    {
+      "id": "image-2",
+      "prompt": "A clean, modern illustration of a Python code interface with Patreon logos and data archive icons, floating in a digital space with interconnected nodes representing API requests, neon blue and purple color scheme, glowing effects, minimal design with a focus on data flow and open-source concept.",
+      "style": "illustration",
+      "placement": "section-1",
+      "altText": "Python-based Patreon data extraction tool with API integration and archival features conceptual illustration.",
+      "caption": "Conceptual illustration of the Patreon Viewer Tool’s underlying technology."
+    },
+    {
+      "id": "image-3",
+      "prompt": "A step-by-step flowchart diagram showing the data extraction process: authentication, creator identification, post fetching, and storage, each step represented by icons and connected by arrows, clean professional design, white background with dark lines and subtle blue highlights, informative and easy to read.",
+      "style": "diagram",
+      "placement": "section-2",
+      "altText": "Flowchart diagram of Patreon data extraction process: authentication, creator ID, post fetching, storage.",
+      "caption": "Flowchart illustrating the logical steps of data extraction with the Patreon Viewer Tool."
+    },
+    {
+      "id": "image-4",
+      "prompt": "A minimal 3D render of an open book with glowing digital data emerging from its pages, transparent lock icon floating above symbolizing security, soft lighting, gradient background from dark blue to teal, minimalist aesthetic with clean lines, representing transparency and community oversight.",
+      "style": "minimal",
+      "placement": "section-3",
+      "altText": "Open-source content archiving concept with an open book and digital data, symbolizing transparency and community.",
+      "caption": "Minimalist visualization of the open-source principles behind content archiving."
+    },
+    {
+      "id": "image-5",
+      "prompt": "A photorealistic scene of a researcher working offline with a tablet showing archived Patreon tutorials, surrounded by printed materials and a cup of tea, shelf with organized binders labeled with creator names, soft natural light from a window, mood of focused offline study and digital backup utility.",
+      "style": "photorealistic",
+      "placement": "section-4",
+      "altText": "Technology enthusiast using Patreon Viewer Tool to archive content for offline reference and backup.",
+      "caption": "Real-world scenario of a researcher using the tool for offline access to Patreon content."
+    }
+  ]
+}

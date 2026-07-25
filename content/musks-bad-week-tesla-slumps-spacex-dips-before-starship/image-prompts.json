@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "Split composition cinematic scene depicting a week of setbacks. Left side: a Tesla Gigafactory line, dimly lit with an idle Cybertruck, stagnant atmosphere, deep dramatic shadows. Right side: the colossal SpaceX Starship under a heavy overcast twilight sky, launchpad floodlights casting long shadows across the ground. A tense, moody atmosphere of financial pressure and technological uncertainty, photorealistic 8K wide angle.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Split scene of dark Tesla factory and Starship launchpad illustrating Musk's bad week",
+      "caption": "A week of converging pressures for Musk's flagship ventures."
+    },
+    {
+      "id": "image-2",
+      "prompt": "Close-up photorealistic rendering of a digital stock ticker showing Tesla (TSLA) in bright red numerals against a dark OLED screen, displaying a sharp downward trend. Softly focused background reveals a high-tech Tesla factory interior with idle robotic arms, cool industrial blue tones mixed with red glow. Moody lighting evokes an atmosphere of financial disappointment and corporate tension. 8K, sharp focus on the falling stock price.",
+      "style": "photorealistic",
+      "placement": "section-1",
+      "altText": "Tesla stock ticker screen showing sharp weekly decline in red numerals",
+      "caption": "Tesla's stock suffered its steepest weekly drop since 2022."
+    },
+    {
+      "id": "image-3",
+      "prompt": "High-concept 3D render illustration. A transparent glass Tesla battery pack is cracked at the base, rapidly leaking gold coins and dollar bills onto a polished black reflective floor. The Tesla logo is subtly embossed on the side. Harsh top-down dramatic spotlight highlights the cash drain, creating a cautionary and sobering mood. Minimalist background emphasizes the stark financial reality. Octane render, photorealistic textures.",
+      "style": "3d-render",
+      "placement": "section-2",
+      "altText": "3D render of a cracked Tesla battery leaking cash symbolizing negative cash flow",
+      "caption": "A shift to negative free cash flow signaled strain from heavy capital expenditure."
+    },
+    {
+      "id": "image-4",
+      "prompt": "Dramatic low-angle cinematic shot of the fully stacked SpaceX Starship rocket at dawn. Thick clouds of venting gas and condensation swirl around the massive launch mount. The first golden rays of sunlight crest the horizon, illuminating the reflective stainless steel hull and creating a high-contrast scene. The immense scale of the rocket dominates the frame. Atmosphere of intense anticipation and high stakes. Photorealistic, 8K.",
+      "style": "cinematic",
+      "placement": "section-3",
+      "altText": "Low angle view of SpaceX Starship rocket at dawn on launchpad",
+      "caption": "The Starship prepares for its most critical integrated test flight amid valuation pressures."
+    },
+    {
+      "id": "image-5",
+      "prompt": "Futuristic 3D infographic illustration within a sleek digital space. Glowing bar charts represent EV market share: dominant blue and green bars representing BYD and legacy automakers overtake a smaller red bar for Tesla. Sweeping data lines and holographic labels connect the visualizations. A blurred cyberpunk cityscape provides a deep background. Clean, informative, glowing neon aesthetic emphasizing the competitive market pressures.",
+      "style": "infographic",
+      "placement": "section-4",
+      "altText": "Glowing 3D infographic comparing Tesla EV market share against competitors",
+      "caption": "An increasingly crowded EV market challenges Tesla's dominant position."
+    }
+  ]
+}

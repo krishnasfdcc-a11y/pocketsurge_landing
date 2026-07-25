@@ -1,0 +1,67 @@
+{
+  "title": "Patreon Viewer Tool: Open-Source Data Archiving",
+  "metaDescription": "Download and archive Patreon content offline with the Patreon Viewer Tool. This open-source utility backs up posts, images, and files for creators you support.",
+  "keywords": {
+    "primary": "patreon viewer tool",
+    "secondary": [
+      "patreon content archiving",
+      "open-source data extraction",
+      "patreon backup tool",
+      "digital content preservation"
+    ],
+    "related": [
+      "patreon api",
+      "open source archiving",
+      "digital preservation",
+      "content backup tool",
+      "data extraction software",
+      "python data extraction",
+      "offline content manager",
+      "creator content ownership"
+    ]
+  },
+  "headings": {
+    "h1": "Patreon Viewer Tool: Open-Source Data Archiving for Patreon Content",
+    "h2": [
+      "Understanding the Patreon Viewer Tool",
+      "How Data Extraction Works"
+    ],
+    "h3": [
+      "Key Features and Capabilities",
+      "Step-by-Step Extraction"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "Open-source data extraction tools",
+      "suggestedUrl": "/data-science/open-source-data-extraction-tools"
+    },
+    {
+      "anchor": "How to backup online content",
+      "suggestedUrl": "/digital-preservation/content-backup-strategies"
+    },
+    {
+      "anchor": "Python-based archiving projects",
+      "suggestedUrl": "/open-source/python-archiving-tools"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "Patreon API documentation",
+      "suggestedUrl": "https://docs.patreon.com/"
+    },
+    {
+      "anchor": "Patreon Viewer Tool GitHub repository",
+      "suggestedUrl": "https://github.com/Cursed-Revenant85/patreon-viewer-tool"
+    },
+    {
+      "anchor": "Open source definition",
+      "suggestedUrl": "https://opensource.org/osd"
+    }
+  ],
+  "structuredData": {
+    "@type": "Article",
+    "headline": "Patreon Viewer Tool: Open-Source Data Archiving",
+    "description": "Download and archive Patreon content offline with the Patreon Viewer Tool. This open-source utility backs up posts, images, and files for creators you support."
+  }
+}

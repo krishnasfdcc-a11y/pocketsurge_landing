@@ -1,0 +1,51 @@
+{
+  "slug": "openais-new-voice-mode-arrives-on-chatgpt-desktop-app",
+  "title": "OpenAI's New Voice Mode Arrives on ChatGPT Desktop App",
+  "excerpt": "OpenAI brings voice mode to the ChatGPT desktop app, enabling hands-free interaction for professionals. With integration into Work and Codex, this launch enhances productivity and signals a shift toward multimodal AI.",
+  "keywords": [
+    "ChatGPT desktop voice mode",
+    "OpenAI voice mode",
+    "voice AI enterprise tools",
+    "ChatGPT Work Codex",
+    "hands-free AI interaction",
+    "voice AI",
+    "enterprise productivity",
+    "multimodal AI"
+  ],
+  "readingTime": 3,
+  "wordCount": 486,
+  "category": "ai-ml",
+  "researchId": "050dfc3a-8257-4dde-b99b-be52736dbdf6",
+  "topicId": "66e06a0b-0a18-41df-88e9-a31f8744db18",
+  "generatedAt": "2026-07-25T08:19:05.434Z",
+  "description": "OpenAI launches voice mode on ChatGPT desktop, enabling hands-free interaction. Integrated with Work and Codex, it boosts productivity and signals a shift toward multimodal AI.",
+  "og": {
+    "title": "OpenAI's New Voice Mode Arrives on ChatGPT Desktop App",
+    "description": "OpenAI launches voice mode on ChatGPT desktop, enabling hands-free interaction. Integrated with Work and Codex, it boosts productivity and signals a shift toward multimodal AI.",
+    "type": "article",
+    "image": "Person using ChatGPT desktop app with voice mode, microphone icon and code editor visible"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "OpenAI's New Voice Mode Arrives on ChatGPT Desktop App",
+    "description": "OpenAI launches voice mode on ChatGPT desktop, enabling hands-free interaction. Integrated with Work and Codex, it boosts productivity and signals a shift toward multimodal AI."
+  },
+  "schemaOrg": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "OpenAI's New Voice Mode Arrives on ChatGPT Desktop App",
+    "description": "OpenAI launches voice mode on ChatGPT desktop, enabling hands-free interaction. Integrated with Work and Codex, it boosts productivity and signals a shift toward multimodal AI.",
+    "author": {
+      "@type": "Person",
+      "name": "TechPulse Team"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "TechPulse"
+    },
+    "datePublished": "2026-07-25T08:19:05.434Z",
+    "dateModified": "2026-07-25T08:19:05.434Z"
+  },
+  "status": "approved",
+  "approvedAt": "2026-07-25T09:51:14.706Z"
+}

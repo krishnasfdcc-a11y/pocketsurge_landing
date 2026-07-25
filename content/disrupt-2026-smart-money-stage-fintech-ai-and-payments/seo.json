@@ -1,0 +1,109 @@
+{
+  "title": "Disrupt 2026 Smart Money Stage: Fintech, AI, and Payments",
+  "metaDescription": "Don't miss the Disrupt 2026 Smart Money Stage, where fintech, AI, and payments converge. Get key insights from Robinhood, Plaid and industry leaders.",
+  "keywords": {
+    "primary": "Disrupt 2026 Smart Money Stage",
+    "secondary": [
+      "fintech",
+      "AI",
+      "payments",
+      "embedded finance",
+      "real-time payments"
+    ],
+    "related": [
+      "digital banking",
+      "open banking",
+      "financial technology",
+      "mobile payments",
+      "AI fraud detection",
+      "programmable money",
+      "digital identity",
+      "financial services innovation"
+    ]
+  },
+  "headings": {
+    "h1": "Disrupt 2026 Smart Money Stage: Fintech, AI, and Payments",
+    "h2": [
+      "The Smart Money Stage: A New Chapter for Disrupt",
+      "The Fintech Landscape: Record Investment and Massive Adoption",
+      "AI and Payments: The Next Frontier",
+      "Embedded Finance and Real-Time Payments",
+      "Key Speakers and Sessions",
+      "How to Get Involved"
+    ],
+    "h3": [
+      "Robinhood and Plaid: Consumer Fintech and Infrastructure",
+      "Open Banking and Data Connectivity",
+      "AI-Powered Fraud Detection and Risk Management",
+      "Programmable Money and Digital Identity"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "TechCrunch Disrupt 2026",
+      "suggestedUrl": "/events/disrupt-2026"
+    },
+    {
+      "anchor": "fintech investment trends",
+      "suggestedUrl": "/tags/fintech-investment"
+    },
+    {
+      "anchor": "open banking infrastructure",
+      "suggestedUrl": "/topic/open-banking"
+    },
+    {
+      "anchor": "AI in financial services",
+      "suggestedUrl": "/topic/ai-financial-services"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "KPMG Pulse of Fintech report",
+      "suggestedUrl": "https://home.kpmg/xx/en/home/insights/2026/04/pulse-of-fintech-h1-2026.html"
+    },
+    {
+      "anchor": "TechCrunch Disrupt 2026 event",
+      "suggestedUrl": "https://techcrunch.com/events/disrupt-2026/"
+    },
+    {
+      "anchor": "Open Banking Implementation Entity",
+      "suggestedUrl": "https://www.openbanking.org/"
+    },
+    {
+      "anchor": "AI fraud detection study",
+      "suggestedUrl": "https://www.juniperresearch.com/research/fintech-payments/ai-fraud-detection"
+    }
+  ],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Disrupt 2026 Smart Money Stage: Fintech, AI, and Payments",
+    "description": "Don't miss the Disrupt 2026 Smart Money Stage, where fintech, AI, and payments converge. Get key insights from Robinhood, Plaid and industry leaders.",
+    "datePublished": "2026-07-25T08:30:00.986Z",
+    "dateModified": "2026-07-25T08:30:00.986Z",
+    "author": {
+      "@type": "Organization",
+      "name": "TechCrunch"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "TechCrunch",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://techcrunch.com/wp-content/uploads/2015/06/tc-logo.png"
+      }
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://techcrunch.com/2026/07/25/disrupt-2026-smart-money-stage"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "url": "https://techcrunch.com/wp-content/uploads/2026/07/disrupt-2026-smart-money-stage.jpg"
+    },
+    "wordCount": 1274,
+    "timeRequired": "PT7M",
+    "articleSection": "finance",
+    "keywords": "Disrupt 2026 Smart Money Stage, fintech, artificial intelligence, payments, embedded finance, real-time payments, financial services"
+  }
+}

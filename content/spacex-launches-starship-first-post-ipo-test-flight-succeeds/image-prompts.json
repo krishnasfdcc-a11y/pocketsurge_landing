@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "Cinematic wide-angle shot of the 120-meter Starship rocket lifting off from Boca Chica at dawn. The sky is painted with warm orange and pink hues, and the rocket's exhaust blazes bright orange against the morning light. Smoke and steam billow across the pad, and the rocket's silhouette is perfectly framed, conveying scale and power. The mood is triumphant and awe-inspiring, with high dynamic range and rich, saturated colors. Photorealistic and dramatic.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "SpaceX Starship rocket launching at dawn from Boca Chica, Texas, with bright exhaust and smoke.",
+      "caption": "The Starship system lifts off on its first post-IPO test flight, July 24, 2026. Credit: SpaceX"
+    },
+    {
+      "id": "image-2",
+      "prompt": "Digital illustration combining a sleek Starship rocket in ascent with translucent holographic stock charts and IPO data overlays in the sky. The style is modern and minimal, with a dark space background and glowing blue and neon orange lines. The rocket is central, perfectly clean, representing innovation meeting market success. The composition is balanced, evoking confidence and future growth. Illustration style, crisp and vibrant.",
+      "style": "illustration",
+      "placement": "section-1",
+      "altText": "Starship rocket with stock market charts and IPO data holographic overlays representing post-IPO success.",
+      "caption": "The successful flight boosts investor confidence in space ventures. Illustration concept: SpaceX financial milestone."
+    },
+    {
+      "id": "image-3",
+      "prompt": "Photorealistic 3D render of the Super Heavy booster and Starship upper stage both standing on landing pads after successful recovery. The booster shows scorch marks and landing legs deployed, while the upper stage is sleek and reflective. A bright sky with soft clouds and the SpaceX facility on the horizon provides context. The scene emphasizes reusability and engineering perfection, with clean daylight lighting and sharp focus. 3D render, photorealistic.",
+      "style": "3d-render",
+      "placement": "section-2",
+      "altText": "Super Heavy booster and Starship upper stage successfully landed after test flight, demonstrating full reusability.",
+      "caption": "Both stages returned safely, proving full and rapid reusability. Credit: SpaceX render."
+    },
+    {
+      "id": "image-4",
+      "prompt": "Infographic diagram showing the complete Starship mission profile from launch to landing. Phase one: lift-off from Boca Chica. Phase two: stage separation and booster boost-back burn. Phase three: booster landing on mount. Phase four: Starship orbital maneuvers, reentry, and downrange landing. The trajectory is a glowing line over a simplified map of Texas and the Gulf. Color scheme: dark slate background, orange for rocket path, white labels. Minimalist, flat design infographic.",
+      "style": "infographic",
+      "placement": "section-3",
+      "altText": "Infographic of the Starship test flight profile showing launch, booster separation, landing, and upper stage landing.",
+      "caption": "Flight profile of the historic 90-minute mission. Diagram by [Publication]."
+    },
+    {
+      "id": "image-5",
+      "prompt": "Cinematic photorealistic scene of Starship landing on the Martian surface, with its engines kicking up red dust in the thin atmosphere. The sky is hazy orange, and the landscape is rocky and alien. The Starship appears weathered but intact, with solar panels deployed. In the background, a small habitat module and rover hint at future crewed missions. The mood is hopeful and pioneering. Wide-angle, vibrant Martian colors, high detail.",
+      "style": "cinematic",
+      "placement": "section-4",
+      "altText": "Starship spacecraft landing on Mars with dust plume, representing potential for deep space exploration.",
+      "caption": "Starship’s reusability makes crewed Mars missions economically feasible. Artistic rendering of future landing."
+    }
+  ]
+}

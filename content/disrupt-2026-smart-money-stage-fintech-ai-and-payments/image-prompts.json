@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "Cinematic photorealistic scene of the Smart Money Stage at TechCrunch Disrupt 2026. A large LED screen displays 'Smart Money Stage' with dynamic data visualizations of fintech growth, AI neural networks, and payment flows. The modern auditorium is bathed in blue and orange neon light, creating an energetic, futuristic atmosphere. The stage design emphasizes the convergence of financial services and technology.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Futuristic Smart Money Stage at TechCrunch Disrupt 2026 fintech conference",
+      "caption": ""
+    },
+    {
+      "id": "image-2",
+      "prompt": "Clean illustration style depiction of a fireside chat on the Smart Money Stage. Diverse fintech leaders from Robinhood and Plaid sit on stage discussing open banking and AI. The background includes graphical elements like APIs, data streams, and a 'Smart Money Stage' logo. Modern, professional illustration with vibrant blue and gold tones, conveying thought leadership and innovation in fintech.",
+      "style": "illustration",
+      "placement": "section-1",
+      "altText": "Panel discussion Smart Money Stage with Robinhood and Plaid executives",
+      "caption": ""
+    },
+    {
+      "id": "image-3",
+      "prompt": "Infographic showing key fintech statistics: a world map with investment hotspots ($210B), a count of digital payment users reaching 5 billion, and a graph of AI in fintech market growth ($22.6B, 28.5% CAGR). Dark background with illuminated data points and futuristic typography. Style is clean infographic with minimalist icons and charts, suitable for presenting data-heavy content.",
+      "style": "infographic",
+      "placement": "section-2",
+      "altText": "Infographic of global fintech investment digital payment and AI market statistics",
+      "caption": ""
+    },
+    {
+      "id": "image-4",
+      "prompt": "Futuristic 3D render of AI in financial services. A glowing shield of interconnected nodes represents fraud detection protecting a digital wallet. Transaction data flows into a machine learning processor, while a personal banking interface with robo-advisor charts appears on the side. Neon blue, purple, and green colors, smooth metallic reflections, and ambient lighting create a high-tech, secure atmosphere.",
+      "style": "3d-render",
+      "placement": "section-3",
+      "altText": "AI in fintech fraud detection and personalization 3D render illustration",
+      "caption": ""
+    }
+  ]
+}

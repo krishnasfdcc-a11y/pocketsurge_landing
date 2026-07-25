@@ -1,0 +1,75 @@
+{
+  "title": "Trump's Iran Diplomacy Shift: Tech Perspective",
+  "metaDescription": "Trump's Iran diplomacy shift impacts tech. Cyber warfare, supply chain risks, and digital diplomacy reshape US-Iran tensions. Insights for tech professionals.",
+  "keywords": {
+    "primary": "Trump diplomacy Iran",
+    "secondary": [
+      "Iran conflict technology",
+      "US Iran tensions",
+      "cyber warfare implications",
+      "geopolitical risk tech sector"
+    ],
+    "related": [
+      "Iran nuclear deal",
+      "cyber attacks Iran",
+      "digital diplomacy",
+      "military technology",
+      "supply chain security",
+      "geopolitical risk management"
+    ]
+  },
+  "headings": {
+    "h1": "Trump's Iran Diplomacy Shift: Tech Perspective",
+    "h2": [
+      "The Cycle of Threats and Negotiations",
+      "Tech Implications of US-Iran Conflict",
+      "Cybersecurity and Digital Warfare in Diplomacy",
+      "Geopolitical Risks for the Tech Sector"
+    ],
+    "h3": [
+      "Diplomacy vs. Military Readiness",
+      "Cyber Attacks as a Tactical Tool",
+      "Protecting Critical Infrastructure",
+      "Supply Chain Vulnerabilities"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "Cyber warfare implications for businesses",
+      "suggestedUrl": "/articles/cyber-warfare-iran-business"
+    },
+    {
+      "anchor": "Understanding geopolitical risk in tech supply chains",
+      "suggestedUrl": "/articles/geopolitical-risk-tech-supply-chains"
+    },
+    {
+      "anchor": "The role of digital diplomacy in modern conflicts",
+      "suggestedUrl": "/articles/digital-diplomacy-modern-conflicts"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "Council on Foreign Relations: US-Iran Tensions",
+      "suggestedUrl": "https://www.cfr.org/backgrounder/us-iran-tensions"
+    },
+    {
+      "anchor": "Reuters: Trump Iran diplomacy shift",
+      "suggestedUrl": "https://www.reuters.com/world/middle-east/trump-iran-diplomacy-2026/"
+    },
+    {
+      "anchor": "Cyber attacks and Iran: A history of digital warfare",
+      "suggestedUrl": "https://www.cyberscoop.com/iran-cyber-attacks-history/"
+    }
+  ],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Trump's Iran Diplomacy Shift: Tech Perspective",
+    "description": "Trump's Iran diplomacy shift impacts tech. Cyber warfare, supply chain risks, and digital diplomacy reshape US-Iran tensions. Insights for tech professionals.",
+    "datePublished": "2026-07-25T08:39:09.187Z",
+    "author": {
+      "@type": "Person",
+      "name": "Author Name"
+    }
+  }
+}

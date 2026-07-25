@@ -1,0 +1,52 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A cinematic wide shot of Lara Croft standing on the edge of a crumbling temple ruin at dusk. The sky is painted in deep oranges and purples, with a massive, translucent hourglass floating in the distance, its sand nearly empty. Lara looks determined yet contemplative, her signature dual pistols holstered. The scene evokes anticipation and the passage of time, with soft golden light casting long shadows. Style: cinematic, with dramatic lighting and a mood of reflective waiting.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Lara Croft overlooking ruins with hourglass in sky for Tomb Raider Catalyst delay",
+      "caption": "Hero image capturing the theme of time and anticipation surrounding the delay."
+    },
+    {
+      "id": "image-2",
+      "prompt": "An infographic-style illustration depicting a timeline of Tomb Raider game releases from 1996 to the future. Key points are marked with release dates, with 'Tomb Raider: Legacy of Atlantis' and 'Tomb Raider: Catalyst' highlighted in red with 'DELAYED' stamps. The background shows a digital calendar with crossed-out months and a developer's desk with sticky notes and blueprints. The mood is analytical and slightly frustrated, with cool blue and red tones. Style: clean infographic with 3d elements.",
+      "style": "infographic",
+      "placement": "section-1",
+      "altText": "Timeline infographic showing Tomb Raider game delays including Tomb Raider Catalyst",
+      "caption": "Visual timeline illustrating the pattern of delays in the Tomb Raider franchise."
+    },
+    {
+      "id": "image-3",
+      "prompt": "A 3d-render of a balanced scale on a sleek, minimalist table. On one side sits a polished, glowing game box labeled 'Quality', with intricate details and a radiant aura. On the other side, a fast-forward clock icon with blurred motion trails, representing speed. The background is a gradient from warm orange (quality) to cool blue (speed), with soft studio lighting. The composition emphasizes the tension between the two concepts. Style: 3d-render, product photography style, high contrast.",
+      "style": "3d-render",
+      "placement": "section-2",
+      "altText": "Balance scale comparing quality versus speed in game development for Tomb Raider Catalyst delay",
+      "caption": "Metaphorical representation of the quality vs. speed trade-off in AAA game development."
+    },
+    {
+      "id": "image-4",
+      "prompt": "A cinematic scene in a modern gaming lounge with multiple screens showing the 'Tomb Raider: Catalyst - Delayed to 2028' announcement. Gamers are seated, some looking disappointed, others nodding in understanding. The lighting is dim with neon accents from the screens, creating a contemplative atmosphere. A large window shows a city skyline at night, symbolizing the broader industry. The mood is mixed: acceptance and anticipation. Style: cinematic, with realistic characters and subtle emotional expressions.",
+      "style": "cinematic",
+      "placement": "section-3",
+      "altText": "Gamers reacting to Tomb Raider Catalyst delay announcement on screens in a gaming lounge",
+      "caption": "The human impact of delays on the gaming community and industry stakeholders."
+    },
+    {
+      "id": "image-5",
+      "prompt": "A photorealistic concept art of Lara Croft exploring a dense jungle temple with advanced ray-traced lighting and dynamic shadows. The environment is lush with bioluminescent flora and ancient stone structures. Lara wears an updated outfit with tactical gear, holding a bow with a glowing arrow. The scene showcases next-gen graphics: volumetric fog, realistic water reflections, and intricate texture details. The mood is adventurous and optimistic, with vibrant colors. Style: photorealistic, high detail, game engine quality.",
+      "style": "photorealistic",
+      "placement": "section-4",
+      "altText": "Lara Croft in jungle temple with next-gen graphics concept art for Tomb Raider Catalyst",
+      "caption": "Concept art hinting at the enhanced visuals and gameplay players can expect from the delayed title."
+    },
+    {
+      "id": "image-6",
+      "prompt": "A wide cinematic shot of a sunrise over a mountainous horizon, with the silhouette of Lara Croft standing on a ridge, looking toward the future. The sky is filled with warm hues of orange and pink, and the landscape below is lush and mysterious. A subtle compass or map overlay in the corner suggests direction and discovery. The mood is hopeful and forward-looking, symbolizing the franchise's long-term commitment. Style: cinematic, epic landscape, with a sense of new beginnings.",
+      "style": "cinematic",
+      "placement": "section-5",
+      "altText": "Lara Croft silhouette at sunrise symbolizing future of Tomb Raider franchise after delay",
+      "caption": "Optimistic closing image reflecting the franchise's future and the value of patience."
+    }
+  ]
+}

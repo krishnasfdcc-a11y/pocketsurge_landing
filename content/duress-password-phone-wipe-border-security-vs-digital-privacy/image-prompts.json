@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A cinematic shot of a hand holding a smartphone at a U.S. border crossing checkpoint, with blurred customs agents and American flags in the background. The phone screen displays a red warning message about data erasure. Dark, tense lighting with a sense of urgency and conflict between security and privacy. Photorealistic style, high detail.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Hand holding smartphone showing data wipe warning during U.S. border security checkpoint inspection",
+      "caption": "A traveler's smartphone with duress password trigger at a border checkpoint."
+    },
+    {
+      "id": "image-2",
+      "prompt": "An infographic illustrating the increase in electronic device searches by U.S. Customs and Border Protection from 2008 to 2018, with a bar chart showing 33,000 searches in 2018. Icons of smartphones and laptops are included. Clean, professional design with blue and red tones, emphasizing data security and border search statistics.",
+      "style": "infographic",
+      "placement": "section-1",
+      "altText": "Infographic showing 300 percent increase in CBP electronic device searches from 2008 to 2018 with key statistics",
+      "caption": "Data sourced from ACLU and DHS Privacy Office reports."
+    },
+    {
+      "id": "image-3",
+      "prompt": "A close-up of a smartphone lock screen with a duress password option highlighted in red, against a dark background with a glowing emergency icon. The screen shows a confirmation message for factory reset. Minimalist 3D-render style with high contrast, conveying the tension of forced device access and automatic data wipe.",
+      "style": "3d-render",
+      "placement": "section-2",
+      "altText": "Smartphone lock screen with duress password option for emergency data wipe in 3D render style",
+      "caption": "Duress password feature triggering a device wipe on a smartphone."
+    },
+    {
+      "id": "image-4",
+      "prompt": "A metaphorical illustration of a courtroom scale with a smartphone on one side and a law book on the other, set against a blurred background with a gavel and the U.S. Constitution. Dramatic cinematic lighting with shadows, symbolizing the balance between digital privacy and border security laws. Detailed, illustration style.",
+      "style": "illustration",
+      "placement": "section-3",
+      "altText": "Courtroom scale balancing smartphone and law book symbolizing legal debate over digital privacy at borders",
+      "caption": "The legal gray area between Fourth Amendment protections and border search powers."
+    }
+  ]
+}

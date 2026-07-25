@@ -1,0 +1,83 @@
+{
+  "title": "SpaceX Launches Starship: First Post-IPO Test Flight Succeeds",
+  "metaDescription": "SpaceX's first post-IPO Starship test flight succeeded, proving full reusability. Discover how this achievement lowers costs and paves the way for lunar and Martian missions.",
+  "keywords": {
+    "primary": "SpaceX Starship test flight",
+    "secondary": [
+      "post-IPO SpaceX launch",
+      "Starship reusable rocket",
+      "full reusability Starship",
+      "Super Heavy booster recovery",
+      "commercial spaceflight"
+    ],
+    "related": [
+      "SpaceX",
+      "Starship",
+      "reusable rocket technology",
+      "space launch",
+      "IPO",
+      "Elon Musk",
+      "Mars mission",
+      "Moon landing",
+      "commercial space industry",
+      "Super Heavy",
+      "payload capacity to orbit"
+    ]
+  },
+  "headings": {
+    "h1": "SpaceX Launches Starship: First Post-IPO Test Flight Succeeds",
+    "h2": [
+      "Significance of the Post-IPO Starship Launch",
+      "Technical Milestone: Full Reusability Achieved"
+    ],
+    "h3": [
+      "Key Statistics and Performance Metrics"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "SpaceX June 2026 IPO",
+      "suggestedUrl": "/spacex-ipo-2026"
+    },
+    {
+      "anchor": "previous Starship prototype tests",
+      "suggestedUrl": "/starship-prototype-tests"
+    },
+    {
+      "anchor": "full reusability technology",
+      "suggestedUrl": "/reusable-rocket-technology"
+    },
+    {
+      "anchor": "SpaceX Mars mission plans",
+      "suggestedUrl": "/mars-mission-plans"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "SpaceX Starship official page",
+      "suggestedUrl": "https://www.spacex.com/vehicles/starship/"
+    },
+    {
+      "anchor": "NASA's Moon to Mars program",
+      "suggestedUrl": "https://www.nasa.gov/topics/moon-to-mars/"
+    },
+    {
+      "anchor": "Reuters space industry news",
+      "suggestedUrl": "https://www.reuters.com/space"
+    }
+  ],
+  "structuredData": {
+    "@type": "Article",
+    "headline": "SpaceX Launches Starship: First Post-IPO Test Flight Succeeds",
+    "description": "SpaceX's first post-IPO Starship test flight succeeded, proving full reusability. This milestone lowers costs and paves the way for lunar and Martian missions.",
+    "datePublished": "2026-07-25T08:30:58.839Z",
+    "publisher": {
+      "@type": "Organization",
+      "name": "YourTechMedia"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.example.com/article"
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "title": "Meta Launches Seller App: A Game-Changer for Facebook Marketplace Sellers",
+  "metaDescription": "Meta's new Seller app for Facebook Marketplace provides sellers with dedicated tools for inventory and sales management. Learn how this platform can boost your social commerce business.",
+  "keywords": {
+    "primary": "Meta Seller app",
+    "secondary": [
+      "Facebook Marketplace",
+      "social commerce",
+      "online marketplace",
+      "Meta e-commerce"
+    ],
+    "related": [
+      "selling on Facebook Marketplace",
+      "Marketplace seller tools",
+      "Meta commerce",
+      "e-commerce app",
+      "seller dashboard"
+    ]
+  },
+  "headings": {
+    "h1": "Meta Launches Seller App for Facebook Marketplace: A New Era",
+    "h2": [
+      "What Is the Meta Seller App?",
+      "Why Meta Is Doubling Down on Marketplace",
+      "Key Features of the Seller App",
+      "How the Seller App Benefits Businesses"
+    ],
+    "h3": [
+      "Centralized Dashboard",
+      "Simplified Listing Creation",
+      "Communication Hub",
+      "Analytics and Insights",
+      "Inventory Management"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "social commerce trends",
+      "suggestedUrl": "/social-commerce-trends"
+    },
+    {
+      "anchor": "Facebook Marketplace tips",
+      "suggestedUrl": "/facebook-marketplace-tips"
+    },
+    {
+      "anchor": "Meta commerce strategy",
+      "suggestedUrl": "/meta-commerce-strategy"
+    },
+    {
+      "anchor": "e-commerce apps",
+      "suggestedUrl": "/e-commerce-apps"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "Meta Newsroom",
+      "suggestedUrl": "https://about.meta.com/news/"
+    },
+    {
+      "anchor": "Facebook Marketplace Help",
+      "suggestedUrl": "https://www.facebook.com/marketplace/help/"
+    },
+    {
+      "anchor": "Social Commerce Statistics",
+      "suggestedUrl": "https://www.statista.com/topics/2237/social-commerce/"
+    }
+  ],
+  "structuredData": {
+    "@type": "Article",
+    "headline": "Meta Launches Seller App for Facebook Marketplace: A New Era",
+    "description": "Meta launches 'Seller,' a dedicated app for Facebook Marketplace, offering sellers streamlined tools for inventory and sales. This strategic move reinforces Meta's commitment to social commerce and opens new opportunities for business growth.",
+    "datePublished": "2026-07-25T08:37:43.937Z",
+    "author": {
+      "@type": "Organization",
+      "name": "Meta"
+    }
+  }
+}

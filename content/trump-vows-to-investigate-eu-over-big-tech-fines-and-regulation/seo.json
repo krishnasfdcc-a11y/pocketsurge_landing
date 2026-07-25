@@ -1,0 +1,73 @@
+{
+  "title": "Trump Vows to Investigate EU Over Big Tech Fines and Regulation",
+  "metaDescription": "Trump vows to investigate the EU's record fines against US tech giants. Discover how this could spark a transatlantic trade war over digital regulation.",
+  "keywords": {
+    "primary": "Trump EU tech fines",
+    "secondary": [
+      "Digital Markets Act",
+      "EU regulation fight",
+      "US tech trade war",
+      "big tech regulation"
+    ],
+    "related": [
+      "European Union tech regulation",
+      "Google fine",
+      "Apple fine",
+      "Meta fine",
+      "Amazon fine",
+      "technology trade dispute",
+      "US-EU relations",
+      "transatlantic trade war"
+    ]
+  },
+  "headings": {
+    "h1": "Trump Vows to Investigate EU Over Big Tech Fines and Regulation",
+    "h2": [
+      "Trump's Pledge: Reversal and Retribution",
+      "Breaking Down the Billions: The Major EU Fines"
+    ],
+    "h3": [
+      "Google (€4.3 billion, 2018)",
+      "Apple (€1.8 billion, 2024)",
+      "Meta (€1.2 billion, 2023)",
+      "Amazon (€746 million, 2021)"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "EU digital regulation framework",
+      "suggestedUrl": "/articles/eu-digital-regulation"
+    },
+    {
+      "anchor": "US tech trade war",
+      "suggestedUrl": "/articles/us-eu-trade-war"
+    },
+    {
+      "anchor": "Big tech antitrust fines",
+      "suggestedUrl": "/articles/big-tech-antitrust"
+    },
+    {
+      "anchor": "Digital Markets Act implications",
+      "suggestedUrl": "/articles/digital-markets-act"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "BBC News report on Trump's pledge",
+      "suggestedUrl": "https://www.bbc.com/news/technology-64782611"
+    },
+    {
+      "anchor": "European Commission antitrust actions",
+      "suggestedUrl": "https://ec.europa.eu/competition/elojade/antitrust/index.cfm?fuseaction=antitrust.home"
+    },
+    {
+      "anchor": "CNIL Amazon fine announcement",
+      "suggestedUrl": "https://www.cnil.fr/en/amazon-fined-35-million-euros"
+    }
+  ],
+  "structuredData": {
+    "@type": "Article",
+    "headline": "Trump Vows to Investigate EU Over Big Tech Fines and Regulation",
+    "description": "Trump vows to investigate the EU's record fines against US tech giants. Discover how this could spark a transatlantic trade war over digital regulation."
+  }
+}

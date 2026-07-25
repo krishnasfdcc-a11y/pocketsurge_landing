@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Generate article images using ComfyUI + FLUX.1 Dev fp8.
-Reads image-prompts.json from each article and sends workflows to ComfyUI API.
+Generate article hero images using ComfyUI + FLUX.1-dev Q8 (GGUF).
+Reads image-prompts.json from each article and generates only hero images.
 """
 
 import json
@@ -66,12 +66,12 @@ def build_workflow(prompt, negative_prompt, width, height, seed):
     
     nodes = {}
     
-    # 1. UNETLoader
+    # 1. UnetLoaderGGUF (Q8 quantized FLUX.1-dev)
     n = len(nodes)
     nodes[str(n)] = {
-        "class_type": "UNETLoader",
+        "class_type": "UnetLoaderGGUF",
         "inputs": {
-            "unet_name": "flux1-dev-fp8.safetensors",
+            "unet_name": "flux1-dev-Q8_0.gguf",
             "weight_dtype": "default",
         }
     }
@@ -160,18 +160,28 @@ def build_workflow(prompt, negative_prompt, width, height, seed):
     }
     sampler_node = str(n)
     
-    # 8. VAEDecode
+    # 8. VAELoader (separate FLUX VAE)
+    n = len(nodes)
+    nodes[str(n)] = {
+        "class_type": "VAELoader",
+        "inputs": {
+            "vae_name": "flux-vae-bf16.safetensors",
+        }
+    }
+    vae_node = str(n)
+    
+    # 9. VAEDecode
     n = len(nodes)
     nodes[str(n)] = {
         "class_type": "VAEDecode",
         "inputs": {
             "samples": [sampler_node, 0],
-            "vae": [unet_node, 2],  # VAE is output 2 of UNETLoader
+            "vae": [vae_node, 0],
         }
     }
     vae_decode_node = str(n)
     
-    # 9. SaveImage
+    # 10. SaveImage
     n = len(nodes)
     nodes[str(n)] = {
         "class_type": "SaveImage",
@@ -218,9 +228,10 @@ def wait_for_completion(prompt_id, poll_interval=3, timeout=300):
         if prompt_id in history:
             return history[prompt_id]
         
-        # Check if still in queue
+        # Check if still in queue (queue items are lists: [number, prompt_id, ...])
         still_queued = any(
-            item.get("prompt_id") == prompt_id 
+            (isinstance(item, dict) and item.get("prompt_id") == prompt_id) or
+            (isinstance(item, list) and len(item) > 1 and item[1] == prompt_id)
             for item in running + pending
         )
         if not still_queued and prompt_id not in history:
@@ -293,13 +304,17 @@ def process_article(article_dir):
         placement = img_cfg.get("placement", "")
         style = img_cfg.get("style", "")
         
+        # Only generate hero images
         is_hero = placement == "hero"
-        if is_hero:
-            output_name = "hero.webp"
-            w, h = HERO_WIDTH, HERO_HEIGHT
-        else:
+        if not is_hero:
             output_name = f"{img_id}.webp"
-            w, h = GALLERY_WIDTH, GALLERY_HEIGHT
+            output_path = images_dir / output_name
+            if output_path.exists():
+                print(f"  [SKIP] {output_name} (non-hero - skipped)")
+            continue
+        
+        output_name = "hero.webp"
+        w, h = HERO_WIDTH, HERO_HEIGHT
         
         output_path = images_dir / output_name
         
@@ -368,7 +383,7 @@ def process_article(article_dir):
 def main():
     print(f"Scanning content directory: {CONTENT_DIR}")
     print(f"ComfyUI: {COMFY_API}")
-    print(f"FLUX.1 Dev fp8, Steps: {STEPS}, Guidance: {GUIDANCE}")
+    print(f"FLUX.1-dev Q8 GGUF, Steps: {STEPS}, Guidance: {GUIDANCE}")
     print()
     
     article_dirs = sorted([

@@ -1,0 +1,52 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A cinematic scene of a glowing decentralized network, with luminous nodes connected by threads of light, representing civil society connectivity. In the foreground, a silhouette of a person stands holding a key, symbolizing data sovereignty. The background is a blend of twilight sky and digital grid. Warm amber and cool blue tones create a hopeful mood. Photorealistic style with dramatic lighting.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Decentralized network with person holding key for data sovereignty",
+      "caption": ""
+    },
+    {
+      "id": "image-2",
+      "prompt": "An infographic diagram illustrating Stiq's architecture as a Nostr client and relay. A central circle labeled 'Stiq Relay' connects to multiple user devices via secure paths. Icons for self-hosting, encryption, and moderation are annotated. Clean, educational design with a teal and white color palette. Grid background with labels for clarity. Suitable for technical documentation.",
+      "style": "infographic",
+      "placement": "section-1",
+      "altText": "Infographic of Stiq client and relay architecture with Nostr protocol",
+      "caption": ""
+    },
+    {
+      "id": "image-3",
+      "prompt": "A 3D render of a distributed network of servers representing Nostr relays, connected by data streams forming a web without a central hub. Each relay node is a translucent cube emitting light. Isometric viewpoint with a grid floor. Neon green and purple colors against a dark background, evoking a futuristic, resilient communication protocol.",
+      "style": "3d-render",
+      "placement": "section-2",
+      "altText": "3D visualization of Nostr relay network showing decentralization",
+      "caption": ""
+    },
+    {
+      "id": "image-4",
+      "prompt": "A minimal flat design composition featuring four icon cards: a shield for moderation, a lock for encryption, a server rack for self-hosting, and a mobile phone with check mark for PWA. Soft gradient background with subtle shadows. Layout is clean and organized, suitable for a feature highlights section. Each icon has a short label underneath.",
+      "style": "minimal",
+      "placement": "section-3",
+      "altText": "Feature icons for Stiq: moderation, encryption, self-hosting, PWA",
+      "caption": ""
+    },
+    {
+      "id": "image-5",
+      "prompt": "A vibrant illustration of a diverse team of coders collaborating around a large screen displaying code, with an AI assistant represented as a glowing digital brain. The workspace has sticky notes, coffee cups, and a bunny mascot for BKF community. Flat illustration style with rich colors and dynamic lines, conveying creativity and teamwork in open-source development.",
+      "style": "illustration",
+      "placement": "section-4",
+      "altText": "BKF community collaborating with AI assistant on open-source development",
+      "caption": ""
+    },
+    {
+      "id": "image-6",
+      "prompt": "A photorealistic image of a community meeting in a park, with a group of people sitting in a circle using smartphones and a tablet. Some point at the screen showing the Stiq app interface. Sunny setting with green trees, and a banner reading 'Community Voices' in the background. Collaborative and inclusive mood, natural lighting and depth of field.",
+      "style": "photorealistic",
+      "placement": "section-5",
+      "altText": "Community using Stiq for decentralized organizing in a park",
+      "caption": ""
+    }
+  ]
+}

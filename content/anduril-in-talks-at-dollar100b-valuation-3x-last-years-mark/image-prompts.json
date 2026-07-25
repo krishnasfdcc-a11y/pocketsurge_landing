@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A dramatic, cinematic aerial view of a sleek, matte-black autonomous drone with glowing blue accents flying over a rugged desert landscape at golden hour. The drone, reminiscent of Anduril's Ghost series, is silhouetted against the sun, with a subtle network of data streams and targeting overlays visible. The mood is powerful, futuristic, and slightly ominous, evoking next-generation defense technology. High contrast, volumetric lighting, shot with a tilt-shift lens.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Autonomous drone flying over desert at sunset, representing Anduril's defense technology.",
+      "caption": "An artistic rendering of an autonomous drone system, symbolizing Anduril's AI-powered defense capabilities."
+    },
+    {
+      "id": "image-2",
+      "prompt": "A clean, minimalist infographic with a sleek dark background. A bold upward arrow or bar chart showing the jump from $30 billion to $100 billion, with labels '2025' and '2026'. In the background, faint silhouettes of traditional defense companies like L3Harris and General Dynamics with lower numbers for comparison. Professional data visualization style with neon blue and green accents, glowing lines, and subtle grid lines. High contrast.",
+      "style": "infographic",
+      "placement": "section-1",
+      "altText": "Infographic showing Anduril's valuation jump from $30 billion to $100 billion.",
+      "caption": "Comparison of Anduril's valuation growth against traditional defense primes."
+    },
+    {
+      "id": "image-3",
+      "prompt": "A photorealistic 3D render of a high-tech command center interior. A large holographic display shows the Lattice AI platform interface with real-time sensor data, drone feeds, and threat identification markers. Glowing blue and orange UI elements, military personnel in modern tactical gear viewing the display. Dark ambient lighting with screens illuminating faces. Sleek, futuristic aesthetic, reminiscent of a Silicon Valley startup but with military hardware. Late evening, focused mood.",
+      "style": "3d-render",
+      "placement": "section-2",
+      "altText": "High-tech command center with holographic Lattice AI platform interface.",
+      "caption": "A visualization of Anduril's Lattice AI platform in use at a modern command center."
+    },
+    {
+      "id": "image-4",
+      "prompt": "A conceptual illustration blending Silicon Valley startup culture with traditional military hardware. A modern glass-walled startup office with whiteboards, beanbags, and a prototype military drone suspended from the ceiling. Sunlight streams through large windows, casting shadows on blueprints. A hand is sketching a radar system on a whiteboard. The style is modern flat vector illustration with vibrant colors and clean lines, conveying innovation and the fusion of tech and defense.",
+      "style": "illustration",
+      "placement": "section-3",
+      "altText": "A startup office with a military drone prototype, symbolizing venture capital reshaping defense.",
+      "caption": "Illustration depicting the convergence of startup culture and defense technology."
+    }
+  ]
+}

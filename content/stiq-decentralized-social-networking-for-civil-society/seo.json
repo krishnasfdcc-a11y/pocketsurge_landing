@@ -1,0 +1,87 @@
+{
+  "title": "Stiq: Decentralized Social Networking for Civil Society",
+  "metaDescription": "Discover Stiq, the Nostr client and relay for decentralized social networking. Empower your civil society community with data sovereignty and open communication.",
+  "keywords": {
+    "primary": "Stiq",
+    "secondary": [
+      "Nostr client",
+      "decentralized social network",
+      "civil society technology",
+      "data sovereignty"
+    ],
+    "related": [
+      "Nostr protocol",
+      "decentralized communication",
+      "open source social media",
+      "self-hosted relay",
+      "community social network",
+      "BKF community"
+    ]
+  },
+  "headings": {
+    "h1": "Stiq: Decentralized Social Networking for Civil Society",
+    "h2": [
+      "Understanding Stiq: A New Paradigm for Community Communication",
+      "The Role of Nostr in Decentralized Social Networking",
+      "Features of Stiq: Control, Privacy, and Community"
+    ],
+    "h3": [
+      "Decentralized Control",
+      "User Sovereignty",
+      "Community Focus",
+      "Open Source",
+      "Self-Hosted Relay"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "Nostr protocol explained",
+      "suggestedUrl": "/blog/nostr-protocol-guide"
+    },
+    {
+      "anchor": "decentralized social networks",
+      "suggestedUrl": "/category/decentralized-social"
+    },
+    {
+      "anchor": "data sovereignty principles",
+      "suggestedUrl": "/blog/data-sovereignty-importance"
+    },
+    {
+      "anchor": "BKF community projects",
+      "suggestedUrl": "/blog/bkf-community-open-source"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "Nostr protocol official site",
+      "suggestedUrl": "https://nostr.com/"
+    },
+    {
+      "anchor": "Nostr relay specification",
+      "suggestedUrl": "https://github.com/nostr-protocol/nips"
+    },
+    {
+      "anchor": "BKF community",
+      "suggestedUrl": "https://bkf.community/"
+    }
+  ],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Stiq: Decentralized Social Networking for Civil Society",
+    "description": "Discover Stiq, the Nostr client and relay for decentralized social networking. Empower your civil society community with data sovereignty and open communication.",
+    "datePublished": "2026-07-25T08:26:36.770Z",
+    "author": {
+      "@type": "Organization",
+      "name": "BKF community"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Your Site Name"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://yoursite.com/article/stiq"
+    }
+  }
+}

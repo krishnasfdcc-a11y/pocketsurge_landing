@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A cinematic 3D render of a glowing digital bridge connecting two stylized AI logos. On the left is the OpenAI swirl comet logo in mint green. On the right is the DeepSeek deep blue wave logo. Small glowing data packets flow steadily across the bridge. The scene uses a cyberpunk aesthetic with volumetric lighting, glowing neon accents, and a dark background with deep depth of field. High detail, ray tracing, reflective surfaces, futuristic technology theme.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "DeepSeek Web API digital bridge connecting OpenAI SDK and DeepSeek models.",
+      "caption": "Conceptual representation of the API compatibility bridge."
+    },
+    {
+      "id": "image-2",
+      "prompt": "A clean, modern infographic with a dark mode theme illustrating the architecture of the DeepSeek Web API proxy. It shows five glowing boxes connected by arrows. Box 1: 'OpenAI SDK'. Box 2: 'Local Proxy (localhost:3000)'. Box 3: 'Puppeteer / CDP'. Box 4: 'Headless Chrome'. Box 5: 'DeepSeek Web UI'. Each box has a simple icon. The flow is strictly left to right. Neon blue and purple gradients. A subtle grid background. Minimal labels. Professional technical illustration style.",
+      "style": "infographic",
+      "placement": "section-1",
+      "altText": "Infographic architecture of DeepSeek Web API proxy data flow.",
+      "caption": "How the proxy translates OpenAI API calls into browser actions."
+    },
+    {
+      "id": "image-3",
+      "prompt": "A photorealistic image of a developer desk at night. An ultrawide monitor displays a terminal and Python code editor. The line `openai.api_base = 'http://localhost:3000/v1'` is sharply in focus. A premium mechanical keyboard with artisan keycaps rests on the desk. A cup of coffee emits slight steam. The lighting is warm but focused entirely on the screen. Shallow depth of field. High-end tech workspace photography, dark mode aesthetic.",
+      "style": "photorealistic",
+      "placement": "section-2",
+      "altText": "Developer coding with OpenAI SDK local DeepSeek API proxy setup.",
+      "caption": "Configuring the OpenAI Python SDK to use the local proxy."
+    },
+    {
+      "id": "image-4",
+      "prompt": "A vibrant, optimistic digital illustration showing a network of diverse AI model platforms connected by a standard interface. Prominent logos for OpenAI, DeepSeek, Anthropic, Meta LLaMA, and Mistral orbit a central glowing hub labeled 'OpenAI API Standard'. Energetic particles of light flow between them. Futuristic bioluminescent style, isometric perspective, clean minimal lines, representing open source collaboration and interoperability over a dark background.",
+      "style": "illustration",
+      "placement": "section-3",
+      "altText": "Illustration of AI model interoperability and API compatibility trends.",
+      "caption": "The rise of unofficial compatibility layers in the AI ecosystem."
+    },
+    {
+      "id": "image-5",
+      "prompt": "A conceptual 3D render of a tower made of playing cards supporting a heavy stack of books. The books are labeled 'Chrome Updates' and 'Web Standards'. The playing cards represent 'Browser Automation' and one card bearing a glowing green 'OK' icon is visibly cracking. Dramatic chiaroscuro lighting with strong shadows and subtle fog emphasizes instability and fragility. Miniature set photography style, deep depth of field, dark moody background.",
+      "style": "3d-render",
+      "placement": "section-4",
+      "altText": "Conceptual fragility of browser automation in unofficial AI proxies.",
+      "caption": "Understanding the limitations and stability risks."
+    }
+  ]
+}

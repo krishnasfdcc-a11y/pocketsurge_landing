@@ -1,0 +1,84 @@
+{
+  "title": "DeepSeek Web API: Using OpenAI SDKs with DeepSeek Models",
+  "metaDescription": "Access DeepSeek models using OpenAI SDKs with the unofficial DeepSeek Web API. A self-hosted browser proxy for API translation. Includes setup guide.",
+  "keywords": {
+    "primary": "DeepSeek Web API",
+    "secondary": [
+      "OpenAI SDKs",
+      "Self-hosted API",
+      "Unofficial DeepSeek API",
+      "Browser automation LLM",
+      "Chrome DevTools Protocol"
+    ],
+    "related": [
+      "DeepSeek models",
+      "Puppeteer browser automation",
+      "OpenAI compatible API",
+      "type safety TypeScript",
+      "local proxy server",
+      "chat completion endpoint",
+      "session token authentication",
+      "headless Chrome",
+      "API integration workaround",
+      "LLM proxy bridge"
+    ]
+  },
+  "headings": {
+    "h1": "DeepSeek Web API: How to Use OpenAI SDKs with DeepSeek Models",
+    "h2": [
+      "What Is the DeepSeek Web API?",
+      "How the Unofficial API Works",
+      "Setting Up the DeepSeek Web API Locally"
+    ],
+    "h3": [
+      "Browser Automation with Puppeteer",
+      "Obtaining Your DeepSeek Session Token",
+      "Configuring the Proxy Server"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "OpenAI SDK usage guide",
+      "suggestedUrl": "/blog/openai-sdk-guide"
+    },
+    {
+      "anchor": "self-hosted LLM proxy setup",
+      "suggestedUrl": "/blog/self-hosted-llm-proxy"
+    },
+    {
+      "anchor": "browser automation for developers",
+      "suggestedUrl": "/blog/browser-automation-tools"
+    },
+    {
+      "anchor": "TypeScript proxy development",
+      "suggestedUrl": "/blog/typescript-api-development"
+    },
+    {
+      "anchor": "DeepSeek models overview",
+      "suggestedUrl": "/blog/deepseek-models-overview"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "Puppeteer documentation",
+      "suggestedUrl": "https://pptr.dev/"
+    },
+    {
+      "anchor": "Chrome DevTools Protocol",
+      "suggestedUrl": "https://chromedevtools.github.io/devtools-protocol/"
+    },
+    {
+      "anchor": "OpenAI SDK documentation",
+      "suggestedUrl": "https://platform.openai.com/docs/libraries"
+    },
+    {
+      "anchor": "DeepSeek Web API project",
+      "suggestedUrl": "https://github.com/deepseek-web-api/"
+    }
+  ],
+  "structuredData": {
+    "@type": "Article",
+    "headline": "DeepSeek Web API: How to Use OpenAI SDKs with DeepSeek Models",
+    "description": "The DeepSeek Web API project enables developers to interact with DeepSeek's large language models using standard OpenAI API libraries. By leveraging browser automation, it creates a local proxy that translates API requests into web interface interactions, offering a creative workaround for accessing language models without native API support."
+  }
+}

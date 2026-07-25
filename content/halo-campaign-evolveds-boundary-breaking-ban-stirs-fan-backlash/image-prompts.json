@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A dramatic cinematic shot of a lone Spartan character in classic Halo armor standing on a jagged cliff edge inside a massive ringworld. The sky is filled with swirling clouds and distant stars. Glowing orange energy barriers crack and shatter around the Spartan, symbolizing broken boundaries. The lighting is dramatic with rim light and deep shadows, evoking a sense of awe and defiance. Photorealistic, 8K detail, epic composition.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Halo Spartan standing at a boundary breach in a ringworld landscape",
+      "caption": ""
+    },
+    {
+      "id": "image-2",
+      "prompt": "An illustration of a classic Halo 2 multiplayer map from an out-of-bounds perspective. The camera floats high above the map, looking down at the playable area far below. Glitchy polygons and wireframe edges are visible, suggesting exploited geometry. A faint silhouette of a player performing a super bounce is outlined against the sky. The style is semi-realistic with a nostalgic, slightly retro color palette, soft atmospheric lighting.",
+      "style": "illustration",
+      "placement": "section-1",
+      "altText": "Halo player performing a super bounce to reach out-of-bounds areas",
+      "caption": ""
+    },
+    {
+      "id": "image-3",
+      "prompt": "A technical diagram or infographic showing a Halo campaign level from a top-down engineering view. The level geometry is overlaid with red kill volume zones, blue collision meshes, and yellow invisible barriers. Labels indicate 'boundary fix' and 'kill trigger'. The background is a dark grid with subtle blueprint lines. The style is clean and technical, with bright neon accents on a dark slate background, professional and precise.",
+      "style": "infographic",
+      "placement": "section-2",
+      "altText": "Diagram of invisible barriers and kill volumes in Halo level design",
+      "caption": ""
+    },
+    {
+      "id": "image-4",
+      "prompt": "A split-screen 3D render comparing two versions of the same Halo level. On the left, classic Halo: Combat Evolved with a player character standing at an open gap in the wall, looking out at a vast unfinished landscape. On the right, the same spot in the Halo: Campaign Evolved remake with a glowing red kill barrier and a clean, polished wall sealing the gap. Each side has distinct lighting: warm nostalgic on left, cold modern on right. High detail, realistic materials.",
+      "style": "3d-render",
+      "placement": "section-3",
+      "altText": "Side-by-side comparison of original Halo level gap and remake kill barrier",
+      "caption": ""
+    }
+  ]
+}
