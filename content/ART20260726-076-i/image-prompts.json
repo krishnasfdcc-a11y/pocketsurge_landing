@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A hooded figure sits in a dark room, face obscured by a digital mask of glowing circuit patterns. Only the eyes emit a faint blue light. Behind them, a wall of monitors displays streams of code, world maps with connection lines, and the text 'Hacking Team' partially obscured. The scene is lit with low-key cyan and magenta ambient light, casting long shadows. Style: cinematic, photorealistic, with a mood of mystery and anonymity, shallow depth of field.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Hooded figure with digital mask sitting in front of monitors displaying code and world maps",
+      "caption": "A conceptual representation of Phineas Fisher's anonymous presence in the cybersecurity world."
+    },
+    {
+      "id": "image-2",
+      "prompt": "A close-up of a vintage computer monitor displaying a Pastebin page with the text 'I am not a terrorist, I am a hacktivist' in monochrome green terminal font. The screen casts a cold green glow on a dusty desk. A theatrical mask rests beside the keyboard, referencing 'The Abominable Dr. Phibes' influence. Dark room with single light source from the screen. Style: minimal, cinematic, mood of early internet rebellion.",
+      "style": "minimal",
+      "placement": "section-1",
+      "altText": "Vintage computer monitor showing a Pastebin manifesto with a theatrical mask on desk",
+      "caption": "The first manifesto of Phineas Fisher, blending hacktivism with theatrical flair."
+    },
+    {
+      "id": "image-3",
+      "prompt": "A digital illustration of a glowing fortress labeled 'Gamma Group' being breached by a single crack of light. The light splits into code fragments that transform into the text 'FinFisher'. The background shows a world map with small glowing markers in Bahrain and Ethiopia. Style: illustration, cyberpunk aesthetic with neon blues and oranges, dynamic angular lines representing the attack vector.",
+      "style": "illustration",
+      "placement": "section-2",
+      "altText": "Digital fortress labeled Gamma Group being breached by light transforming into code and FinFisher text",
+      "caption": "The breach of Gamma Group's internal systems exposed FinFisher spyware use in repressive regimes."
+    },
+    {
+      "id": "image-4",
+      "prompt": "A 3D render of a globe with glowing red lines connecting over 40 countries. In the center, a fractured digital lock breaks apart, spilling streams of binary and document icons. A tape reel labeled '400GB' unravels across the scene. The background is a dark grid with faint blue holographic overlays of financial charts showing 70% revenue from governments. Moody blue-red lighting, cinematic.",
+      "style": "3d-render",
+      "placement": "section-3",
+      "altText": "Globe with red connection lines and a broken digital lock spilling documents and code",
+      "caption": "The Hacking Team leak revealed a global surveillance network spanning over 40 countries."
+    },
+    {
+      "id": "image-5",
+      "prompt": "An infographic-style visualization of layered anonymity: a human silhouette connected by dotted lines to a Tor onion, a VPN shield, and a coffee shop Wi-Fi icon, all layered over a dark background. Small labels read 'Zero-Day Exploit', 'Custom Tooling', 'Public Wi-Fi'. The elements are subtly glowing with green and cyan neon edges on a black background. Clean, technical, diagrammatic.",
+      "style": "infographic",
+      "placement": "section-4",
+      "altText": "Infographic showing layers of anonymity: Tor, VPN, zero-day exploit, custom tooling, public Wi-Fi",
+      "caption": "Phineas Fisher's operational security combined multiple layers of anonymity and custom exploits."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What is MRYL?",
+      "answer": "MRYL is an open-source, self-hosted centralized control plane for managing LinuxGSM game servers running in Docker containers. It provides a unified interface for provisioning, console access, backup management, and fleet-wide orchestration, enabling DevOps workflows for game server operations."
+    },
+    {
+      "question": "How does MRYL differ from using LinuxGSM alone?",
+      "answer": "While LinuxGSM automates individual server installation and management, MRYL adds a centralized layer for coordinating multiple servers across a fleet. It integrates with Docker to provide isolation and consistency, and offers features like orchestrated backups and scaling that are difficult to achieve with LinuxGSM alone."
+    },
+    {
+      "question": "What are the prerequisites for deploying MRYL?",
+      "answer": "To use MRYL, you need a Docker host or cluster to run the game servers and the MRYL control plane. You should also be familiar with LinuxGSM, as MRYL manages servers that use LinuxGSM internally. Basic knowledge of containerization and DevOps principles is helpful."
+    },
+    {
+      "question": "Can MRYL help scale my game server fleet automatically?",
+      "answer": "MRYL enables fleet-wide orchestration, but automatic scaling depends on your infrastructure setup. It provides a centralized platform to manage scaling strategies, but you may need additional tools like container orchestration platforms (e.g., Kubernetes) for fully automated scaling based on demand."
+    },
+    {
+      "question": "Is MRYL suitable for both small communities and large esports organizations?",
+      "answer": "Yes, MRYL is designed to scale from small fleets to large deployments. For small communities, it simplifies management of a handful of servers, while large esports organizations benefit from consistent backups, rapid recovery, and centralized control across many instances."
+    }
+  ]
+}

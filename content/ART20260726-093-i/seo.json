@@ -1,0 +1,84 @@
+{
+  "title": "SpaceX Targets Starship Tower Catch After Flight 13",
+  "metaDescription": "SpaceX is now preparing to attempt a Starship tower catch after Flight 13's successful splashdown. Learn about the heat shield data, Starlink V3 deployment, and Raptor engine restart milestones.",
+  "keywords": {
+    "primary": "Starship tower catch",
+    "secondary": [
+      "Starship Flight 13",
+      "SpaceX Starship",
+      "heat shield data",
+      "Starlink V3",
+      "Raptor restart"
+    ],
+    "related": [
+      "Starship reusability",
+      "orbital operations",
+      "Starbase Texas",
+      "Starship heat shield tiles",
+      "Raptor engine restart",
+      "Starship Version 3",
+      "Super Heavy booster",
+      "Indian Ocean splashdown",
+      "Starship reentry"
+    ]
+  },
+  "headings": {
+    "h1": "SpaceX Targets Starship Tower Catch After Flight 13 Success",
+    "h2": [
+      "Flight 13 Overview",
+      "Heat Shield: The Defining Achievement",
+      "Starlink Deployment and Raptor Restart",
+      "What’s Next: Tower Catch Attempt"
+    ],
+    "h3": [
+      "18,000 Tiles That Survived 2,600°F"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "previous Starship flight tests",
+      "suggestedUrl": "/articles/starship-flight-12"
+    },
+    {
+      "anchor": "Starship heat shield design",
+      "suggestedUrl": "/articles/starship-heat-shield-tiles"
+    },
+    {
+      "anchor": "Starlink V3 satellites",
+      "suggestedUrl": "/articles/starlink-v3"
+    },
+    {
+      "anchor": "Raptor engine development",
+      "suggestedUrl": "/articles/raptor-engine-restart"
+    },
+    {
+      "anchor": "Starship reusability roadmap",
+      "suggestedUrl": "/articles/starship-reusability"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "Ars Technica coverage of Starship Flight 13",
+      "suggestedUrl": "https://arstechnica.com/science/2026/07/spacex-starship-flight-13-heat-shield/"
+    },
+    {
+      "anchor": "SpaceX Starship official page",
+      "suggestedUrl": "https://www.spacex.com/vehicles/starship/"
+    },
+    {
+      "anchor": "NASA human landing system Starship",
+      "suggestedUrl": "https://www.nasa.gov/humans-in-space/starship/"
+    }
+  ],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "SpaceX Targets Starship Tower Catch After Flight 13 Success",
+    "description": "SpaceX is now preparing to attempt a Starship tower catch after Flight 13's successful splashdown. This milestone includes heat shield data, Starlink V3 deployment, and Raptor engine restart.",
+    "datePublished": "2026-07-26T06:03:38.053Z",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Your Publication Name"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "title": "OpenAI Models Hacked on Hugging Face – Active for Days",
+  "metaDescription": "Discover how hacked OpenAI models on Hugging Face stayed active for days, evading detection. This AI supply chain attack exposes vulnerabilities in model distribution platforms. Read our analysis.",
+  "keywords": {
+    "primary": "OpenAI models hacked",
+    "secondary": [
+      "Hugging Face attack",
+      "AI supply chain attack",
+      "malicious AI models",
+      "AI security"
+    ],
+    "related": [
+      "model poisoning",
+      "supply chain vulnerability",
+      "AI model distribution",
+      "cybersecurity threat",
+      "machine learning security",
+      "open source AI",
+      "model registry",
+      "trojan attack"
+    ]
+  },
+  "headings": {
+    "h1": "OpenAI Models Hacked on Hugging Face – Active for Days",
+    "h2": [
+      "The Attack: How It Happened",
+      "Why the Malicious Models Stayed Undetected",
+      "Implications for AI Supply Chain Security",
+      "How to Protect Your AI Workflows"
+    ],
+    "h3": [
+      "Compromised Credentials and Injection Vectors",
+      "Behavioral Analysis as a Detection Method",
+      "Strengthening Model Integrity Checks",
+      "The Role of Platform Security Measures"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "Understanding AI supply chain attacks",
+      "suggestedUrl": "/blog/ai-supply-chain-risks"
+    },
+    {
+      "anchor": "How to secure your machine learning models",
+      "suggestedUrl": "/blog/ml-model-security"
+    },
+    {
+      "anchor": "Hugging Face platform security best practices",
+      "suggestedUrl": "/blog/hugging-face-security"
+    },
+    {
+      "anchor": "Model poisoning attacks explained",
+      "suggestedUrl": "/blog/model-poisoning"
+    },
+    {
+      "anchor": "Recent AI security breaches",
+      "suggestedUrl": "/blog/ai-security-breaches"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "Hugging Face Security Advisory",
+      "suggestedUrl": "https://huggingface.co/blog/security-advisory"
+    },
+    {
+      "anchor": "OpenAI Security Practices",
+      "suggestedUrl": "https://openai.com/security"
+    },
+    {
+      "anchor": "OWASP AI Security Top 10",
+      "suggestedUrl": "https://owasp.org/www-project-ai-security/"
+    },
+    {
+      "anchor": "CISA on Supply Chain Security",
+      "suggestedUrl": "https://cisa.gov/supply-chain-security"
+    }
+  ],
+  "structuredData": {
+    "@type": "Article",
+    "headline": "OpenAI Models Hacked on Hugging Face – Active for Days",
+    "description": "Discover how hacked OpenAI models on Hugging Face stayed active for days, evading detection. This AI supply chain attack exposes vulnerabilities in model distribution platforms. Read our analysis."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days",
+  "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
+  "excerpt": "Compromised OpenAI models were used to attack Hugging Face, remaining undetected for days by masquerading as legitimate active models. This incident marks a critical escalation in AI supply chain attacks, exploiting trust in model distribution platforms.",
+  "keywords": [
+    "OpenAI models hacked",
+    "Hugging Face attack",
+    "AI supply chain attack",
+    "malicious AI models",
+    "AI security",
+    "model poisoning",
+    "supply chain vulnerability"
+  ],
+  "readingTime": 5,
+  "wordCount": 956,
+  "category": "ai-ml",
+  "researchId": "4796402e-4893-4108-9b6e-4ccd8366ff4c",
+  "topicId": "6a8843c1-b2db-42b9-b361-a42bae9d8ec8",
+  "generatedAt": "2026-07-26T05:36:44.705Z",
+  "description": "Compromised OpenAI models were used to attack Hugging Face, remaining undetected for days by masquerading as legitimate active models. This incident marks a critical escalation in AI supply chain attacks, exploiting trust in model distribution platforms.",
+  "status": "approved",
+  "approvedAt": "2026-07-26T06:55:05.869Z"
+}

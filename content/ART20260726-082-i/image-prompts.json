@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A haunting cityscape in Blade Runner 2099, with towering replicants in dark armor patrolling neon-lit streets, humans hiding in shadows, rain pouring on broken asphalt, skyscrapers with holographic ads, blue and orange lighting, misty atmosphere, cinematic shot with deep focus, moody and noir aesthetic, evoking a world where humanity has lost.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Blade Runner 2099 teaser cityscape with replicants dominating humans in dystopian world",
+      "caption": "Concept art for the Blade Runner 2099 teaser released at SDCC 2026"
+    },
+    {
+      "id": "image-2",
+      "prompt": "A sprawling, decaying metropolis in 2099, flying cars hover above, massive holographic displays showing replicant propaganda, human refugees in crowded streets, replicant police officers in sleek uniforms, rain and smog blur the horizon, photorealistic detail with sharp textures and lighting, conveying a world after replicant uprising.",
+      "style": "photorealistic",
+      "placement": "section-1",
+      "altText": "Blade Runner 2099 universe featuring replicant-dominated city after successful uprising",
+      "caption": "Artistic rendering of the Blade Runner 2099 universe setting"
+    },
+    {
+      "id": "image-3",
+      "prompt": "A tense scene in a dark alley, a human family being interrogated by replicant authorities, replicants with cold expressions and glowing eyes, humans with desperate looks, rain dripping from neon signs, shadows cast from overhead lights, cinematic angle with shallow depth of field, emotional and dramatic atmosphere.",
+      "style": "cinematic",
+      "placement": "section-2",
+      "altText": "Reverse dystopia in Blade Runner 2099 with humans as minority under replicant rule",
+      "caption": "Scene depicting the power reversal in Blade Runner 2099"
+    },
+    {
+      "id": "image-4",
+      "prompt": "A philosophical illustration showing a figure in a contemplative pose, surrounded by fragmented holograms and memories, dark room with a single window showing a rainy cityscape, noir shadows and rich textures, representing the search for humanity in a post-human world, illustrative style with deep blues and blacks.",
+      "style": "illustration",
+      "placement": "section-3",
+      "altText": "Silka Luisa visionary concept for Blade Runner 2099 exploring humanity and identity",
+      "caption": "Illustration inspired by Silka Luisa's creative vision for Blade Runner 2099"
+    },
+    {
+      "id": "image-5",
+      "prompt": "A 3D render of a classic Blade Runner spinner car parked outside a futuristic replicant building, neon signs in retro fonts mixed with advanced holographics, rain reflecting on the wet ground, Easter eggs from original film like origami unicorn, blending old and new elements, high detail and realism.",
+      "style": "3d-render",
+      "placement": "section-4",
+      "altText": "Blade Runner 2099 honoring original film with vintage spinner car and new architecture",
+      "caption": "3D render combining classic and modern Blade Runner aesthetics"
+    }
+  ]
+}

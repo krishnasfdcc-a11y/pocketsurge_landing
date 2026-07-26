@@ -1,0 +1,112 @@
+{
+  "title": "Claude Code Cloudflare Gateway: Multi-Model AI Proxy Setup",
+  "metaDescription": "Set up the Claude Code Cloudflare Gateway to switch AI models (Kimi, GLM, Grok) via one proxy. Centralize billing, enhance redundancy, and avoid lock-in.",
+  "keywords": {
+    "primary": "Claude Code Cloudflare Gateway",
+    "secondary": [
+      "Cloudflare AI Gateway",
+      "multi-model AI proxy",
+      "AI provider abstraction",
+      "Claude Code multi-provider"
+    ],
+    "related": [
+      "Cloudflare Workers AI",
+      "unified API gateway",
+      "AI model routing",
+      "Kimi AI API",
+      "GLM API",
+      "Grok API",
+      "Claude Code proxy setup",
+      "multi-provider AI architecture",
+      "AI cost optimization",
+      "vendor lock-in prevention"
+    ]
+  },
+  "headings": {
+    "h1": "Claude Code Cloudflare Gateway: Multi-Model AI Setup",
+    "h2": [
+      "The Case for Multi-Provider Flexibility",
+      "Understanding Model Strengths",
+      "Avoiding Provider Lock-In",
+      "How the Cloudflare Gateway Works",
+      "Setting Up the Gateway Proxy",
+      "Configuring Models for Claude Code",
+      "Benefits of a Unified AI Backend",
+      "Conclusion"
+    ],
+    "h3": [
+      "Kimi for Long Context Windows",
+      "GLM for Efficient NLP Tasks",
+      "Grok for Real-Time Context",
+      "Claude for Complex Agents",
+      "Dynamic Configuration and Routing",
+      "A/B Testing AI Models",
+      "Centralized Billing and Observability"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "Claude Code proxy setup guide",
+      "suggestedUrl": "/guides/claude-code-proxy"
+    },
+    {
+      "anchor": "Cloudflare Workers tutorial",
+      "suggestedUrl": "/tutorials/cloudflare-workers"
+    },
+    {
+      "anchor": "multi-model AI strategies",
+      "suggestedUrl": "/architecture/multi-model"
+    },
+    {
+      "anchor": "AI provider lock-in risks",
+      "suggestedUrl": "/analysis/provider-lock-in"
+    },
+    {
+      "anchor": "unified AI gateway comparison",
+      "suggestedUrl": "/tools/ai-gateway-tools"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "massoumicyrus/claude-code-cloudflare-gateway",
+      "suggestedUrl": "https://github.com/massoumicyrus/claude-code-cloudflare-gateway"
+    },
+    {
+      "anchor": "Cloudflare Workers documentation",
+      "suggestedUrl": "https://developers.cloudflare.com/workers/"
+    },
+    {
+      "anchor": "Claude Code documentation",
+      "suggestedUrl": "https://docs.anthropic.com/en/docs/claude-code/overview"
+    },
+    {
+      "anchor": "GLM API documentation",
+      "suggestedUrl": "https://open.bigmodel.cn/dev/api"
+    },
+    {
+      "anchor": "Grok API documentation",
+      "suggestedUrl": "https://docs.x.ai/docs"
+    },
+    {
+      "anchor": "Kimi API documentation",
+      "suggestedUrl": "https://kimi.moonshot.cn/"
+    }
+  ],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "TechArticle",
+    "headline": "Claude Code Cloudflare Gateway: Multi-Model AI Setup",
+    "description": "Set up the Claude Code Cloudflare Gateway to switch AI models (Kimi, GLM, Grok) via one proxy. Centralize billing, enhance redundancy, and avoid lock-in.",
+    "datePublished": "2026-07-26T05:42:34.745Z",
+    "dateModified": "2026-07-26T05:42:34.745Z",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://publication.com/claude-code-cloudflare-gateway"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Technology Publication"
+    },
+    "keywords": "Claude Code Cloudflare Gateway, Cloudflare AI Gateway, multi-model AI proxy, AI provider abstraction, Claude Code multi-provider"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "Why did President Trump vow to investigate the EU over tech fines?",
+      "answer": "President Trump vowed to investigate the European Union because it imposed substantial antitrust and data protection fines on major US technology companies like Google, Apple, Meta, and Amazon. He demanded these fines be reversed, framing them as unfair penalties against American firms and a threat to US economic interests. This move escalates existing tensions over how digital markets and platforms should be regulated across the Atlantic."
+    },
+    {
+      "question": "Which US tech companies have been fined by the EU and for what reasons?",
+      "answer": "The EU has fined Google for abusing its market dominance in search and advertising, Apple for anticompetitive practices in its App Store, Meta for privacy violations under GDPR, and Amazon for data protection failures and misuse of seller data. These fines are part of the EU's broader effort to enforce antitrust and digital regulation on large platform companies."
+    },
+    {
+      "question": "What retaliatory actions could the US take against the EU in this dispute?",
+      "answer": "The US could impose tariffs on European goods, restrict EU companies from doing business in the United States, or use the Office of the United States Trade Representative (USTR) to launch formal investigations that lead to trade penalties. Other measures might include blocking EU acquisitions of US firms or retaliatory digital regulations. The exact response depends on the outcome of the announced investigation."
+    },
+    {
+      "question": "How do the EU's Digital Markets Act and Digital Services Act relate to the fines on US tech giants?",
+      "answer": "The Digital Markets Act (DMA) and Digital Services Act (DSA) are new regulatory frameworks that strengthen the EU's ability to designate and regulate large platforms as 'gatekeepers' before they cause harm. While the existing fines were imposed under older antitrust and data protection laws, the DMA and DSA provide additional tools to proactively enforce fair competition, transparency, and accountability—potentially leading to even stricter penalties and obligations for US tech companies in the future."
+    },
+    {
+      "question": "What are the potential implications for global tech regulation if a trade war emerges?",
+      "answer": "A trade war could fragment the global internet into distinct regulatory blocs, forcing tech companies to comply with conflicting rules across markets. It might prompt other countries to align with either the US or EU approach, accelerating the 'Brussels effect' where EU standards spread globally, or inspiring US-backed counter-regulations. For businesses, this would increase compliance costs, legal uncertainty, and strategic complexity."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A cinematic, high-contrast scene of a glowing digital fortress representing a cybersecurity network. A central orchestrator made of flowing luminous data streams connects three abstract AI agents: Thinker (a radiant geometric brain), Worker (a multi-tooled construct), and Verifier (a crystalline shield). Holographic status panels float nearby with graphs showing '86.9%' and '72.1%'. Deep navy and cyber-magenta tones, volumetric lighting, intricate data motes floating in the air, unreal engine 5, 8k, moody and technologically sublime.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Conceptual cinematic rendering of the Fugu-Cyber orchestration model routing tasks between Thinker Worker and Verifier AI agents",
+      "caption": "Concept art visualizing Fugu-Cyber's orchestration architecture."
+    },
+    {
+      "id": "image-2",
+      "prompt": "A clean, professional diagram in a dark blue and teal aesthetic illustrating Fugu-Cyber's three core agents. The Thinker is represented by a glowing brain icon analyzing a complex binary codebase. The Worker is a robotic arm interacting with terminal windows and database tools. The Verifier is a shield icon inspecting a crash proof-of-concept. Flowing luminous arrows connect them in a continuous triangular cycle. Glassmorphism panels, wireframe overtones, isometric perspective, sleek and informative design.",
+      "style": "diagram",
+      "placement": "section-1",
+      "altText": "Technical diagram of Fugu-Cyber's three specialized agent roles Thinker Worker and Verifier in an orchestration triangle",
+      "caption": "Figure 1: The Thinker, Worker, and Verifier roles in the Fugu-Cyber orchestration pipeline."
+    },
+    {
+      "id": "image-3",
+      "prompt": "A dynamic 3D rendered infographic comparing cybersecurity AI benchmark scores. A tall glowing bar chart shows Fugu-Cyber at 86.9% for CyberGym, narrowly edging GPT-5.5-Cyber at 85.6% and Claude Mythos Preview at 83.1%. A secondary chart displays CTI-REALM scores with Fugu-Cyber at 72.1%. Abstract code strings and crash exploit snippets float as holographic data points around the chart. Futuristic server room backdrop, neon blue and magenta lighting, cyberpunk data aesthetic.",
+      "style": "infographic",
+      "placement": "section-2",
+      "altText": "3D data infographic comparing Fugu-Cyber benchmark scores to GPT-5.5-Cyber and Claude Mythos on CyberGym and CTI-REALM",
+      "caption": "Figure 2: Fugu-Cyber benchmark performance against leading models."
+    },
+    {
+      "id": "image-4",
+      "prompt": "A detailed technical illustration of the recursive agentic scaffolding loop architecture. A complex cybersecurity task enters from the top, striking a glowing Thinker node that decomposes the problem. Actionable flows reach Worker nodes executing code and querying vulnerability databases. A feedback arrow twists back through a Verifier node inspecting results and refreshing the plan. Abstract network topology lines, glowing neon pathways on a dark slate blackboard, intricate node-link diagram style.",
+      "style": "illustration",
+      "placement": "section-3",
+      "altText": "Detailed technical illustration of the Fugu-Cyber recursive agentic scaffolding loop with Thinker Worker and Verifier interacting",
+      "caption": "Figure 3: The recursive agentic scaffolding loop driving Fugu-Cyber's performance."
+    },
+    {
+      "id": "image-5",
+      "prompt": "A minimalist conceptual render of a heavily secured API gateway. A central glowing neon padlock icon is superimposed with a badge reading 'Defensive-Use AUP Approved' and an 'EU/EEA Restricted' watermark. A floating holographic pricing display shows '$6 / 1M input tokens' and '$36 / 1M output tokens'. Dark vault-like corridor receding into the distance, laser grid security patterns on the floor, cold blue and amber accents, feeling of exclusive controlled access.",
+      "style": "minimal",
+      "placement": "section-4",
+      "altText": "Minimalist concept art of the gated API access pricing tiers and EU EEA restrictions for Fugu-Cyber",
+      "caption": "Figure 4: Fugu-Cyber access restrictions and API pricing model."
+    }
+  ]
+}

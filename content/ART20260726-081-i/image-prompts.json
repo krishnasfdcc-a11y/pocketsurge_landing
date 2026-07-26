@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A cinematic, low-angle shot of a futuristic digital hub. Glowing neon lines representing data streams connect a central Cloudflare logo to four distinct glowing AI nodes representing Kimi, GLM, Grok, and Claude. The scene uses a cool blue and violet color palette with volumetric lighting creating a sense of depth and high-performance computing. The mood is sleek, powerful, and seamlessly connected.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Central Cloudflare Gateway hub routing data streams to multiple AI models.",
+      "caption": "AI-generated illustration."
+    },
+    {
+      "id": "image-2",
+      "prompt": "A clean, modern vector infographic illustration. Four stylized icons for Kimi, GLM, Grok, and Claude are arranged horizontally across a tech-themed background. Arrows connect specific task icons—a file for log parsing, a globe for web search, a code bracket for analysis, a robot for complex agents—to the corresponding model. The color scheme is corporate and tech-forward with teal and navy gradients. White space is used effectively.",
+      "style": "infographic",
+      "placement": "section-1",
+      "altText": "Infographic mapping specific AI coding tasks to their optimal models.",
+      "caption": ""
+    },
+    {
+      "id": "image-3",
+      "prompt": "A detailed technical architecture diagram illustration. On the far left is a glowing laptop terminal window representing 'Claude Code'. In the center, a prominent Cloudflare logo inside a shield icon acts as the 'Reverse Proxy Gateway'. A magnifying glass inspects an HTTP header. On the right, a cloud icon represents the 'Provider API'. Curved solid arrows show the request path, and dashed arrows show the SSE streaming response. Labels highlight key steps.",
+      "style": "illustration",
+      "placement": "section-2",
+      "altText": "Architecture flow diagram showing reverse proxy request routing.",
+      "caption": ""
+    },
+    {
+      "id": "image-4",
+      "prompt": "A 3D render of a smart traffic management system for digital tokens. Glowing coins and data packets flow into a central processing hub with a Cloudflare logo. Some packets intelligently route to a smaller, efficient path while critical tasks take an express lane. A translucent holographic dashboard displays a bar chart trending downward labeled 'Cost Optimization'. The lighting is sharp, clean, and features a blue neon cyberpunk aesthetic.",
+      "style": "3d-render",
+      "placement": "section-3",
+      "altText": "Holographic dashboard showing AI routing and cost optimization analytics.",
+      "caption": ""
+    }
+  ]
+}

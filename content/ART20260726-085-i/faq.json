@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What is a duress password?",
+      "answer": "A duress password is a specialized code that triggers an emergency action, such as wiping data or locking the device, when entered under coercion. It is designed to protect sensitive information from unauthorized access, especially in high-risk situations like border searches."
+    },
+    {
+      "question": "What legal risks arise from using a duress password to wipe a device during a border search?",
+      "answer": "Using a duress password that destroys data during a legal border search could lead to accusations of spoliation of evidence. The government may argue that you intentionally destroyed potential evidence, while the defense may claim it is a legitimate exercise of your Fifth Amendment rights. The current case will help clarify the legal boundaries."
+    },
+    {
+      "question": "How do the Fourth and Fifth Amendments apply to border device searches?",
+      "answer": "The Fourth Amendment's protection against unreasonable searches is generally limited at the border, allowing warrantless device searches. The Fifth Amendment prohibits compelled self-incrimination, and courts have debated whether providing a password is testimonial. The duress password case adds a new dimension to this legal debate."
+    },
+    {
+      "question": "How can I set up a duress password on my smartphone?",
+      "answer": "Most consumer smartphones do not include a native duress password feature. However, you can use third-party security apps or install specialized operating systems like GrapheneOS that offer panic triggers. For high-security needs, enterprise mobile management solutions can also deploy such capabilities."
+    },
+    {
+      "question": "What precautions should travelers take to protect their digital privacy at the border?",
+      "answer": "Travelers should enable full-disk encryption, use strong passwords, and back up data before crossing borders. Consider using a duress password if available, and minimize sensitive data on devices. Be aware of your legal rights and consult with legal experts if necessary, as refusing to unlock a device may have consequences."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "Why is the intact splashdown of Starship's upper stage such a crucial milestone?",
+      "answer": "It proves that the redesigned heat shield can survive the extreme heat and pressure of orbital reentry, which is essential for reusability. Previous Starship flights ended in destruction, so this success validates the vehicle's design and moves the program closer to operational missions."
+    },
+    {
+      "question": "How does a tower catch work for Starship, and why is it significant?",
+      "answer": "A tower catch uses the launch tower's mechanical arms to grab the returning Starship as it hovers near the ground, eliminating the need for heavy landing legs. This approach, already used for the Super Heavy booster, speeds up refurbishment and turnaround time for future flights."
+    },
+    {
+      "question": "How did the heat shield on Flight 13 perform compared to earlier Starship tests?",
+      "answer": "Flight 13 subjected the heat shield to higher dynamic pressure than any previous Starship reentry, yet nearly all of the 18,000 tiles remained attached and the underlying structure was intact. This is a dramatic improvement over earlier flights that suffered from tile loss and structural failure during reentry."
+    },
+    {
+      "question": "What were the other key achievements on Flight 13 besides the splashdown?",
+      "answer": "SpaceX also deployed live Starlink V3 satellites for the first time and successfully restarted a Raptor engine in space. These capabilities are critical for future missions involving satellite deployment and orbital maneuvering."
+    },
+    {
+      "question": "What is the next major goal for SpaceX after the success of Flight 13?",
+      "answer": "SpaceX plans to attempt a tower catch of the Starship ship on its next flight, pending a successful post-mission review. This would be another major step toward full and rapid reusability of the entire Starship system."
+    }
+  ]
+}

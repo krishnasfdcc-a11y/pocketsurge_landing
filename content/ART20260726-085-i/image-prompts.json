@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A photorealistic image of a smartphone held by a traveler at a U.S. border checkpoint. The screen glows with a red warning: 'Duress Password Active – Data Wipe in Progress.' In the background, a CBP officer stands in uniform, with blurred airport terminal lights. Harsh fluorescent lighting casts cold blue and grey tones. The mood is tense, uneasy, and confrontational.",
+      "style": "photorealistic",
+      "placement": "hero",
+      "altText": "Smartphone at border checkpoint showing duress password warning with CBP officer background",
+      "caption": "AI-generated image representing a border device search"
+    },
+    {
+      "id": "image-2",
+      "prompt": "Cinematic close-up of a hand entering a password on a smartphone keypad. The background shows an airport terminal with out-of-focus travelers. The phone screen transitions from normal to a red wipe screen with binary code fragments. Dramatic shadows and high contrast lighting emphasize the moment of irreversible data destruction. The mood is tense and decisive.",
+      "style": "cinematic",
+      "placement": "section-1",
+      "altText": "Hand entering duress password on smartphone triggering data wipe at airport",
+      "caption": "AI-generated scene depicting the core incident of the legal case"
+    },
+    {
+      "id": "image-3",
+      "prompt": "A clean minimal illustration of a smartphone with a glowing duress password field. A shield icon is superimposed, and underneath a red 'Emergency Wipe' button stands out. The background is dark with subtle binary code patterns. The concept visualizes digital self-defense technology. The style is flat vector with a serious and informative mood, using deep blues and neon accents.",
+      "style": "illustration",
+      "placement": "section-2",
+      "altText": "Smartphone illustration showing duress password and emergency wipe feature",
+      "caption": "AI-generated illustration of duress password concept"
+    },
+    {
+      "id": "image-4",
+      "prompt": "A photorealistic composition blending a smartphone screen with an antique scale of justice. On one side, a gavel; on the other, a digital padlock. The background features a border fence and flowing data streams. The lighting is dramatic with warm amber and cool blue contrast, symbolizing the legal tension between privacy and security. The mood is contemplative and serious.",
+      "style": "photorealistic",
+      "placement": "section-3",
+      "altText": "Scales of justice with smartphone and gavel representing legal battle over duress passwords at border",
+      "caption": "AI-generated image representing the Fourth and Fifth Amendment issues"
+    }
+  ]
+}

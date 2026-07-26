@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A cinematic, photorealistic scene of a crowded stock exchange floor during a sell-off. Traders appear stressed, multiple electronic boards display the S&P 500 and Nasdaq dropping sharply with red arrows. In the background, a large screen shows an oil price surge to $85. Dramatic lighting with deep shadows creates a tense, urgent atmosphere. Smoke and blur enhance the chaotic motion. Wide-angle perspective captures the full frenzy of the market panic.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Stock market panic with red declines and oil price spike, trading floor chaos.",
+      "caption": ""
+    },
+    {
+      "id": "image-2",
+      "prompt": "A photorealistic image illustrating the impact of Middle East tensions on oil supply. An oil refinery stands against a fiery sunset, with a digital overlay of a world map highlighting conflict zones and rising oil prices ($85). Dark storm clouds gather above, and silhouettes of oil tankers suggest disrupted trade routes. Cinematic lighting with warm, dangerous tones conveys heightened geopolitical risk and the threat of inflation.",
+      "style": "photorealistic",
+      "placement": "section-1",
+      "altText": "Geopolitical tensions driving oil price surge and supply disruption risks.",
+      "caption": ""
+    },
+    {
+      "id": "image-3",
+      "prompt": "A digital illustration of disappointed tech investors gathered around a large screen showing cloud earnings misses for major platforms (AWS, Azure, Google Cloud). The screen features red downward arrows and negative percentages. In the foreground, server racks emit a red glow, while investors are silhouetted in a dim room, reflecting a somber mood. The style is clean and professional with a cool blue and red palette, emphasizing the tech sector's downturn.",
+      "style": "illustration",
+      "placement": "section-2",
+      "altText": "Tech earnings misses cloud cloud computing outlook, investors disappointed.",
+      "caption": ""
+    },
+    {
+      "id": "image-4",
+      "prompt": "A photorealistic view of the Federal Reserve building in Washington D.C. under overcast skies. In the foreground, a desk displays the July meeting minutes document, a gavel, and a monitor showing rising bond yield charts and the word 'Hawkish'. The image conveys seriousness and monetary policy anxiety. Muted colors, slight vignette, and shallow depth of field focus attention on the documents and screen, symbolizing the Fed's tightening stance.",
+      "style": "photorealistic",
+      "placement": "section-3",
+      "altText": "Hawkish Fed minutes causing bond yield rise and anxiety over rate cuts.",
+      "caption": ""
+    }
+  ]
+}

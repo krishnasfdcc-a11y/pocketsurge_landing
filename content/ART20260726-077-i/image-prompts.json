@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A cinematic, high-contrast scene of a glowing AI brain model suspended in a dark server room, with digital screens showing lines of code and a faint red ALERT light. Webs of data streams connect to models on shelves, but one model has a subtle malicious red glow, while others are blue. The atmosphere is tense and ominous with dramatic lighting.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Cinematic depiction of a hacked AI model glowing red in a server room",
+      "caption": "Artist's rendering of a compromised AI model in a data center."
+    },
+    {
+      "id": "image-2",
+      "prompt": "An infographic style diagram illustrating the AI supply chain attack flow: from left, a compromised developer environment (laptop with cracked screen icon) to uploading a malicious model (Trojan horse icon) to Hugging Face hub (icon of repository), then download arrows to various users (laptop icons). Dark theme with red highlighted attack path, blue safe path. Typography: 'Compromise', 'Inject', 'Upload', 'Distribute'. Clean lines and icons.",
+      "style": "infographic",
+      "placement": "section-1",
+      "altText": "Infographic of the AI model supply chain attack flow",
+      "caption": "Figure 1: Attack flow diagram."
+    },
+    {
+      "id": "image-3",
+      "prompt": "An illustration of a shelf of identical robot heads representing AI models, all looking friendly and functional, but one robot head has a tiny red light in its eye indicating it is malicious, while the others are blue. The background is a clean tech lab with workers confident. The malicious robot blends in perfectly, symbolizing stealth. Bright sterile lighting with a hint of suspense.",
+      "style": "illustration",
+      "placement": "section-2",
+      "altText": "Illustration of a malicious AI model disguised among benign ones",
+      "caption": ""
+    },
+    {
+      "id": "image-4",
+      "prompt": "A 3D render of a chain reaction: a single glowing poisoned AI model at the center emitting red particles that infect multiple downstream project icons (Jupyter notebooks, APIs, apps) in a web. The style is futuristic and clean with white background and red hazard symbols. Lighting is bright and clinical, emphasizing the spread of contamination.",
+      "style": "3d-render",
+      "placement": "section-3",
+      "altText": "3D render of a poisoned AI model spreading contamination to downstream projects",
+      "caption": ""
+    }
+  ]
+}

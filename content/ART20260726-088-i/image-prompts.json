@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A cinematic, photorealistic scene of a sleek modern financial command center. A large transparent OLED table displays a complex glowing holographic portfolio blending stock market candlestick charts with floating Bitcoin network nodes. Soft, emotional lighting casts dramatic shadows. A dark, rich color palette of deep blues and neon oranges. Mood is strategic, focused, and cautiously optimistic. High resolution, 8k, depth of field, ray tracing.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Cinematic holographic portfolio blending Bitcoin and stock charts on a dark financial trading table.",
+      "caption": "Crypto is increasingly seen as a strategic portfolio asset, but allocation is key."
+    },
+    {
+      "id": "image-2",
+      "prompt": "A 3D rendered infographic. A minimalist white high-tech lab. Two transparent pillars rise from the ground. The left pillar flows with golden ticker data (S&P 500), the right pillar glows with orange digital energy (Bitcoin). A floating transparent 3D text reading 'r = 0.3' links them with a thin blue data stream. Clean softbox lighting, long shadows, futuristic and analytical mood. Sharp focus, Isometric perspective.",
+      "style": "3d-render",
+      "placement": "section-1",
+      "altText": "3D infographic of Bitcoin and S&P 500 pillars linked by a low correlation factor of 0.3.",
+      "caption": "Bitcoin's low correlation with stocks offers diversification potential."
+    },
+    {
+      "id": "image-3",
+      "prompt": "Extreme close-up macro 3D render of a portfolio pie chart splitting apart. The main body is polished matte silver and gold. A thin, dynamic slice representing crypto violently detaches and floats upwards. This slice glows intensely with neon orange and electric blue light. Sparks and digital particles fly off the glowing slice. Dark blurred background, dramatic side lighting emphasizing texture and glow. Cinematic lighting, hyperrealistic textures.",
+      "style": "3d-render",
+      "placement": "section-2",
+      "altText": "Macro 3D render of a portfolio pie chart with a glowing 5% Bitcoin slice detaching.",
+      "caption": "Experts suggest a 2-5% allocation to crypto for optimal risk-adjusted returns."
+    },
+    {
+      "id": "image-4",
+      "prompt": "A cinematic illustration of a tightrope walker balancing above a stormy digital ocean. The tightrope is a volatile Bitcoin price chart, spiking up and down wildly. The ocean below is composed of swirling stock market tickers. The sky is a dramatic sunset of deep reds and calming blues, representing balance. The walker carries a perfectly steady glowing blue rod. Narrative, allegorical mood.",
+      "style": "illustration",
+      "placement": "section-3",
+      "altText": "Illustration of a tightrope walker balancing on a volatile Bitcoin chart above a stormy stock market ocean.",
+      "caption": "Managing risk is crucial when the underlying asset has 80% volatility."
+    },
+    {
+      "id": "image-5",
+      "prompt": "Clean, professional flat vector infographic in a modern corporate style. Soft pastel background. Three stylized human silhouettes in white. Left: A conservative figure holding a small shield with a 1% Bitcoin symbol, surrounded by solid vaults. Middle: A moderate figure balancing scales with bonds on one side and a 3% crypto on the other. Right: An aggressive figure launching a rocket containing a 5% altcoin allocation. Minimalist, clear icons. Soft shading.",
+      "style": "infographic",
+      "placement": "section-4",
+      "altText": "Infographic showing conservative, moderate, and aggressive investor profiles with their respective crypto allocations.",
+      "caption": "Your risk tolerance dictates your crypto allocation strategy."
+    }
+  ]
+}

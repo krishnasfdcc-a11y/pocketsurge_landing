@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "Who is Phineas Fisher?",
+      "answer": "Phineas Fisher is the alias of an anonymous hacktivist who breached spyware companies Gamma Group in 2014 and Hacking Team in 2015, leaking over 400GB of internal data. They are known for exposing the global surveillance industry and have never been identified or arrested."
+    },
+    {
+      "question": "How did Phineas Fisher hack Hacking Team?",
+      "answer": "Fisher exploited a zero-day vulnerability in Hacking Team's infrastructure, using methods like password reuse and SQL injection to gain network access. They later published a detailed technical write-up explaining the attack."
+    },
+    {
+      "question": "Why did Phineas Fisher target these spyware companies?",
+      "answer": "Fisher targeted companies like Gamma Group and Hacking Team to expose what they viewed as unethical surveillance practices. They believed these companies enabled government repression and human rights abuses by selling spyware to authoritarian regimes."
+    },
+    {
+      "question": "What impact did the Hacking Team leak have?",
+      "answer": "The leak exposed Hacking Team's clients in over 40 countries, including evidence of targeting journalists and activists. It sparked public debate on surveillance, led to legal consequences for some clients, and increased scrutiny of the spyware industry."
+    },
+    {
+      "question": "How has Phineas Fisher avoided being caught?",
+      "answer": "Fisher maintained strict operational security by using anonymous networks like Tor, encrypted communication, and never mixing their hacktivist persona with real identity. Their careful opsec has kept them unidentified despite a decade-long investigation."
+    }
+  ]
+}

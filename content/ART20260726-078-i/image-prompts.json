@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A cinematic 3D render of a central glowing hub labeled 'Forge OS' connecting multiple AI agent nodes with luminous lines, set in a high-tech server room with blue and orange neon lighting, deep shadows, dynamic camera angle, sleek metallic surfaces, particles floating, futuristic and powerful mood.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Futuristic 3D render of Forge OS control plane connecting AI agents in a server room",
+      "caption": "Concept visualization of Forge OS as central orchestrator"
+    },
+    {
+      "id": "image-2",
+      "prompt": "Split screen isometric illustration: left side shows chaotic disconnected AI agents with red exclamation marks, right side shows organized agents linked through a glowing central node labeled 'Control Plane', clean flat vector art, blue and white tech theme, clear contrast between disorder and order, professional diagram style.",
+      "style": "illustration",
+      "placement": "section-1",
+      "altText": "Illustration comparing chaotic multi-agent system before and after using a control plane",
+      "caption": ""
+    },
+    {
+      "id": "image-3",
+      "prompt": "Technical architecture diagram of Forge OS with stacked layers: Skill Routing, Context Governance, Trustworthy Execution, Security, Multi-Agent Orchestration. Each layer in a distinct color block with icons and arrows showing data flow, dark background, neon green and blue highlights, modern flat design, highly detailed and readable.",
+      "style": "diagram",
+      "placement": "section-2",
+      "altText": "Architecture diagram of Forge OS layers and data flow",
+      "caption": "Forge OS core capabilities overview"
+    },
+    {
+      "id": "image-4",
+      "prompt": "Infographic showing 248% year-over-year growth of generative AI projects on GitHub, with stylized bar chart rising dramatically, GitHub logo, AI chip and open source icons, modern flat design, gradient background in purple and orange, clean typography, data visualization focused on growth trend.",
+      "style": "infographic",
+      "placement": "section-3",
+      "altText": "Infographic of 248% growth in generative AI projects on GitHub in 2023",
+      "caption": "Data from GitHub Octoverse Report 2023"
+    }
+  ]
+}

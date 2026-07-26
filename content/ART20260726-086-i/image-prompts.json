@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A dramatic cinematic scene depicting a legal standoff between a tech company and a streaming giant. A glowing Netflix logo sits behind bars of a gavel. Hands hold a formal legal document with a red 'DEFAMATION' stamp and a 'CEASE & DESIST' letterhead. Broken film reel scattered on a dark mahogany table. Cinematic lighting, volumetric rays, shallow depth of field, moody atmosphere.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Kalshi Netflix legal battle over Prediction Games trailer defamation",
+      "caption": "Visual representation of the legal clash between Kalshi and Netflix."
+    },
+    {
+      "id": "image-2",
+      "prompt": "A hyper-realistic close-up of legal documents on a glass desk. A magnifying glass hovers over the word 'fabricated' on a document with a Netflix logo watermarked in the background. A USB drive labeled 'EVIDENCE' lies nearby. A lawyer's hand points at a specific paragraph. Cold blue and white color palette, sharp focus, photorealistic, lens flare, high detail.",
+      "style": "photorealistic",
+      "placement": "section-1",
+      "altText": "Kalshi legal demand alleges fabricated documents in Netflix trailer",
+      "caption": "Close-up of the alleged fabricated evidence in the documentary."
+    },
+    {
+      "id": "image-3",
+      "prompt": "A high-tech 3D render showing a glowing digital interface of a prediction market. A screen displays 'Event Contracts' with binary options like 'Yes/No' and live probability percentages. Holographic candlestick charts and data streams flow around a sleek screen. The interface is superimposed over a dark cybernetic background. Blue and gold accents, volumetric lighting, futuristic clean design.",
+      "style": "3d-render",
+      "placement": "section-2",
+      "altText": "Kalshi prediction market platform CFTC regulated event contracts",
+      "caption": "Kalshi's regulated platform for event contracts."
+    },
+    {
+      "id": "image-4",
+      "prompt": "An abstract illustration of a film clapperboard that is shattered, with pieces floating in the air. One piece shows the word 'TRUTH', another shows 'FICTION'. A courtroom scale is balanced on top of the clapperboard. The background is a dark newsroom with blurred screens. Ethereal glow, mixed media style, symbolic, dramatic contrast.",
+      "style": "illustration",
+      "placement": "section-3",
+      "altText": "Documentary filmmaking ethics defamation prediction markets",
+      "caption": "The tension between narrative and truth in documentary film."
+    },
+    {
+      "id": "image-5",
+      "prompt": "A cinematic shot of a modern boardroom or crisis management center. A large screen covers the wall showing a live news broadcast with the headline 'TECH vs MEDIA: Defamation Showdown'. Silhouettes of business executives and lawyers look at the screen. The mood is tense and serious. City lights visible through floor-to-ceiling windows. High contrast, anamorphic lens style.",
+      "style": "cinematic",
+      "placement": "section-4",
+      "altText": "Reputational risk tech companies media portrayals fintech",
+      "caption": "The reputational stakes for fintech in the media spotlight."
+    }
+  ]
+}

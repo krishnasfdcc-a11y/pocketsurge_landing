@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What does it mean for cryptocurrency to have a low correlation with stocks?",
+      "answer": "Low correlation means that the price movements of crypto and stocks are not strongly aligned. For example, Bitcoin's 12-month correlation with the S&P 500 is around 0.3, so when stocks fall, crypto doesn't necessarily follow. This can help smooth portfolio returns, but the benefit is not guaranteed because correlation often spikes during market turmoil."
+    },
+    {
+      "question": "How should I start adding cryptocurrency to my portfolio?",
+      "answer": "Start with a small allocation of 2-5% of your total portfolio, in line with expert recommendations. Choose a regulated exchange, and consider beginning with a well-established asset like Bitcoin. Implement strict risk management by setting a target allocation and planning to rebalance periodically to maintain that proportion."
+    },
+    {
+      "question": "Does Bitcoin offer better diversification than other cryptocurrencies?",
+      "answer": "Generally, yes. Bitcoin tends to have a lower correlation with traditional assets than many altcoins, partly due to its larger market cap and longer history. Altcoins may be more volatile and more tied to the tech sector, which can reduce their diversification benefits. Many experts suggest starting with Bitcoin for this reason."
+    },
+    {
+      "question": "Why might my crypto holdings fail to reduce portfolio risk?",
+      "answer": "Crypto's diversification benefit can disappear during market-wide sell-offs when correlations spike. Also, if your allocation exceeds 5%, crypto's extreme volatility (Bitcoin has 80% annualized volatility) can increase overall portfolio risk rather than reduce it. Inadequate risk management, like failing to rebalance, can also undermine the strategy."
+    },
+    {
+      "question": "What risk management techniques work best for crypto in a portfolio?",
+      "answer": "Experts recommend a fixed allocation cap (2-5%) and regular rebalancing to keep exposure in check. Using stop-loss orders and taking profits during sharp rallies can help lock in gains and limit losses. Because correlation and volatility shift over time, periodic review of your crypto position is essential."
+    }
+  ]
+}

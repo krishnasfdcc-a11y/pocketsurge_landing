@@ -1,0 +1,21 @@
+{
+  "slug": "mryl-a-devops-control-plane-for-linuxgsm-game-servers",
+  "title": "MRYL: A DevOps Control Plane for LinuxGSM Game Servers",
+  "excerpt": "MRYL is an open-source tool that provides a centralized control plane for LinuxGSM game servers within Docker containers, enabling DevOps workflows. It simplifies fleet management, backups, and scaling while giving teams full autonomy over their infrastructure.",
+  "keywords": [
+    "MRYL",
+    "game server management",
+    "DevOps game servers",
+    "LinuxGSM",
+    "Docker containers"
+  ],
+  "readingTime": 8,
+  "wordCount": 1453,
+  "category": "devops",
+  "researchId": "20b363ec-77c9-4848-b927-0a93d6cdb865",
+  "topicId": "af8c6572-e832-4743-887d-282adbf32694",
+  "generatedAt": "2026-07-26T05:47:48.871Z",
+  "description": "MRYL is an open-source tool that provides a centralized control plane for LinuxGSM game servers within Docker containers, enabling DevOps workflows. It simplifies fleet management, backups, and scaling while giving teams full autonomy over their infrastructure.",
+  "status": "approved",
+  "approvedAt": "2026-07-26T06:55:05.889Z"
+}

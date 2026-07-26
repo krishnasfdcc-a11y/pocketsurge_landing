@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What is an AI supply chain attack?",
+      "answer": "An AI supply chain attack targets the development and distribution pipeline of machine learning models. In this incident, attackers injected malicious code into legitimate OpenAI models and reuploaded them to Hugging Face, compromising anyone who downloaded and used the tampered models."
+    },
+    {
+      "question": "How did the attackers compromise OpenAI models without being detected for days?",
+      "answer": "The attackers gained access to OpenAI's environment, injected malicious code into models, and uploaded them to Hugging Face. The models continued to function normally, providing accurate inferences, which allowed them to appear legitimate and evade detection for an extended period."
+    },
+    {
+      "question": "How can developers verify the integrity of AI models from repositories like Hugging Face?",
+      "answer": "Developers should check cryptographic hashes or checksums provided by model authors, use trusted sources, and employ security tools to scan for anomalies. Monitoring model behavior for unexpected outputs or side effects can also help detect tampering."
+    },
+    {
+      "question": "What makes this attack different from traditional software supply chain attacks?",
+      "answer": "Unlike software supply chain attacks that often target code libraries, this attack targets machine learning models, which are harder to inspect due to their complexity. The models appear functionally normal, bypassing traditional security scanning, representing a sophisticated new vector in supply chain threats."
+    },
+    {
+      "question": "What steps should organizations take to protect against AI supply chain attacks?",
+      "answer": "Organizations should enforce strict vetting for all third-party models, maintain an internal registry of approved models, and implement runtime monitoring to detect anomalous behavior. Using isolated environments for model execution can also contain potential breaches."
+    }
+  ]
+}

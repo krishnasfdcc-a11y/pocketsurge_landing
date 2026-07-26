@@ -1,0 +1,100 @@
+{
+  "title": "Forge OS: Open-Source AI Agent Orchestration Control Plane",
+  "metaDescription": "Forge OS open-source control plane for AI agent orchestration with skill routing, context governance, and trustworthy execution. Simplify multi-agent systems.",
+  "keywords": {
+    "primary": "AI agent orchestration",
+    "secondary": [
+      "Forge OS",
+      "multi-agent orchestration",
+      "open-source control plane",
+      "AI infrastructure",
+      "trustworthy AI execution"
+    ],
+    "related": [
+      "agent skills routing",
+      "context governance",
+      "AI agents control plane",
+      "multi-agent systems",
+      "AI agent framework",
+      "open-source AI tools",
+      "agent orchestration platform",
+      "secure AI execution",
+      "AI agent security",
+      "LLM orchestration"
+    ]
+  },
+  "headings": {
+    "h1": "Forge OS: Open-Source AI Agent Orchestration Control Plane",
+    "h2": [
+      "Why AI Agents Need a Control Plane",
+      "Inside Forge OS: Core Capabilities",
+      "Key Features of Forge OS",
+      "Getting Started with Forge OS",
+      "Use Cases for Multi-Agent Orchestration"
+    ],
+    "h3": [
+      "Skill Routing and Context Management",
+      "Security and Trustworthy Execution",
+      "Scalability and Performance"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "AI agent orchestration best practices",
+      "suggestedUrl": "/blog/ai-agent-orchestration-best-practices"
+    },
+    {
+      "anchor": "Multi-agent systems 101",
+      "suggestedUrl": "/blog/multi-agent-systems-101"
+    },
+    {
+      "anchor": "Getting started with Forge OS",
+      "suggestedUrl": "/docs/forge-os-getting-started"
+    },
+    {
+      "anchor": "Open-source AI tools roundup",
+      "suggestedUrl": "/blog/open-source-ai-tools"
+    },
+    {
+      "anchor": "Building agentic workflows tutorial",
+      "suggestedUrl": "/tutorials/building-agentic-workflows"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "GitHub Octoverse report on generative AI growth",
+      "suggestedUrl": "https://github.blog/2023-11-08-the-state-of-open-source-and-ai/"
+    },
+    {
+      "anchor": "IBM AI agents overview",
+      "suggestedUrl": "https://www.ibm.com/topics/ai-agents"
+    },
+    {
+      "anchor": "Open Source Initiative",
+      "suggestedUrl": "https://opensource.org/"
+    },
+    {
+      "anchor": "Control plane definition on NGINX",
+      "suggestedUrl": "https://www.nginx.com/resources/glossary/control-plane/"
+    }
+  ],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Forge OS: Open-Source AI Agent Orchestration Control Plane",
+    "description": "Forge OS open-source control plane for AI agent orchestration with skill routing, context governance, and trustworthy execution. Simplify multi-agent systems.",
+    "datePublished": "2026-07-26T05:37:12.066Z",
+    "author": {
+      "@type": "Person",
+      "name": "Your Name"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Your Publication"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://yourwebsite.com/blog/forge-os-open-source-control-plane-ai-agent-orchestration"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "web3-dapp-development-a-practical-guide-to-hardhat-and-docker",
+  "title": "Web3 DApp Development: A Practical Guide to Hardhat and Docker",
+  "excerpt": "Discover the practical approach to Web3 DApp development using Hardhat and Docker environment management. Based on the kongali1720/web3-apps repository, this article provides insights into modern tooling and best practices for building decentralized applications efficiently.",
+  "keywords": [
+    "Web3 DApp development",
+    "Hardhat Ethereum",
+    "Docker blockchain development",
+    "smart contract development",
+    "Ethereum development framework",
+    "Web3 DevOps",
+    "WSL2 blockchain"
+  ],
+  "readingTime": 5,
+  "wordCount": 948,
+  "category": "devops",
+  "researchId": "6f70548c-2e1c-4624-92af-c05f58eb9dd8",
+  "topicId": "568b5d2f-b3da-4b46-95a3-2b2ab7c68dcd",
+  "generatedAt": "2026-07-26T06:01:05.781Z",
+  "description": "Discover the practical approach to Web3 DApp development using Hardhat and Docker environment management. Based on the kongali1720/web3-apps repository, this article provides insights into modern tooling and best practices for building decentralized applications efficiently.",
+  "status": "approved",
+  "approvedAt": "2026-07-26T06:55:05.917Z"
+}

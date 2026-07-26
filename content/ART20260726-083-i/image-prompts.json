@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A wide cinematic shot of a sprawling futuristic city at night, with towering skyscrapers covered in holographic ads, neon lights in blue, pink, and green, rain-slicked streets, and a gloomy sky reminiscent of static on a dead TV channel. The scene is gritty and immersive, evoking the cyberpunk aesthetic of William Gibson's Neuromancer. High resolution, photorealistic, moody lighting with deep shadows.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Cinematic cyberpunk cityscape from Apple TV's Neuromancer adaptation at night",
+      "caption": "The Sprawl as imagined in Apple TV+'s Neuromancer"
+    },
+    {
+      "id": "image-2",
+      "prompt": "Digital illustration depicting a timeline from 1984 to 2027, with a stack of Neuromancer books in the background, a TV screen showing the series, and ghostly outlines of failed film attempts. Neon accents and data streams connect the elements, symbolizing the adaptation journey. Style: flat vector with cyberpunk influences, vibrant colors, and clean lines.",
+      "style": "illustration",
+      "placement": "section-1",
+      "altText": "Timeline of Neuromancer adaptation from 1984 novel to 2027 TV series",
+      "caption": "The 42-year journey from novel to screen"
+    },
+    {
+      "id": "image-3",
+      "prompt": "A view from inside the matrix, with abstract neon data flows in blue and green, a silhouette of a console cowboy jacking in with wires, and a reflection of Chiba City streets in the background. The scene is cinematic with practical sets and digital overlays, creating a tangible digital world. Photorealistic with lens flares, deep shadows, and high contrast.",
+      "style": "photorealistic",
+      "placement": "section-2",
+      "altText": "Neon matrix visualization and Chiba City street in Neuromancer trailer",
+      "caption": "The iconic matrix comes to life"
+    },
+    {
+      "id": "image-4",
+      "prompt": "Close-up portrait of Case and Molly from Neuromancer adaptation, set in a neon-lit alley with rain. Case has a weary face with stubble and a cybernetic interface on his temple; Molly has mirrored sunglasses and retractable blade fingernails. Photorealistic style with high contrast, cool blues, and warm neon pinks, capturing their desperate and deadly personas.",
+      "style": "photorealistic",
+      "placement": "section-3",
+      "altText": "Character portraits of Case and Molly in Apple TV's Neuromancer adaptation",
+      "caption": "Case and Molly: iconic cyberpunk characters"
+    },
+    {
+      "id": "image-5",
+      "prompt": "A split-screen collage with the original Neuromancer book cover on one side and a still from the series on the other, featuring the Tessier-Ashpool symbol and Wintermute as a glowing AI form. Minimalist design with clean lines, neon borders, and text annotations highlighting key elements. Infographic style with a focus on faithfulness.",
+      "style": "infographic",
+      "placement": "section-4",
+      "altText": "Comparison infographic of Neuromancer book cover and series key elements",
+      "caption": "Examining the faithful adaptation"
+    }
+  ]
+}

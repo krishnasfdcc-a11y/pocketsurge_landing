@@ -1,0 +1,78 @@
+{
+  "title": "Phineas Fisher: The Hacktivist Who Exposed Spyware",
+  "metaDescription": "Discover how Phineas Fisher breached spyware vendors Hacking Team and Gamma Group, leaking 400GB of data. The hacktivist's methods and impact on surveillance.",
+  "keywords": {
+    "primary": "Phineas Fisher",
+    "secondary": [
+      "hacktivist",
+      "spyware",
+      "Hacking Team",
+      "Gamma Group",
+      "government surveillance"
+    ],
+    "related": [
+      "zero-day exploit",
+      "operational security",
+      "surveillance industry",
+      "cybersecurity hack",
+      "data leak",
+      "hacktivism",
+      "FinFisher",
+      "Pastebin manifesto",
+      "bounty",
+      "security breach"
+    ]
+  },
+  "headings": {
+    "h1": "Phineas Fisher: The Hacktivist Who Exposed Spyware and Got Away",
+    "h2": [
+      "The Rise of Phineas Fisher",
+      "Gamma Group: The First Strike",
+      "Hacking Team: The Watershed Moment"
+    ],
+    "h3": []
+  },
+  "internalLinks": [
+    {
+      "anchor": "Gamma Group hack",
+      "suggestedUrl": "/gamma-group-breach"
+    },
+    {
+      "anchor": "Hacking Team data leak",
+      "suggestedUrl": "/hacking-team-leak"
+    },
+    {
+      "anchor": "Pastebin manifesto",
+      "suggestedUrl": "/phineas-fisher-manifesto"
+    },
+    {
+      "anchor": "zero-day exploits",
+      "suggestedUrl": "/zero-day-exploits-in-surveillance"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "Wired article on Phineas Fisher",
+      "suggestedUrl": "https://www.wired.com/story/the-mysterious-hacktivist-who-took-on-spyware-makers/"
+    },
+    {
+      "anchor": "The Guardian coverage of Hacking Team leak",
+      "suggestedUrl": "https://www.theguardian.com/world/2015/jul/07/hacking-team-leak-reveals-worldwide-surveillance-network"
+    },
+    {
+      "anchor": "Gamma Group bounty announcement",
+      "suggestedUrl": "https://www.reuters.com/article/us-cybersecurity-gamma-idUSKCN0GX2KJ"
+    }
+  ],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Phineas Fisher: The Hacktivist Who Exposed Spyware and Got Away",
+    "description": "The story of Phineas Fisher, the elusive hacktivist who breached Gamma Group and Hacking Team, leaking 400GB of data and exposing global government surveillance. Learn how they did it, why they've never been caught, and the lasting impact on the spyware industry.",
+    "datePublished": "2026-07-26T05:35:44.358Z",
+    "author": {
+      "@type": "Person",
+      "name": "Author Name"
+    }
+  }
+}

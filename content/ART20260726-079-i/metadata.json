@@ -1,0 +1,21 @@
+{
+  "slug": "lynx-the-dual-purpose-javascript-api-client-and-http-server",
+  "title": "Lynx: The Dual-Purpose JavaScript API Client and HTTP Server",
+  "excerpt": "Discover Lynx, an open-source JavaScript repository that functions as both a robust API client and a lightweight HTTP server. Learn how this unified interface simplifies HTTP operations for developers, backed by industry trends showing rising API tool usage and JavaScript's dominance in API development.",
+  "keywords": [
+    "Lynx",
+    "JavaScript API client",
+    "lightweight HTTP server",
+    "open-source JavaScript repository",
+    "API development tools"
+  ],
+  "readingTime": 5,
+  "wordCount": 955,
+  "category": "technology",
+  "researchId": "26006ee5-c62d-4210-a983-a71efc65a9db",
+  "topicId": "dd0e7315-d214-4209-a12f-d0da9dc9e87a",
+  "generatedAt": "2026-07-26T05:37:45.861Z",
+  "description": "Discover Lynx, an open-source JavaScript repository that functions as both a robust API client and a lightweight HTTP server. Learn how this unified interface simplifies HTTP operations for developers, backed by industry trends showing rising API tool usage and JavaScript's dominance in API development.",
+  "status": "approved",
+  "approvedAt": "2026-07-26T06:55:05.874Z"
+}

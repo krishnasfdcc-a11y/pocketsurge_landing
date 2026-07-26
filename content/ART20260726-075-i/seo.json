@@ -1,0 +1,102 @@
+{
+  "title": "Fugu-Cyber: 86.9% CyberGym, 72.1% CTI-REALM Scores",
+  "metaDescription": "Fugu-Cyber from Sakana AI tops CyberGym (86.9%) and CTI-REALM (72.1%) but with restricted access. Understand the impact on AI-driven cybersecurity.",
+  "keywords": {
+    "primary": "Fugu-Cyber",
+    "secondary": [
+      "Sakana AI",
+      "orchestration model",
+      "CyberGym benchmark",
+      "CTI-REALM",
+      "agentic scaffolding"
+    ],
+    "related": [
+      "cybersecurity AI",
+      "vulnerability discovery AI",
+      "LLM orchestration",
+      "AI penetration testing",
+      "GPT-5.5-Cyber",
+      "Claude Mythos Preview",
+      "AI model access restrictions",
+      "defensive use AI"
+    ]
+  },
+  "headings": {
+    "h1": "Fugu-Cyber: 86.9% CyberGym, 72.1% CTI-REALM Scores",
+    "h2": [
+      "Understanding Fugu-Cyber: Orchestration Over Raw Power",
+      "Benchmark Performance: CyberGym and CTI-REALM",
+      "Access Restrictions and Pricing Details",
+      "Implications for Cybersecurity Professionals"
+    ],
+    "h3": [
+      "CyberGym: Real-World Vulnerability Discovery with 86.9%",
+      "CTI-REALM: Detection Engineering at 72.1%",
+      "The Thinker, Worker, Verifier Architecture",
+      "Token Plan Pricing: $6 per Million Input Tokens"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "Sakana AI overview",
+      "suggestedUrl": "/company/sakana-ai"
+    },
+    {
+      "anchor": "AI cybersecurity benchmarks in 2026",
+      "suggestedUrl": "/ai-cybersecurity-benchmarks-2026"
+    },
+    {
+      "anchor": "What is an orchestration model?",
+      "suggestedUrl": "/orchestration-models-ai"
+    },
+    {
+      "anchor": "CyberGym benchmark explained",
+      "suggestedUrl": "/cyber-gym-benchmark-deep-dive"
+    },
+    {
+      "anchor": "CTI-REALM benchmark analysis",
+      "suggestedUrl": "/cti-realm-benchmark"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "CyberGym benchmark (UC Berkeley)",
+      "suggestedUrl": "https://cybergym.berkeley.edu"
+    },
+    {
+      "anchor": "Sakana AI official announcement",
+      "suggestedUrl": "https://sakana.ai/blog/fugu-cyber"
+    },
+    {
+      "anchor": "OSS-Fuzz project",
+      "suggestedUrl": "https://github.com/google/oss-fuzz"
+    },
+    {
+      "anchor": "CTI-REALM benchmark",
+      "suggestedUrl": "https://cti-realm.org"
+    },
+    {
+      "anchor": "Fugu-Cyber pricing details",
+      "suggestedUrl": "https://sakana.ai/pricing"
+    }
+  ],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Fugu-Cyber: 86.9% CyberGym, 72.1% CTI-REALM Scores",
+    "description": "Fugu-Cyber from Sakana AI tops CyberGym (86.9%) and CTI-REALM (72.1%) but with restricted access. Understand the impact on AI-driven cybersecurity.",
+    "datePublished": "2026-07-26T05:34:09.328Z",
+    "author": {
+      "@type": "Person",
+      "name": "Staff Writer"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Publication Name"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://example.com/fugu-cyber-86-9-cybergym"
+    }
+  }
+}

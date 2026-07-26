@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A dramatic cinematic scene of a bustling international shipping port, with cargo containers stacked high, some painted with flags of Canada and Brazil, and US customs officials inspecting goods. Storm clouds gather overhead, symbolizing trade tension. Warm lighting and deep shadows, realistic textures, 4k, highly detailed.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Tariffs on Canada and Brazil spark legal challenge at busy US port",
+      "caption": "Image credit: AI Generated"
+    },
+    {
+      "id": "image-2",
+      "prompt": "A detailed illustration of a courtroom, with a judge's bench and a gavel in the foreground, and legal documents titled 'IEEPA Challenge' scattered on the table. The background shows a blurred American flag and a scales of justice. Warm, authoritative lighting, parchment textures, legal atmosphere.",
+      "style": "illustration",
+      "placement": "section-1",
+      "altText": "Courtroom scene with IEEPA legal documents and judge gavel AI illustration",
+      "caption": "Illustration by AI"
+    },
+    {
+      "id": "image-3",
+      "prompt": "A 3D render of a global supply chain network, with nodes representing the US, Canada, and Brazil connected by glowing lines. Tech components like microchips and steel beams are visible, with 25% and 50% tag signs on the Canada and Brazil nodes. Minimalist, clean design, data visualization style, blue and orange color palette.",
+      "style": "3d-render",
+      "placement": "section-2",
+      "altText": "3D supply chain map showing tariff impact on US tech components from Brazil and Canada",
+      "caption": "3D render by AI"
+    },
+    {
+      "id": "image-4",
+      "prompt": "A clean infographic showing a rising trend line on a chart, labeled 'Tariff Escalation 2025-2026' and 'Legal Challenges', with small icons of lawsuits and trade barriers. The background is a world map with highlighted trade routes. Professional, corporate style, sharp lines, blue and white colors.",
+      "style": "infographic",
+      "placement": "section-3",
+      "altText": "Infographic chart of rising tariff escalation and legal challenges 2025-2026",
+      "caption": "AI generated infographic"
+    }
+  ]
+}

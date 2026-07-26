@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What were the four key forces that caused the stock market decline this week?",
+      "answer": "The four forces were escalating Middle East tensions that spiked oil prices, disappointing earnings from major cloud computing companies, a hawkish Federal Reserve stance signaled in recent minutes, and an unexpected FDA drug rejection that hammered healthcare stocks. Their combination led to a 2.8% drop in the S&P 500, its worst week in three months."
+    },
+    {
+      "question": "How does rising oil prices typically affect technology stocks?",
+      "answer": "Higher oil prices increase operating costs for many companies, including tech firms with logistics dependencies, which can compress margins. More broadly, they feed into inflation concerns, prompting the Fed to maintain high interest rates, which reduces the present value of future tech earnings. This dual effect on costs and valuation makes growth-oriented tech stocks particularly sensitive to oil price spikes."
+    },
+    {
+      "question": "Why are cloud computing earnings considered bellwethers for the broader tech market?",
+      "answer": "Cloud computing companies like AWS, Azure, and Google Cloud reflect enterprise IT spending trends, so weak results signal that businesses may be cutting back on technology investments. Because cloud providers serve a wide range of industries, their performance offers an early read on overall corporate confidence. This makes their earnings reports highly influential on tech sector sentiment."
+    },
+    {
+      "question": "What does a hawkish Fed mean and how does it impact stock valuations?",
+      "answer": "A hawkish Fed prioritizes controlling inflation through tighter monetary policy, typically by raising interest rates or reducing its balance sheet. Higher rates increase borrowing costs for companies, slow economic growth, and make future cash flows less valuable, leading to lower stock valuations. Growth stocks—including many in tech—are especially vulnerable because their value depends heavily on distant earnings."
+    },
+    {
+      "question": "What can investors do to protect their portfolios from sector-specific shocks like the FDA drug rejection?",
+      "answer": "Diversification across different sectors and asset classes is key to cushioning against single-event risks. Within healthcare, spreading investments across biotech, pharmaceuticals, and medical devices reduces exposure to any one regulatory decision. Regular portfolio reviews and staying informed about key milestones, such as trial results or FDA dates, can also help investors adjust positions proactively."
+    }
+  ]
+}

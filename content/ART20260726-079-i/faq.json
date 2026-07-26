@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What is Lynx and how does it function as both an API client and HTTP server?",
+      "answer": "Lynx is an open-source JavaScript repository that provides a unified interface for HTTP operations. It functions as an API client to make requests to external services and as a lightweight HTTP server for prototyping or serving JSON APIs, eliminating the need for multiple tools."
+    },
+    {
+      "question": "How can I get started with using Lynx in my project?",
+      "answer": "To get started with Lynx, clone the repository from Xyraakyzzz/Lynx on GitHub, install dependencies, and explore its dual functionality for making API requests or setting up a local server. Being open-source, you can also customize it to fit your specific needs."
+    },
+    {
+      "question": "What are the main advantages of using Lynx compared to other API development tools?",
+      "answer": "Lynx's main advantage is its dual-purpose nature, combining an API client and lightweight HTTP server in one tool, reducing context-switching. It is also open-source, allowing community contributions, and provides a lightweight alternative to heavier clients like Postman."
+    },
+    {
+      "question": "Is Lynx suitable for production environments or better suited for testing and prototyping?",
+      "answer": "Lynx is ideal for rapid development, testing, and small-scale production. While it can handle lightweight production tasks, it may not be as robust or feature-rich as dedicated production servers for high-traffic applications."
+    },
+    {
+      "question": "How does Lynx fit into the broader trend of API tool usage in the JavaScript ecosystem?",
+      "answer": "With 62% of developers using API client tools and JavaScript dominating API development, Lynx aligns as a JavaScript-native solution. Its combined client-server approach addresses the need for efficient workflows, reflecting the rising demand for streamlined API tools."
+    }
+  ]
+}

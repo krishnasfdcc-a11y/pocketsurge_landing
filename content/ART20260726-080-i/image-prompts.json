@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A cinematic shot of a modern living room at night, large screen TV displaying Tasterr dashboard with rows of personalized movie recommendations like 'Because you watched Interstellar' and 'Top Picks for You', blurred background with ambient fairy lights, two people on a sofa pointing at the screen, warm lighting, high contrast, shallow depth of field, photorealistic detail, vibrant movie posters on screen.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Tasterr personalized movie recommendation dashboard on TV in a cozy modern home theater",
+      "caption": "Hero image: Tasterr's personalized discovery interface in action"
+    },
+    {
+      "id": "image-2",
+      "prompt": "Infographic illustration showing Tasterr's data flow: a central node labeled 'Tasterr Taste Engine' receives data from Plex and Jellyfin icons on left and sends queries to TMDB icon on right, arrows depict data streams, user profile silhouette above with genre badges, clean isometric design on a dark tech background with neon blue and purple accents, professional and sleek.",
+      "style": "infographic",
+      "placement": "section-1",
+      "altText": "Diagram showing how Tasterr connects Plex and Jellyfin with TMDB metadata to create user taste profiles",
+      "caption": "How Tasterr builds personalized taste profiles from media server history and TMDB metadata"
+    },
+    {
+      "id": "image-3",
+      "prompt": "A photorealistic image of a young man in a cozy home office with a laptop open to Tasterr interface, a server rack with blinking lights behind him, shelves with Blu-rays and books, warm desk lamp lighting, depth of field, laptop screen shows user-specific movie recommendations, emphasis on personalized feel, cinematic color grading, high detail.",
+      "style": "photorealistic",
+      "placement": "section-2",
+      "altText": "Home media enthusiast using Tasterr on laptop with a server rack and physical media collection nearby",
+      "caption": "A power user enjoying data sovereignty with Tasterr"
+    },
+    {
+      "id": "image-4",
+      "prompt": "3D render of a Docker deployment architecture for Tasterr, isometric view with multiple container cubes labeled 'tasterr-backend', 'tasterr-frontend', 'redis', 'postgres', connected by glowing pipes, Plex and Jellyfin icons on the side, TMDB cloud icon above, dark background with neon blue and green glow, clean and tech-oriented, modern isometric art style.",
+      "style": "3d-render",
+      "placement": "section-3",
+      "altText": "Isometric 3D render of Tasterr Docker containers and services architecture",
+      "caption": "Tasterr's deployment architecture using Docker and FastAPI"
+    }
+  ]
+}

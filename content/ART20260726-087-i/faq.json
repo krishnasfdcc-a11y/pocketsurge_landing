@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What is the International Emergency Economic Powers Act (IEEPA), and why are legal experts questioning its use to justify tariffs on Brazil and Canada?",
+      "answer": "IEEPA is a federal law that grants the president broad authority to regulate economic transactions during a declared national emergency. Legal experts argue the new tariffs are an overreach because IEEPA was historically intended for genuine security crises, not routine trade disputes with allies. Furthermore, critics contend the administration failed to prove a direct and immediate national security threat that warrants tariffs of this magnitude."
+    },
+    {
+      "question": "What specific legal arguments are being used in the lawsuit against the new Trump tariffs?",
+      "answer": "The lawsuit primarily argues that President Trump exceeded his statutory authority under IEEPA and violated the separation of powers by bypassing Congress's constitutional power to regulate commerce. It also claims the tariffs violate the Administrative Procedure Act (APA) because they were imposed without the legally required notice-and-comment period. Finally, the suit asserts that the tariffs conflict with existing trade agreements, undermining treaty obligations."
+    },
+    {
+      "question": "How is this legal challenge under IEEPA different from previous challenges to Trump-era tariffs under Section 232 or Section 301?",
+      "answer": "Previous tariff challenges, like those on steel under Section 232 or on China under Section 301, questioned the scope of specific trade remedy laws. This IEEPA challenge is unique because it attacks the very foundation of using a national security law to impose broad economic policy against allies, directly questioning whether an 'emergency' truly exists. A ruling against the administration here could set a much stricter precedent limiting the president's emergency economic powers than past cases did."
+    },
+    {
+      "question": "What practical steps should technology supply chain managers take to mitigate risks from these tariffs?",
+      "answer": "Supply chain managers should immediately conduct a comprehensive audit to identify all components and raw materials sourced from Brazil and Canada. They should calculate the direct cost impact of the 25-50% tariffs and explore tariff classification reviews or country-of-origin alternatives. Additionally, businesses should establish contingency plans for potential retaliatory tariffs and closely monitor the lawsuit's progress, as a rapid policy reversal is possible if the tariffs are overturned in court."
+    },
+    {
+      "question": "Could a court ruling against these IEEPA tariffs permanently limit the president's ability to impose unilateral trade policy?",
+      "answer": "Yes, a decisive ruling against the administration would likely reaffirm that the president cannot use broad national security laws like IEEPA to unilaterally impose sweeping tariffs without clear congressional authorization. This could significantly shift the balance of trade power back to Congress, requiring future administrations to seek legislative approval for major trade actions against allies. Such a decision would fundamentally reshape the legal framework governing unilateral trade executive orders."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "title": "Trump Tariffs Lawsuit: Legal Experts Question Validity",
+  "metaDescription": "The Trump tariffs lawsuit challenges 25% and 50% duties on Brazil and Canada. Legal experts argue IEEPA overreach may lead to the tariffs being struck down.",
+  "keywords": {
+    "primary": "Trump tariffs lawsuit",
+    "secondary": [
+      "IEEPA legal challenge",
+      "tariffs Brazil Canada",
+      "trade dispute allies",
+      "executive trade authority"
+    ],
+    "related": [
+      "trade dispute resolution",
+      "presidential tariff power",
+      "constitutional trade authority",
+      "WTO tariff legality",
+      "Canada trade retaliation",
+      "Brazil countermeasures",
+      "IEEPA national emergency",
+      "tariff litigation",
+      "trade law experts"
+    ]
+  },
+  "headings": {
+    "h1": "Trump Tariffs Lawsuit: Legal Experts Question Validity",
+    "h2": [
+      "Legal Challenges Mount Over New Tariffs",
+      "The IEEPA Debate",
+      "Impact on Trade and the Tech Sector"
+    ],
+    "h3": [
+      "Precedent and Legal Limits",
+      "Due Process Concerns",
+      "Retaliation and Diplomatic Fallout"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "IEEPA explained and its limits",
+      "suggestedUrl": "/blog/ieepa-executive-power-limits"
+    },
+    {
+      "anchor": "US trade disputes with allies",
+      "suggestedUrl": "/blog/us-trade-disputes-allies-analysis"
+    },
+    {
+      "anchor": "How tariffs affect tech supply chains",
+      "suggestedUrl": "/blog/tariffs-impact-tech-supply-chains"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "CNBC report on tariffs lawsuit",
+      "suggestedUrl": "https://www.cnbc.com/2026/07/24/trump-tariffs-lawsuit-trade-experts.html"
+    },
+    {
+      "anchor": "IEEPA statutory authority",
+      "suggestedUrl": "https://www.law.cornell.edu/uscode/text/50/1701"
+    },
+    {
+      "anchor": "WTO tariff dispute mechanisms",
+      "suggestedUrl": "https://www.wto.org/english/tratop_e/dispu_e/dispu_e.htm"
+    }
+  ],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Trump Tariffs Lawsuit: Legal Experts Question Validity",
+    "description": "The Trump tariffs lawsuit challenges 25% and 50% duties on Brazil and Canada. Legal experts argue IEEPA overreach may lead to the tariffs being struck down.",
+    "datePublished": "2026-07-26T05:54:28.561Z",
+    "author": {
+      "@type": "Person",
+      "name": "Author Name"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Publication Name"
+    }
+  }
+}

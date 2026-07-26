@@ -1,0 +1,70 @@
+{
+  "title": "Lynx: Dual-Purpose JavaScript API Client & HTTP Server",
+  "metaDescription": "Lynx is a dual-purpose open-source JavaScript repository that acts as both an API client and lightweight HTTP server. Streamline your API development today.",
+  "keywords": {
+    "primary": "Lynx JavaScript API client",
+    "secondary": [
+      "lightweight HTTP server",
+      "open-source JavaScript repository",
+      "API development tools",
+      "dual-purpose HTTP tool"
+    ],
+    "related": [
+      "JavaScript API client",
+      "HTTP server JavaScript",
+      "API development open source",
+      "REST API client tool",
+      "prototyping HTTP server"
+    ]
+  },
+  "headings": {
+    "h1": "Lynx: The Dual-Purpose JavaScript API Client and HTTP Server",
+    "h2": [
+      "What Is Lynx? A JavaScript Repository for HTTP Operations",
+      "The Rising Demand for API Client Tools",
+      "JavaScript's Dominance in API Development"
+    ],
+    "h3": [
+      "Simplified HTTP Operations with Lynx",
+      "Community Contributions and Customization",
+      "Lynx as a Lightweight HTTP Server"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "JavaScript API client tools",
+      "suggestedUrl": "/javascript-api-client-tools"
+    },
+    {
+      "anchor": "open-source HTTP server solutions",
+      "suggestedUrl": "/open-source-http-servers"
+    },
+    {
+      "anchor": "API development best practices",
+      "suggestedUrl": "/api-development-best-practices"
+    },
+    {
+      "anchor": "lightweight server alternatives",
+      "suggestedUrl": "/lightweight-server-alternatives"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "Postman 2024 State of the API Report",
+      "suggestedUrl": "https://www.postman.com/state-of-api/"
+    },
+    {
+      "anchor": "Stack Overflow Developer Survey 2023",
+      "suggestedUrl": "https://survey.stackoverflow.co/2023/"
+    },
+    {
+      "anchor": "Lynx repository on GitHub",
+      "suggestedUrl": "https://github.com/Xyraakyzzz/Lynx"
+    }
+  ],
+  "structuredData": {
+    "@type": "Article",
+    "headline": "Lynx: The Dual-Purpose JavaScript API Client and HTTP Server",
+    "description": "Lynx is a dual-purpose open-source JavaScript repository that acts as both an API client and lightweight HTTP server."
+  }
+}

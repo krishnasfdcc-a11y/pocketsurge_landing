@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What is Hardhat and why has it become the leading development framework for Ethereum developers?",
+      "answer": "Hardhat is a development environment for compiling, deploying, testing, and debugging Ethereum smart contracts. It has become the leading framework because it offers advanced debugging features and better testing capabilities, leading to a 35% increase in adoption over the last two years."
+    },
+    {
+      "question": "How does Docker contribute to environment consistency in DApp development?",
+      "answer": "Docker allows developers to containerize their development environment, ensuring that the same configurations are used across different machines. This eliminates the common 'it works on my machine' problem by providing a reproducible environment essential for both development and testing."
+    },
+    {
+      "question": "What are the key differences between Hardhat and Truffle for Ethereum development?",
+      "answer": "Hardhat provides a more modern and flexible architecture with built-in debugging and extensive plugin support, while Truffle is an older framework that many developers have moved away from. According to the 2023 ConsenSys Developer Survey, about 80% of Ethereum developers now prefer Hardhat over Truffle."
+    },
+    {
+      "question": "Why is WSL2 recommended for DApp development on Windows?",
+      "answer": "WSL2 (Windows Subsystem for Linux 2) provides a full Linux kernel, allowing Windows users to run Linux-native blockchain tools seamlessly. It integrates well with Docker, making it easier to set up and maintain consistent development environments that mirror production conditions."
+    },
+    {
+      "question": "What practical steps can I take to start building DApps with the kongali1720/web3-apps repository?",
+      "answer": "Start by cloning the repository and ensuring you have Docker and WSL2 (on Windows) installed. Then use the provided Docker Compose configurations to spin up your development environment with Hardhat pre-configured for immediate smart contract development and testing."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What does 'Big Tech stonewalling' mean in this context?",
+      "answer": "Big Tech stonewalling refers to the practice of large social media companies like TikTok, Meta, and X deliberately restricting researchers' access to data needed to study disinformation campaigns. This can include limiting API access, ignoring data requests, or creating bureaucratic delays that block independent investigations. The result is that researchers cannot fully analyze how platforms amplify harmful content or influence democratic processes."
+    },
+    {
+      "question": "How did TikTok influence the outcome of the Romanian presidential election?",
+      "answer": "Leading up to the first round of the 2024 Romanian election, TikTok accounts that normally posted lifestyle content suddenly began promoting candidate Calin Georgescu without labeling their posts as political. Researchers believe TikTok's recommendation algorithm exponentially amplified this pro-Georgescu content, generating over 120 million views and boosting the previously unknown candidate to a shocking first-place finish. This case highlights how platform mechanics can be exploited to sway voter perceptions without transparency."
+    },
+    {
+      "question": "Why is it difficult for European researchers to study disinformation on social media?",
+      "answer": "Researchers typically rely on APIs or data-sharing agreements to access large-scale platform data, but companies often restrict these channels—especially for sensitive topics like political manipulation. The approval processes for access can be lengthy and opaque, making it impossible to study fast-moving disinformation campaigns in real time. Without reliable data, researchers can only observe the effects of manipulation without understanding its origins, funding, or algorithmic amplification."
+    },
+    {
+      "question": "What is the Digital Services Act (DSA) and how does it address researcher access?",
+      "answer": "The DSA is a landmark EU regulation that holds large online platforms accountable for systemic risks like disinformation and illegal content. One of its key provisions requires platforms to share data with vetted independent researchers to enable independent audits and studies. While still being enforced, the DSA aims to counteract the stonewalling practices described in the article by creating a legal obligation for transparency and cooperation."
+    },
+    {
+      "question": "What steps can improve transparency from social media platforms for researchers?",
+      "answer": "Stronger enforcement of regulations like the Digital Services Act can compel platforms to provide timely, meaningful data access. Platforms can also voluntarily create standardized research APIs, publish detailed transparency reports on algorithmic amplification and political advertising, and establish clear procedures for researcher data requests. Combined with public pressure, these measures could help break down the barriers that currently impede independent research."
+    }
+  ]
+}

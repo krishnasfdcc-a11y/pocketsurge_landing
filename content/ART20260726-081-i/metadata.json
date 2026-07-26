@@ -1,0 +1,21 @@
+{
+  "slug": "claude-code-cloudflare-gateway-multi-model-ai-setup",
+  "title": "Claude Code Cloudflare Gateway: Multi-Model AI Setup",
+  "excerpt": "The Claude Code Cloudflare Gateway project provides a unified proxy for Claude Code, enabling seamless switching between AI models like Kimi, GLM, and Grok. Learn how to centralize billing and enhance redundancy with a single Cloudflare Worker.",
+  "keywords": [
+    "Claude Code Cloudflare Gateway",
+    "Cloudflare AI Gateway",
+    "multi-model AI proxy",
+    "AI provider abstraction",
+    "Claude Code multi-provider"
+  ],
+  "readingTime": 6,
+  "wordCount": 1114,
+  "category": "technology",
+  "researchId": "b0c7d0e2-da3d-48f0-83af-a8d9f536db08",
+  "topicId": "9757a62e-d4db-4993-9fe1-0bea52cf9c25",
+  "generatedAt": "2026-07-26T05:42:34.745Z",
+  "description": "The Claude Code Cloudflare Gateway project provides a unified proxy for Claude Code, enabling seamless switching between AI models like Kimi, GLM, and Grok. Learn how to centralize billing and enhance redundancy with a single Cloudflare Worker.",
+  "status": "approved",
+  "approvedAt": "2026-07-26T06:55:05.879Z"
+}

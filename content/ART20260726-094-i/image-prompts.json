@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A cinematic image depicting the transatlantic divide with the European Union flag on the left and the United States flag on the right, separated by a glowing red line that resembles a digital barrier. In the foreground, deflated logos of Google, Apple, Meta, and Amazon are scattered, casting long shadows. Moody, dramatic lighting with stormy clouds in the background evoking tension and conflict. High detail, photorealistic style.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Transatlantic divide with EU and US flags and tech logos in conflict",
+      "caption": "Image: AI-generated representation of US-EU tensions over tech fines"
+    },
+    {
+      "id": "image-2",
+      "prompt": "A stately courtroom interior with European Union symbols, featuring a judge's gavel and documents labeled 'EU Antitrust Ruling' on a desk. In the background, a digital display shows graphs of fines against Google, Apple, Meta, and Amazon. The mood is authoritative and stern, with cool blue lighting and clean, modern lines. Photorealistic, professional setting, 4K.",
+      "style": "photorealistic",
+      "placement": "section-1",
+      "altText": "EU antitrust courtroom with rulings against US tech giants",
+      "caption": ""
+    },
+    {
+      "id": "image-3",
+      "prompt": "President Donald Trump at a podium with the presidential seal, gesturing firmly during a press conference. Behind him, a digital screen displays a map of Europe with target markers. The lighting is bright and harsh, with a determined expression on his face. The atmosphere is charged and confrontational. Cinematic style with shallow depth of field, high contrast.",
+      "style": "cinematic",
+      "placement": "section-2",
+      "altText": "Donald Trump vowing to investigate EU over tech fines at press conference",
+      "caption": ""
+    },
+    {
+      "id": "image-4",
+      "prompt": "A group of diverse tech professionals assembled in a sleek conference room, staring at a large screen showing a split path: one side marked 'EU regulation' and the other 'US trade war'. Their expressions show anxiety and concern. Warm ambient lighting with a tense mood. 3D render style with detailed faces and modern office environment.",
+      "style": "3d-render",
+      "placement": "section-3",
+      "altText": "Tech professionals facing uncertainty between EU regulation and US trade war",
+      "caption": ""
+    },
+    {
+      "id": "image-5",
+      "prompt": "An abstract illustration of a globe divided into two halves: one representing Europe with data privacy symbols and the other representing the US with innovation icons. A glowing border between them symbolizes conflicting digital sovereignty regimes. Digital art style with vibrant colors, neon accents, and a visionary tone. 8K, detailed.",
+      "style": "illustration",
+      "placement": "section-4",
+      "altText": "Digital sovereignty clash between EU and US over internet governance",
+      "caption": ""
+    }
+  ]
+}

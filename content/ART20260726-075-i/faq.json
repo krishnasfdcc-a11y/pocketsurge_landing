@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What is Fugu-Cyber and how does it differ from traditional LLMs?",
+      "answer": "Fugu-Cyber is an orchestration model, not a new language model. It uses 'learned agentic scaffolding' to coordinate three specialized roles—Thinker, Worker, and Verifier—that decompose complex cybersecurity tasks into manageable steps. This agent-driven approach allows it to outperform standard LLMs on benchmarks like CyberGym and CTI-REALM."
+    },
+    {
+      "question": "How does Fugu-Cyber's three-role agent architecture work?",
+      "answer": "The architecture assigns three roles: the Thinker analyzes the problem and outlines a strategy, the Worker executes specific actions such as writing code or querying tools, and the Verifier checks outputs for correctness. These roles collaborate through multiple recursive model calls, replicating a team of specialists to ensure reliable results."
+    },
+    {
+      "question": "What benchmark scores did Fugu-Cyber achieve and how do they compare to competitors?",
+      "answer": "Fugu-Cyber scored 86.9% on CyberGym (a real-world vulnerability benchmark) and 72.1% on CTI-REALM, narrowly beating GPT-5.5-Cyber (85.6%) and Claude Mythos Preview (83.1%). This marks dramatic improvement from earlier results—top models reached only 20% in 2025—but the gap between leaders is now very small."
+    },
+    {
+      "question": "What are the main access restrictions for using Fugu-Cyber?",
+      "answer": "Fugu-Cyber is only available as a hosted API with no released model weights, requires manual approval for a defensive-use acceptable use policy, and is not accessible in the EU and EEA. Pricing is $6 per million input tokens and $36 per million output tokens—a 1.2x premium over Sakana's Fugu-Ultra."
+    },
+    {
+      "question": "What do Fugu-Cyber's results mean for cybersecurity professionals?",
+      "answer": "The results highlight rapid progress in AI-driven vulnerability discovery and detection engineering, but the self-reported, unreplicated benchmarks and tightly gated access warrant caution. Professionals should view the architecture as a promising step toward automating complex security workflows, while awaiting independent verification."
+    }
+  ]
+}

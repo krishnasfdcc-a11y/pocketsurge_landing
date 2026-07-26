@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A cinematic scene of a Romanian election rally at night, crowd holding flags, a giant glowing TikTok logo hovering ominously in the sky, digital screens showing election results with suspicious spikes, moody lighting with deep shadows, a sense of covert influence and digital manipulation, photorealistic yet slightly surreal atmosphere.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Romanian election rally with TikTok logo looming in the sky symbolizing social media manipulation",
+      "caption": "Image credit: AI-generated conceptual visualization"
+    },
+    {
+      "id": "image-2",
+      "prompt": "An infographic illustration showing a network of social media accounts connected by lines, icons transitioning from travel and fashion to political symbols and Romanian flags, a graph showing view count rising to 120 million, red and yellow color palette, clean vector style, educational diagram aesthetic.",
+      "style": "illustration",
+      "placement": "section-1",
+      "altText": "Network illustration showing coordinated social media pivot from lifestyle to political content in Romanian election",
+      "caption": ""
+    },
+    {
+      "id": "image-3",
+      "prompt": "A photorealistic image of a female researcher in her 30s sitting at a desk in a dark office, staring at a computer screen displaying an 'API Access Denied' message, a glass barrier behind her reveals server racks with TikTok, Meta, and X logos, frustrated expression, dramatic side lighting, cluttered desk with notes and a coffee cup.",
+      "style": "photorealistic",
+      "placement": "section-2",
+      "altText": "Researcher facing denied API access on computer with Big Tech logos behind glass barrier",
+      "caption": "Photo illustration based on researcher experiences"
+    },
+    {
+      "id": "image-4",
+      "prompt": "A 3D diagram style image with four tall pillars labeled 'Restrictive APIs', 'Selective Transparency', 'Legal Hurdles', 'Slow Responses', a wall made of Big Tech logos (TikTok, Meta, X) blocks a path of miniature researchers holding magnifying glasses, blue and red color scheme, isometric view, professional and clean.",
+      "style": "diagram",
+      "placement": "section-3",
+      "altText": "3D diagram showing four barriers to research with Big Tech logos blocking researchers",
+      "caption": ""
+    },
+    {
+      "id": "image-5",
+      "prompt": "A minimalist 3D render of a golden scale balanced between a user privacy icon (shield with lock) and a transparency eye icon (open eye), a large metal lock in the center with subtle glowing edges, clean white background with soft shadows, modern tech aesthetic, bright and clinical lighting.",
+      "style": "minimal",
+      "placement": "section-4",
+      "altText": "Minimalist scale balancing privacy and transparency with central lock symbolizing Big Tech resistance",
+      "caption": "Conceptual 3D render"
+    }
+  ]
+}

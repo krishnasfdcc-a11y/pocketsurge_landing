@@ -1,0 +1,67 @@
+{
+  "title": "Tasterr: Personalized Media Discovery for Self-Hosted Servers",
+  "metaDescription": "Tasterr brings personalized recommendations to self-hosted media servers using TMDB metadata and taste profiles for Plex and Jellyfin. Simplify library browsing.",
+  "keywords": {
+    "primary": "Tasterr",
+    "secondary": [
+      "self-hosted media discovery",
+      "personalized recommendations",
+      "Overseerr alternative",
+      "TMDB metadata"
+    ],
+    "related": [
+      "Plex recommendation engine",
+      "Jellyfin discovery tool",
+      "FastAPI media server",
+      "open source media platform",
+      "taste profile",
+      "library curation"
+    ]
+  },
+  "headings": {
+    "h1": "Tasterr: Personalized Media Discovery for Self-Hosted Servers",
+    "h2": [
+      "What is Tasterr? A New Lens for Your Library",
+      "Why Tasterr Matters Now: The Rise of the Power User"
+    ],
+    "h3": [
+      "The Core Concept",
+      "Addressing a Critical Gap"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "Overseerr alternative",
+      "suggestedUrl": "/blog/overseerr-setup-guide"
+    },
+    {
+      "anchor": "self-hosted media servers",
+      "suggestedUrl": "/category/media-servers"
+    },
+    {
+      "anchor": "open source media platform",
+      "suggestedUrl": "/blog/best-open-source-media-platforms"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "TMDB (The Movie Database)",
+      "suggestedUrl": "https://www.themoviedb.org/"
+    },
+    {
+      "anchor": "Overseerr project",
+      "suggestedUrl": "https://github.com/sct/overseerr"
+    },
+    {
+      "anchor": "FastAPI framework",
+      "suggestedUrl": "https://fastapi.tiangolo.com/"
+    }
+  ],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Tasterr: Personalized Media Discovery for Self-Hosted Servers",
+    "description": "Tasterr bridges the personalization gap in self-hosted media by combining TMDB metadata with an intelligent request system.",
+    "datePublished": "2026-07-26T05:39:31.836Z"
+  }
+}

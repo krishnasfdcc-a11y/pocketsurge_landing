@@ -1,0 +1,100 @@
+{
+  "title": "Duress Passwords at the Border: A New Privacy Precedent",
+  "metaDescription": "A duress password used to wipe a phone during a CBP border search sets a new privacy precedent. This case challenges the balance between government authority and digital privacy. Discover the legal risks for travelers.",
+  "keywords": {
+    "primary": "duress password",
+    "secondary": [
+      "border search",
+      "CBP device search",
+      "digital privacy",
+      "Fifth Amendment",
+      "travel privacy"
+    ],
+    "related": [
+      "spoliation of evidence",
+      "foregone conclusion",
+      "Fourth Amendment",
+      "device search",
+      "smartphone privacy",
+      "border security",
+      "data deletion",
+      "coercion",
+      "constitutional rights",
+      "secondary inspection"
+    ]
+  },
+  "headings": {
+    "h1": "Duress Passwords at the Border: A New Privacy Precedent",
+    "h2": [
+      "The Core Incident",
+      "The Rise of the Duress Password",
+      "What This Means for Travelers"
+    ],
+    "h3": [
+      "How Duress Passwords Work",
+      "Legal Arguments from Both Sides"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "CBP device search regulations",
+      "suggestedUrl": "/cbp-device-search-regulations"
+    },
+    {
+      "anchor": "Fifth Amendment and smartphone passwords",
+      "suggestedUrl": "/fifth-amendment-smartphone-passwords"
+    },
+    {
+      "anchor": "digital privacy at the border",
+      "suggestedUrl": "/digital-privacy-border-crossing"
+    },
+    {
+      "anchor": "how to set up a duress password",
+      "suggestedUrl": "/how-to-set-up-duress-password"
+    },
+    {
+      "anchor": "know your rights CBP search",
+      "suggestedUrl": "/know-your-rights-cbp-search"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "EFF guide on border device searches",
+      "suggestedUrl": "https://www.eff.org/issues/know-your-rights-border-search"
+    },
+    {
+      "anchor": "ACLU position on digital privacy at borders",
+      "suggestedUrl": "https://www.aclu.org/issues/national-security/privacy-and-surveillance/border-searches"
+    },
+    {
+      "anchor": "court documents for this case",
+      "suggestedUrl": "https://www.courtlistener.com/example-duress-password-case"
+    },
+    {
+      "anchor": "Fifth Amendment and foregone conclusion doctrine",
+      "suggestedUrl": "https://www.law.cornell.edu/wex/foregone_conclusion"
+    },
+    {
+      "anchor": "CBP directive on electronic device searches",
+      "suggestedUrl": "https://www.cbp.gov/travel/trusted-traveler-programs/electronic-device-searches"
+    }
+  ],
+  "structuredData": {
+    "@type": "Article",
+    "headline": "Duress Passwords at the Border: A New Privacy Precedent",
+    "description": "A duress password used to wipe a phone during a CBP border search sets a new privacy precedent. This case challenges the balance between government authority and digital privacy.",
+    "datePublished": "2026-07-26T05:49:41.496Z",
+    "author": {
+      "@type": "Organization",
+      "name": "Publication Name"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Publication Name"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://example.com/duress-passwords-border-privacy-precedent"
+    }
+  }
+}

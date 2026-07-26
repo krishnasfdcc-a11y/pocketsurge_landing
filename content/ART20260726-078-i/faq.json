@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What is Forge OS?",
+      "answer": "Forge OS is an open-source control plane designed for orchestrating AI agents. It provides a centralized layer for skill routing, context governance, and trustworthy execution, allowing developers to build and manage multi-agent systems without reinventing the underlying infrastructure."
+    },
+    {
+      "question": "How does Forge OS handle security and trustworthiness?",
+      "answer": "Forge OS ensures trustworthy execution by logging and auditing all agent actions, making the system verifiable. It also enforces security policies and access controls to protect against unauthorized access, which is crucial for production-grade multi-agent systems."
+    },
+    {
+      "question": "Can I integrate Forge OS with existing AI models?",
+      "answer": "Yes, Forge OS is designed to be model-agnostic and extensible. It can route tasks to different AI models or skills based on the requirements, making it compatible with existing models and tools you might already use."
+    },
+    {
+      "question": "What is skill routing in Forge OS?",
+      "answer": "Skill routing is a core feature of Forge OS that directs tasks to the appropriate agent or model based on the task requirements. This ensures that each agent specializes in specific skills, improving efficiency and accuracy in multi-agent systems."
+    },
+    {
+      "question": "Is Forge OS suitable for production environments?",
+      "answer": "Forge OS is built with production-grade features like security, auditing, and scalability. As an open-source project with community backing, it is designed to support real-world applications, though you should evaluate its maturity based on your specific requirements."
+    }
+  ]
+}

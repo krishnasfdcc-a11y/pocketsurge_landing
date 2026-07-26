@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What is the Claude Code Cloudflare Gateway?",
+      "answer": "The Claude Code Cloudflare Gateway is an open-source project that deploys a Cloudflare Worker as a transparent proxy between your Claude Code sessions and multiple AI providers. It allows you to seamlessly switch between models like Kimi, GLM, and Grok without changing your code or environment variables. This simplifies billing, improves redundancy, and gives you flexibility to choose the best model for each task."
+    },
+    {
+      "question": "How do I set up the Claude Code Cloudflare Gateway?",
+      "answer": "To set up the gateway, first deploy a Cloudflare Worker using the source code from the `massoumicyrus/claude-code-cloudflare-gateway` repository. Then configure the worker with your API keys for each AI provider you want to use. Finally, point your Claude Code configuration to the worker's URL, and it will handle authentication and routing automatically."
+    },
+    {
+      "question": "What are the benefits of using a multi-model gateway versus a single provider setup?",
+      "answer": "Using a multi-model gateway protects you from provider outages, deprecations, or pricing changes by allowing instant switching. It also lets you leverage model-specific strengths—for example, Kimi for long context analysis and GLM for efficient NLP—without managing multiple configurations. This approach streamlines billing through a single endpoint and makes A/B testing between models trivial."
+    },
+    {
+      "question": "I'm getting authentication errors when the gateway tries to use a specific model. What could be wrong?",
+      "answer": "Authentication errors typically occur when the API key for that provider is missing or incorrectly configured in the Cloudflare Worker environment variables. Double-check that the key is entered correctly and that the provider's API endpoint is properly set. Also ensure the gateway's routing rules are not misdirecting requests intended for one provider to another with different authentication."
+    },
+    {
+      "question": "What is the best way to configure the gateway to optimize costs?",
+      "answer": "To optimize costs, prioritize lower-cost models for routine tasks like log parsing or documentation generation, and reserve premium models like Claude for complex coding or refactoring. You can set up the gateway with weighted routing or explicit model mapping per task. Additionally, centralize all billing through the gateway to get a unified view of your AI spending across providers."
+    }
+  ]
+}

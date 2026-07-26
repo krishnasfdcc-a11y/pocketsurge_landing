@@ -1,0 +1,77 @@
+{
+  "title": "Big Tech Stonewalling Blocks European Social Media Researchers",
+  "metaDescription": "European social media researchers face stonewalling from Big Tech platforms like TikTok. Learn how data restrictions hinder investigations into election manipulation and platform accountability.",
+  "keywords": {
+    "primary": "Big Tech stonewalling",
+    "secondary": [
+      "European social media researchers",
+      "TikTok disinformation",
+      "Romanian election manipulation",
+      "platform data access"
+    ],
+    "related": [
+      "social media manipulation",
+      "algorithmic amplification",
+      "researcher data access",
+      "Big Tech accountability",
+      "Digital Services Act",
+      "election security",
+      "online political advertising",
+      "disinformation campaigns",
+      "platform transparency",
+      "data sharing agreements"
+    ]
+  },
+  "headings": {
+    "h1": "Big Tech Stonewalling Blocks European Social Media Researchers",
+    "h2": [
+      "Romanian Presidential Election: A Case Study in TikTok Disinformation",
+      "Data Access Barriers: The Researcher's Challenge",
+      "Big Tech Stonewalling: A Growing Trend Across Europe"
+    ],
+    "h3": [
+      "Coordinated Influence Operations on TikTok",
+      "How Platform Algorithms Amplify Disinformation",
+      "The Need for Transparent Data Sharing Agreements"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "Digital Services Act transparency requirements",
+      "suggestedUrl": "/digital-services-act-transparency"
+    },
+    {
+      "anchor": "TikTok's role in election interference",
+      "suggestedUrl": "/tiktok-election-interference"
+    },
+    {
+      "anchor": "challenges for disinformation researchers",
+      "suggestedUrl": "/social-media-disinformation-research"
+    },
+    {
+      "anchor": "Big Tech transparency reports",
+      "suggestedUrl": "/big-tech-transparency-reports"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "Guardian report on Romanian election shock",
+      "suggestedUrl": "https://www.theguardian.com/world/2024/nov/romania-presidential-election-georgescu"
+    },
+    {
+      "anchor": "European Commission Digital Services Act",
+      "suggestedUrl": "https://digital-strategy.ec.europa.eu/en/policies/digital-services-act"
+    },
+    {
+      "anchor": "Academic study on social media disinformation",
+      "suggestedUrl": "https://www.nature.com/articles/s41562-024-01878-z"
+    }
+  ],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Big Tech Stonewalling Blocks European Social Media Researchers",
+    "description": "European social media researchers face stonewalling from Big Tech platforms like TikTok. Learn how data restrictions hinder investigations into election manipulation and platform accountability.",
+    "datePublished": "2026-07-26T05:57:52.236Z"
+  }
+}

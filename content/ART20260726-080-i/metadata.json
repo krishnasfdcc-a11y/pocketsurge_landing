@@ -1,0 +1,24 @@
+{
+  "slug": "tasterr-personalized-media-discovery-for-self-hosted-servers",
+  "title": "Tasterr: Personalized Media Discovery for Self-Hosted Servers",
+  "excerpt": "Tasterr bridges the personalization gap in self-hosted media by combining TMDB metadata with an intelligent request system. Built for the modern stack, it provides per-user taste profiles that transform chaotic libraries into personalized discovery hubs.",
+  "keywords": [
+    "Tasterr",
+    "ZacharyArthur/tasterr",
+    "self-hosted media discovery",
+    "personalized recommendations",
+    "Overseerr alternative",
+    "TMDB metadata",
+    "FastAPI media server tool",
+    "open source media platform"
+  ],
+  "readingTime": 6,
+  "wordCount": 1145,
+  "category": "web-development",
+  "researchId": "8f80d357-fbc5-4b41-a7a2-1155d07f9537",
+  "topicId": "8f54a501-1792-4a94-8268-413b70729609",
+  "generatedAt": "2026-07-26T05:39:31.836Z",
+  "description": "Tasterr bridges the personalization gap in self-hosted media by combining TMDB metadata with an intelligent request system. Built for the modern stack, it provides per-user taste profiles that transform chaotic libraries into personalized discovery hubs.",
+  "status": "approved",
+  "approvedAt": "2026-07-26T06:55:05.877Z"
+}

@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A futuristic, cinematic control room dashboard displaying a global network of game servers. Holographic interfaces show server health, player counts, and real-time logs. Multiple screens in a dark, high-tech environment with blue and green neon lighting. The MRYL logo appears as a central hologram. The scene conveys power, control, and efficiency.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "MRYL control plane dashboard for managing LinuxGSM game servers",
+      "caption": "MRYL central dashboard"
+    },
+    {
+      "id": "image-2",
+      "prompt": "A cluttered server room with multiple monitors displaying different game server terminals, tangled cables, and sticky notes. An administrator looks overwhelmed, holding a coffee cup, with stress visible on their face. Dim lighting, red alert lights, and shadows emphasize the chaos and complexity of manual game server management.",
+      "style": "photorealistic",
+      "placement": "section-1",
+      "altText": "Challenge of manual game server management with multiple terminals",
+      "caption": "The chaos of manual game server management"
+    },
+    {
+      "id": "image-3",
+      "prompt": "A 3D render of multiple Docker containers being deployed in a neat grid. One container pops out with a glowing game server icon, such as a rocket or crosshair. Blue progress bars show deployment status. Clean, minimalist style with bright lighting against a dark background to emphasize automation and efficiency.",
+      "style": "3d-render",
+      "placement": "section-2",
+      "altText": "Automated Docker container deployment for game servers with MRYL",
+      "caption": "Automated provisioning with MRYL"
+    },
+    {
+      "id": "image-4",
+      "prompt": "A high-resolution screenshot of a web browser window showing the MRYL console interface. The interface features a dark theme with green text, command line output, and server logs. There are tabs for different servers. The background is blurred to highlight the clean, functional UI design.",
+      "style": "minimal",
+      "placement": "section-3",
+      "altText": "MRYL web console for centralized game server access and management",
+      "caption": "Centralized console access in MRYL"
+    },
+    {
+      "id": "image-5",
+      "prompt": "An illustration of a network globe with multiple servers connected. A wave of green light sweeps across the servers, symbolizing a fleet-wide update. Nodes light up sequentially. The style is flat vector illustration with vibrant colors, conveying synchronization and ease of management.",
+      "style": "illustration",
+      "placement": "section-4",
+      "altText": "Fleet-wide orchestration update across game servers with MRYL",
+      "caption": "Fleet-wide orchestration made simple"
+    }
+  ]
+}

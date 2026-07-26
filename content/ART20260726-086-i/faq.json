@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What are prediction markets?",
+      "answer": "Prediction markets are platforms where participants can trade contracts based on the outcomes of future events. Prices reflect the crowd's estimated probability of each outcome. Kalshi, for example, offers regulated event contracts on topics like economic indicators, allowing users to hedge or speculate."
+    },
+    {
+      "question": "What did Kalshi claim was defamatory in the Netflix trailer?",
+      "answer": "Kalshi alleged that the trailer for 'Prediction Games' contains defamatory statements and fabricated documents, though it has not publicly detailed the specific evidence. The legal demand centers on these alleged fabrications. Netflix has not yet responded to the request."
+    },
+    {
+      "question": "Is Kalshi a legal and regulated platform?",
+      "answer": "Yes, Kalshi is a U.S.-based prediction market platform that is regulated by the Commodity Futures Trading Commission (CFTC). It operates as a designated contract market, offering event contracts that are subject to federal financial oversight. This sets it apart from unregulated betting sites."
+    },
+    {
+      "question": "How does Kalshi differ from traditional gambling or sports betting?",
+      "answer": "Kalshi operates as a regulated financial exchange, offering event contracts on outcomes like Federal Reserve decisions or election results. These contracts are designed for hedging and risk management, not for entertainment or chance-based wagers. Unlike sports betting, Kalshi is subject to CFTC rules and focuses on event-driven predictions."
+    },
+    {
+      "question": "What are the potential implications of this legal dispute for the future of prediction markets?",
+      "answer": "This dispute could influence how prediction markets are portrayed in media and how companies can challenge critical content. A ruling in Kalshi's favor might lead to greater scrutiny of documentaries covering such platforms, while a Netflix victory could protect journalistic freedom. The case also underscores the reputational challenges faced by platforms in emerging financial sectors."
+    }
+  ]
+}

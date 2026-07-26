@@ -1,0 +1,69 @@
+{
+  "title": "Trump Vows to Investigate EU Over US Tech Fines",
+  "metaDescription": "President Trump vows to investigate the EU over US tech fines, demanding reversal. The move escalates US-EU trade tensions and risks a transatlantic trade war.",
+  "keywords": {
+    "primary": "Trump EU tech investigation",
+    "secondary": [
+      "US-EU trade tensions",
+      "Big Tech antitrust fines",
+      "digital regulation"
+    ],
+    "related": [
+      "Digital Markets Act",
+      "Digital Services Act",
+      "Section 301 investigation",
+      "Tariff retaliation",
+      "EU competition law"
+    ]
+  },
+  "headings": {
+    "h1": "Trump Vows to Investigate EU Over US Tech Fines",
+    "h2": [
+      "The EU's Regulatory Offensive Against Big Tech",
+      "Trump's Vow and the Threat of Retaliation",
+      "US Tech Industry at a Crossroads"
+    ],
+    "h3": [
+      "Landmark Fines Against Google, Apple, and Meta",
+      "Potential Retaliatory Tariffs",
+      "Implications for Global Tech Regulation"
+    ]
+  },
+  "internalLinks": [
+    {
+      "anchor": "US-EU trade tensions",
+      "suggestedUrl": "/us-eu-trade-war-big-tech"
+    },
+    {
+      "anchor": "Digital Markets Act (DMA)",
+      "suggestedUrl": "/digital-markets-act-explained"
+    },
+    {
+      "anchor": "antitrust fines on Big Tech",
+      "suggestedUrl": "/big-tech-antitrust-penalties"
+    },
+    {
+      "anchor": "transatlantic tech policy",
+      "suggestedUrl": "/transatlantic-tech-policy-clash"
+    }
+  ],
+  "externalLinks": [
+    {
+      "anchor": "EU Digital Markets Act official page",
+      "suggestedUrl": "https://digital-markets-act.ec.europa.eu/index_en"
+    },
+    {
+      "anchor": "European Commission antitrust investigation into Google",
+      "suggestedUrl": "https://ec.europa.eu/commission/presscorner/detail/en/IP_18_4581"
+    },
+    {
+      "anchor": "USTR Section 301 investigations",
+      "suggestedUrl": "https://ustr.gov/issue-areas/enforcement/section-301-investigations"
+    }
+  ],
+  "structuredData": {
+    "@type": "Article",
+    "headline": "Trump Vows to Investigate EU Over US Tech Fines",
+    "description": "President Trump vows to investigate the EU over US tech fines, demanding reversal. The move escalates US-EU trade tensions and risks a transatlantic trade war."
+  }
+}

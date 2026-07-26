@@ -1,0 +1,23 @@
+{
+  "slug": "forge-os-the-open-source-control-plane-for-ai-agent-orchestration",
+  "title": "Forge OS: The Open-Source Control Plane for AI Agent Orchestration",
+  "excerpt": "Forge OS is an open-source control plane designed to orchestrate AI agents with features like skill routing, context governance, and trustworthy execution. As the demand for multi-agent systems surges, Forge OS provides developers with the infrastructure to build secure, verifiable, and scalable AI agent applications.",
+  "keywords": [
+    "Forge OS",
+    "AI agent orchestration",
+    "open-source control plane",
+    "multi-agent orchestration",
+    "AI infrastructure",
+    "agent skills routing",
+    "trustworthy AI execution"
+  ],
+  "readingTime": 6,
+  "wordCount": 1167,
+  "category": "web-development",
+  "researchId": "5b144438-1fd4-460c-8cb8-e290e11917b2",
+  "topicId": "35f6b367-274a-4548-a177-8680f9d7448e",
+  "generatedAt": "2026-07-26T05:37:12.066Z",
+  "description": "Forge OS is an open-source control plane designed to orchestrate AI agents with features like skill routing, context governance, and trustworthy execution. As the demand for multi-agent systems surges, Forge OS provides developers with the infrastructure to build secure, verifiable, and scalable AI agent applications.",
+  "status": "approved",
+  "approvedAt": "2026-07-26T06:55:05.871Z"
+}

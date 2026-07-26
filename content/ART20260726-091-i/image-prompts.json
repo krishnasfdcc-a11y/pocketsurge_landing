@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A dramatic cinematic scene of Rust Global Warfare 4, showing two groups of armored players engaged in intense combat at sunset near a massive metal base. Explosions light up the sky, with gunfire and smoke. The mood is tense and epic, with warm orange lighting contrasting with cool shadows. The Global Warfare 4 logo is subtly overlaid on the top left, and the scene captures the survival and strategy of the event.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Rust Global Warfare 4 trailer scene with players fighting at sunset",
+      "caption": "Concept art inspired by the Global Warfare 4 trailer"
+    },
+    {
+      "id": "image-2",
+      "prompt": "An illustration of a diverse group of Rust players standing together on a hilltop, overlooking a fortified base with banners displaying the Global Warfare 4 symbol. The mood is cooperative and determined, with soft morning light breaking through clouds. The style is semi-realistic with vibrant colors, emphasizing teamwork and community strength in preparation for the event.",
+      "style": "illustration",
+      "placement": "section-1",
+      "altText": "Rust community players preparing for Global Warfare 4 event",
+      "caption": ""
+    },
+    {
+      "id": "image-3",
+      "prompt": "A photorealistic close-up of a Rust player in tactical gear aiming a rifle in a ruined industrial facility, with sparks and debris flying from recent explosions. The lighting is harsh and dramatic, with smoke adding depth. The mood is gritty and intense, capturing the essence of combat shown in the Global Warfare 4 trailer.",
+      "style": "photorealistic",
+      "placement": "section-2",
+      "altText": "Close-up Rust combat scene from Global Warfare 4 trailer analysis",
+      "caption": ""
+    },
+    {
+      "id": "image-4",
+      "prompt": "A 3D render of a high-tech server room with glowing monitors displaying Rust server logs and custom mod configurations. The Global Warfare 4 logo is mirrored on a screen, and cables are neatly organized. The mood is clean and technical, with cool blue lighting and a focus on the robust technology behind the event.",
+      "style": "3d-render",
+      "placement": "section-3",
+      "altText": "Server hardware for Rust Global Warfare 4 event",
+      "caption": "Server architecture powering the event"
+    },
+    {
+      "id": "image-5",
+      "prompt": "A digital illustration of a Twitch streaming interface overlaid on a Rust battlefield, showing a live viewer count, chat comments, and a streamer cam. The battlefield below is packed with players and explosions. The mood is energetic and interactive, with neon purple and pink highlights contrasting the gritty game world.",
+      "style": "illustration",
+      "placement": "section-4",
+      "altText": "Twitch stream setup for Rust Global Warfare 4 event",
+      "caption": ""
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "question": "What is Tasterr and how does it enhance self-hosted media discovery?",
+      "answer": "Tasterr is an open-source platform that connects to Plex or Jellyfin and uses TMDB metadata to analyze watch history. It creates per-user taste profiles that transform generic libraries into personalized discovery hubs, helping users find content they'll love without endless scrolling."
+    },
+    {
+      "question": "How does Tasterr create personalized taste profiles for users?",
+      "answer": "Tasterr reads each user's watch history from your media server and cross-references it with TMDB's metadata, including genres, actors, directors, and keywords. By analyzing these patterns, it builds a dynamic taste profile that surfaces relevant content from your library and suggests what to add next."
+    },
+    {
+      "question": "How does Tasterr compare to Overseerr?",
+      "answer": "While both manage media requests, Tasterr focuses on personalized discovery through taste profiles and a tailored home screen, whereas Overseerr is primarily a request and notification tool. Tasterr fills the personalization gap that Overseerr does not address, making it a complementary rather than a direct replacement."
+    },
+    {
+      "question": "What are the prerequisites for installing Tasterr?",
+      "answer": "You need a self-hosted media server (Plex or Jellyfin), a TMDB API key for metadata, and a Docker environment or similar setup to run the Tasterr container. Detailed installation instructions are available on the official GitHub repository (ZacharyArthur/tasterr)."
+    },
+    {
+      "question": "Can Tasterr work with both Plex and Jellyfin simultaneously?",
+      "answer": "Yes, Tasterr can connect to multiple media servers, including both Plex and Jellyfin. This allows it to aggregate watch history across platforms and deliver unified recommendations to users regardless of which server they use for playback."
+    }
+  ]
+}

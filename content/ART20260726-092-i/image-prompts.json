@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A wide cinematic view of a futuristic digital cityscape with blockchain nodes floating like skyscrapers, code streams flowing between them, containers with Docker logos serving as building blocks, and a glowing Hardhat logo in the center. The scene is illuminated by vibrant blue and orange neon lights against a dark background, emphasizing the dynamic Web3 development environment.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "Futuristic Web3 development environment with blockchain nodes, Docker containers, and Hardhat framework",
+      "caption": "Digital representation of the Web3 development ecosystem."
+    },
+    {
+      "id": "image-2",
+      "prompt": "A clean infographic design showing Ethereum DApp growth with an upward trend line from 2022 to 2024, a pie chart indicating 80% Hardhat adoption, and icons of DApps and smart contracts. The background is light with a subtle blockchain pattern. The colors are professional blues and greens.",
+      "style": "infographic",
+      "placement": "section-1",
+      "altText": "Infographic of Ethereum DApp growth and Hardhat adoption statistics 2022-2024",
+      "caption": "Data from State of the DApps and ConsenSys Developer Survey."
+    },
+    {
+      "id": "image-3",
+      "prompt": "A photorealistic scene of a developer's desk with a laptop showing a terminal window with WSL2 running, Docker containers listed in a separate window, and a smartphone displaying a blockchain transaction. The workspace includes a coffee cup and a note pad. Lighting is warm and natural, conveying a productive environment.",
+      "style": "photorealistic",
+      "placement": "section-2",
+      "altText": "Developer workspace with WSL2 terminal and Docker containers for blockchain development",
+      "caption": "Consistent development environment using Docker and WSL2."
+    },
+    {
+      "id": "image-4",
+      "prompt": "A 3D rendered scene of a yellow Hardhat symbol with Ethereum network nodes orbiting around it, and snippets of Solidity code floating in space. The background is dark with glowing particles. The hard hat is metallic yellow reflecting light, emphasizing the framework's role in smart contract development.",
+      "style": "3d-render",
+      "placement": "section-3",
+      "altText": "3D representation of Hardhat framework with Ethereum nodes and Solidity code",
+      "caption": "Hardhat: The smart contract development framework for Ethereum."
+    },
+    {
+      "id": "image-5",
+      "prompt": "A clean flow diagram showing the architecture of the kongali1720/web3-apps repository. Boxes represent Hardhat, Docker, WSL2, and the Ethereum network, connected by arrows indicating data flow. The diagram uses minimal design with blue and green colors on a white background.",
+      "style": "diagram",
+      "placement": "section-4",
+      "altText": "Flow diagram of the kongali1720/web3-apps repository architecture with Hardhat, Docker, and WSL2",
+      "caption": "Architecture of the kongali1720/web3-apps repository."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "A stunning 3D render of a stylized, abstract lynx head formed by flowing network data and geometric nodes. The image is split conceptually: the left side represents outgoing API requests using cool cyan light, while the right side handles incoming server responses with warm amber light. The background is a deep, dark digital space with floating code elements and subtle grid lines. Cinematic lighting, high contrast, ultra-detailed, 8k resolution, futuristic tech aesthetic.",
+      "style": "3d-render",
+      "placement": "hero",
+      "altText": "Abstract 3D render of a lynx head symbolizing dual API client and server functionality.",
+      "caption": "An abstract visualization of Lynx's dual client-server architecture."
+    },
+    {
+      "id": "image-2",
+      "prompt": "A vibrant digital illustration of an open-source JavaScript repository interface on a transparent holographic screen. The screen features clean code with async functions and JSON structure. Surrounding the screen are floating geometric nodes connected by glowing lines, representing a collaborative developer network. Background is a dark gradient from deep indigo to teal. Modern flat illustration style with depth, glowing accents, clean lines.",
+      "style": "illustration",
+      "placement": "section-1",
+      "altText": "Illustration of an open-source JavaScript repository with code and network graph.",
+      "caption": "The open-source JavaScript repository structure and developer network."
+    },
+    {
+      "id": "image-3",
+      "prompt": "A professional infographic diagram showing a rising bar chart representing the growth in API client tool usage from 2022 to 2024. The chart is styled with glowing neon lines and isometric 3D bars, floating in a dark digital environment. Key data points are highlighted with small circles. Behind the chart is a subtle mesh network symbolizing APIs. Volumetric lighting, clean data visualization style, focused on the trend line.",
+      "style": "infographic",
+      "placement": "section-2",
+      "altText": "Infographic showing the rising trend of API client tool usage from 2022 to 2024.",
+      "caption": "API development trends according to the Postman 2024 State of the API Report."
+    },
+    {
+      "id": "image-4",
+      "prompt": "A cinematic close-up shot of a computer screen covered in JavaScript code. The code shows a specific API GET request function. The screen emits a soft glow. From the code, a stream of luminous cyan data packets is physically departing the screen and traveling towards a blurred server rack in the distant background. The scene captures the essence of data transmission. Shallow depth of field, blue and purple tones, realistic keyboard reflections.",
+      "style": "cinematic",
+      "placement": "section-3",
+      "altText": "Cinematic view of JavaScript code making an API request with data packets.",
+      "caption": "Lynx acting as a concise API client for network requests."
+    },
+    {
+      "id": "image-5",
+      "prompt": "A clean, minimal 3D render of a small, cube-shaped server unit emitting a steady warm amber glow. The cube is centralized in a vast, empty digital space. A few stylized, minimalist wireframe laptops and mobile devices are connected to the cube via thin, graceful white lines representing network connections. The scene represents lightweight microservices and serverless architecture. Subtle motion blur, studio lighting, focused on the simplicity of the server.",
+      "style": "3d-render",
+      "placement": "section-4",
+      "altText": "Minimal 3D render of a lightweight server cube connected to devices in a network.",
+      "caption": "Lynx operating as a lightweight HTTP server for prototyping."
+    }
+  ]
+}

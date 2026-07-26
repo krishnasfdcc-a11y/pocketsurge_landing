@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "id": "image-1",
+      "prompt": "Starship V3 upper stage descending over the Indian Ocean at dusk, pristine heat shield tiles glowing faintly still from reentry heat, ship intact and vertical hovering just above the water triggering a massive splashdown ring, cinematic wide angle shot, golden hour lighting, dramatic clouds, photorealistic 8k detail, atmosphere of triumph and technical achievement.",
+      "style": "cinematic",
+      "placement": "hero",
+      "altText": "SpaceX Starship V3 intact splashdown in Indian Ocean during Flight 13.",
+      "caption": "SpaceX's Starship upper stage scores its first intact ocean landing. Credit: SpaceX."
+    },
+    {
+      "id": "image-2",
+      "prompt": "Macro close-up cinematic shot of Starship's heat shield ceramic tiles glowing bright orange and white during atmospheric reentry, plasma streaks flowing across the camera view, intense dynamic pressure distorting the air around the vehicle, high contrast lighting, deep shadows, sparks flying off tiles, photorealistic detail on hexagonal tile pattern.",
+      "style": "photorealistic",
+      "placement": "section-1",
+      "altText": "Starship ceramic heat shield tiles glowing during atmospheric reentry at 2600 degrees Fahrenheit.",
+      "caption": "Over 18,000 tiles protect Starship during its fiery return to Earth."
+    },
+    {
+      "id": "image-3",
+      "prompt": "Starship upper stage in the vacuum of space, payload bay doors open wide revealing Starlink V3 satellites stacked inside, Earth's blue horizon filling the background, Raptor vacuum engine firing a bright blue and transparent plume for a 14-second in-space restart, precise 3d-render, photorealistic lighting from the sun, highly detailed engine nozzle and satellite solar panels.",
+      "style": "3d-render",
+      "placement": "section-2",
+      "altText": "Starship deploying Starlink V3 satellites and restarting Raptor engine in space.",
+      "caption": "Flight 13 achieved the first in-space Raptor restart and deployed 20 Starlink V3 satellites. Credit: SpaceX."
+    },
+    {
+      "id": "image-4",
+      "prompt": "Dynamic cinematic shot of the massive Super Heavy V3 booster descending rapidly over the Gulf of Mexico, atmospheric haze and clouds swirling, multiple Raptor engines attempting to relight but failing, intense dust and water vapor clouds below, golden sunset lighting, booster tilting slightly, scale of immense 33 engine nozzle cluster visible, mood of dramatic tension and technical learning.",
+      "style": "cinematic",
+      "placement": "section-3",
+      "altText": "Super Heavy V3 booster descending over the Gulf of Mexico after a missed landing attempt.",
+      "caption": "The Super Heavy booster failed to relight its engines, providing critical data for future catches."
+    },
+    {
+      "id": "image-5",
+      "prompt": "Low angle futuristic cinematic shot of the massive SpaceX Mechazilla launch tower, its giant mechanical chopstick arms reaching out to catch a returning Starship upper stage, dramatic sunset sky behind the towering structure, dust and steam rising from the orbital launch mount, sense of immense scale and daring engineering ambition, highly detailed steel structure, photorealistic lighting.",
+      "style": "cinematic",
+      "placement": "section-4",
+      "altText": "SpaceX launch tower Mechazilla preparing to catch the Starship upper stage.",
+      "caption": "SpaceX will attempt to catch the Starship upper stage with the launch tower on the next flight."
+    }
+  ]
+}
